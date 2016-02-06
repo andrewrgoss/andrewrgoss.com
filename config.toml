@@ -41,7 +41,7 @@ disqusShortname = "enten"
 [params]
     # You can use markdown here.
     brand = "Andrew Goss"
-    topline = "Data Engineer and Business Intelligence Developer"
+    topline = "Data Engineer & Business Intelligence Developer"
     # footline = "code with <i class='fa fa-heart'></i>"
 
     # Sidebar position
