@@ -21,7 +21,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "enten"
+disqusShortname = "andrewrgoss"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
