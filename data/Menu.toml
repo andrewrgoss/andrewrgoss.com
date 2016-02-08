@@ -2,11 +2,11 @@
   Name = "About"
   URL = "/about"
 
-# [code]
-  # Name = "Code"
-  # URL = "/code"
+[learning]
+  Name = "Learning"
+  URL = "/learning"
 
-[posts]
+[post]
   Name = "Posts"
   Title = "Show list of posts"
   URL = "/post"
