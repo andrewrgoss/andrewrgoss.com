@@ -6,7 +6,6 @@ description: "Udemy course on fundamentals of C#. Completed 11/29/15."
 tags:
   - csharp
   - udemy
-draft: false
 ---
 <a href="https://www.udemy.com/programming-for-complete-beginners-in-csharp/" target="_blank">COURSE LINK</a>
 
