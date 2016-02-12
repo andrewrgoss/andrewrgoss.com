@@ -2,11 +2,9 @@
 author: "Andrew Goss"
 date: 2016-01-27
 title: Caleb Doxsey- An Introduction to Programming in Go
-description: "Udemy course on fundamentals of C#. Completed 11/29/15."
+description: "Course on fundamentals of Go (golang). Completed 01/27/16."
 tags:
-  - csharp
-  - udemy
-draft: false
+  - golang
 ---
 <a href="https://www.golang-book.com/books/intro" target="_blank">COURSE LINK</a>
 
