@@ -1,22 +1,22 @@
-[about]
+[1]
   Name = "About"
   URL = "/about"
-
-[learning]
-  Name = "Learning"
-  URL = "/learning"
-
-[post]
+  
+[2]
   Name = "Posts"
   Title = "Show list of posts"
   URL = "/post"
+
+[3]
+  Name = "Tags"
+  Title = "Show list of tags"
+  URL = "/tags"
+  
+[4]
+  Name = "Learning"
+  URL = "/learning"
 
 # [topics]
   # Name = "topics"
   # Title = "Show list of topics"
   # URL = "/topics"
-
-[tags]
-  Name = "Tags"
-  Title = "Show list of tags"
-  URL = "/tags"
