@@ -11,7 +11,16 @@ aliases:
 
 For my professional background, please visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> page. You can also find a downloadable copy of my resume here, via my Github account. On this page, I'd like to communicate my core competencies, what makes me different, and most importantly, the problem-solving value I bring to the table.
 
-I've spent most of my career as a consultant in the marketing & advertising industry. I've held both business and technical roles in this space while working across numerous client verticals.
+I've spent most of my career as a consultant in the marketing & advertising industry. I've held both business and technical roles in this space while working across numerous verticals. Here are some of the clients I've provided services for:
+
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg)
 
 Data engineer and business intelligence developer in the marketing & advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.
 
