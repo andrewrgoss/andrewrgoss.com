@@ -40,7 +40,7 @@ disqusShortname = "andrewrgoss"
 #
 [params]
     # You can use markdown here.
-    brand = "Andrew Goss"
+    brand = "![Andrew Goss](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/me.png) Andrew Goss"
     topline = "Data Engineer and Business Intelligence Developer"
     # footline = "code with <i class='fa fa-heart'></i>"
 
@@ -71,8 +71,8 @@ disqusShortname = "andrewrgoss"
 
 [blackfriday]
     angledQuotes = true
-    fractions = false
-    hrefTargetBlank = false
+    fractions = true
+    hrefTargetBlank = true
     latexDashes = true
     plainIdAnchors = true
     extensions = []
