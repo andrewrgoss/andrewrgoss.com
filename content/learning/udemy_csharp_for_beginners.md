@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 date: 2015-11-29
-title: Udemy- Programming for Complete Beginners in C#
+title: Udemy- Programming for Beginners in C#
 description: "Udemy course on fundamentals of C#. Completed 11/29/15."
 tags:
   - csharp
