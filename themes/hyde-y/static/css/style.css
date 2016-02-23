@@ -948,7 +948,7 @@ progress {
 .main_wrapper>.main_content .pagination a,
 .main_wrapper>.main_header .brand,
 .main_wrapper>.main_header .nav a {
-    padding: .5rem
+    padding: 0.5rem
 }
 .main_wrapper>.main_header .brand {
     padding-top: 0;
@@ -965,7 +965,7 @@ progress {
 .main_wrapper>.main_content .readlink a:hover,
 .main_wrapper>.main_content h2 a:hover,
 .main_wrapper>.main_header a:hover {
-    background-color: #2053ab;
+	background-color: #2053ab;
     color: #fff;
     text-decoration: none
 }

@@ -9,9 +9,9 @@ aliases:
   - "/cv.html"
 ---
 
-Thanks for visiting my website! On this page, I'd like to communicate my core competencies, what makes me different, and most importantly, the problem-solving value I bring to the table. For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume here, via my Github account.
+Thanks for visiting my website! For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume here, via my <a href="https://github.com/andrewrgoss" target="_blank">Github</a> account.
 
-I've spent most of my career as a consultant in the marketing & advertising industry. I've held both business and technical roles in this space while working across numerous verticals. Here are some of the clients I've provided services for:
+I've spent most of my career as a consultant in the marketing & advertising industry. I've held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I've worked with over the years:
 
 ![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png)
 ![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png)
@@ -22,7 +22,13 @@ I've spent most of my career as a consultant in the marketing & advertising indu
 ![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png)
 ![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg)
 
+My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a> and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a> (since acquired by Teradata).
+
+Writing - started this blog to keep my writing skills sharp.
+
 Data engineer and business intelligence developer in the marketing & advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.
+
+Another characteristic that sets me apart is my strong desire to never stop learning. I set up the 'Learning' section of this website to document and track my progress in learning new concepts and abilities.
 
 # Skills
 ##### Core Competencies
