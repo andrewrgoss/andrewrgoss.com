@@ -38,18 +38,20 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 ![Marketing Automation](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/gears.png "Marketing Automation")
 ![Project Management](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png "Project Management")
 
+<sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br><br>
+
 ##### Business
 <ul class="compact">
 <li>
- <label>Account Management&ensp;&ensp;&ensp;&ensp;</label>
+ <label>Account Management</label>&ensp;&ensp;&ensp;&ensp;
  <progress max="1.0" value="0.7"></progress>
 </li>
 <li>
- <label>Consulting&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</label>
+ <label>Consulting</label>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
  <progress max="1.0" value="0.8"></progress>
 </li>
 <li>
- <label>Marketing Automation&ensp;&ensp;&ensp;</label>
+ <label>Marketing Automation</label>&ensp;&ensp;&ensp;
  <progress max="1.0" value="0.65"></progress>
 </li>
 </ul>
@@ -57,11 +59,11 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 ##### Technical
 <ul class="compact">
 <li>
- <label>Relational Databases&ensp;&ensp;&ensp;&ensp;&ensp;</label>
+ <label>Relational Databases</label>&ensp;&ensp;&ensp;&ensp;&ensp;
  <progress max="1.0" value="0.9"></progress>
 </li>
 <li>
- <label>Software Development&ensp;&ensp;&ensp;</label>
+ <label>Software Development</label>&ensp;&ensp;&ensp;
  <progress max="1.0" value="0.8"></progress>
 </li>
 </ul>
