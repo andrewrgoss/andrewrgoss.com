@@ -17,6 +17,14 @@ BuiltWith
 
 http://builtwith.com
 
+Google Design: Resizer
+----------------------
+
+An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.
+
+http://design.google.com/resizer<br>
+https://design.google.com/articles/introducing-resizer
+
 Website Grader
 --------------
 

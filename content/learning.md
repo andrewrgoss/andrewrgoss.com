@@ -21,7 +21,7 @@ Blog post ideas:
 These are courses I've been working on.
 
 <div class="container hat">
-  <h2><a href="/learning/udemy_learn_google_golang">Udemy- Learn Google's Go (golang) Programming Language
+  <h2><a href="/learning/udemy_learn_google_golang">Udemy- Learn Google's Go (Golang) Programming Language
 </a></h2><font color="green">[IN PROGRESS]</font></div>
 
 <div class="container hat">
@@ -35,5 +35,5 @@ These are courses I've been working on.
   <h2><a href="/learning/udemy_csharp_for_beginners">Udemy- Programming for Beginners in C#
 </a>
 </h2>
-  <time datetime="2015-11-29">Nov 2015</time>
+  <time datetime="2015-11-28">Nov 2015</time>
 </div>
