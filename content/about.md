@@ -9,20 +9,29 @@ aliases:
   - "/cv.html"
 ---
 
-Thanks for visiting my website! For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume here, via my <a href="https://github.com/andrewrgoss" target="_blank">Github</a> account.
+<!--Blog post ideas:
+
+- Building my first virtual machine (Ubuntu)
+- Why I started programming in Go (server side language)
+- Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
+- Why it is important to have a web presence as a developer
+- Twitter API authentication for Go-->
+
+Thanks for visiting my website! For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume here, via my <a href="https://github.com/andrewrgoss" target="_blank">Github</a> account.-->
 
 I've spent most of my career as a consultant in the marketing & advertising industry. I've held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I've worked with over the years:
 
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png)
-![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg)
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png "Bank of America")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png "Correlsense")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png "Diversified Communications")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png "Education Management Corporation")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png "HP Inc.")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png "Hewlett Packard Enterprise")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png "Reed Elsevier")
+![WhoIsHostingThis.com](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg "Universal Technical Institute")
 
-My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a> and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a> (since acquired by Teradata).
+My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a>, 
+<a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a> (acquired by Oracle), and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a> (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it. 
 
 Writing - started this blog to keep my writing skills sharp.
 

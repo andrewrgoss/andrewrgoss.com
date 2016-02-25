@@ -10,12 +10,6 @@ Never. Stop. Learning.
 
 Udemy is my platform of choice.
 
-Blog post ideas:
-
-- Building my first virtual machine (Ubuntu)
-- Why I started programming in Go (server side language)
-- Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
-
 # Continuing Education
 
 These are courses I've been working on.
