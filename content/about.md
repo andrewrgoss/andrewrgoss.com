@@ -9,13 +9,37 @@ aliases:
   - "/cv.html"
 ---
 
+<!--<style>
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 150px;
+}	
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>-->
+
 <!--Blog post ideas:
 
 - Building my first virtual machine (Ubuntu)
 - Why I started programming in Go (server side language)
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
 - Why it is important to have a web presence as a developer
-- Twitter API authentication for Go-->
+- Twitter API authentication for Go
+- Top travel photos (my favorites)-->
 
 Thanks for visiting my website! For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume here, via my <a href="https://github.com/andrewrgoss" target="_blank">Github</a> account.-->
 
@@ -48,6 +72,27 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 ![Project Management](https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png "Project Management")
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br><br>
+
+<!--<div class="img">
+    <img src="https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/coding.png" alt="Application Development">
+  <div class="desc">Application Development</div>
+</div>
+<div class="img">
+    <img src="https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/analysis.png" alt="Business Intelligence">
+  <div class="desc">Business Intelligence</div>
+</div>
+<div class="img">
+    <img src="https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/database.png" alt="Database Architecture">
+  <div class="desc">Database Architecture</div>
+</div>
+<div class="img">
+    <img src="https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/gears.png" alt="Marketing Automation">
+  <div class="desc">Marketing Automation</div>
+</div>
+<div class="img">
+    <img src="https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png" alt="Project Management">
+  <div class="desc">Project Management</div>
+</div>-->
 
 ##### Business
 <ul class="compact">
