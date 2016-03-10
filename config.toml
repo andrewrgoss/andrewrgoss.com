@@ -4,18 +4,13 @@ title = "Andrewrgoss.com"
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
-
-# Google Analytics.
 # googleAnalytics = "Your Google Analytics tracking code"
-
-# Enable Disqus integration
-disqusShortname = "andrewrgoss"
+# disqusShortname = "andrewrgoss"
 
 [params]
     twitter = "Andrewrgoss"
     description = "Andrew Goss"
     email = "andrewrgoss@gmail.com"
-    # ga = "UA-51718684-1"
     hostname = "http://andrewrgoss.github.io"
 
 [permalinks]
