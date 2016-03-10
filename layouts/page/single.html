@@ -1,0 +1,23 @@
+{{ $baseurl := .Site.BaseURL }}
+{{ partial "header.html" . }}
+<main id="content">
+
+<article class="{{ .Type }}">
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ .Content }}
+</article>
+
+</main>
+
+{{ if eq .Title "About" }}
+
+<script type="application/ld+json">
+    { 
+        "@context": "http://schema.org",
+        {{ template "author-schema.html" . }}
+    }
+</script>
+    
+{{ end }}
+
+{{ partial "footer.html" . }}

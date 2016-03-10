@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+		<main id="content"><h1 class="post-title">Andrewrgoss.com</h1>
+{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+
+    {{ range $index, $page := .Paginator.Pages }}
+        {{ .Render "li" }}
+    {{ end }}
+
+    	{{ partial "pagination.html" $paginator }}
+		</main>
+        
+<script type="application/ld+json">
+{ 
+    "@context": "http://schema.org",
+    "@type": "Blog",
+    "url": "{{ .Site.BaseURL }}",
+    "about": "{{ .Site.Params.description }}",
+    "name": "{{ .Site.Title }}",
+    "image": "{{ .Site.BaseURL }}avatar.jpg",
+    "headline": "{{ .Title }}",
+    "educationalUse": "research",
+    "author": {
+        {{ template "author-schema.html" . }}
+    },
+    "dateModified": "{{ .Site.LastChange | dateFormat "Jan 2006" }}",
+    "potentialAction": {
+    	 "@type": "SearchAction",
+    	 "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+    	 "query-input": "required name=search_term_string"
+    }
+}
+</script>
+{{ partial "footer.html" . }}
