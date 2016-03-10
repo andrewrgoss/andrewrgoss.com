@@ -6,4 +6,4 @@ aliases = [
 ]
 +++
 
-Download my résumé [here](/SamuelDebruyn_CV_EN.pdf). You can also visit my profile on [LinkedIn](https://www.linkedin.com/in/andrewrgoss).
+Download my résumé [here](/AndrewGoss_Resume.pdf). You can also visit my profile on [LinkedIn](https://www.linkedin.com/in/andrewrgoss).
