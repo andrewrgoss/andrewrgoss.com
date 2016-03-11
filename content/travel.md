@@ -75,12 +75,11 @@ Grouped by geographical area, not cultural significance.
 <input type="checkbox" onclick="return false">&ensp;Ethiopia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Ghana&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Kenya&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Madagascar&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Mauritius&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Morocco&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Saint Helena&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;South Africa&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Tanzania&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Zimbabwe&ensp;&ensp;
 
 ##### Antartica
 <input type="checkbox" onclick="return false">&ensp;Antartica&ensp;&ensp;

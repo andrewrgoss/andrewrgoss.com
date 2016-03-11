@@ -9,7 +9,7 @@ pluralizelisttitles = false
 
 [params]
     twitter = "Andrewrgoss"
-    description = "Andrew Goss"
+    description = "Andrew Goss is a data engineer, technical consultant, business intelligence developer in Boston, MA."
     email = "andrewrgoss@gmail.com"
     hostname = "http://andrewrgoss.github.io"
 
@@ -21,3 +21,6 @@ pluralizelisttitles = false
     name = "Andrew Goss"
     twitter = "Andrewrgoss"
     email = "andrewrgoss@gmail.com"
+
+[taxonomies]
+    tag = "tags"

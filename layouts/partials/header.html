@@ -6,8 +6,8 @@
 {{ $titleBase := (print " · " .Site.Title) }}
 {{ if $isHomepage }}
     {{ $.Scratch.Set "title" .Site.Title }}
-{{ else if eq .Title "Portfolios" }}
-    {{ $.Scratch.Set "title" (print "Portfolio" $titleBase) }}
+{{ else if eq .Title "Andrewrgoss.com" }}
+    {{ $.Scratch.Set "title" (print "Andrewrgoss.com") }}
 {{else}}
     {{ $.Scratch.Set "title" (print .Title $titleBase) }}
 {{end}}
