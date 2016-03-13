@@ -5,7 +5,7 @@ paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
 # googleAnalytics = "Your Google Analytics tracking code"
-# disqusShortname = "andrewrgoss"
+disqusShortname = "andrewrgoss"
 
 [params]
     twitter = "Andrewrgoss"
