@@ -3,7 +3,7 @@ title = "About Me"
 description = "Andrew Goss Background"
 +++
 
-> TLDR; Data engineer, tech consultant, business intelligence developer in the marketing/advertising industry. Also a reader, gamer, sports fan, runner, and world traveler.
+> <b>TL;DR</b> -- Data engineer, tech consultant, business intelligence developer in the marketing/advertising industry. Also a reader, gamer, sports fan, runner, and world traveler.
 
 <!--Blog post ideas:
 
@@ -12,6 +12,7 @@ description = "Andrew Goss Background"
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
 - Why it is important to have a web presence as a developer
 - Twitter API authentication for Go
+- Coding practice sites
 - Top travel photos (my favorites)-->
 
 Thanks for visiting my website! For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).
@@ -25,6 +26,7 @@ I've spent most of my career as a consultant in the marketing & advertising indu
 ![HP Inc.](/img/HP_logo.png "HP Inc.")
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
+![Taco Bell](/img/TB_logo.png "Taco Bell")
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
 
 My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a>, 
@@ -70,15 +72,15 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 ##### Business
 <ul class="compact">
 <li>
- <label>Account Management</label>&ensp;&ensp;&ensp;&ensp;
+ <label>Account Management</label><br>
  <progress max="1.0" value="0.7"></progress>
 </li>
 <li>
- <label>Consulting</label>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ <label>Consulting</label><br>
  <progress max="1.0" value="0.8"></progress>
 </li>
 <li>
- <label>Marketing Automation</label>&ensp;&ensp;&ensp;
+ <label>Marketing Automation</label><br>
  <progress max="1.0" value="0.65"></progress>
 </li>
 </ul>
@@ -86,11 +88,11 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 ##### Technical
 <ul class="compact">
 <li>
- <label>Relational Databases</label>&ensp;&ensp;&ensp;&ensp;&ensp;
+ <label>Relational Databases</label><br>
  <progress max="1.0" value="0.9"></progress>
 </li>
 <li>
- <label>Software Development</label>&ensp;&ensp;&ensp;
+ <label>Software Development</label><br>
  <progress max="1.0" value="0.8"></progress>
 </li>
 </ul>

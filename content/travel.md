@@ -4,8 +4,6 @@ date: 2016-02-23
 linktitle: Travel
 title: My Travel
 menu: main
-tags:
-  - "travel"
 ---
 
 Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit. While it's highly unlikely that I'll accomplish all of these in my lifetime, I decided to start tracking where I've been and where I'd like to go in the future with the belief that simply writing these down increases the likelihood of achieving more of these travel goals. My blog posts about travel are tagged as such and you can view them all <a href="/tags/travel">here</a>.<!--While it's true that traveling carries some risks (just as staying put in the US does), travel to me is too vital, too important a part of civilized life to give up.-->
