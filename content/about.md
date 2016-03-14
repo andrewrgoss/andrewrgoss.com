@@ -3,10 +3,9 @@ title = "About Me"
 description = "Andrew Goss Background"
 +++
 
-> <b>TL;DR</b> -- Data engineer, tech consultant, business intelligence developer in the marketing/advertising industry. Also a reader, gamer, sports fan, runner, and world traveler.
+> <b>TL;DR</b> -- Data engineer, technical consultant, business intelligence developer in the marketing/advertising industry. Also a reader, gamer, sports fan, runner, and world traveler.
 
 <!--Blog post ideas:
-
 - Building my first virtual machine (Ubuntu)
 - Why I started programming in Go (server side language)
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
