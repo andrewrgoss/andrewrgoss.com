@@ -36,3 +36,21 @@ One of the major disadvantages of Hugo, or any static site generator for that ma
 The other dynamic part of an ordinary blog is **the comment section**. Again, the easiest way to *fix* this is relying on a 3rd party comments plugin like [Disqus](https://disqus.com/).
 
 Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive [slashdotting](https://en.wikipedia.org/wiki/Slashdot_effect) and the only required maintenance is literally making sure your web server stays online.
+
+
+<div id="comments" data-role="none">
+  <h2>
+    Comments
+  </h2>
+  <ol class="commentlist unstyled">
+      <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'andrewrgoss';
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+  </ol>
+</div><!-- #comments -->
