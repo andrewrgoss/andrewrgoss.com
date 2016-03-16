@@ -5,18 +5,19 @@ linktitle: Travel
 title: My Travel
 menu: main
 ---
+> You can check out my blog posts about travel <a href="/tags/travel">here</a>.
 
-Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit. While it's highly unlikely that I'll accomplish all of these in my lifetime, I decided to start tracking where I've been and where I'd like to go in the future with the belief that simply writing these down increases the likelihood of achieving more of these travel goals. My blog posts about travel are tagged as such and you can view them all <a href="/tags/travel">here</a>.<!--While it's true that traveling carries some risks (just as staying put in the US does), travel to me is too vital, too important a part of civilized life to give up.-->
+Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don't deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic. 
 
-##### World Stats
+I have a long, ambitious list of places that I want to visit. I'm not naive enough to expect that I'll accomplish all of these in my lifetime. But with that being said, I decided to start tracking where I've been and where I'd like to go in the future. I hold the belief that simply writing these down increases the likelihood of achieving more of these travel goals.
+
+The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.
+
+## World Stats
 
 Countries/Territories Visited: 17<br>
 Continents Visited: 4<br>
 Percent of World: ~8.71%
-
-I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.
-
-Grouped by geographical area, not cultural significance.
 
 ![My World Map](/img/matador_network_my_world_map.png "My World Map")
 
@@ -104,12 +105,11 @@ Grouped by geographical area, not cultural significance.
 
 ##### Oceania
 <input type="checkbox" onclick="return false">&ensp;Australia&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Bora Bora&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Fiji&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;New Zealand&ensp;&ensp;
 
-Another goal is to visit all 50 states.
-
-##### US Stats
+## US Stats
 
 States Visited: 35<br>
 Percent of US: 70%
