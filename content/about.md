@@ -2,7 +2,7 @@
 title = "About Me"
 description = "Andrew Goss Background"
 +++
-[What I Can Do For You](#what_i_can_do_for_you) | [Resume](#resume)
+[What I Can Do For You](#what_i_can_do_for_you) | [Skills Overview](/skills) | [Resume](/resume)
 
 > <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. Also a <a href="/travel">world traveler</a>.
 
@@ -18,7 +18,13 @@ description = "Andrew Goss Background"
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)-->
 
-Hey, I'm Andrew. I've spent most of my career as a consultant at marketing & advertising agencies. I've held both business and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
+Hey, I'm Andrew. I'm currently a manager in the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where we work to achieve three primary things:
+
+* Business Intelligence Development, where we focus on distilling business rules and workflows, and translating those into code. This involves a lot of data modeling work under close coordination with client teams.
+* Automation engineering, wherein we automate common work patterns and tedious data-oriented tasks. This frees up our S&A and Media staff to work efficiently and focus their energies on more challenging and interesting problems. We monitor all of these  automated tasks using a tool called Bosun.
+* API and Data integration: We work to combine many disparate sources into a holistic view to help our analysts and clients better understand the wealth of information available.
+
+I've spent most of my career as a consultant at marketing & advertising agencies. I've held both business and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
 
 ![Bank of America](/img/BoA_logo.png "Bank of America")
 ![Correlsense](/img/Correlsense_logo.png "Correlsense")
@@ -39,70 +45,8 @@ Another characteristic that sets me apart is my strong desire to never stop lear
 
 ## <a name="what_i_can_do_for_you"></a>What I Can Do For You
 
-Many clients I've worked with over the years are trying to address similar problems. There's a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization.
+Many clients I've worked with over the years are trying to address similar problems. There's a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person's interactions with the company to create a better end user experience.
 
 There's too much manual work going on. You'd think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. <a href="https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data" target="_blank">Link</a> to blog post on data warehousing.
 
-Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in. 
-
-## <a name="skills"></a>Skills
-##### Core Competencies
-![Application Development](/img/coding.png "Application Development")
-![Business Intelligence](/img/analysis.png "Business Intelligence")
-![Database Architecture](/img/database.png "Database Architecture") 
-![Marketing Automation](/img/gears.png "Marketing Automation")
-![Project Management](/img/projectmanagement.png "Project Management")
-
-<sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br><br>
-
-<!--<div class="img">
-    <img src="/img/coding.png" alt="Application Development">
-  <div class="desc">Application Development</div>
-</div>
-<div class="img">
-    <img src="/img/analysis.png" alt="Business Intelligence">
-  <div class="desc">Business Intelligence</div>
-</div>
-<div class="img">
-    <img src="/img/database.png" alt="Database Architecture">
-  <div class="desc">Database Architecture</div>
-</div>
-<div class="img">
-    <img src="/img/gears.png" alt="Marketing Automation">
-  <div class="desc">Marketing Automation</div>
-</div>
-<div class="img">
-    <img src="/img/projectmanagement.png" alt="Project Management">
-  <div class="desc">Project Management</div>
-</div>-->
-
-##### Business
-<ul class="compact">
-<li>
- <label>Account Management</label><br>
- <progress max="1.0" value="0.7"></progress>
-</li>
-<li>
- <label>Consulting</label><br>
- <progress max="1.0" value="0.8"></progress>
-</li>
-<li>
- <label>Marketing Automation</label><br>
- <progress max="1.0" value="0.65"></progress>
-</li>
-</ul>
-
-##### Technical
-<ul class="compact">
-<li>
- <label>Relational Databases</label><br>
- <progress max="1.0" value="0.9"></progress>
-</li>
-<li>
- <label>Software Development</label><br>
- <progress max="1.0" value="0.8"></progress>
-</li>
-</ul>
-<br><hr>
-## <a name="resume"></a>Resume
-For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).
+Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.

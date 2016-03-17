@@ -7,11 +7,11 @@ menu: main
 ---
 > You can check out my blog posts about travel <a href="/tags/travel">here</a>.
 
-Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don't deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic. 
-
-I have a long, ambitious list of places that I want to visit. I'm not naive enough to expect that I'll accomplish all of these in my lifetime. But with that being said, I decided to start tracking where I've been and where I'd like to go in the future. I hold the belief that simply writing these down increases the likelihood of achieving more of these travel goals.
+Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.
 
 The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.
+
+<!--Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don't deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.-->
 
 ## World Stats
 
