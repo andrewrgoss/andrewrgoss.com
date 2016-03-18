@@ -5,8 +5,9 @@ aliases = [
     "/abilities",
 ]
 +++
+<!--\<bragging\>I know this might seem like a bit of a self-aggrandizing section of my website.\</bragging\>-->
 
-##### Core Competencies
+### Core Competencies
 ![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
@@ -36,11 +37,15 @@ aliases = [
   <div class="desc">Project Management</div>
 </div>-->
 
-##### Business
+### Business
 <ul class="compact">
 <li>
  <label>Account Management</label><br>
  <progress max="1.0" value="0.7"></progress>
+</li>
+<li>
+ <label>Client-Facing Communication</label><br>
+ <progress max="1.0" value="0.85"></progress>
 </li>
 <li>
  <label>Consulting</label><br>
@@ -52,14 +57,34 @@ aliases = [
 </li>
 </ul>
 
-##### Technical
+### Technical
 <ul class="compact">
 <li>
  <label>Relational Databases</label><br>
  <progress max="1.0" value="0.9"></progress>
 </li>
 <li>
+ <label>SaaS</label><br>
+ <progress max="1.0" value="0.72"></progress>
+</li>
+<li>
  <label>Software Development</label><br>
+ <progress max="1.0" value="0.8"></progress>
+</li>
+</ul>
+
+### Programming Languages
+<ul class="compact">
+<li>
+ <label>C#</label><br>
+ <progress max="1.0" value="0.9"></progress>
+</li>
+<li>
+ <label>Go</label><br>
+ <progress max="1.0" value="0.72"></progress>
+</li>
+<li>
+ <label>SQL</label><br>
  <progress max="1.0" value="0.8"></progress>
 </li>
 </ul>

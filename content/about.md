@@ -11,6 +11,7 @@ description = "Andrew Goss Background"
 - Why I started programming in Go (server side language)
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
 - Why it is important to have a web presence as a developer
+- Why you should talk to recruiters, even when you're not looking for a new job. https://www.linkedin.com/pulse/5-reasons-you-should-talk-recruiters-kerry-stano-ciejek
 - Why starting a blog/personal website has been hard for me (no one cares what I have to say?). Important to have 'home base' for personal brand and put thoughts, learnings down as I navigate my career.
 	"I think the 'About' page of any website is the most important one, yet it's also the one that is the hardest to write. I've looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don't want to be self-aggrandizing."
 - Twitter API authentication for Go
@@ -18,13 +19,7 @@ description = "Andrew Goss Background"
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)-->
 
-Hey, I'm Andrew. I'm currently a manager on the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where we work continuously to deliver in these areas:
-
-* Business intelligence development, where we focus on distilling business rules and workflows and translating those into code. This involves a lot of data modeling work under close coordination with client teams.
-* Automation engineering, where we automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
-* API and data integrations, where we work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member.
-
-I've spent most of my career as a consultant at marketing & advertising agencies. I've held both business and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
+Hey, I'm Andrew. I've spent most of my career as a consultant at marketing & advertising agencies working closely with big data. I've held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
 
 ![Bank of America](/img/BoA_logo.png "Bank of America")
 ![Correlsense](/img/Correlsense_logo.png "Correlsense")
@@ -35,6 +30,19 @@ I've spent most of my career as a consultant at marketing & advertising agencies
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
 ![Taco Bell](/img/TB_logo.png "Taco Bell")
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
+
+I'm currently a manager on the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where I work continuously on the following things to help deliver our value proposition:
+
+* Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
+* Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
+* API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member. For instance, I've utilized real-time data, such as weather APIs, to enable customized marketing offers. 
+
+We also support various applications, data visualization tools, and host server environments.
+
+I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It's my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.
+
+Prior to this, I spent 3.5 years at <a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>, a marketing automation software company.
+
 
 Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a>, 
 <a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a> (acquired by Oracle), and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a> (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it. 
@@ -50,3 +58,5 @@ Many clients I've worked with over the years are trying to address similar probl
 There's too much manual work going on. You'd think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. <a href="https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data" target="_blank">Link</a> to blog post on data warehousing.
 
 Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.
+
+There is still so much I don't know and I'm always hungry to keep learning through online materials and conversations with smart people.

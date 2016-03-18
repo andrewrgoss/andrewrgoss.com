@@ -5,7 +5,7 @@ linktitle: Travel
 title: My Travel
 menu: main
 ---
-> You can check out my blog posts about travel <a href="/tags/travel">here</a>.
+<!-- > You can check out my blog posts about travel <a href="/tags/travel">here</a>.-->
 
 Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.
 
