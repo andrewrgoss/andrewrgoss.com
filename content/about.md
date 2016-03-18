@@ -18,11 +18,11 @@ description = "Andrew Goss Background"
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)-->
 
-Hey, I'm Andrew. I'm currently a manager in the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where we work to achieve three primary things:
+Hey, I'm Andrew. I'm currently a manager on the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where we work continuously to deliver in these areas:
 
-* Business Intelligence Development, where we focus on distilling business rules and workflows, and translating those into code. This involves a lot of data modeling work under close coordination with client teams.
-* Automation engineering, wherein we automate common work patterns and tedious data-oriented tasks. This frees up our S&A and Media staff to work efficiently and focus their energies on more challenging and interesting problems. We monitor all of these  automated tasks using a tool called Bosun.
-* API and Data integration: We work to combine many disparate sources into a holistic view to help our analysts and clients better understand the wealth of information available.
+* Business intelligence development, where we focus on distilling business rules and workflows and translating those into code. This involves a lot of data modeling work under close coordination with client teams.
+* Automation engineering, where we automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
+* API and data integrations, where we work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member.
 
 I've spent most of my career as a consultant at marketing & advertising agencies. I've held both business and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
 
