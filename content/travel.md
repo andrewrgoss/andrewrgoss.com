@@ -2,7 +2,7 @@
 author: "Andrew Goss"
 date: 2016-02-23
 linktitle: Travel
-title: My Travel
+title: Travel
 menu: main
 ---
 <!-- > You can check out my blog posts about travel <a href="/tags/travel">here</a>.-->

@@ -1,6 +1,6 @@
 baseurl = "http://andrewrgoss.github.io/"
 languageCode = "en-us"
-title = "Andrewrgoss.com"
+title = "Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss"
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
