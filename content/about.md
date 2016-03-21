@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-[My Background](#my_background) | [Skills Overview](/skills) | [Resume](/resume)
+[Problems I Solve](#problems_i_solve) | [Skills Overview](/skills) | [Resume](/resume)
 
 > <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry working to solve big data challenges. Also a <a href="/travel">world traveler</a>.
 
@@ -19,15 +19,35 @@ description = "Andrew Goss Background"
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)-->
 
-## Common Problems
+## My Background
 
-Many clients I've worked with over the years are trying to address similar issues. There's a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person's interactions with the company to create a better end user experience. But there's no centralized repository. And there's not a standardized way of working with the data, too many people following their own methods instead of a documented process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used, often with poor documentation (or none at all). It's too risky or impossible to start over, so things get built on top of each other. Eventually the system becomes an entangled mess of files and code.
+Hi, I'm Andrew Goss. I've spent my career living at the intersection of marketing and technology, two disciplines that are more intertwined than they've ever been. Early on as a marketer,  I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (<a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a>, and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a>) I was using. On my own time, I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any marketing technology article I could get my hands on.
 
-There's too much manual work going on. You'd think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. <a href="https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data" target="_blank">Link</a> to blog post on data warehousing.
+Unsurprisingly, I came across several brilliant articles written by <a href="http://chiefmartec.com/about" target="_blank">Scott Brinker</a> and really bought into his thought leadership on the convergence of these fields. I highly recommend the following reads:
+
+* <a href="http://chiefmartec.com/2010/04/rise-of-the-marketing-technologist" target="_blank">The Rise of the Marketing Technologist</a>
+* <a href="http://chiefmartec.com/2011/01/8-things-every-marketing-technologist-should-know" target="_blank">8 Things Every Marketing Technologist Should Know</a>
+* <a href="http://chiefmartec.com/2012/05/engineers-are-becoming-a-lot-like-marketers-too" target="_blank">Engineers Are Becoming a Lot Like Marketers Too</a>
+* <a href="http://chiefmartec.com/2013/12/marketing-technologist-neo-marketing-matrix" target="_blank">The Marketing Technologist: Neo of the Marketing Matrix</a>
+
+Brinker's overarching vision is that the cross-pollination of marketing and technology cultures will lead to innovative hybrid models of marketing technology management that are indigenous to a new era of marketing.
+
+Computational marketing can leverage the tsunami of big data with real-time experimentation, optimization, and personalization — intertwined with human marketing expertise and judgment — to transform this industry over the next 10 years.
+
+Thanks to the economies of cloud computing, these computational marketing capabilities will not be limited to a handful of the Fortune 500. Marketers of any size will be able to utilize them — if they know how.
+
+Portrait of a Chief Marketing Technologist:
+
+* A business/technology hybrid
+* Strong engineering, IT skill set
+* Early adopter & pragmatist
+* Lives & breathes marketing
+
+And the value of developing such innate technical savvy will only increase as scale and scope of marketing technology grows.
+
+One of the most fascinating fields of research today is at the intersection of computer science and marketing. 
 
 Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.
-
-## How I Can Help
 
 * Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
 * Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
@@ -38,8 +58,6 @@ I also support various applications, data visualization tools, and host server e
 Impeccable organization.
 
 I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It's my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.
-
-## <a name="my_background"></a>My Background
 
 I've spent most of my career as a consultant at marketing & advertising agencies working closely with big data. I've held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. Here are some of the clients I've worked with over the years:
 
@@ -57,11 +75,14 @@ I'm currently a manager on the Media Systems and Technology team at <a href="htt
 
 Prior to this, I spent 3.5 years at <a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>, a marketing automation software company.
 
-Early in my career, I gained experience building out marketing campaigns using automation platforms such as <a href="https://www.marketo.com" target="_blank">Marketo</a>, 
-<a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a> (acquired by Oracle), and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a> (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it. 
-
 Writing - started this blog to keep my writing skills sharp. Establishing a personal brand. Centralize all of my thoughts in one place. Measure progress.
 
 Another characteristic that sets me apart is my strong desire to never stop learning. I set up the 'Learning' section of this website to document and track my progress in learning new concepts and abilities. Always reading articles and staying on top of trends.
 
 There is still so much I don't know, but learning new things fuels me and excites me. It's one of my biggest reasons for working with technology. I'm always hungry to keep learning through online materials and conversations with smart people.
+
+## <a name="problems_i_solve"></a>Problems I Solve
+
+Many clients I've worked with over the years are trying to address similar issues. There's a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person's interactions with the company to create a better end user experience. But there's no centralized repository. And there's not a standardized way of working with the data, too many people following their own methods instead of a documented process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used, often with poor documentation (or none at all). It's too risky or impossible to start over, so things get built on top of each other. Eventually the system becomes an entangled mess of files and code.
+
+There's too much manual work going on. You'd think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. <a href="https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data" target="_blank">Link</a> to blog post on data warehousing.
