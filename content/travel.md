@@ -67,6 +67,7 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;Norway&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Poland&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Portugal&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Romania&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Sweden&ensp;&ensp;
 
 ##### Africa
@@ -79,6 +80,7 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;Saint Helena&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;South Africa&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Tanzania&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Uganda&ensp;&ensp;
 
 ##### Antartica
 <input type="checkbox" onclick="return false">&ensp;Antartica&ensp;&ensp;

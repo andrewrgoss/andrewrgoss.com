@@ -4,7 +4,7 @@ description = "Andrew Goss Background"
 +++
 [Problems I Solve](#problems_i_solve) | [Skills Overview](/skills) | [Resume](/resume)
 
-> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry working to solve big data challenges. Also a <a href="/travel">world traveler</a>.
+> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer living at the intersection of marketing and technology. Working to solve the challenges that come with the territory. Also a <a href="/travel">world traveler</a>.
 
 <!--Blog post ideas:
 - Building my first virtual machine (Ubuntu)
@@ -19,20 +19,21 @@ description = "Andrew Goss Background"
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)-->
 
+Hi, I'm Andrew Goss. I've spent my career immersed in marketing and technology, [two disciplines that are more intertwined](/tags/martech) than they've ever been. I'm a business/technology hybrid in this new world and I can help you navigate the challenges associated with this increasingly sophisticated ecosystem.
+
 ## My Background
 
-Hi, I'm Andrew Goss. I've spent my career living at the intersection of marketing and technology, two disciplines that are more intertwined than they've ever been. Early on as a marketer,  I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (<a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a>, and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a>) I was using. On my own time, I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any marketing technology article I could get my hands on.
+I've been on both sides of the fence in terms of marketing and IT departments, but that 'fence' is less of a divider than it used to be. It's already starting to happen in some cases, but I would contend that we're going to start seeing more and more organizations that structure themselves with an IT arm within marketing, or perhaps an IT branch that is dedicated to serving marketing/advertising capabilities. I currently fall in the latter, more on that in a bit.
 
-Unsurprisingly, I came across several brilliant articles written by <a href="http://chiefmartec.com/about" target="_blank">Scott Brinker</a> and really bought into his thought leadership on the convergence of these fields. I highly recommend the following reads:
+I got my start out of college as a marketer and early on, I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (<a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a>, and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a>) I was using. I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any marketing technology article I could get my hands on.
 
-* <a href="http://chiefmartec.com/2010/04/rise-of-the-marketing-technologist" target="_blank">The Rise of the Marketing Technologist</a>
-* <a href="http://chiefmartec.com/2011/01/8-things-every-marketing-technologist-should-know" target="_blank">8 Things Every Marketing Technologist Should Know</a>
-* <a href="http://chiefmartec.com/2012/05/engineers-are-becoming-a-lot-like-marketers-too" target="_blank">Engineers Are Becoming a Lot Like Marketers Too</a>
-* <a href="http://chiefmartec.com/2013/12/marketing-technologist-neo-marketing-matrix" target="_blank">The Marketing Technologist: Neo of the Marketing Matrix</a>
+Marketing software companies were blowing up all over the place too. I followed the local startup, HubSpot, as it rocketed from a tiny unknown in Cambridge to a publicly-traded global powerhouse. Other companies sprung up to fill niches in this fast-growing space and the marketplace soon exploded to look like this: (link to Scott Brinker diagram).
 
-Brinker's overarching vision is that the cross-pollination of marketing and technology cultures will lead to innovative hybrid models of marketing technology management that are indigenous to a new era of marketing.
+I decided to hitch my wagon to this phenomenon and went all-in. 
 
-Computational marketing can leverage the tsunami of big data with real-time experimentation, optimization, and personalization — intertwined with human marketing expertise and judgment — to transform this industry over the next 10 years.
+Help get data to where it needs to be, and make sense of it too.
+
+Computational marketing can leverage the tsunami of big data with real-time experimentation, optimization, and personalization — intertwined with human marketing expertise and judgment — to transform this industry over the next 10 years. homogeneous mixture
 
 Thanks to the economies of cloud computing, these computational marketing capabilities will not be limited to a handful of the Fortune 500. Marketers of any size will be able to utilize them — if they know how.
 
