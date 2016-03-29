@@ -26,8 +26,8 @@ My goal in taking this course is to strengthen my knowledge around the fundament
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.095"></progress>
+<progress max="1.0" value="0.12"></progress>
 
-9.5% - <font color="green">[IN PROGRESS]</font>.
+12% - <font color="green">[IN PROGRESS]</font>.
 
 <!--<a href="https://github.com/andrewrgoss/" class="btn" target="_blank">View my code on GitHub</a>-->

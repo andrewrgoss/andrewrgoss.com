@@ -5,7 +5,11 @@ aliases = [
     "/abilities",
 ]
 +++
-<!--\<bragging\>I know this might seem like a bit of a self-aggrandizing section of my website.\</bragging\>-->
+* Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
+* Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
+* API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member. For instance, I've utilized real-time data, such as weather APIs, to enable customized marketing offers. 
+
+I also support various applications, data visualization tools, and host server environments.
 
 ### Core Competencies
 ![Application Development](/img/coding.png "Application Development")

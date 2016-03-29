@@ -6,4 +6,4 @@ aliases = [
 ]
 +++
 
-For more on my professional background, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).
+For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
