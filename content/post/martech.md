@@ -1,12 +1,12 @@
 ---
 author: "Andrew Goss"
-title: "How Marketing and Technology Became a Portmanteau"
+title: "The Marketing and Technology Portmanteau"
 date: "2016-03-22"
 tags:
   - "martech"
 ---
 
-https://en.wikipedia.org/wiki/Portmanteau
+You may be wondering, what on earth is a <a href="https://en.wikipedia.org/wiki/Portmanteau" target="_blank">portmanteau</a>? Never heard that term before.
 
 Marketing technology is not just about making existing processes more efficient. It’s the interface by which marketing sees and touches the digital world. Your choice of marketing software — and how you use it — will shape the experiences you deliver to prospects and customers. (from http://chiefmartec.com/2014/01/strategy-marketing-technology-intertwined/)
 
