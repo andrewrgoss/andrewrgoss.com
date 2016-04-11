@@ -2,8 +2,6 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-[Problems I Solve](#problems_i_solve) | [Skills Overview](/skills) | [Resume](/resume)
-
 > <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology [(martech)](/tags/martech). Also a <a href="/travel">world traveler</a>.
 
 <!--Blog post ideas:
