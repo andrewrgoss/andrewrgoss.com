@@ -2,26 +2,13 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology [(martech)](/tags/martech). Also a <a href="/travel">world traveler</a>.
+> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology. Also a <a href="/travel">world traveler</a>.
 
-<!--Blog post ideas:
-- Building my first virtual machine (Ubuntu)
-- Why I started programming in Go (server side language)
-- Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
-- Why it is important to have a web presence as a developer
-- Why you should talk to recruiters, even when you're not looking for a new job. https://www.linkedin.com/pulse/5-reasons-you-should-talk-recruiters-kerry-stano-ciejek
-- Why starting a blog/personal website has been hard for me (no one cares what I have to say?). Important to have 'home base' for personal brand and put thoughts, learnings down as I navigate my career.
-	"I think the 'About' page of any website is the most important one, yet it's also the one that is the hardest to write. I've looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don't want to be self-aggrandizing." http://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht
-- Twitter API authentication for Go
-- Coding practice sites
-- The need to come up with a design before starting development (eliminating communication gaps with business team) 
-- Top travel photos (my favorites)-->
-
-Hi, I'm Andrew Goss. I've spent my career immersed in marketing and technology, [two disciplines that are more intertwined](/tags/martech) than they've ever been. I'm a business/technology hybrid in this new world and I can help you navigate the challenges associated with this increasingly sophisticated ecosystem. [Learn more](#problems_i_solve) about problems I help organizations with, or read on to hear about my career path to this point.
+Hi, I'm Andrew Goss. I've spent my career immersed in marketing and technology, two disciplines that are more intertwined than they've ever been. I'm a business/technology hybrid in this new world and I can help you navigate the challenges associated with this increasingly sophisticated ecosystem. [Learn more](#problems_i_solve) about problems I help organizations with, or read on to hear about my career path to this point.
 
 ## My Background
 
-I've spent most of my career as a consultant at marketing & advertising agencies, holding both client-facing and technical roles in this space while providing services across numerous industries such as finance, food & beverage, higher education, and technology. I've been on both sides of the fence in terms of marketing and IT departments, but that 'fence' isn't much of a divider like it used to be. It's already starting to happen in some cases, but I would contend that we're going to start seeing more and more organizations that structure themselves with an IT arm within marketing, or perhaps an IT branch that is dedicated to serving marketing/advertising capabilities. I currently fall in the former but I've been in the latter too, more on that in a bit.
+I've spent most of my career as a consultant at marketing & advertising agencies, holding both client-facing and technical roles in this space while providing services across numerous industries such as finance, higher education, and technology. I've been on both sides of the fence in terms of marketing and IT departments, but that 'fence' isn't much of a divider like it used to be. It's already starting to happen in some cases, but I would contend that we're going to start seeing more and more organizations that structure themselves with an IT arm within marketing, or perhaps an IT branch that is dedicated to serving marketing/advertising capabilities. I currently fall in the former but I've been in the latter too, more on that in a bit.
 
 I got my start out of college as a marketer and early on, I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (<a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html" target="_blank">Eloqua</a>, and <a href="http://marketing.teradata.com" target="_blank">Aprimo</a>) I was using. I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any technology article I could get my hands on.
 
@@ -36,7 +23,6 @@ Following my start as a marketer using automation software, I became a technical
 ![HP Inc.](/img/HP_logo.png "HP Inc.")
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
-![Taco Bell](/img/TB_logo.png "Taco Bell")
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
 
 I'm currently a manager on the Media Systems and Technology team at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>. I help tame the tsunami of big data with real-time optimization and personalization combined with human marketing expertise and judgment. I aim to be versatile in bridging the gap between business and technical disciplines and my unique combination of hard and soft skills is something I take pride in. I go beyond coding and setting up automated processes. I work to analyze big data through deep dives and proactively identify anomalies and other patterns. As the architect in building new system processes (or being able to translate legacy code into business logic), I have a different level of understanding. It's my job to call things out and facilitate communication rather than discovering an issue 8 months down the road. I am a very well-organized project manager.

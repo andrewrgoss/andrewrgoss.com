@@ -4,15 +4,25 @@ aliases = [
     "/cv",
 ]
 +++
+[Core Competencies](#core_competencies)
+
 For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
 
-* Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
-* Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
-* API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member. For instance, I've utilized real-time data, such as weather APIs, to enable customized marketing offers. 
+<hr>
+<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
+<a href="http://www.digitaslbi.com/us" target="_blank"><b>DigitasLBi</b></a><br>
+Manager, Media Systems & Technology<br>
+October 2015 - present<br>
+<hr>
+<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
+<a href="http://www.quickpivot.com" target="_blank"><b>QuickPivot</b></a><br>
+Technical Consultant<br>
+April 2014 - October 2015<br>
+<hr>
 
-I also support various applications, data visualization tools, and host server environments.
+Problems I Solve
 
-### Core Competencies
+### <a name="core_competencies"></a>Core Competencies
 ![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
@@ -42,7 +52,9 @@ I also support various applications, data visualization tools, and host server e
   <div class="desc">Project Management</div>
 </div>-->
 
-### Business
+### Skills Overview
+<hr>
+#### Business
 <ul class="compact">
 <li>
  <label>Account Management</label><br>
@@ -62,7 +74,9 @@ I also support various applications, data visualization tools, and host server e
 </li>
 </ul>
 
-### Technical
+<hr>
+
+#### Technical
 <ul class="compact">
 <li>
  <label>Relational Databases</label><br>
@@ -78,7 +92,9 @@ I also support various applications, data visualization tools, and host server e
 </li>
 </ul>
 
-### Programming Languages
+<hr>
+
+#### Programming Languages
 <ul class="compact">
 <li>
  <label>C#</label><br>
@@ -93,3 +109,9 @@ I also support various applications, data visualization tools, and host server e
  <progress max="1.0" value="0.8"></progress>
 </li>
 </ul>
+
+* Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
+* Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
+* API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member. For instance, I've utilized real-time data, such as weather APIs, to enable customized marketing offers. 
+
+I also support various applications, data visualization tools, and host server environments.
