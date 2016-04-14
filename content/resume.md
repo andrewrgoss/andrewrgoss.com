@@ -7,22 +7,15 @@ aliases = [
 [Core Competencies](#core_competencies)
 
 For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
-
 <hr>
-<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
-<a href="http://www.digitaslbi.com/us" target="_blank"><b>DigitasLBi</b></a><br>
-Manager, Media Systems & Technology<br>
-October 2015 - present<br>
+### Experience
 <hr>
-<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
-<a href="http://www.quickpivot.com" target="_blank"><b>QuickPivot</b></a><br>
-Technical Consultant<br>
-April 2014 - October 2015<br>
+<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
+<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
 <hr>
-
-Problems I Solve
 
 ### <a name="core_competencies"></a>Core Competencies
+<hr>
 ![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
@@ -30,28 +23,7 @@ Problems I Solve
 ![Project Management](/img/projectmanagement.png "Project Management")
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br><br>
-
-<!--<div class="img">
-    <img src="/img/coding.png" alt="Application Development">
-  <div class="desc">Application Development</div>
-</div>
-<div class="img">
-    <img src="/img/analysis.png" alt="Business Intelligence">
-  <div class="desc">Business Intelligence</div>
-</div>
-<div class="img">
-    <img src="/img/database.png" alt="Database Architecture">
-  <div class="desc">Database Architecture</div>
-</div>
-<div class="img">
-    <img src="/img/gears.png" alt="Marketing Automation">
-  <div class="desc">Marketing Automation</div>
-</div>
-<div class="img">
-    <img src="/img/projectmanagement.png" alt="Project Management">
-  <div class="desc">Project Management</div>
-</div>-->
-
+<hr>
 ### Skills Overview
 <hr>
 #### Business
