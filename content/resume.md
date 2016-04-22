@@ -4,16 +4,8 @@ aliases = [
     "/cv",
 ]
 +++
-[Core Competencies](#core_competencies)
-
 For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
 <hr>
-### Experience
-<hr>
-<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
-<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
-<hr>
-
 ### <a name="core_competencies"></a>Core Competencies
 <hr>
 ![Application Development](/img/coding.png "Application Development")
@@ -22,65 +14,19 @@ For more on my professional background including additional details around my wo
 ![Marketing Automation](/img/gears.png "Marketing Automation")
 ![Project Management](/img/projectmanagement.png "Project Management")
 
-<sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br><br>
+<sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
+
+Other specialties: data engineering, marketing analytics, application development, consulting, data security, marketing systems, digital marketing, data transformation, vendor management, marketing operations
+
 <hr>
 ### Skills Overview
 <hr>
-#### Business
-<ul class="compact">
-<li>
- <label>Account Management</label><br>
- <progress max="1.0" value="0.7"></progress>
-</li>
-<li>
- <label>Client-Facing Communication</label><br>
- <progress max="1.0" value="0.85"></progress>
-</li>
-<li>
- <label>Consulting</label><br>
- <progress max="1.0" value="0.8"></progress>
-</li>
-<li>
- <label>Marketing Automation</label><br>
- <progress max="1.0" value="0.65"></progress>
-</li>
-</ul>
 
+### Experience
 <hr>
-
-#### Technical
-<ul class="compact">
-<li>
- <label>Relational Databases</label><br>
- <progress max="1.0" value="0.9"></progress>
-</li>
-<li>
- <label>SaaS</label><br>
- <progress max="1.0" value="0.72"></progress>
-</li>
-<li>
- <label>Software Development</label><br>
- <progress max="1.0" value="0.8"></progress>
-</li>
-</ul>
-
+<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
+<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
 <hr>
-
-#### Programming Languages
-<ul class="compact">
-<li>
- <label>C#</label><br>
- <progress max="1.0" value="0.9"></progress>
-</li>
-<li>
- <label>Go</label><br>
- <progress max="1.0" value="0.72"></progress>
-</li>
-<li>
- <label>SQL</label><br>
- <progress max="1.0" value="0.8"></progress>
-</li>
-</ul>
 
 * Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
 * Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.

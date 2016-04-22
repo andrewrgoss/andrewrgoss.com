@@ -89,6 +89,7 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Israel&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Palestine&ensp;&ensp;
 
+<input type="checkbox" onclick="return false">&ensp;Cambodia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;China&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Hong Kong&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;India&ensp;&ensp;
