@@ -16,13 +16,41 @@ For more on my professional background including additional details around my wo
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-Other specialties: data engineering, marketing analytics, application development, consulting, data security, marketing systems, digital marketing, data transformation, vendor management, marketing operations
+Other specialties: data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, online advertising, data mining, data transformation, vendor management, email marketing, marketing operations
 
 <hr>
-### Skills Overview
+### Tools & Technologies
+At minimum I have at least a working knowledge of the following:
+
+* <b>BI tools:</b> Tableau, SSRS, QuickTarget
+* Big data: Apache Hive, HDFS, Hadoop
+* Case Management: JIRA, Trello
+* Change management: Github, Gitlab, git, subversion
+* ETL tools: SSIS, Talend Open Studio
+* IDEs: Atom, Visual Studio, Visual Studio Code
+* Operating systems: Windows, Linux
+* Programming languages: SQL, C#, Python, Go
+* RDBMS: Microsoft SQL Server, PostgreSQL
+* Text editors: Notepad++, UltraEdit
+* Web technologies: HTML, CSS, XML, JSON, RESTful web services
+<br><br>
+
+<table>
+<tr>
+    <td><b>BI TOOLS</b>&emsp;</td>
+    <td>Tableau, SSRS, QuickTarget&emsp;</td>
+	<td valign="middle"><a href="http://www.tableau.com" target="_blank"><img src="/img/tableau.png"></a>&nbsp;<a href="http://www.tableau.com" target="_blank"><img src="/img/mssqlserver.png"></a></td>
+</tr>
+<tr>
+    <td><b>BI TOOLS</b>&emsp;</td>
+    <td>Tableau, SSRS, QuickTarget&emsp;</td>
+	<td valign="middle"><a href="http://www.tableau.com" target="_blank"><img src="/img/tableau.png"></a>&nbsp;<a href="http://www.tableau.com" target="_blank"><img src="/img/mssqlserver.png"></a></td>
+</tr>
+</table>
+
 <hr>
 
-### Experience
+### Work Experience
 <hr>
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
