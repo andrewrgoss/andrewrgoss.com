@@ -16,7 +16,7 @@ For more on my professional background including additional details around my wo
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, online advertising, data mining, data transformation, vendor management, email marketing, marketing operations
+<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, marketing operations
 
 <hr>
 ### Tools & Technologies
@@ -24,7 +24,7 @@ For more on my professional background including additional details around my wo
 * BUSINESS INTELLIGENCE: <a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>
 * BIG DATA: <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>
 * CASE MANAGEMENT: <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
-* CHANGE MANAGEMENT: Github, Gitlab, git, subversion
+* CHANGE MANAGEMENT: Github, Gitlab, <a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; Subversion
 * ETL TOOLS: SSIS, Talend Open Studio
 * IDES: Atom, Visual Studio, Visual Studio Code
 * MARKETING AUTOMATION: Eloqua, Marketo
