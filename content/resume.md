@@ -22,12 +22,14 @@ Other specialties: data engineering, marketing analytics, application developmen
 ### Tools & Technologies
 At minimum I have at least a working knowledge of the following:
 
-* <b>BI tools:</b> Tableau, SSRS, QuickTarget
+* <b>BUSINESS INTELLIGENCE:</b> Tableau, SSRS<br>
+<a href="http://www.tableau.com" target="_blank"><img src="/img/tableau.png"></a>&nbsp;<a href="http://www.tableau.com" target="_blank"><img src="/img/mssqlserver.png"></a>
 * Big data: Apache Hive, HDFS, Hadoop
-* Case Management: JIRA, Trello
+* Case management: JIRA, Trello
 * Change management: Github, Gitlab, git, subversion
 * ETL tools: SSIS, Talend Open Studio
 * IDEs: Atom, Visual Studio, Visual Studio Code
+* Marketing automation: Eloqua, Marketo
 * Operating systems: Windows, Linux
 * Programming languages: SQL, C#, Python, Go
 * RDBMS: Microsoft SQL Server, PostgreSQL
