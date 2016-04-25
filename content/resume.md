@@ -16,25 +16,23 @@ For more on my professional background including additional details around my wo
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-Other specialties: data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, online advertising, data mining, data transformation, vendor management, email marketing, marketing operations
+<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, online advertising, data mining, data transformation, vendor management, email marketing, marketing operations
 
 <hr>
 ### Tools & Technologies
-At minimum I have at least a working knowledge of the following:
 
-* <b>BUSINESS INTELLIGENCE:</b> Tableau, SSRS<br>
-<a href="http://www.tableau.com" target="_blank"><img src="/img/tableau.png"></a>&nbsp;<a href="http://www.tableau.com" target="_blank"><img src="/img/mssqlserver.png"></a>
-* Big data: Apache Hive, HDFS, Hadoop
-* Case management: JIRA, Trello
-* Change management: Github, Gitlab, git, subversion
-* ETL tools: SSIS, Talend Open Studio
-* IDEs: Atom, Visual Studio, Visual Studio Code
-* Marketing automation: Eloqua, Marketo
-* Operating systems: Windows, Linux
-* Programming languages: SQL, C#, Python, Go
+* BUSINESS INTELLIGENCE: <a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>
+* BIG DATA: <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>
+* CASE MANAGEMENT: <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
+* CHANGE MANAGEMENT: Github, Gitlab, git, subversion
+* ETL TOOLS: SSIS, Talend Open Studio
+* IDES: Atom, Visual Studio, Visual Studio Code
+* MARKETING AUTOMATION: Eloqua, Marketo
+* OPERATING SYSTEMS: Windows, Linux
+* PROGRAMMING LANGUAGES: SQL, C#, Python, Go
 * RDBMS: Microsoft SQL Server, PostgreSQL
-* Text editors: Notepad++, UltraEdit
-* Web technologies: HTML, CSS, XML, JSON, RESTful web services
+* TEXT EDITORS: Notepad++, UltraEdit
+* WEB TECHNOLOGIES: HTML, CSS, XML, JSON, RESTful web services
 <br><br>
 
 <table>
