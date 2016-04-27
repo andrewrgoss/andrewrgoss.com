@@ -16,7 +16,7 @@ For more on my professional background including additional details around my wo
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, marketing operations
+<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, web development, marketing operations
 
 <hr>
 ### Tools & Technologies

@@ -2,16 +2,18 @@
 author: "Andrew Goss"
 title: "Why I Switched to Hugo... And Love It"
 description: "Why I made the switch from using Wordpress to Hugo."
-date: "2016-04-25"
+date: "2015-10-25"
 tags:
   - "hugo"
   - "web"
   - "wordpress"
 ---
-![Hugo](/img/post/hugo.png "Hugo")<br>
+<a href="https://gohugo.io" target="_blank">![Hugo](/img/post/hugo.png "Hugo")</a><br>
 For a long time I've believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. 
 
-Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it's true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work. When I discovered Hugo and started experimenting with it, I fell in love with the `hugo server` command. This is an inbuilt server that can serve up your website content so that you can instantly preview changes the second you save them. There is a way to render drafts too with the `--buildDrafts` parameter but I prefer just running the production version knowing that since my site is hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>, nothing will happen until I commit and push the changes. 
+## Live Previews
+
+Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it's true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview of the full site as I work. When I discovered Hugo and started experimenting with it, I fell in love with the `hugo server` command. This is an inbuilt server that can serve up your website content so that you can instantly preview changes as part of the full site the second you save them. There is a way to render drafts too with the `--buildDrafts` parameter but I prefer just running the production version knowing that since my site is hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>, nothing will happen until I commit and push the changes. 
 
 ```bash
 Change detected, rebuilding site
@@ -24,7 +26,9 @@ Change detected, rebuilding site
 in 96 ms
 ```
 
-I knew that some of my more technical posts needed to contain code snippets but Wordpress is too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post didn't work as it removed all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools.
+## Markdown Support
+
+^ That's some nicely-formatted bash script code in this post eh? The fact that <a href="https://gohugo.io" target="_blank">Hugo</a> supports <a href="https://daringfireball.net/projects/markdown" target="_blank">Markdown</a> as well as straight-up HTML is another feature I greatly enjoy. For anyone unfamiliar with Markdown, it is a plain text formatting syntax that gets converted to HTML. Using Markdown makes it easier and much quicker to write technical posts as it supports syntax highlighting for a ton of languages. I knew that some of my more technical posts needed to contain code snippets but Wordpress isn't too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post doesn't work as it removes all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools. Yes, there are plugins to support this - but I'm comfortable working in Markdown and it's nice to be able to write up content offline if needed. 
 
 With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting. 
 
