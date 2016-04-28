@@ -6,6 +6,9 @@ aliases = [
 +++
 For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
 <hr>
+### Summary
+<hr>
+<hr>
 ### <a name="core_competencies"></a>Core Competencies
 <hr>
 ![Application Development](/img/coding.png "Application Development")
@@ -22,9 +25,8 @@ For more on my professional background including additional details around my wo
 ### Tools & Technologies
 
 * BUSINESS INTELLIGENCE: <a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>
-* BIG DATA: <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>
-* CASE MANAGEMENT: <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
-* CHANGE MANAGEMENT: Github, Gitlab, <a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; Subversion
+* BIG DATA: <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>
+* CHANGE MANAGEMENT: <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;Gitlab, <a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; Subversion
 * ETL TOOLS: SSIS, Talend Open Studio
 * IDES: Atom, Visual Studio, Visual Studio Code
 * MARKETING AUTOMATION: Eloqua, Marketo
@@ -33,6 +35,7 @@ For more on my professional background including additional details around my wo
 * RDBMS: Microsoft SQL Server, PostgreSQL
 * TEXT EDITORS: Notepad++, UltraEdit
 * WEB TECHNOLOGIES: HTML, CSS, XML, JSON, RESTful web services
+* WORKFLOW MANAGEMENT: <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
 <br><br>
 
 <table>
