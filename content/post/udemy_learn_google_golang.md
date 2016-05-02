@@ -7,7 +7,7 @@ tags:
   - golang
   - udemy
 ---
-![Golang Gopher](/img/learning/golang_gopher.png "Golang Gopher")<br>
+![Golang Gopher](/img/post/golang_gopher.png "Golang Gopher")<br>
 <a href="https://www.udemy.com/learn-how-to-code/learn/" target="_blank">COURSE LINK</a><br>
 <a href="https://docs.google.com/document/d/18-0u5CvNIr83oOfMXPoM4klVFASXGl3Vvua1wBGMIoQ/" target="_blank">COURSE RESOURCES</a>
 <hr>

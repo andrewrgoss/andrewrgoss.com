@@ -6,7 +6,7 @@ description: "Book on fundamentals of Go (Golang). Completed 01/27/16."
 tags:
   - golang
 ---
-![Golang Gopher](/img/learning/golang_gopher.png "Golang Gopher")<br>
+![Golang Gopher](/img/post/golang_gopher.png "Golang Gopher")<br>
 <a href="https://www.golang-book.com/books/intro" target="_blank">BOOK LINK</a>
 <hr>
 <a href="https://golang.org" target="_blank">Go (Golang)</a> is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>. My department adopted this language as one of our tech stacks for the following reasons:

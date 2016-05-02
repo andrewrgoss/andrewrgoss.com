@@ -7,7 +7,7 @@ tags:
   - python
   - udemy
 ---
-![Python](/img/learning/python.png "Python")<br>
+![Python](/img/post/python.png "Python")<br>
 <a href="https://www.udemy.com/the-ultimate-python-programming-course" target="_blank">COURSE LINK</a><br>
 <hr>
 I've been wanting to add Python to my personal tech stack for some time now as it is a powerful (and popular) all-purpose programming language. It is also one of the most commonly-used languages for analytics, data mining, and data science. 

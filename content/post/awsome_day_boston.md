@@ -6,7 +6,7 @@ tags:
   - AWS
   - cloud computing
 ---
-![AWSome Day](/img/learning/awsome_day.png "AWSome Day")<br>
+![AWSome Day](/img/post/awsome_day.png "AWSome Day")<br>
 
 In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:
 

@@ -7,7 +7,7 @@ tags:
   - csharp
   - udemy
 ---
-![C#](/img/learning/csharp.png "C#")<br>
+![C#](/img/post/csharp.png "C#")<br>
 <a href="https://www.udemy.com/programming-for-complete-beginners-in-csharp/" target="_blank">COURSE LINK</a><br>
 <a href="https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf" target="_blank">COMPLETION CERTIFICATE</a>
 <hr>
