@@ -24,18 +24,20 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 <hr>
 ### Tools & Technologies
 
-* <b>BUSINESS INTELLIGENCE:</b> <a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>
-* <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>
+* <b>BUSINESS INTELLIGENCE:</b> <a href="http://www.tableau.com" target="_blank">Tableau*&nbsp;<img src="/img/tableau.png"></a>&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>
+* <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop\*&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive\*&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>
 * <b>CHANGE MANAGEMENT:</b> <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; <a href="https://subversion.apache.org" target="_blank">Subversion&nbsp;<img src="/img/subversion.png"></a>
-* <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio<img src="/img/talend.png"></a>
+* <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio\*<img src="/img/talend.png"></a>
 * <b>IDES:</b> <a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
 * <b>MARKETING AUTOMATION:</b> Eloqua, Marketo
 * <b>OPERATING SYSTEMS:</b> Windows, Linux
 * <b>PROGRAMMING LANGUAGES:</b> SQL, C#, Python, Go
 * <b>RDBMS:</b> Microsoft SQL Server, PostgreSQL
 * <b>TEXT EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;Notepad++, UltraEdit
-* <b>WEB TECHNOLOGIES:</b> HTML, CSS, XML, JSON, RESTful web services
+* <b>WEB TECHNOLOGIES:</b> HTML, CSS, XML, JSON, RESTful Web Services
 * <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
+
+<sub>\* denotes working knowledge</sub>
 
 <hr>
 ### Work Experience
