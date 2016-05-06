@@ -4,7 +4,7 @@ title = "Data Engineer | Technical Consultant | Business Intelligence Developer 
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
-# googleAnalytics = "Your Google Analytics tracking code"
+# googleAnalytics = "UA-58296426-1"
 disqusShortname = "andrewrgoss"
 
 [params]

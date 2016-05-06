@@ -34,7 +34,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 * <b>PROGRAMMING LANGUAGES:</b> SQL, C#, Python, Go
 * <b>RDBMS:</b> Microsoft SQL Server, PostgreSQL
 * <b>TEXT EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;Notepad++, UltraEdit
-* <b>WEB TECHNOLOGIES:</b> HTML, CSS, XML, JSON, RESTful Web Services
+* <b>WEB TECHNOLOGIES:</b> HTML, CSS, XML, JSON, <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful Web Services&nbsp;<img src="/img/rest-api.png"></a>
 * <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
 
 <sub>\* denotes working knowledge</sub>
@@ -43,10 +43,3 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 ### Work Experience
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
-<hr>
-
-* Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.
-* Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.
-* API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client's marketing ecosystem and its touchpoints with each intended audience member. For instance, I've utilized real-time data, such as weather APIs, to enable customized marketing offers. 
-
-I also support various applications, data visualization tools, and host server environments.
