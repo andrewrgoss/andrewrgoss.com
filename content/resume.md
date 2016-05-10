@@ -41,5 +41,14 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 
 <hr>
 ### Work Experience
-<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a>
-<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a>
+<a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
+**<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
+Manager, Media Systems & Techology
+
+<a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
+**<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>
+Technical Consultant | Account Manager | Marketing Specialist
+
+<a href="http://www.geminiunderwriters.com" target="_blank"><img src="/img/gtu_logo.png"></a><br>
+**<a href="http://www.geminiunderwriters.com" target="_blank">Gemini Transportation Underwriters</a>** | Jul 2011 - Apr 2012<br>
+Marketing Specialist
