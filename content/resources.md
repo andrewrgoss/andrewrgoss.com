@@ -5,7 +5,24 @@ title: "Resources"
 
 > There are tons of great resources all over the internet that I've come across and people have sent me lots of useful links. I've bookmarked hundreds of URLs and this page is my collection of the ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'll be building this up more over time.
 
-[Programming](#programming) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Programming](#programming) | [Website Tools](#website_tools)
+
+<hr>
+
+## <a name="business_intelligence"></a>Business Intelligence
+
+#### OLAP Cube
+
+An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.
+
+http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube
+
+#### Transactional vs. Analytical Processing
+
+OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.
+
+http://datawarehouse4u.info/OLTP-vs-OLAP.html
+
 
 <hr>
 

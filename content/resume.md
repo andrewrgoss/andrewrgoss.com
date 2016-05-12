@@ -4,7 +4,8 @@ aliases = [
     "/cv",
 ]
 +++
-For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
+> For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
+
 <hr>
 ### Summary
 Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, reporting, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. 
@@ -29,7 +30,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 * <b>CHANGE MANAGEMENT:</b> <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; <a href="https://subversion.apache.org" target="_blank">Subversion&nbsp;<img src="/img/subversion.png"></a>
 * <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio\*<img src="/img/talend.png"></a>
 * <b>IDES:</b> <a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
-* <b>MARKETING AUTOMATION:</b> Eloqua, Marketo
+* <b>MARKETING AUTOMATION:</b> <a href="https://www.oracle.com/marketingcloud/products/marketing-automation/index.html" target="_blank">Eloqua&nbsp;<img src="/img/eloqua.png"></a>&nbsp;&nbsp;<a href="https://www.marketo.com" target="_blank">Marketo&nbsp;<img src="/img/marketo.png"></a>
 * <b>OPERATING SYSTEMS:</b> Windows, Linux
 * <b>PROGRAMMING LANGUAGES:</b> SQL, C#, Python, Go
 * <b>RDBMS:</b> Microsoft SQL Server, PostgreSQL
