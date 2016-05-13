@@ -20,7 +20,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, web development, marketing operations
+<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, data visualization, marketing operations
 
 <hr>
 ### Tools & Technologies
@@ -30,8 +30,9 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 * <b>CHANGE MANAGEMENT:</b> <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; <a href="https://subversion.apache.org" target="_blank">Subversion&nbsp;<img src="/img/subversion.png"></a>
 * <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio\*<img src="/img/talend.png"></a>
 * <b>IDES:</b> <a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
+* <b>FRAMEWORKS:</b> .NET
 * <b>MARKETING AUTOMATION:</b> <a href="https://www.oracle.com/marketingcloud/products/marketing-automation/index.html" target="_blank">Eloqua&nbsp;<img src="/img/eloqua.png"></a>&nbsp;&nbsp;<a href="https://www.marketo.com" target="_blank">Marketo&nbsp;<img src="/img/marketo.png"></a>
-* <b>OPERATING SYSTEMS:</b> Windows, Linux
+* <b>OPERATING SYSTEMS:</b> <a href="http://www.microsoft.com/en-us/windows" target="_blank">Windows&nbsp;<img src="/img/windows.png"></a>&nbsp;&nbsp;<a href="https://www.linux.com" target="_blank">Linux&nbsp;<img src="/img/linux.png"></a>
 * <b>PROGRAMMING LANGUAGES:</b> SQL, C#, Python, Go
 * <b>RDBMS:</b> Microsoft SQL Server, PostgreSQL
 * <b>TEXT EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;Notepad++, UltraEdit
