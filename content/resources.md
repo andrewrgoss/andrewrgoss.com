@@ -13,16 +13,13 @@ title: "Resources"
 
 #### OLAP Cube
 
-An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.
-
-http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube
+An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.<br>
+<a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
 
 #### Transactional vs. Analytical Processing
 
-OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.
-
-http://datawarehouse4u.info/OLTP-vs-OLAP.html
-
+OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.<br>
+<a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
 
 <hr>
 
@@ -30,8 +27,8 @@ http://datawarehouse4u.info/OLTP-vs-OLAP.html
 
 #### OverAPI
 
-Boning up on a new language and want a quick list of common commands? <a href="http://overapi.com" target="_blank">OverAPI</a> has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.<br>
-http://overapi.com
+Learning a new language and want a quick list of common commands? <a href="http://overapi.com" target="_blank">OverAPI</a> has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.<br>
+<a href="http://overapi.com" target="_blank">overapi.com</a>
 
 <hr>
 
@@ -39,19 +36,23 @@ http://overapi.com
 
 #### BuiltWith
 
-http://builtwith.com
+<a href="http://builtwith.com" target="_blank">builtwith.com</a>
 
 #### Google Design: Resizer
 
 An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.<br>
-http://design.google.com/resizer<br>
-https://design.google.com/articles/introducing-resizer
+<a href="https://design.google.com/articles/introducing-resizer" target="_blank">design.google.com/articles/introducing-resizer</a><br>
+<a href="http://design.google.com/resizer" target="_blank">design.google.com/resizer</a>
+
+### Static Site Generators
+
+<a href="https://www.staticgen.com" target="_blank">staticgen.com</a>
 
 #### Website Grader
 
-https://website.grader.com
+<a href="https://website.grader.com" target="_blank">website.grader.com</a>
 
 #### Who Is Hosting This
 
-<a href="http://www.whoishostingthis.com" target="_blank">WhoIsHostingThis</a> allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.<br>
-http://www.whoishostingthis.com
+Allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.<br>
+<a href="http://www.whoishostingthis.com" target="_blank">whoishostingthis.com</a>

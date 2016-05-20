@@ -10,16 +10,7 @@ Hey! I'm Andrew Goss. Thanks for visiting my website. My career has been tied cl
 
 I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where we use a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global analytic teams and clients. I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen.
 
-Over the past 5+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology. I've held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. During this time I've worked with several high-profile agency clients including Bank of America, EDMC, Hewlett Packard Enterprise, and Reed Elsevier. Here is my full list:
-
-![Bank of America](/img/BoA_logo.png "Bank of America")
-![Correlsense](/img/Correlsense_logo.png "Correlsense")
-![Diversified Communications](/img/DBC_logo.png "Diversified Communications")
-![Education Management Corporation](/img/EDMC_logo.png "Education Management Corporation")
-![HP Inc.](/img/HP_logo.png "HP Inc.")
-![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
-![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
-![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
+Over the past 5+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology. I've held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. During this time I've worked with several high-profile agency clients including Bank of America, EDMC, Fitbit, Hewlett Packard Enterprise, and Reed Elsevier.
 
 My cross-functional roles supporting these organizations have touched data engineering, ETL scripting, database design, business intelligence, database marketing, marketing automation, operational reporting, and advanced analytics. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I also make sure to not lose sight of the fact that I ultimately serve other people and work to build strong relationships with my clients and team members. I am results-oriented, well-organized, and self-motivated.
 

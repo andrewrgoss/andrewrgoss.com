@@ -8,10 +8,22 @@ aliases = [
 
 <hr>
 ### Summary
-Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, reporting, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. 
+Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, reporting, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address a wide range of business initiatives across industries such as finance, higher education, insurance, and technology.
 
 <hr>
-### <a name="core_competencies"></a>Core Competencies
+### Clients Served
+![Bank of America](/img/BoA_logo.png "Bank of America")
+![Correlsense](/img/Correlsense_logo.png "Correlsense")
+![Diversified Communications](/img/DBC_logo.png "Diversified Communications")
+![Education Management Corporation](/img/EDMC_logo.png "Education Management Corporation")
+![Fitbit](/img/Fitbit_logo.png "Fitbit")
+![HP Inc.](/img/HP_logo.png "HP Inc.")
+![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
+![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
+![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
+
+<hr>
+### Core Competencies
 ![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
@@ -20,7 +32,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, data visualization, marketing operations
+<b>Other specialties:</b> data engineering, marketing analytics, application development, consulting, data warehousing, data science, marketing systems, data mining, data transformation, vendor management, data visualization, marketing operations
 
 <hr>
 ### Tools & Technologies
