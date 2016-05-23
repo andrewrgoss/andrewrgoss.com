@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology. Also a <a href="/travel">world traveler</a>.
+> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a <a href="/travel">world traveler</a>.
 
 Hey! I'm Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the personalization of data that comes with it. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are communicated across ads, email, and a brand's own site. Over the years in working in this space I've found a ton of great <a href="/resources">resources</a> and putting them down in a blog is a great way to share everything. If you're interested in learning more about me specifically you can read on (or check out my [resume](/resume)), otherwise you can skip down to [learn more](#problems_i_solve) about problems I help organizations with.
 
