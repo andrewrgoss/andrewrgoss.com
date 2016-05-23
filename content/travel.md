@@ -11,8 +11,6 @@ Outside of work, I'm passionate about traveling the world, having new experience
 
 The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.
 
-<!--Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don't deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.-->
-
 ## World Stats
 
 Countries/Territories Visited: 17<br>
@@ -95,8 +93,10 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;India&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Indonesia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Japan&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Laos&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Malaysia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Myanmar&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Singapore&ensp;&ensp;
@@ -105,11 +105,11 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;Thailand&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Turkey&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;United Arab Emirates&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Vietnam&ensp;&ensp;
 
 ##### Oceania
 <input type="checkbox" onclick="return false">&ensp;Australia&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Bora Bora&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Fiji&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Cook Islands&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;New Zealand&ensp;&ensp;
 
 ## US Stats
