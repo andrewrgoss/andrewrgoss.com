@@ -12,12 +12,11 @@ title: "Resources"
 ## <a name="business_intelligence"></a>Business Intelligence
 
 #### OLAP Cube
-An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.<br>
+A nice intro guide on what these are and why they are used.<br>
 <a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
 
 #### Transactional vs. Analytical Processing
-
-OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.<br>
+Good cross-comparison between OLTP and OLAP systems.<br>
 <a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
 
 <hr>
@@ -33,7 +32,7 @@ Open source R packages that allow access to data repositories and provide progra
 ## <a name="programming"></a>Programming
 
 #### OverAPI
-Learning a new language and want a quick list of common commands? <a href="http://overapi.com" target="_blank">OverAPI</a> has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.<br>
+A gigantic selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
 
 <hr>
@@ -45,16 +44,19 @@ Enter the URL of a website and quickly find a list of the technologies used to s
 <a href="http://builtwith.com" target="_blank">builtwith.com</a>
 
 #### Google Design: Resizer
-
 An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.<br>
-<a href="https://design.google.com/articles/introducing-resizer" target="_blank">design.google.com/articles/introducing-resizer</a><br>
 <a href="http://design.google.com/resizer" target="_blank">design.google.com/resizer</a>
 
+#### How To Use GitHub Pages To Make Web Sites While Learning Code
+Step-by-step tutorial to getting started with building a website hosted on Github Pages.
+<a href="http://readwrite.com/2013/11/27/github-pages-explained" target="_blank">readwrite.com/github-pages</a>
+
 ### Static Site Generators
-A leaderboard of the top open-source static site generators.<br>
+A leaderboard of the top open-source static site generators based on Github stars.<br>
 <a href="https://www.staticgen.com" target="_blank">staticgen.com</a>
 
 #### Website Grader
+Free online tool that grades any website against key metrics such as performance, mobile readiness, SEO, and security.<br>
 <a href="https://website.grader.com" target="_blank">website.grader.com</a>
 
 #### Who Is Hosting This

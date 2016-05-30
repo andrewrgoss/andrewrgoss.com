@@ -7,9 +7,9 @@ menu: main
 ---
 <!-- > You can check out my blog posts about travel <a href="/tags/travel">here</a>.-->
 
-Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.
+Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future with the belief that this will increase the likelihood of achieving more of these travel goals.
 
-The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.
+The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I only mark a country or state as having been visited when I actually set foot in it.
 
 ## World Stats
 
@@ -80,8 +80,8 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;Tanzania&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Uganda&ensp;&ensp;
 
-##### Antartica
-<input type="checkbox" onclick="return false">&ensp;Antartica&ensp;&ensp;
+##### Antarctica
+<input type="checkbox" onclick="return false">&ensp;Antarctica&ensp;&ensp;
 
 ##### Asia
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Israel&ensp;&ensp;
@@ -96,7 +96,6 @@ Percent of World: ~8.71%
 <input type="checkbox" onclick="return false">&ensp;Laos&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Malaysia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Myanmar&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Singapore&ensp;&ensp;

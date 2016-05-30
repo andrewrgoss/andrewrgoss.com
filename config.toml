@@ -1,10 +1,10 @@
 baseurl = "http://andrewrgoss.github.io/"
 languageCode = "en-us"
-title = "Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss"
+title = "Data Engineer, Consultant, BI Developer - Andrew Goss"
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
-# googleAnalytics = "UA-58296426-1"
+googleAnalytics = "UA-58296426-1"
 disqusShortname = "andrewrgoss"
 
 [params]

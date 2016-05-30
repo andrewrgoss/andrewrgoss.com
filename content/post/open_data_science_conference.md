@@ -20,3 +20,5 @@ In May 2016 I attended my first <a href="https://www.odsc.com" target="_blank">O
 * Spark
 * Scikit-learn
 * Natural Language Processing
+
+Once the workshop materials become available <a href="https://www.opendatascience.com" target="_blank">online</a> I'll be writing more here.
