@@ -50,7 +50,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 * <b>WEB TECHNOLOGIES:</b> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML<img src="/img/html5.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS&nbsp;<img src="/img/css3.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/XML" target="_blank">XML&nbsp;<img src="/img/xml.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON&nbsp;<img src="/img/json.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful Web Services&nbsp;<img src="/img/rest-api.png"></a>
 * <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
 
-<sub>\* denotes working knowledge</sub>
+<sub>\* working knowledge</sub>
 
 <hr>
 ### Work Experience
