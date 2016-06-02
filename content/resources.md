@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'll be building this up more over time.
 
-[Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [Programming](#programming) | [Web Technologies](#web_technologies) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -23,6 +23,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 ## <a name="data_science"></a>Data Science
 <hr>
 
+#### Crowdflower: Data for Everyone
+Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
+<a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
+
 #### Kaggle
 Offers a means of learning data science through both public and private competitions.<br>
 <a href="https://www.kaggle.com" target="_blank">kaggle.com</a>
@@ -39,13 +43,21 @@ Open source R packages that allow access to data repositories and provide progra
 A curated collection of tutorials and free learning resources for learning to code in new languages.<br> 
 <a href="https://bento.io" target="_blank">bento.io</a>
 
+#### CodeProject: Diving in OOP
+Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.<br>
+<a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/Diving-in-OOP</a>
+
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
 
 <hr>
-## <a name="web_technologies"></a>Web Technologies
+## <a name="web_services"></a>Web Services
 <hr>
+
+#### RESTful Architecture
+Technical documentation for RESTful web services with references and language-specific examples.<br>
+<a href="https://smartsheet-platform.github.io/api-docs" target="_blank">smartsheet-platform.github.io/api-docs</a>
 
 #### What is a REST API?
 Thorough overview on what REST APIs are and how to use them.<br>
