@@ -79,6 +79,10 @@ An interactive viewer to see and test how digital products respond to material d
 Step-by-step tutorial to getting started with building a website hosted on Github Pages.<br>
 <a href="http://readwrite.com/2013/11/27/github-pages-explained" target="_blank">readwrite.com/github-pages</a>
 
+#### Mobile Website Speed Testing Tool
+Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.<br>
+<a href="https://testmysite.thinkwithgoogle.com" target="_blank">testmysite.thinkwithgoogle.com</a>
+
 ### Static Site Generators
 A leaderboard of the top open-source static site generators based on Github stars.<br>
 <a href="https://www.staticgen.com" target="_blank">staticgen.com</a>
