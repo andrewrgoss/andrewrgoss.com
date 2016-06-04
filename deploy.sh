@@ -19,7 +19,7 @@ git push origin master
 hugo
 
 # Recursively copy public directory contents to the github.io repo.
-cp -R $GOPATH/hugo/sites/andrewrgoss.com/public/* $GOPATH/hugo/sites/andrewrgoss.github.io/
+cp -R C://Users/ARG/GoLangCode/hugo/sites/andrewrgoss.com/public/* C://Users/ARG/GoLangCode/hugo/sites/andrewrgoss.github.io/
 
 # Get rid of public directory.
 rm -R public/
