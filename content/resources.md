@@ -23,6 +23,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 ## <a name="data_science"></a>Data Science
 <hr>
 
+#### Beginner's Guide to Big Data Terminology
+Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.
+<a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
+
 #### Crowdflower: Data for Everyone
 Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>

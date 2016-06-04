@@ -1,6 +1,6 @@
 baseurl = "http://andrewrgoss.github.io/"
 languageCode = "en-us"
-title = "Data Engineer, Consultant, BI Developer - Andrew Goss"
+title = "Data Engineer, Consultant, BI Developer · Andrew Goss"
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
@@ -9,7 +9,7 @@ disqusShortname = "andrewrgoss"
 
 [params]
     twitter = "Andrewrgoss"
-    description = "Andrew Goss is a data engineer, technical consultant, business intelligence developer in Boston, MA."
+    description = "Andrew Goss is a data engineer, technical consultant, and business intelligence developer in Boston, MA."
     email = "andrewrgoss@gmail.com"
     hostname = "http://andrewrgoss.github.io"
 
