@@ -4,11 +4,11 @@ aliases = [
     "/cv",
 ]
 +++
-> For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile. <!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).-->
+> For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile.
 
 <hr>
 ### Summary
-Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, reporting, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address a wide range of business initiatives across industries such as finance, higher education, insurance, and technology.
+Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address a wide range of business initiatives across industries such as finance, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### Clients Served
