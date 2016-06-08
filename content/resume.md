@@ -20,6 +20,7 @@ Marketing/technology hybrid with 5+ years of experience developing innovative so
 ![HP Inc.](/img/HP_logo.png "HP Inc.")
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
+![Sprint](/img/Sprint_logo.png "Sprint")
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
 
 <hr>
