@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'll be building this up more over time.
 
-[Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -38,6 +38,14 @@ Offers a means of learning data science through both public and private competit
 #### rOpenSci
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
+
+<hr>
+## <a name="martech"></a>MarTech
+<hr>
+
+#### Real Story Group
+This firm specializes in evaluating vendors in the MarTech space to help you find the right provider among a glut of offerings.<br> 
+<a href="https://www.realstorygroup.com/Vendors-Evaluated" target="_blank">realstorygroup.com</a>
 
 <hr>
 ## <a name="programming"></a>Programming
