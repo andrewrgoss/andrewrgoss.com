@@ -68,7 +68,7 @@ A huge selection of cheat sheets for almost any current programming language and
 <hr>
 
 #### OpenWeatherMap
-API for accessing current weather data for any location including over 200,000 cities.
+API for accessing current weather data for any location including over 200,000 cities.<br>
 <a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>
 
 #### RESTful Architecture
