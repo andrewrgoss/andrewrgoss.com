@@ -5,7 +5,7 @@ linktitle: Travel
 title: Travel
 menu: main
 ---
-> Check out some of my favorite <a href="/travel_resources"> ravel resources</a> here.
+> Check out some of my favorite <a href="/travel_resources">travel resources</a> here.
 
 Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit and I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future. Figured it can't hurt and might increase the likelihood of achieving more of these travel goals.
 
