@@ -7,7 +7,7 @@ menu: main
 ---
 > Check out some of my favorite <a href="/travel_resources">travel resources</a> here.
 
-Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit and I'm not naive enough to expect that I'll accomplish all of these in my lifetime. That being said, I decided to start tracking where I've been and where I'd like to go in the future.
+Outside of work, I'm passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to try and visit in my lifetime, so I decided to start tracking where I've been and where I'd like to go in the future.
 
 The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I only mark a country or state as having been visited when I actually set foot in it.
 
