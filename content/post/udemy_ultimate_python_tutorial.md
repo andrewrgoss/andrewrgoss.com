@@ -19,4 +19,4 @@ My goal in taking this course is to build my knowledge around the fundamentals o
 
 87% - <font color="green">[IN PROGRESS]</font>.
 
-<!--<a href="https://github.com/andrewrgoss/udemy-beginning-csharp" class="btn" target="_blank">View my code on GitHub</a>-->
+<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>
