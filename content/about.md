@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a <a href="/travel">world traveler</a>.
+> <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology.
 
 Hey! I'm Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (martech and adtech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across social media channels, publisher sites, personalized emails, video content, instant messaging... the list goes on and on in the digital sphere. With petabytes of data being collected at every turn through digital and offline interactions, I work to wrangle this data and derive value from it.
 
@@ -14,6 +14,4 @@ Over the past 5+ years I have gained experience as both a developer and a market
 
 I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.
 
-With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I've come across many great <a href="/resources">resources</a> and ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly. And of course, I never underestimate the power of asking questions and seeking mentorship.
-
-Outside of work, I'm big on travel and broadening my life perspective through new experiences. You can read more about this <a href="/travel">here</a>.
+With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I've come across many great <a href="/resources">resources</a> and ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
