@@ -1,8 +1,7 @@
 ---
 author: "Andrew Goss"
 date: 2016-03-04
-title: Udemy- Learn Google's Go (Golang) Programming Language
-description: "Udemy course on fundamentals of Golang. In progress."
+title: Udemy- Learn Google's Go Programming Language
 tags:
   - golang
   - udemy
