@@ -50,7 +50,7 @@ In your Github repository, select 'Clone with SSH' and copy the URL path to the 
 
 ![TortoiseGit Clone](/img/post/tortoisegit_clone.png "TortoiseGit Clone")
 
-Hit 'OK' and that's it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash. I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.
+Hit 'OK' and that's it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash (or Cygwin). I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.
 
 ![TortoiseGit Repo](/img/post/tortoisegit_repo.png "TortoiseGit Repo")
 

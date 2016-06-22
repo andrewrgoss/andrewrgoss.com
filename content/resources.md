@@ -43,6 +43,10 @@ This website looks like its design hasn't changed since the 90s, but it is home 
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
 
+#### TechPizza
+This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.<br>
+<a href="http://techpizza.org" target="_blank">techpizza.org</a>
+
 <hr>
 ## <a name="martech"></a>MarTech
 <hr>
