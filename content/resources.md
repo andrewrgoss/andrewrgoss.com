@@ -12,7 +12,7 @@ title: "Resources"
 <hr>
 
 #### Google's My Activity Page
-Just how much does Google know about you? This portal reveals everything the company knows about you - every search you’ve made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not to be retained.<br>
+Just how much does Google know about you? This portal reveals everything the company knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
 <a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
 
 #### OLAP Cubes
