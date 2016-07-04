@@ -11,6 +11,10 @@ title: "Resources"
 ## <a name="business_intelligence"></a>Business Intelligence
 <hr>
 
+#### Google's My Activity Page
+Just how much does Google know about you? This portal reveals everything the company knows about you - every search you’ve made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not to be retained.<br>
+<a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
+
 #### OLAP Cubes
 A nice intro guide on what these are and why they are used.<br>
 <a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>

@@ -31,7 +31,7 @@ The bash script code above is nicely formatted right? The fact that Hugo support
 
 ## Free Hosting With Github Pages
 
-With Wordpress I used <a href="https://www.bluehost.com" target="_blank">BlueHost</a> as my web host, as many do with their Wordpress blogs. It is easy to use and cheap (I was paying $2.99 a month). Moreover, it has lots of features designed specifically for Wordpress usage. The setup was easy enough using a one-click install from the hosting dashboard and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. And while my monthly cost was small, I much prefer free. 
+With Wordpress I used <a href="https://www.bluehost.com" target="_blank">BlueHost</a> as my web host, as many do with their Wordpress blogs. It is easy to use and cheap (I was paying $2.99 a month). Moreover, it has lots of features designed specifically for Wordpress usage. The setup was easy enough using a one-click install from the hosting dashboard and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. And while my monthly cost was small, I much prefer free. (who doesn't?) 
 
 ## Custom Themes
 
