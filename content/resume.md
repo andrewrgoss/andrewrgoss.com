@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### Summary
-Marketing/technology hybrid with 5+ years of experience developing innovative solutions related to marketing data integration, advanced analytics, and data warehousing. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, higher education, retail, technology, and telecommunications.
+Data engineer/analyst with 5+ years of experience developing innovative solutions related to data integration, data warehousing, and advanced analytics. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### Clients Served
