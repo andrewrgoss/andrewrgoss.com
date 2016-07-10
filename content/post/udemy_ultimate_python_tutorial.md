@@ -15,8 +15,8 @@ I've been wanting to add Python to my personal tech stack for some time now as i
 My goal in taking this course is to build my knowledge around the fundamentals of the language.
 <hr>
 ##### Course Progress
-<progress max="1.0" value="0.87"></progress>
+<progress max="1.0" value="0.92"></progress>
 
-87% - <font color="green">[IN PROGRESS]</font>.
+92% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>
