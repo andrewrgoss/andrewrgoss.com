@@ -2,14 +2,13 @@
 author: "Andrew Goss"
 date: 2015-11-28
 title: Udemy- Programming for Beginners in C#
-description: "Udemy course on fundamentals of C#. Completed 11/28/15."
 tags:
   - csharp
   - udemy
 ---
 ![C#](/img/post/csharp.png "C#")<br>
 <a href="https://www.udemy.com/programming-for-complete-beginners-in-csharp/" target="_blank">COURSE LINK</a><br>
-<a href="/certs/Udemy%20-%20CSharp%20for%20Beginners%20Completion%20Certificate%20(UC-TT5IFIPW).pdf" target="_blank">COMPLETION CERTIFICATE</a>
+<a href="https://www.udemy.com/certificate/UC-TT5IFIPW" target="_blank">COMPLETION CERTIFICATE</a>
 <hr>
 I've worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
 

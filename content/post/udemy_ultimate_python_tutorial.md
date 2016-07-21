@@ -2,14 +2,13 @@
 author: "Andrew Goss"
 date: 2016-07-18
 title: Udemy- Ultimate Python Programming Tutorial
-description: "Udemy course on fundamentals of Python. Completed dd/mm/yyyy."
 tags:
   - python
   - udemy
 ---
 ![Python](/img/post/python.png "Python")<br>
 <a href="https://www.udemy.com/the-ultimate-python-programming-course" target="_blank">COURSE LINK</a><br>
-<a href="/certs/Udemy%20-%20Ultimate%20Python%20Tutorial%20Completion%20Certificate%20(UC-H1VZZXZV).pdf" target="_blank">COMPLETION CERTIFICATE</a>
+<a href="https://www.udemy.com/certificate/UC-H1VZZXZV" target="_blank">COMPLETION CERTIFICATE</a>
 <hr>
 I've started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easy languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science. 
 <hr>
