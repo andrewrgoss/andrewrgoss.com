@@ -43,6 +43,10 @@ Offers a means of learning data science through both public and private competit
 This website looks like its design hasn't changed since the 90s, but it is home to lots of great content on business analytics, big data, data mining, and data science.<br> 
 <a href="http://www.kdnuggets.com" target="_blank">kdnuggets.com</a>
 
+#### R or Python for Data Science?
+This is a nice blog post on opendatascience.com that digs into the differences/advantages of using either R or Python for performing data science tasks.<br>
+<a href="https://www.opendatascience.com/blog/r-or-python-for-data-science" target="_blank">opendatascience.com/blog/r-or-python-for-data-science</a>
+
 #### rOpenSci
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
