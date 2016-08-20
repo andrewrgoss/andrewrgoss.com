@@ -21,6 +21,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
 ![Sprint](/img/Sprint_logo.png "Sprint")
+![Taco Bell](/img/TB_logo.png "Taco Bell")
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
 
 <hr>
