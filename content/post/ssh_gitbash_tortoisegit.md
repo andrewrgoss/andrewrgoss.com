@@ -40,9 +40,9 @@ TortoiseGit uses a PuTTY private key file format, so you will need to generate a
 
 Browse to the private key file you generated via `ssh-keygen` (see step 4) and import this into PuTTygen. Click the 'Save private key' button after you have imported your private SSH key to save it in PuTTY private key file format (.ppk). You will want to save it to the same location as your other keys (the .ssh folder of your home directory, C:\Users\\*username*\\.ssh).
 
-![PuTTY Key Generator](/img/post/putty_gen.png "PuTTY Key Generator")
+![PuTTY Key Generator](/img/post/putty_gen.PNG "PuTTY Key Generator")
 
-![SSH Keys](/img/post/ssh_keys.png "SSH Keys")
+![SSH Keys](/img/post/ssh_keys.PNG "SSH Keys")
 
 ## Step 5
 
