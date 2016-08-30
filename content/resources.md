@@ -3,7 +3,7 @@ author: "Andrew Goss"
 title: "Resources"
 ---
 
-> There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'll be building this up more over time.
+> There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
 
 [Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
