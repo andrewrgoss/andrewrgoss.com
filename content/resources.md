@@ -95,6 +95,10 @@ A huge selection of cheat sheets for almost any current programming language and
 API for accessing current weather data for any location including over 200,000 cities.<br>
 <a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>
 
+#### Postman
+This free Chrome extension allows developers to explore, test, and build APIs using a powerful collaborative testing and development suite.<br>
+<a href="https://www.getpostman.com" target="_blank">getpostman.com</a>
+
 #### RESTful Architecture
 Technical documentation for RESTful web services with references and language-specific examples.<br>
 <a href="https://smartsheet-platform.github.io/api-docs" target="_blank">smartsheet-platform.github.io/api-docs</a>
