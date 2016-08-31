@@ -24,10 +24,35 @@ Download the following PuTTY files from this site: http://www.chiark.greenend.or
 
 ## Step 2
 
-Using the downloaded PuTTYgen executable, <a href="https://winscp.net/eng/docs/ui_puttygen#generating_a_new_key" target="_blank">generate a new key</a>. Click the 'Save public key' and 'Save private key' buttons to save these to the same location as your other keys (the .ssh folder of your home directory, C:\Users\\*username*\\.ssh). When saving the private key you will be optionally asked to enter a password for another layer of security if desired - it is also possible to hit 'OK' and not use a password in combination with the SSH private key. Keep PuTTYgen open for now as you will need to copy the public key value into the authorized_keys files on the appropriate private server.
+Using the downloaded PuTTYgen executable, <a href="https://winscp.net/eng/docs/ui_puttygen#generating_a_new_key" target="_blank">generate a new key</a>. Click the 'Save public key' and 'Save private key' buttons to save these to the same location as your other keys (if you have any). On Windows, the .ssh folder of your home directory will be something like this: `C:\Users\\*username*\\.ssh`. You can create this directory if it doesn't exist. When saving the private key you will be optionally asked to enter a password for another layer of security if desired - it is also possible to hit 'OK' and not use a password in combination with the SSH private key. Keep PuTTYgen open for now as you will need to copy the public key value into the authorized_keys files on the appropriate private server.
 
 ![PuTTY Key Generator](/img/post/putty_gen.PNG "PuTTY Key Generator")
 
+Make sure you save the public key with a .txt extension and the private key with a .ppk one:
+
+<img src="http://www.servermom.org/wp-content/uploads/2014/06/public-key-save.jpg">
+<img src="http://www.servermom.org/wp-content/uploads/2014/06/private-key-saved.jpg">
+
 ## Step 3
 
-Open up Cygwin and log into the machine that you wish to configure with SSH keys. You'll need the standard username/password credentials for the instance for now.
+Open up Cygwin and log into the machine that you wish to configure with SSH keys. You'll need the standard username/password credentials for the instance for now. In your home directory, issue the following commands:
+
+```bash
+$ mkdir -p .ssh
+$ chmod 700 .ssh
+$ nano .ssh/authorized_keys
+```
+
+Copy the generated public key in PuttyGen and paste it in the Nano editor:
+
+<img src="http://www.servermom.org/wp-content/uploads/2014/06/copy-pub-key.jpg">
+
+Save and exit Nano by hitting `ctrl+O` then `ctrl+X` on your keyboard. Then change its permission to 644 with this command:
+
+```bash
+$ chmod 644 .ssh/authorized_keys
+```
+
+## Step 4
+
+Ensure that PuTTY's Pageant (downloaded in Step 1) is running (you should see a little icon for it in the tray at the bottom of your screen).
