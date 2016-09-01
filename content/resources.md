@@ -35,6 +35,10 @@ Walkthrough on some of the common lingo of data science, such as DaaS and Neural
 Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
 
+#### Handy Python Libraries for Formatting and Cleaning Data
+Data scientists spend a lot of time cleaning messy data. This is a list of Python libraries that help make data more orderly and legible - from styling DataFrames to anonymizing datasets.<br>
+<a href="https://blog.modeanalytics.com/python-data-cleaning-libraries" target="_blank">blog.modeanalytics.com/python-data-cleaning-libraries</a>
+
 #### Kaggle
 Offers a means of learning data science through both public and private competitions.<br>
 <a href="https://www.kaggle.com" target="_blank">kaggle.com</a>
