@@ -83,9 +83,17 @@ This firm specializes in evaluating vendors in the MarTech space to help you fin
 A curated collection of tutorials and free learning resources for learning to code in new languages.<br> 
 <a href="https://bento.io" target="_blank">bento.io</a>
 
+#### CodeEnv
+Free site lets you share your code with others in CodeEnv online environments. Good for teaching, prototyping, and sharing fiddles.<br> 
+<a href="https://codeenv.com" target="_blank">codeenv.com</a>
+
 #### CodeProject: Diving in OOP
 Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.<br>
 <a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/Diving-in-OOP</a>
+
+#### Fiddles.io
+Offers sandbox environments for developers to play around with and modify live example code for all kinds of different languages. It's also easy to share or demonstrate solutions to problems.<br> 
+<a href="https://fiddles.io" target="_blank">fiddles.io</a>
 
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
