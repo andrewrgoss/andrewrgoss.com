@@ -92,7 +92,7 @@ Comprehensive article that covers almost every OOP (object-oriented programming)
 <a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/Diving-in-OOP</a>
 
 #### Fiddles.io
-Offers sandbox environments for developers to play around with and modify live example code for all kinds of different languages. It's also easy to share or demonstrate solutions to problems.<br> 
+Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
 <a href="https://fiddles.io" target="_blank">fiddles.io</a>
 
 #### OverAPI
