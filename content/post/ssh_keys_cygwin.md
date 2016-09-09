@@ -55,4 +55,6 @@ $ chmod 644 .ssh/authorized_keys
 
 ## Step 4
 
-Ensure that PuTTY's Pageant (downloaded in Step 1) is running (you should see a little icon for it in the tray at the bottom of your screen).
+Ensure that PuTTY's Pageant (downloaded in Step 1) is running (you should see a little icon for it in the tray at the bottom of your screen):
+
+<img src="http://niki.hammler.net/w/images/f/f6/Pageant.png">
