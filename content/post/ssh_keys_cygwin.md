@@ -58,3 +58,16 @@ $ chmod 644 .ssh/authorized_keys
 Ensure that PuTTY's Pageant (downloaded in Step 1) is running (you should see a little icon for it in the tray at the bottom of your screen):
 
 <img src="http://niki.hammler.net/w/images/f/f6/Pageant.png">
+
+Double-click this to see the current list of private keys loaded to Pageant. You can manually load them each time through this UI when your computer boots up, but the more efficient approach is to have them load on startup following <a href="http://blog.shvetsov.com/2010/03/making-pageant-automatically-load-keys.html" target="_blank">these steps</a>. Pageant can load one or more private keys when it starts up if you provide them on the Pageant command line. The simplest way to do this in Windows is to create a specially crafted shortcut inside the Startup folder (Start -> Programs -> Startup).
+
+## Step 5
+
+The last step is to <a href="https://github.com/cuviper/ssh-pageant" target="_blank">download this daemon</a> that allows you to use your loaded SSH keys from PuTTY's Pageant in Cygwin. By editing your `~/.bashrc` (or `~/.bash_profile` - check where Cygwin is installed on your computer for these files) to add the following, this program will run whenever you start Cygwin.
+
+```bash
+# ssh-pageant
+eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+```
+
+With Cygwin running now with the loaded private keys from Pageant, you will be able to make secure, automated SSH connections from this shell to remote environments or other services built on top of SSH, like SFTP file transfers or pushing to git repositories.
