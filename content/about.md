@@ -16,7 +16,7 @@ Over the past 5+ years I have gained experience as both a developer and a market
 
 In supporting these organizations, my cross-functional roles have included data engineering, ETL scripting, database design, application development, operational reporting, database marketing, and marketing automation. I've helped clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen. 
 
-As a consultant/project manager, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.
+As a consultant/project manager, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project estimates, status, and risks. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.
 
 With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I've come across many great <a href="/resources">resources</a> and ideas that I also <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 
