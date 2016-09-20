@@ -4,7 +4,7 @@ description = "Andrew Goss Background"
 +++
 > <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve analytic challenges at the intersection of marketing and technology.
 
-My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being collected at every turn through digital and offline interactions, I work to wrangle this data and derive value from it. My projects span the gamut: writing algorithms, managing/collating data, interpreting/visualizing the data, and summarizing important findings to key stakeholders.
+My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being collected at every turn through digital and offline interactions, I work to wrangle this data and derive value from it.
 
 ## My Background
 
