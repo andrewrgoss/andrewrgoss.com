@@ -71,6 +71,10 @@ Free product lets you connect to all your marketing data and turn that data into
 ## <a name="martech"></a>MarTech
 <hr>
 
+#### Google Analytics Demo Account
+If you're like me, you learn by doing. This fully functional Google Analytics account is a great way to look at real business data and experiment with Google Analytics features. The data is from the Google Merchandise Store, a real ecommerce store, and it's typical of what you would see for an ecommerce website.<br> 
+<a href="https://support.google.com/analytics/answer/6367342" target="_blank">support.google.com/analytics</a>
+
 #### Real Story Group
 This firm specializes in evaluating vendors in the MarTech space to help you find the right provider among a glut of offerings.<br> 
 <a href="https://www.realstorygroup.com/Vendors-Evaluated" target="_blank">realstorygroup.com</a>
@@ -102,6 +106,10 @@ A huge selection of cheat sheets for almost any current programming language and
 <hr>
 ## <a name="web_services"></a>Web Services
 <hr>
+
+#### Google Analytics Query Explorer
+This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
+<a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
 
 #### OpenWeatherMap
 API for accessing current weather data for any location including over 200,000 cities.<br>
