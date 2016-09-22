@@ -34,7 +34,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, data analysis, ETL scripting, web services, database design, marketing analytics, application development, automated reporting, project management, consulting, vendor management, business intelligence, marketing operations, data mining, data warehousing
+<b>Other specialties:</b> data engineering, data analysis, ETL scripting, web services, database design, marketing analytics, consulting, vendor management, business intelligence, marketing operations, data mining, data warehousing
 
 <hr>
 ### Tools & Technologies
@@ -57,11 +57,14 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
 **<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
 Manager, Media Systems & Techology
+<p><sub>Working with evolving data engineering technologies to build the systems and architectures behind business intelligence tools used extensively by data science teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics that help tell the marketing/advertising data story for each client.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
 **<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>
 Technical Consultant | Account Manager | Marketing Specialist
+<p><sub>Held multiple roles ranging from marketing automation specialist to database developer. Gained important experience in leading client-facing calls and meeting with senior management around RFPs, SOWs, and general account strategy. In most recent role, had oversight of global response management (GRM) system, a key ETL engine for Hewlett Packard Enterprise (HPE) and HP Inc. (HPI). Maintained system uptime as part of 24-hr support team in monitoring over one hundred continuous third-party vendor data integrations and RESTful API data transfer to Eloqua platform.</sub></p>
 
 <a href="http://www.geminiunderwriters.com" target="_blank"><img src="/img/gtu_logo.png"></a><br>
 **<a href="http://www.geminiunderwriters.com" target="_blank">Gemini Transportation Underwriters</a>** | Jul 2011 - Apr 2012<br>
 Marketing Specialist
+<p><sub>Market research and competitive analysis for excess liability insurance provider in the transportation industry, with a specialization in policies for commercial trucking and railroad companies.</sub></p>

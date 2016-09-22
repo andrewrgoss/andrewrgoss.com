@@ -28,7 +28,7 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 <hr>
 
 #### Beginner's Guide to Big Data Terminology
-Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.
+Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
 #### Crowdflower: Data for Everyone
