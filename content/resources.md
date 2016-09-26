@@ -75,6 +75,10 @@ Free product lets you connect to all your marketing data and turn that data into
 If you're like me, you learn by doing. This fully functional Google Analytics account is a great way to look at real business data and experiment with Google Analytics features. The data is from the Google Merchandise Store, a real ecommerce store, and it's typical of what you would see for an ecommerce website.<br> 
 <a href="https://support.google.com/analytics/answer/6367342" target="_blank">support.google.com/analytics</a>
 
+#### The Definitive Glossary of Programmatic Advertising
+Programmatic advertising is about using automated systems (technology) and data to make media buying decisions without humans. This is a helpful glossary of terms associated with this concept.<br>
+<a href="http://blog.hubspot.com/agency/programmatic-advertising-glossary" target="_blank">blog.hubspot.com/agency/programmatic-advertising-glossary</a>
+
 #### Real Story Group
 This firm specializes in evaluating vendors in the MarTech space to help you find the right provider among a glut of offerings.<br> 
 <a href="https://www.realstorygroup.com/Vendors-Evaluated" target="_blank">realstorygroup.com</a>

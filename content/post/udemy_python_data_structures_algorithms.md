@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 date: 2016-09-19
-title: Udemy- Python for Data Structures, Algorithms, and Interviews
+title: Udemy- Python for Data Structures & Algorithms
 tags:
   - python
   - udemy
