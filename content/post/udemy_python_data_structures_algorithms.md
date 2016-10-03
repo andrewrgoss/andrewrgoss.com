@@ -27,8 +27,8 @@ Additionally, this course focuses on some of the 'soft skills' needed to advance
 
 <hr>
 ##### Course Progress
-<progress max="1.0" value="0.02"></progress>
+<progress max="1.0" value="0.05"></progress>
 
-2% - <font color="green">IN PROGRESS</font>.
+5% - <font color="green">IN PROGRESS</font>.
 
 <!--<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>-->
