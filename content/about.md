@@ -8,7 +8,7 @@ My career has been tied closely to the convergence of marketing and technology (
 
 ## My Background
 
-I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where my team uses a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global data science teams. Using both traditional RDBMS and newer open source software frameworks like Hadoop, we handle large volumes of structured and semi-structured data. 
+I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where my team uses a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global data science teams. Using both traditional RDBMS and newer open source software frameworks like Hadoop, we handle large volumes of structured and unstructured data. 
 
 In centralizing disparate data streams, we help provide the structure necessary to enable crucial cross-platform analytics. Through the use of data science, our teams summarize the data story for each client in order to measure marketing campaign effectiveness, apply predictive modeling, and ultimately influence consumer brand affiliations and buying patterns.
 

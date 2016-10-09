@@ -34,7 +34,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 
 <sub>Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management</sub><br>
 
-<b>Other specialties:</b> data engineering, data analysis, ETL scripting, web services, database design, marketing analytics, consulting, vendor management, business intelligence, marketing operations, data mining, data warehousing
+<b>Other specialties:</b> data engineering, data analysis, ETL scripting, RESTful web services, database design, marketing analytics, consulting, vendor management, business intelligence, marketing operations, data mining, data warehousing
 
 <hr>
 ### Tools & Technologies
