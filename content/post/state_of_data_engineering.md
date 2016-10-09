@@ -1,11 +1,11 @@
 ---
 author: "Andrew Goss"
-title: "Report: The State of Data Engineering"
+title: "Report- The State of Data Engineering"
 date: "2016-09-28"
 tags:
   - "data engineering"
 ---
-I recently came across an excellent report by <a href="https://www.stitchdata.com/company" target=_>Stitch</a> on the state of data engineering.
+I recently came across an excellent report by <a href="https://www.stitchdata.com" target=_>Stitch</a> on the state of data engineering.
 
 Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
 
@@ -20,3 +20,5 @@ This report takes an in-depth look at the following:
 Answers to these questions are paired with input from engineering leaders at Stripe, MIT, Looker, and more; who share their strategies for finding and retaining talent, developing data engineering talent in-house, and prioritizing a data engineering team's projects. This report presents a clear snapshot of the current state of data engineering.
 
 <a href="https://www.stitchdata.com/resources/reports/the-state-of-data-engineering" class="btn" target="_blank">View the full report</a>
+
+<sub>*Source: <a href="https://www.stitchdata.com" target=_>Stitch</a></sub>

@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Data Science](#data_science) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Data Science](#data_science) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -22,6 +22,14 @@ A nice intro guide on what these are and why they are used.<br>
 #### Transactional vs. Analytical Processing
 Good cross-comparison between OLTP and OLAP systems.<br>
 <a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
+
+<hr>
+## <a name="career_management"></a>Career Management
+<hr>
+
+#### Skills Index
+Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work’s proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
+<a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
 
 <hr>
 ## <a name="data_science"></a>Data Science
