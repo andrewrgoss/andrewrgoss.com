@@ -7,7 +7,7 @@ tags:
   - "data science"
 ---
 
-Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately dervice actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive as this juncture. Here is a description of each stage of the analytics life cycle:
+Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately dervice actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
 
 * Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.
 * Data Cleaning/Transformation – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.
