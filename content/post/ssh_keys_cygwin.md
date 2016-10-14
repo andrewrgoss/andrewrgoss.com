@@ -28,7 +28,7 @@ Using the downloaded PuTTYgen executable, <a href="https://winscp.net/eng/docs/u
 
 ![PuTTY Key Generator](/img/post/putty_gen.PNG "PuTTY Key Generator")
 
-Make sure you save the public key with a .txt extension and the private key with a .ppk one:
+Make sure you save the public key with a .txt (or .pub) extension and the private key with a .ppk one:
 
 <img src="http://www.servermom.org/wp-content/uploads/2014/06/public-key-save.jpg">
 <img src="http://www.servermom.org/wp-content/uploads/2014/06/private-key-saved.jpg">
@@ -47,7 +47,7 @@ Copy the generated public key in PuttyGen and paste it in the Nano editor:
 
 <img src="http://www.servermom.org/wp-content/uploads/2014/06/copy-pub-key.jpg">
 
-Save and exit Nano by hitting `ctrl+O` then `ctrl+X` on your keyboard. Then change its permission to 644 with this command:
+Save and exit Nano by hitting `ctrl+O`, enter, then `ctrl+X` on your keyboard. Then change its permission to 644 with this command:
 
 ```bash
 $ chmod 644 .ssh/authorized_keys
