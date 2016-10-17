@@ -9,7 +9,6 @@ tags:
 ![Python](/img/post/python.png "Python")<br>
 <a href="https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4" target="_blank">COURSE LINK</a><br>
 <a href="http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master" target="_blank">Jupyter Notebook</a><br>
-<a href="/post/udemy_python_data_structures_algorithms/Jupyter+Notebooks+Overview-+Sec10%2335">My Notebooks</a> 
 <hr>
 Working on furthering my Python skills in the following areas:
 
