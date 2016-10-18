@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2016-09-19
+date: 2016-10-17
 title: Udemy- Python for Data Structures & Algorithms
 tags:
   - python
@@ -8,7 +8,7 @@ tags:
 ---
 ![Python](/img/post/python.png "Python")<br>
 <a href="https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4" target="_blank">COURSE LINK</a><br>
-<a href="http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master" target="_blank">Jupyter Notebook</a><br>
+<a href="http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master" target="_blank">Jupyter Notebooks</a><br>
 <hr>
 Working on furthering my Python skills in the following areas:
 
@@ -26,8 +26,8 @@ Additionally, this course focuses on some of the 'soft skills' needed to advance
 
 <hr>
 ##### Course Progress
-<progress max="1.0" value="0.15"></progress>
+<progress max="1.0" value="0.16"></progress>
 
-15% - <font color="green">IN PROGRESS</font>.
+16% - <font color="green">IN PROGRESS</font>.
 
 <!--<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>-->
