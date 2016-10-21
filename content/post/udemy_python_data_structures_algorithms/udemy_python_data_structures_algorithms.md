@@ -30,4 +30,4 @@ Additionally, this course focuses on some of the 'soft skills' needed to advance
 
 16% - <font color="green">IN PROGRESS</font>.
 
-<!--<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>-->
+<a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms" class="btn" target="_blank">View my code on GitHub</a>
