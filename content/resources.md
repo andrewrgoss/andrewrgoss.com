@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Data Science](#data_science) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -28,8 +28,16 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 <hr>
 
 #### Skills Index
-Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work’s proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
+Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
+
+<hr>
+## <a name="computer_science"></a>Computer Science
+<hr>
+
+#### Big-O Notation Cheat Sheet
+This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.<br>
+<a href="http://bigocheatsheet.com" target="_blank">bigocheatsheet.com</a>
 
 <hr>
 ## <a name="data_science"></a>Data Science

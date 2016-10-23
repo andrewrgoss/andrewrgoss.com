@@ -26,8 +26,8 @@ Additionally, this course focuses on some of the 'soft skills' needed to advance
 
 <hr>
 ##### Course Progress
-<progress max="1.0" value="0.16"></progress>
+<progress max="1.0" value="0.17"></progress>
 
-16% - <font color="green">IN PROGRESS</font>.
+17% - <font color="green">IN PROGRESS</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms" class="btn" target="_blank">View my code on GitHub</a>
