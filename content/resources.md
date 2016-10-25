@@ -67,6 +67,10 @@ This website looks like its design hasn't changed since the 90s, but it is home 
 This is a nice blog post on opendatascience.com that digs into the differences/advantages of using either R or Python for performing data science tasks.<br>
 <a href="https://www.opendatascience.com/blog/r-or-python-for-data-science" target="_blank">opendatascience.com/blog/r-or-python-for-data-science</a>
 
+#### RegexOne
+Regular expressions are extremely useful in extracting information from text such as code, log files, spreadsheets, or even documents. This site offers an interactive tutorial and practice exercises to help you learn them.<br> 
+<a href="https://regexone.com" target="_blank">regexone.com</a>
+
 #### rOpenSci
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
