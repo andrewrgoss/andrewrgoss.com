@@ -7,8 +7,9 @@ tags:
   - hadoop
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
-<b>COURSE CODE</b>: BD0111EN<br>
-<a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" target="_blank">COURSE LINK</a>
+<b>Course Code</b>: BD0111EN<br>
+<a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" target="_blank">Course Link</a><br>
+<a href="/page/big_data_university_hadoop_101/lesson_transcripts">Lesson Transcripts</a>
 <hr>
 Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
 
