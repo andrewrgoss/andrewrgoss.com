@@ -51,6 +51,10 @@ Walkthrough on some of the common lingo of data science, such as DaaS and Neural
 Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
 
+#### Data Mining in Python: A Guide
+Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools – from cleaning and data organization to applying machine learning algorithms.<br>
+<a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
+
 #### Handy Python Libraries for Formatting and Cleaning Data
 Data scientists spend a lot of time cleaning messy data. This is a list of Python libraries that help make data more orderly and legible - from styling DataFrames to anonymizing datasets.<br>
 <a href="https://blog.modeanalytics.com/python-data-cleaning-libraries" target="_blank">blog.modeanalytics.com/python-data-cleaning-libraries</a>
