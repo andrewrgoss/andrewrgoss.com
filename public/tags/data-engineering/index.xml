@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineering on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/data-engineering/</link>
+    <description>Recent content in Data Engineering on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Report- The State of Data Engineering</title>
+      <link>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <description>&lt;p&gt;I recently came across an excellent report by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; on the state of data engineering.&lt;/p&gt;
+
+&lt;p&gt;Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.&lt;/p&gt;
+
+&lt;p&gt;The need for data talent is born from a fundamental shift: tech companies are now data companies. Uber, AirBnB, Spotify–these companies build data products, and as a result, are scrambling to hire (and hold onto) the people that build and maintain data systems. Josh Wills, Data Engineer at Slack, half-joked, half-pleaded at DataEngConf 2016, &amp;ldquo;Please don&amp;rsquo;t hire my data engineers, they are all here now.&amp;rdquo; Even Slack, one of the hottest tech companies in the valley, is worried about holding onto this valuable talent.&lt;/p&gt;
+
+&lt;p&gt;This report takes an in-depth look at the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The number of data engineers in the market today&lt;/li&gt;
+&lt;li&gt;Their backgrounds and core skills—information that is particularly valuable for leaders thinking about how to transition software engineers into data engineering roles.&lt;/li&gt;
+&lt;li&gt;Employment information that can help make the case for investing in this often expensive skill set.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Answers to these questions are paired with input from engineering leaders at Stripe, MIT, Looker, and more; who share their strategies for finding and retaining talent, developing data engineering talent in-house, and prioritizing a data engineering team&amp;rsquo;s projects. This report presents a clear snapshot of the current state of data engineering.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.stitchdata.com/resources/reports/the-state-of-data-engineering&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

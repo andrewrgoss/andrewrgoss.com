@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/</link>
+    <description>Recent content on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. I&amp;rsquo;m best cast as the data engineer right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Python for Data Structures &amp; Algorithms</title>
+      <link>http://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+Working on furthering my Python skills in the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Algorithm Analysis and Big-O Notation&lt;/li&gt;
+&lt;li&gt;Array Sequences&lt;/li&gt;
+&lt;li&gt;Stacks Queues and Deques&lt;/li&gt;
+&lt;li&gt;Linked Lists&lt;/li&gt;
+&lt;li&gt;Recursion&lt;/li&gt;
+&lt;li&gt;Trees&lt;/li&gt;
+&lt;li&gt;Searching and Sorting Algorithms&lt;/li&gt;
+&lt;li&gt;Graph Algorithms&lt;/li&gt;
+&lt;li&gt;Jupyter Notebooks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, this course focuses on some of the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:ba96cbb6aafc41eabb6ce89e58c06fa0&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.21&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;21% - &lt;font color=&#34;green&#34;&gt;IN PROGRESS&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Lesson Transcripts&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Part1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part1&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/-65WgvIJ5xo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hello everyone and welcome to Hadoop Fundamentals What is Hadoop. My name is Asma Desai and I will be covering this topic.&lt;/p&gt;
+
+&lt;p&gt;In this video we will explain what is Hadoop and what is Big Data. We will define some Hadoop-related open source projects and give some examples of Hadoop in action. Finally we will end off with some Big Data solutions and the Cloud.&lt;/p&gt;
+
+&lt;p&gt;Imagine this scenario: You have 1GB of data that you need to process.&lt;/p&gt;
+
+&lt;p&gt;The data is stored in a relational database in your desktop computer which has no problem handling the load. Then your company starts growing very quickly, and that data grows to 10GB, then 100GB, and you start to reach the limits of your current desktop computer.&lt;/p&gt;
+
+&lt;p&gt;So what do you do? You scale up by investing in a larger computer, and you are then OK for a few more months. When your data grows from 1 TB to 10TB, and then 100TB, you are again quickly approaching the limits of that computer.&lt;/p&gt;
+
+&lt;p&gt;Moreover, you are now asked to feed your application with unstructured data coming from sources like Facebook, Twitter, RFID readers, sensors, and so on. Your management wants to derive information from both the relational data and the unstructured data and wants this information as soon as possible. What should you do? Hadoop may be the answer.&lt;/p&gt;
+
+&lt;p&gt;What is Hadoop? Hadoop is an open source project of the Apache Foundation. It is a framework written in Java originally developed by Doug Cutting who named it after his son&amp;rsquo;s toy elephant. Hadoop uses Google&amp;rsquo;s MapReduce technology as its foundation. It is optimized to handle massive quantities of data which could be structured, unstructured or semi-structured, using commodity hardware, that is, relatively inexpensive computers.&lt;/p&gt;
+
+&lt;p&gt;This massive parallel processing is done with great performance. However, it is a batch operation handling massive amounts of data, so the response time is not immediate. Currently, in place updates are not possible in Hadoop, but appends to existing data is supported.&lt;/p&gt;
+
+&lt;p&gt;Now, what&amp;rsquo;s the value of a system if the information it stores or retrieves is not consistent? Hadoop replicates its data across different computers, so that if one goes down, the data is processed on one of the replicated computers. Hadoop is not suitable for OnLine Transaction Processing workloads where data is randomly accessed on structured data like a relational database.&lt;/p&gt;
+
+&lt;p&gt;Also, Hadoop is not suitable for OnLine Analytical Processing or Decision Support System workloads where data is sequentially accessed on structured data like a relational database, to generate reports that provide business intelligence. As of Hadoop version 2.6, updates are not possible, but appends are possible. Hadoop is used for Big Data. It complements OnLine Transaction Processing and OnLine Analytical Processing. It is NOT a replacement for a relational database system.&lt;/p&gt;
+
+&lt;p&gt;So, what is Big Data? With all the devices available today to collect data, such as RFID readers, microphones, cameras, sensors, and so on, we are seeing an explosion in data being collected worldwide. Big Data is a term used to describe large collections of data (also known as datasets) that may be unstructured, and grow so large and quickly that it is difficult to manage with a regular database or statistical tools.&lt;/p&gt;
+
+&lt;p&gt;In terms of numbers, what are we looking at? How BIG is &amp;ldquo;big data&amp;rdquo;? Well there are more than 3.2 billion internet users, and active cell phones have surpassed 7.6 billion. There are now more in-use cell phones than there are people on the planet (7.4 billion).&lt;/p&gt;
+
+&lt;p&gt;Twitter processes 7TB of data ever day, and 600TB of data is processed by Facebook every day. Interestingly, about 80% of this data is unstructured. With this massive amount of data, businesses need fast, reliable, deeper data insight. Therefore, Big Data solutions based on Hadoop and other analytics software are becomingmore and more relevant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part2&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/PS5QSGAoLNw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is a list of some other open source project related to Hadoop:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eclipse is a popular IDE donated by IBM to the open-source community&lt;/li&gt;
+&lt;li&gt;Lucene is a text search engine library written in Java&lt;/li&gt;
+&lt;li&gt;Hbase is a Hadoop database&lt;/li&gt;
+&lt;li&gt;Hive provides data warehousing tools to extract, transform and load (ETL) data, and query this data stored in Hadoop files&lt;/li&gt;
+&lt;li&gt;Pig is a high level language that generates MapReduce code to analyze large data sets.&lt;/li&gt;
+&lt;li&gt;Spark is a cluster computing framework&lt;/li&gt;
+&lt;li&gt;ZooKeeper is a centralized configuration service and naming registry for large distributed systems&lt;/li&gt;
+&lt;li&gt;Ambari manages and monitors Hadoop clusters through an intuitive web UI&lt;/li&gt;
+&lt;li&gt;Avro is a data serialization system&lt;/li&gt;
+&lt;li&gt;UIMA is the architecture for the development, discovery, composition and deployment for the analysis of unstructured data&lt;/li&gt;
+&lt;li&gt;Yarn is a large-scale operating system for big data applications&lt;/li&gt;
+&lt;li&gt;Mapreduce is a software framework for easily writing applications which processes vast amounts of data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let&amp;rsquo;s now talk about examples of Hadoop in action.&lt;/p&gt;
+
+&lt;p&gt;Early in 2011, Watson, a super computer developed by IBM competed in the popular Question and Answer show Jeopardy!. In that contest, Watson was successful in beating the two most winning Jeopardy players. Approximately 200 million pages of text were input using Hadoop to distribute the workload for loading this information into memory.&lt;/p&gt;
+
+&lt;p&gt;Once this information was loaded, Watson used other technologies for advanced search and analysis. In the telecommunication industry we have China Mobile, a company that built a Hadoop cluster to perform data mining on Call Data Records. China Mobile was producing 5-8 TB of these records daily. By using a Hadoop-based system they were able to process 10 times as much data as when using their old system, and at one fifth the cost.&lt;/p&gt;
+
+&lt;p&gt;In the media we have the New York Times which wanted to host on their website all public domain articles from 1851 to 1922. They converted articles from 11 million image files (4TB) to 1.5TB of PDF documents. This was implemented by one employee who ran a job in 24 hours on a 100-instance Amazon EC2 Hadoop cluster at a very low cost.&lt;/p&gt;
+
+&lt;p&gt;In the technology field we again have IBM with IBM ES2, and enterprise search technology based on Hadoop, Nutch, Lucene and Jaql. ES2 is designed to address unique challenges of enterprise search such as: - The Use of enterprise-specific vocabulary, abbreviations and acronyms ES2 can perform mining tasks to build Acronym libraries, Regular expression patterns, and Geo-classification rules.&lt;/p&gt;
+
+&lt;p&gt;There are also many internet or social network companies using Hadoop such as: Yahoo, Facebook, Amazon, eBay, Twitter, StumbleUpon, Rackspace, Ning, AOL, etc. Yahoo of course is the largest production user with an application running a Hadoop cluster consisting of about 10,000 Linux machines. Yahoo is also the largest contributor to the Hadoop open source project.&lt;/p&gt;
+
+&lt;p&gt;Now, Hadoop is not a magic bullet that solves all kinds of problems. Hadoop is not good to process transactions due to its lack random access. It is not good when the work cannot be parallelized or when there are dependencies within the data, that is, record one must be processed before record two. It is not good for low latency data access. Not good for processing lots of small files although there is work being done in this area, for example, IBM&amp;rsquo;s Adaptive MapReduce. And it is not good for intensive calculations with little data.&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s move on, and talk about Big Data solutions. Big Data solutions are more than just Hadoop. They can integrate analytic solutions to the mix to derive valuable information that can combine structured legacy data with new unstructured data.&lt;/p&gt;
+
+&lt;p&gt;Big data solutions may also be used to derive information from data in motion, for example, IBM has a product called InfoSphere Streams that can be used to quickly determine customer sentiment for a new product based on Facebook or Twitter comments.&lt;/p&gt;
+
+&lt;p&gt;Finally we would like to end this presentation with one final thought: Cloud computing has gained a tremendous track in the past few years, and it is a perfect fit for Big Data solutions. Using the cloud, a Hadoop cluster can be setup in minutes, on demand, and it can run for as long as needed without having to pay for more than what is used.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part1&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/8AtrYcqO5ho&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome to the unit of Hadoop Fundamentals on Hadoop architecture.
+I will begin with a terminology review and then cover the major components
+of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about
+how Hadoop uses replication to lessen data loss. Finally I will explain an important
+feature of Hadoop called &amp;ldquo;rack awareness&amp;rdquo; or &amp;ldquo;network topology awareness&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Before we examine Hadoop components and architecture, let&amp;rsquo;s review some of the
+terms that are used in this discussion. A node is simply a computer. This is typically
+non-enterprise, commodity hardware for nodes that contain data. So in this example,
+we have Node 1. Then we can add more nodes, such as Node 2, Node 3, and so on.
+This would be called a rack. A rack is a collection of 30 or 40 nodes that are
+physically stored close together and are all connected to the same network switch.
+Network bandwidth between any two nodes in the same rack is greater than bandwidth
+between two nodes on different racks. You will see later how Hadoop takes advantage
+of this fact. A Hadoop Cluster (or just cluster from
+now on) is a collection of racks.&lt;/p&gt;
+
+&lt;p&gt;Let us now examine the pre-Hadoop 2.2 architecture. Hadoop has two major components:
+- the distributed filesystem component, the main example of which is the Hadoop
+Distributed File System, though other file systems, such as IBM Spectrum Scale, are supported.
+- the MapReduce component, which is a framework for performing calculations on
+the data in the distributed file system. Pre-Hadoop 2.2 MapReduce is referred to as MapReduce
+V1 and has its own built-in resource manager and schedule. This unit covers the Hadoop
+Distributed File System and MapReduce is covered separately.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s now examine the Hadoop distributed file system - HDFS
+HDFS runs on top of the existing file systems on each node in a Hadoop cluster. It is not
+POSIX compliant. It is designed to tolerate high component failure rate through replication
+of the data. Hadoop works best with very large files. The
+larger the file, the less time Hadoop spends seeking for the next data location
+on disk, the more time Hadoop runs at the limit of the bandwidth of your disks.
+Seeks are generally expensive operations that are useful when they only need to analyze
+a small subset of your dataset. Since Hadoop is designed to run over your entire
+dataset, it is best to minimize seeks by using large files. Hadoop is designed for
+streaming or sequential data access rather than random access. Sequential data access
+means fewer seeks, since Hadoop only seeks to the beginning of each block and begins
+reading sequentially from there. Hadoop uses blocks to store a file or parts
+of a file. This is shown in the figure.&lt;/p&gt;
+
+&lt;p&gt;Let us now examine file blocks in more detail. A Hadoop block is a file on the underlying
+filesystem. Since the underlying filesystem stores files as blocks, one Hadoop block may
+consist of many blocks in the underlying file system. Blocks are large. They default to
+64 megabytes each and most systems run with block sizes of 128 megabytes or larger. Blocks
+have several advantages: Firstly, they are fixed in size. This makes
+it easy to calculate how many can fit on a disk.&lt;/p&gt;
+
+&lt;p&gt;Secondly, by being made up of blocks that can be spread over multiple nodes, a file
+can be larger than any single disk in the cluster. HDFS blocks also don&amp;rsquo;t waste space.
+If a file is not an even multiple of the block size, the block containing the remainder does
+not occupy the space of an entire block. As shown in the figure, a 450 megabyte file with
+a 128 megabyte block size consumes four blocks, but the fourth block does not consume a full
+128 megabytes. Finally, blocks fit well with replication,
+which allows HDFS to be fault tolerant and available on commodity hardware.
+As shown in the figure: Each block is replicated to multiple nodes. For example, block 1 is
+stored on node 1 and node 2. Block 2 is stored on node 1 and node 3. And block 3 is stored
+on node 2 and node 3. This allows for node failure without data loss. If node 1 crashes,
+node 2 still runs and has block 1&amp;rsquo;s data. In this example, we are only replicating data
+across two nodes, but you can set replication to be across many more nodes by changing Hadoop&amp;rsquo;s
+configuration or even setting the replication factor for each individual file.&lt;/p&gt;
+
+&lt;p&gt;The second major component of Hadoop, described in detail in another lecture, is the MapReduce
+component. HDFS was based on a paper Google published about their Google File System,
+Hadoop&amp;rsquo;s MapReduce is inspired by a paper Google published on the MapReduce technology.
+It is designed to process huge datasets for certain kinds of distributable problems using
+a large number of nodes. A MapReduce program consists of two types of transformations that
+can be applied to data any number of times - a map transformation and a reduce transformation.
+A MapReduce job is an executing MapReduce program that is divided into map tasks that
+run in parallel with each other and reduce tasks that run in parallel with each other.
+Let us examine the main types of nodes in pre-Hadoop 2.2. They are classified as HDFS
+or MapReduce V1 nodes. For HDFS nodes we have the NameNode, and the DataNodes. For MapReduce
+V1 nodes we have the JobTracker and the TaskTracker nodes. Each of these is discussed in more
+detail later in this presentation. There are other HDFS nodes such as the Secondary NameNode,
+Checkpoint node, and Backup node that are not discussed in this course. This diagram
+shows some of the communication paths between the different types of nodes on the system.
+A client is shown as communicating with a JobTracker. It can also communicate with the
+NameNode and with any DataNode.&lt;/p&gt;
+
+&lt;p&gt;There is only one NameNode in the cluster. While the data that makes up a file is stored
+in blocks at the data nodes, the metadata for a file is stored at the NameNode. The
+NameNode is also responsible for the filesystem namespace. To compensate for the fact that
+there is only one NameNode, one should configure the NameNode to write a copy of its state
+information to multiple locations, such as a local disk and an NFS mount. If there is
+one node in the cluster to spend money on the best enterprise hardware for maximum reliability,
+it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
+the entire filesystem metadata in memory.&lt;/p&gt;
+
+&lt;p&gt;A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
+from different files can be stored on the same DataNode. When a client requests a file,
+the client finds out from the NameNode which DataNodes stored the blocks that make up that
+file and the client directly reads the blocks from the individual DataNodes. Each DataNode
+also reports to the NameNode periodically with the list of blocks it stores. DataNodes
+do not require expensive enterprise hardware or replication at the hardware layer. The
+DataNodes are designed to run on commodity hardware and replication is provided at the
+software layer.&lt;/p&gt;
+
+&lt;p&gt;A JobTracker node manages MapReduce V1 jobs. There is only one of these on the cluster.
+It receives jobs submitted by clients. It schedules the Map tasks and Reduce tasks on
+the appropriate TaskTrackers, that is where the data resides, in a rack-aware manner and
+it monitors for any failing tasks that need to be rescheduled on a different
+TaskTracker. To achieve the parallelism for your map and reduce tasks, there are many
+TaskTrackers in a Hadoop cluster. Each TaskTracker spawns Java Virtual Machines to run your map
+or reduce task. It communicates with the JobTracker and reads blocks from DataNodes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt;
+&lt;hr&gt;
+Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stages of the Analytics Life Cycle</title>
+      <link>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <description>
+
+&lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Data Acquisition&lt;/b&gt; – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data Cleaning/Transformation&lt;/b&gt; – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Analytics&lt;/b&gt; – This involves statistical and machine learning-based modeling in order to understand, describe, or predict patterns in the data.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Prescribing Actions&lt;/b&gt; – This involves interpreting analytical results through the lens of business priorities, and using data-driven insights to inform strategy.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Programming/Automation&lt;/b&gt; – In many cases, data scientists are responsible for creating libraries and utilities to operationalize or simplify various stages of this process. Often, they will contribute production-level code for a firm’s data products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: Burtch Works&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;big-data-analytics-lifecycle:fabfcdc15793a32766e038f5387cbc68&#34;&gt;Big Data Analytics Lifecycle&lt;/h2&gt;
+
+&lt;p&gt;Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2473128&amp;seqNum=11&#34; target=&#34;_blank&#34;&gt;InformIT&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report- The State of Data Engineering</title>
+      <link>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <description>&lt;p&gt;I recently came across an excellent report by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; on the state of data engineering.&lt;/p&gt;
+
+&lt;p&gt;Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.&lt;/p&gt;
+
+&lt;p&gt;The need for data talent is born from a fundamental shift: tech companies are now data companies. Uber, AirBnB, Spotify–these companies build data products, and as a result, are scrambling to hire (and hold onto) the people that build and maintain data systems. Josh Wills, Data Engineer at Slack, half-joked, half-pleaded at DataEngConf 2016, &amp;ldquo;Please don&amp;rsquo;t hire my data engineers, they are all here now.&amp;rdquo; Even Slack, one of the hottest tech companies in the valley, is worried about holding onto this valuable talent.&lt;/p&gt;
+
+&lt;p&gt;This report takes an in-depth look at the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The number of data engineers in the market today&lt;/li&gt;
+&lt;li&gt;Their backgrounds and core skills—information that is particularly valuable for leaders thinking about how to transition software engineers into data engineering roles.&lt;/li&gt;
+&lt;li&gt;Employment information that can help make the case for investing in this often expensive skill set.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Answers to these questions are paired with input from engineering leaders at Stripe, MIT, Looker, and more; who share their strategies for finding and retaining talent, developing data engineering talent in-house, and prioritizing a data engineering team&amp;rsquo;s projects. This report presents a clear snapshot of the current state of data engineering.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.stitchdata.com/resources/reports/the-state-of-data-engineering&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSH Keys With PuTTY and Cygwin for Windows</title>
+      <link>http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.chiark.greenend.org.uk/~sgtatham/putty&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty.jpg&#34; alt=&#34;PuTTY: a free SSH and Telnet client&#34; title=&#34;PuTTY: a free SSH and Telnet client&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses &lt;a href=&#34;https://www.cygwin.com&#34; target=&#34;_blank&#34;&gt;Cygwin&lt;/a&gt;, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with &lt;a href=&#34;https://mosh.org&#34; target=&#34;_blank&#34;&gt;Mosh&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Secure_Shell&#34; target=&#34;_blank&#34;&gt;SSH&lt;/a&gt; at the command line. However, the more secure (and easier to manage) approach is to utilize SSH keys to login into a virtual private server.&lt;/p&gt;
+
+&lt;p&gt;In this post, I&amp;rsquo;ll delve into how I&amp;rsquo;ve set up my computer to use public/private SSH key pairings for accessing different environments. I previously &lt;a href=&#34;http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows&#34;&gt;posted&lt;/a&gt; about using SSH keys with Git Bash and TortoiseGit for Windows. While it&amp;rsquo;s possible to use the same SSH key pairings that were used for that, I prefer the more secure approach of generating specific pairings for &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/github.png&#34;&gt;&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a href=&#34;https://about.gitlab.com&#34; target=&#34;_blank&#34;&gt;Gitlab&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/gitlab.png&#34;&gt;&lt;/a&gt;, and any client-specific instances.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-1:f77569a6b4afc10750083404d55c7c58&#34;&gt;Step 1&lt;/h2&gt;
+
+&lt;p&gt;Download the following PuTTY files from this site: &lt;a href=&#34;http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html&#34;&gt;http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PuTTY (the SSH and Telnet client itself)&lt;/li&gt;
+&lt;li&gt;Pageant (an SSH authentication agent for PuTTY, PSCP, PSFTP, and Plink)&lt;/li&gt;
+&lt;li&gt;PuTTYgen (an RSA and DSA key generation utility)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;step-2:f77569a6b4afc10750083404d55c7c58&#34;&gt;Step 2&lt;/h2&gt;
+
+&lt;p&gt;Using the downloaded PuTTYgen executable, &lt;a href=&#34;https://winscp.net/eng/docs/ui_puttygen#generating_a_new_key&#34; target=&#34;_blank&#34;&gt;generate a new key&lt;/a&gt;. Click the &amp;lsquo;Save public key&amp;rsquo; and &amp;lsquo;Save private key&amp;rsquo; buttons to save these to the same location as your other keys (if you have any). On Windows, the .ssh folder of your home directory will be something like this: &lt;code&gt;C:\Users\\*username*\\.ssh&lt;/code&gt;. You can create this directory if it doesn&amp;rsquo;t exist. When saving the private key you will be optionally asked to enter a password for another layer of security if desired - it is also possible to hit &amp;lsquo;OK&amp;rsquo; and not use a password in combination with the SSH private key. Keep PuTTYgen open for now as you will need to copy the public key value into the authorized_keys files on the appropriate private server.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty_gen.PNG&#34; alt=&#34;PuTTY Key Generator&#34; title=&#34;PuTTY Key Generator&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Make sure you save the public key with a .txt (or .pub) extension and the private key with a .ppk one:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/public-key-save.jpg&#34;&gt;
+&lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/private-key-saved.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;step-3:f77569a6b4afc10750083404d55c7c58&#34;&gt;Step 3&lt;/h2&gt;
+
+&lt;p&gt;Open up Cygwin and log into the machine that you wish to configure with SSH keys. You&amp;rsquo;ll need the standard username/password credentials for the instance for now. In your home directory, issue the following commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ mkdir -p .ssh
+$ chmod 700 .ssh
+$ nano .ssh/authorized_keys
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Copy the generated public key in PuttyGen and paste it in the Nano editor:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/copy-pub-key.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Save and exit Nano by hitting &lt;code&gt;ctrl+O&lt;/code&gt;, enter, then &lt;code&gt;ctrl+X&lt;/code&gt; on your keyboard. Then change its permission to 644 with this command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ chmod 644 .ssh/authorized_keys
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;step-4:f77569a6b4afc10750083404d55c7c58&#34;&gt;Step 4&lt;/h2&gt;
+
+&lt;p&gt;Ensure that PuTTY&amp;rsquo;s Pageant (downloaded in Step 1) is running (you should see a little icon for it in the tray at the bottom of your screen):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://niki.hammler.net/w/images/f/f6/Pageant.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Double-click this to see the current list of private keys loaded to Pageant. You can manually load them each time through this UI when your computer boots up, but the more efficient approach is to have them load on startup following &lt;a href=&#34;http://blog.shvetsov.com/2010/03/making-pageant-automatically-load-keys.html&#34; target=&#34;_blank&#34;&gt;these steps&lt;/a&gt;. Pageant can load one or more private keys when it starts up if you provide them on the Pageant command line. The simplest way to do this in Windows is to create a specially crafted shortcut inside the Startup folder (Start -&amp;gt; Programs -&amp;gt; Startup).&lt;/p&gt;
+
+&lt;h2 id=&#34;step-5:f77569a6b4afc10750083404d55c7c58&#34;&gt;Step 5&lt;/h2&gt;
+
+&lt;p&gt;The last step is to &lt;a href=&#34;https://github.com/cuviper/ssh-pageant&#34; target=&#34;_blank&#34;&gt;download this daemon&lt;/a&gt; that allows you to use your loaded SSH keys from PuTTY&amp;rsquo;s Pageant in Cygwin. By editing your &lt;code&gt;~/.bashrc&lt;/code&gt; (or &lt;code&gt;~/.bash_profile&lt;/code&gt; - check where Cygwin is installed on your computer for these files) to add the following, this program will run whenever you start Cygwin.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# ssh-pageant
+eval $(/usr/bin/ssh-pageant -r -a &amp;quot;/tmp/.ssh-pageant-$USERNAME&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With Cygwin running now with the loaded private keys from Pageant, you will be able to make secure, automated SSH connections from this shell to remote environments or other services built on top of SSH, like SFTP file transfers or pushing to git repositories.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>http://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-H1VZZXZV&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 7/18/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSH With Git Bash and TortoiseGit for Windows</title>
+      <link>http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/git_windows.png&#34; alt=&#34;Git for Windows&#34; title=&#34;Git for Windows&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve ever written code of any kind for professional and personal purposes, you&amp;rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular &lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt;. I use git to commit the latest versions of code in both Linux and Windows environments, but I&amp;rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.&lt;/p&gt;
+
+&lt;p&gt;Git itself is strictly a command-line tool and in setting up my Windows machine, I wanted the ability to make passwordless commits via bash commands or through my favorite git GUI tool, &lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;TortoiseGit&lt;/a&gt;. Why passwordless? It&amp;rsquo;s gets quite annoying having to enter your Github credentials every single time you push repository changes. Through the use of SSH keys, there is a secure way of doing this that allows Git Bash (or &lt;a href=&#34;https://www.cygwin.com&#34; target=&#34;_blank&#34;&gt;Cygwin&lt;/a&gt;) and TortoiseGit to play nice together. I didn&amp;rsquo;t find any good current documentation for this and had to mess around a bit to get the setup I now use, hence the reason for this post.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-1:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 1&lt;/h2&gt;
+
+&lt;p&gt;Download the latest version of &lt;a href=&#34;https://git-scm.com/download/win&#34; target=&#34;_blank&#34;&gt;Git for Windows&lt;/a&gt; and install it. I would recommend you use most of the default settings, including running Git from the Windows Command Prompt so you can use Cygwin as your command-line tool if you prefer it over Git Bash, which comes with this download.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/installing_git.png&#34; alt=&#34;Installing Git&#34; title=&#34;Installing Git&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;step-2:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 2&lt;/h2&gt;
+
+&lt;p&gt;Download the latest version of &lt;a href=&#34;https://tortoisegit.org&#34; target=&#34;_blank&#34;&gt;TortoiseGit&lt;/a&gt; and install it. There are no special steps to follow here, just keep hitting &amp;lsquo;next&amp;rsquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-3:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 3&lt;/h2&gt;
+
+&lt;p&gt;Generate an SSH key for your Github account following these &lt;a href=&#34;https://help.github.com/articles/generating-an-ssh-key&#34; target=&#34;_blank&#34;&gt;instructions&lt;/a&gt;. At the end, be sure to test your SSH connection:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ ssh -T git@github.com
+# Attempts to ssh to GitHub
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you did everything correctly here, two files should now exist in a .ssh folder of your home directory (for Windows this will be C:\Users\&lt;em&gt;username&lt;/em&gt;\.ssh). By the default they will be named id_rsa (the private SSH key) and id_rsa.pub (the public SSH key). If you have Microsoft Publisher installed on your computer, it will think the public key is a publisher file (because of the .pub extension). Use &amp;lsquo;open with&amp;rsquo; to view this key in a text editor tool like &lt;a href=&#34;https://notepad-plus-plus.org&#34; target=&#34;_blank&#34;&gt;Notepad++&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-4:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 4&lt;/h2&gt;
+
+&lt;p&gt;TortoiseGit uses a PuTTY private key file format, so you will need to generate a private key in this format using the private key you generated following the steps from Github. Search your programs and files for PuTTygen, which should have been installed with TortoiseGit. Open this program and go to Conversions &amp;gt; Import key.&lt;/p&gt;
+
+&lt;p&gt;Browse to the private key file you generated via &lt;code&gt;ssh-keygen&lt;/code&gt; (see step 4) and import this into PuTTygen. Click the &amp;lsquo;Save private key&amp;rsquo; button after you have imported your private SSH key to save it in PuTTY private key file format (.ppk). You will want to save it to the same location as your other keys (the .ssh folder of your home directory, C:\Users\&lt;em&gt;username&lt;/em&gt;\.ssh).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty_gen.PNG&#34; alt=&#34;PuTTY Key Generator&#34; title=&#34;PuTTY Key Generator&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/ssh_keys.PNG&#34; alt=&#34;SSH Keys&#34; title=&#34;SSH Keys&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;step-5:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 5&lt;/h2&gt;
+
+&lt;p&gt;In your Github repository, select &amp;lsquo;Clone with SSH&amp;rsquo; and copy the URL path to the clipboard (make sure it starts with &lt;code&gt;git@github.com&lt;/code&gt;). Use TortoiseGit to to clone a copy of your Github repository to your local machine (right click in the directory, then select Git Clone&amp;hellip;). Paste the copied URL path into TortoiseGit. Check &amp;lsquo;Load Putty Key&amp;rsquo; and browse to the .ppk file you created in Step 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/tortoisegit_clone.png&#34; alt=&#34;TortoiseGit Clone&#34; title=&#34;TortoiseGit Clone&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hit &amp;lsquo;OK&amp;rsquo; and that&amp;rsquo;s it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash (or Cygwin). I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/tortoisegit_repo.png&#34; alt=&#34;TortoiseGit Repo&#34; title=&#34;TortoiseGit Repo&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;andgoss@MYCOMPUTER MINGW64 /C/Github_AG/mssql-library (master)
+# Push source and build repos.
+git push origin master
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>http://andrewrgoss.com/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Predictive Analytics&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Stan&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;li&gt;Hadoop&lt;/li&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>&lt;p&gt;Came across an excellent article on &lt;a href=&#34;http://www.datasciencecentral.com&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt; that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWSome Day Boston</title>
+      <link>http://andrewrgoss.com/2016/awsome-day-boston/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/awsome-day-boston/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/awsome_day.png&#34; alt=&#34;AWSome Day&#34; title=&#34;AWSome Day&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Module 1&lt;/b&gt;: AWS Introduction and History&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 2&lt;/b&gt;: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 3&lt;/b&gt;: Security, Identity, and Access Management: IAM&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 4&lt;/b&gt;: Databases: Amazon DynamoDB and Amazon RDS&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 5&lt;/b&gt;: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud. It is particularly valuable as some of my working environment is being shifted to Amazon&amp;rsquo;s data warehouse solution, &lt;a href=&#34;https://aws.amazon.com/redshift&#34; target=&#34;_blank&#34;&gt;Amazon Redshift&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The slides from this event can be viewed &lt;a href=&#34;https://www.slideshare.net/secret/fcDgOrIt5Eldb6&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

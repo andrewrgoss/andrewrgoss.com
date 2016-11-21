@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/golang/</link>
+    <description>Recent content in Golang on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>http://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
+&lt;hr&gt;
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It’s open source (i.e. free) and intended to be simple yet expressive.&lt;/li&gt;
+&lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
+&lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
+&lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My aim in reading this book and completing the accompanying exercises was to gain a thorough understanding on the fundamentals of the Go programming language.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/27/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/golang-book&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

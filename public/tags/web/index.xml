@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/web/</link>
+    <description>Recent content in Web on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sun, 25 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I Switched from Wordpress to Hugo</title>
+      <link>http://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;/a&gt;&lt;br&gt;
+For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using &lt;a href=&#34;https://www.blogger.com&#34; target=&#34;_blank&#34;&gt;Blogger&lt;/a&gt; back in the day and most recently was using &lt;a href=&#34;https://wordpress.org&#34; target=&#34;_blank&#34;&gt;Wordpress&lt;/a&gt;. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the &lt;a href=&#34;http://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; programming language I stumbled across &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, a static site generator written in this language. I started experimenting with Hugo and instantly loved it. I experimented with several different themes and eventually migrated my blog from Wordpress to Hugo. Here are the features I like most about Hugo and how I compare it to Wordpress.&lt;/p&gt;
+
+&lt;h2 id=&#34;live-previews:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Live Previews&lt;/h2&gt;
+
+&lt;p&gt;Every time I prepared a post on Wordpress with text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview of the full site as I work. When I discovered Hugo and started experimenting with it, I fell in love with the &lt;code&gt;hugo server&lt;/code&gt; command. This is an inbuilt server that can serve up your website content so you can instantly preview changes as part of the full site the second you save them. There is a way to render drafts too with the &lt;code&gt;--buildDrafts&lt;/code&gt; parameter but I prefer just running the production version knowing that since my site is hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;, nothing will happen until I commit and push the changes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Change detected, rebuilding site
+2016-04-25 17:17 -0400
+0 draft content
+0 future content
+10 pages created
+13 paginator pages created
+9 tags created
+in 96 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;markdown-support:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Markdown Support&lt;/h2&gt;
+
+&lt;p&gt;The bash script code above is nicely formatted right? The fact that Hugo supports &lt;a href=&#34;https://daringfireball.net/projects/markdown&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; as well as straight-up HTML is another feature I greatly enjoy. For anyone unfamiliar with Markdown, it is a plain text formatting syntax that gets converted to HTML. Using Markdown makes it easier and much quicker to write technical posts as it supports syntax highlighting for a ton of languages. I knew that some of my more technical posts needed to contain code snippets but Wordpress isn&amp;rsquo;t too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post doesn&amp;rsquo;t work as it removes all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools. Yes, there are plugins to support this - but I&amp;rsquo;m comfortable working in Markdown and it&amp;rsquo;s nice to be able to write up content offline if needed.&lt;/p&gt;
+
+&lt;h2 id=&#34;free-hosting-with-github-pages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Free Hosting With Github Pages&lt;/h2&gt;
+
+&lt;p&gt;With Wordpress I used &lt;a href=&#34;https://www.bluehost.com&#34; target=&#34;_blank&#34;&gt;BlueHost&lt;/a&gt; as my web host, as many do with their Wordpress blogs. It is easy to use and cheap (I was paying $2.99 a month). Moreover, it has lots of features designed specifically for Wordpress usage. The setup was easy enough using a one-click install from the hosting dashboard and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. And while my monthly cost was small, I much prefer free. (who doesn&amp;rsquo;t?)&lt;/p&gt;
+
+&lt;h2 id=&#34;custom-themes:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Custom Themes&lt;/h2&gt;
+
+&lt;p&gt;I knew I wanted a minimalistic, responsive site that is easy to navigate without too much scrolling. I&amp;rsquo;m not going to deny that Hugo has nowhere near the numbers of themes that Wordpress does. On Wordpress I searched through probably hundreds of different themes before settling on &lt;a href=&#34;http://www.s5themes.com/theme/focused&#34; target=&#34;_blank&#34;&gt;Focused&lt;/a&gt;. Hugo is continuing to add more themes to its library but searching through them was a lot easier since they all live on the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo website&lt;/a&gt;. With Wordpress both free and paid themes are scattered across the interwebs. I also found the source code much easier to obtain for the Hugo themes since each one is free and links to its respective Github repository.&lt;/p&gt;
+
+&lt;h2 id=&#34;rendering-speed:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Rendering Speed&lt;/h2&gt;
+
+&lt;p&gt;Lastly, my site rendered very slowly with Wordpress/BlueHost. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. One of the most popular aspects of Go is speed as it is a langauge with subroutines baked in making it easy to execute concurrent processes. The Hugo static site generator is written in Go. A static site generator is an application that can take content in some original description (markdown in the case of Hugo) and render final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support such as Python/PHP/Go/Node/etc. This is because it does not require server-side processing to handle rendering pages on the fly. This makes the site very portable and simple to deploy and can be served out of aggressive caching.&lt;/p&gt;
+
+&lt;h2 id=&#34;disadvantages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating search. You either need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34; target=&#34;_blank&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;Google Custom Search Engine&#34; target=&#34;_blank&#34;&gt;Google Custom Search Engine&lt;/a&gt;, which is what I went for.&lt;/p&gt;
+
+&lt;p&gt;The other dynamic part of an ordinary blog is the comment section. Again, the easiest way to fix this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt;. Hugo offers &lt;a href=&#34;https://gohugo.io/extras/comments&#34; target=&#34;_blank&#34;&gt;support&lt;/a&gt; for this and makes it fairly simple to implement.&lt;/p&gt;
+
+&lt;p&gt;Even though Hugo does not come with search or a comments section as built-in features, I didn&amp;rsquo;t take issue with this as I quickly found ways to integrate them anyways. So to me, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34; target=&#34;_blank&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online (and I think I&amp;rsquo;m in pretty good shape with Github).&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But what you probably didn&amp;rsquo;t know is that the typical CMS driven website works by building each page on-demand, fetching content from a database and running it through a template engine. This means each page is assembled from templates and content on each request to the server. However, this is usually completely unnecessary overhead and only adds complexity, performance problems and security issues. After all, most websites only change when the content authors or their design team makes changes. As the sole proprieter of andrewrgoss.com, this was the case for me and my pages were often quite slow in loading.&lt;/p&gt;
+
+&lt;p&gt;So if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great &lt;a href=&#34;https://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo community&lt;/a&gt; for Q&amp;amp;A support.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

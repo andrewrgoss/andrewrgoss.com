@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aws on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/aws/</link>
+    <description>Recent content in Aws on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWSome Day Boston</title>
+      <link>http://andrewrgoss.com/2016/awsome-day-boston/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/awsome-day-boston/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/awsome_day.png&#34; alt=&#34;AWSome Day&#34; title=&#34;AWSome Day&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Module 1&lt;/b&gt;: AWS Introduction and History&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 2&lt;/b&gt;: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 3&lt;/b&gt;: Security, Identity, and Access Management: IAM&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 4&lt;/b&gt;: Databases: Amazon DynamoDB and Amazon RDS&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 5&lt;/b&gt;: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud. It is particularly valuable as some of my working environment is being shifted to Amazon&amp;rsquo;s data warehouse solution, &lt;a href=&#34;https://aws.amazon.com/redshift&#34; target=&#34;_blank&#34;&gt;Amazon Redshift&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The slides from this event can be viewed &lt;a href=&#34;https://www.slideshare.net/secret/fcDgOrIt5Eldb6&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career Management on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/career-management/</link>
+    <description>Recent content in Career Management on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. I&amp;rsquo;m best cast as the data engineer right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

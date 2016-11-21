@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/tags/data-science/</link>
+    <description>Recent content in Data Science on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. I&amp;rsquo;m best cast as the data engineer right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stages of the Analytics Life Cycle</title>
+      <link>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <description>
+
+&lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Data Acquisition&lt;/b&gt; – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data Cleaning/Transformation&lt;/b&gt; – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Analytics&lt;/b&gt; – This involves statistical and machine learning-based modeling in order to understand, describe, or predict patterns in the data.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Prescribing Actions&lt;/b&gt; – This involves interpreting analytical results through the lens of business priorities, and using data-driven insights to inform strategy.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Programming/Automation&lt;/b&gt; – In many cases, data scientists are responsible for creating libraries and utilities to operationalize or simplify various stages of this process. Often, they will contribute production-level code for a firm’s data products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: Burtch Works&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;big-data-analytics-lifecycle:fabfcdc15793a32766e038f5387cbc68&#34;&gt;Big Data Analytics Lifecycle&lt;/h2&gt;
+
+&lt;p&gt;Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2473128&amp;seqNum=11&#34; target=&#34;_blank&#34;&gt;InformIT&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>http://andrewrgoss.com/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Predictive Analytics&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Stan&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;li&gt;Hadoop&lt;/li&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>&lt;p&gt;Came across an excellent article on &lt;a href=&#34;http://www.datasciencecentral.com&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt; that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
