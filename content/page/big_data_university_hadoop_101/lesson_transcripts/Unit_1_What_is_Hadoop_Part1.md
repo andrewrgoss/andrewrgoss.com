@@ -1,3 +1,17 @@
+---
+author: "Andrew Goss"
+date: 2016-10-18
+title: Big Data University- Hadoop 101
+tags:
+  - big data
+  - hadoop
+---
+![Hadoop](/img/post/hadoop.png "Hadoop")<br>
+<a href="/2016/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> >> <a href="/page/big_data_university_hadoop_101/lesson_transcripts">Lesson Transcripts</a> >> <b>Unit_1_What_is_Hadoop_Part1</b>
+<hr>
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/-65WgvIJ5xo" frameborder="0" allowfullscreen></iframe>
+
 Hello everyone and welcome to Hadoop Fundamentals What is Hadoop. My name is Asma Desai and I will be covering this topic.
 
 In this video we will explain what is Hadoop and what is Big Data. We will define some Hadoop-related open source projects and give some examples of Hadoop in action. Finally we will end off with some Big Data solutions and the Cloud.

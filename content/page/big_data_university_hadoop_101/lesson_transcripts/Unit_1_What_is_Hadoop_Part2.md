@@ -1,4 +1,19 @@
+---
+author: "Andrew Goss"
+date: 2016-10-18
+title: Big Data University- Hadoop 101
+tags:
+  - big data
+  - hadoop
+---
+![Hadoop](/img/post/hadoop.png "Hadoop")<br>
+<a href="/2016/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> >> <a href="/page/big_data_university_hadoop_101/lesson_transcripts">Lesson Transcripts</a> >> <b>Unit_1_What_is_Hadoop_Part2</b>
+<hr>
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/PS5QSGAoLNw" frameborder="0" allowfullscreen></iframe>
+
 This is a list of some other open source project related to Hadoop:
+
 - Eclipse is a popular IDE donated by IBM to the open-source community
 - Lucene is a text search engine library written in Java
 - Hbase is a Hadoop database 

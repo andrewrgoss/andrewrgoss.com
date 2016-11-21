@@ -1,8 +1,23 @@
+---
+author: "Andrew Goss"
+date: 2016-10-18
+title: Big Data University- Hadoop 101
+tags:
+  - big data
+  - hadoop
+---
+![Hadoop](/img/post/hadoop.png "Hadoop")<br>
+<a href="/2016/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> >> <a href="/page/big_data_university_hadoop_101/lesson_transcripts">Lesson Transcripts</a> >> <b>Unit_2_Hadoop_Architecture_Part1</b>
+<hr>
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/8AtrYcqO5ho" frameborder="0" allowfullscreen></iframe>
+
 Welcome to the unit of Hadoop Fundamentals on Hadoop architecture.
 I will begin with a terminology review and then cover the major components
 of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about
 how Hadoop uses replication to lessen data loss. Finally I will explain an important
 feature of Hadoop called "rack awareness" or "network topology awareness".
+
 Before we examine Hadoop components and architecture, let's review some of the
 terms that are used in this discussion. A node is simply a computer. This is typically
 non-enterprise, commodity hardware for nodes that contain data. So in this example,
@@ -12,7 +27,8 @@ physically stored close together and are all connected to the same network switc
 Network bandwidth between any two nodes in the same rack is greater than bandwidth
 between two nodes on different racks. You will see later how Hadoop takes advantage
 of this fact. A Hadoop Cluster (or just cluster from
-now on) is a collection of racks
+now on) is a collection of racks.
+
 Let us now examine the pre-Hadoop 2.2 architecture. Hadoop has two major components:
 - the distributed filesystem component, the main example of which is the Hadoop
 Distributed File System, though other file systems, such as IBM Spectrum Scale, are supported.
@@ -20,6 +36,7 @@ Distributed File System, though other file systems, such as IBM Spectrum Scale, 
 the data in the distributed file system. Pre-Hadoop 2.2 MapReduce is referred to as MapReduce
 V1 and has its own built-in resource manager and schedule. This unit covers the Hadoop
 Distributed File System and MapReduce is covered separately.
+
 Let's now examine the Hadoop distributed file system - HDFS
 HDFS runs on top of the existing file systems on each node in a Hadoop cluster. It is not
 POSIX compliant. It is designed to tolerate high component failure rate through replication
@@ -33,12 +50,14 @@ streaming or sequential data access rather than random access. Sequential data a
 means fewer seeks, since Hadoop only seeks to the beginning of each block and begins
 reading sequentially from there. Hadoop uses blocks to store a file or parts
 of a file. This is shown in the figure.
+
 Let us now examine file blocks in more detail. A Hadoop block is a file on the underlying
 filesystem. Since the underlying filesystem stores files as blocks, one Hadoop block may
 consist of many blocks in the underlying file system. Blocks are large. They default to
 64 megabytes each and most systems run with block sizes of 128 megabytes or larger. Blocks
 have several advantages: Firstly, they are fixed in size. This makes
 it easy to calculate how many can fit on a disk.
+
 Secondly, by being made up of blocks that can be spread over multiple nodes, a file
 can be larger than any single disk in the cluster. HDFS blocks also don't waste space.
 If a file is not an even multiple of the block size, the block containing the remainder does
@@ -52,6 +71,7 @@ on node 2 and node 3. This allows for node failure without data loss. If node 1 
 node 2 still runs and has block 1's data. In this example, we are only replicating data
 across two nodes, but you can set replication to be across many more nodes by changing Hadoop's
 configuration or even setting the replication factor for each individual file.
+
 The second major component of Hadoop, described in detail in another lecture, is the MapReduce
 component. HDFS was based on a paper Google published about their Google File System,
 Hadoop's MapReduce is inspired by a paper Google published on the MapReduce technology.
@@ -68,6 +88,7 @@ Checkpoint node, and Backup node that are not discussed in this course. This dia
 shows some of the communication paths between the different types of nodes on the system.
 A client is shown as communicating with a JobTracker. It can also communicate with the
 NameNode and with any DataNode.
+
 There is only one NameNode in the cluster. While the data that makes up a file is stored
 in blocks at the data nodes, the metadata for a file is stored at the NameNode. The
 NameNode is also responsible for the filesystem namespace. To compensate for the fact that
@@ -76,6 +97,7 @@ information to multiple locations, such as a local disk and an NFS mount. If the
 one node in the cluster to spend money on the best enterprise hardware for maximum reliability,
 it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
 the entire filesystem metadata in memory.
+
 A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
 from different files can be stored on the same DataNode. When a client requests a file,
 the client finds out from the NameNode which DataNodes stored the blocks that make up that
@@ -84,6 +106,7 @@ also reports to the NameNode periodically with the list of blocks it stores. Dat
 do not require expensive enterprise hardware or replication at the hardware layer. The
 DataNodes are designed to run on commodity hardware and replication is provided at the
 software layer.
+
 A JobTracker node manages MapReduce V1 jobs. There is only one of these on the cluster.
 It receives jobs submitted by clients. It schedules the Map tasks and Reduce tasks on
 the appropriate TaskTrackers, that is where the data resides, in a rack-aware manner and
@@ -91,4 +114,3 @@ it monitors for any failing tasks that need to be rescheduled on a different
 TaskTracker. To achieve the parallelism for your map and reduce tasks, there are many
 TaskTrackers in a Hadoop cluster. Each TaskTracker spawns Java Virtual Machines to run your map
 or reduce task. It communicates with the JobTracker and reads blocks from DataNodes.
-This lesson continues in the next video.
