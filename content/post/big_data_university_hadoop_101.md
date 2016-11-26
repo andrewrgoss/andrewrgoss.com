@@ -17,3 +17,5 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
 * Hadoop's architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).
 * Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.
 * Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.
+
+<a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" class="btn" target="_blank">View course</a>

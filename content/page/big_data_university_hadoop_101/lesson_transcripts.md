@@ -11,3 +11,5 @@ title: Big Data University- Hadoop 101
 <a href="/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2">Unit_1 --------------- What_is_Hadoop_Part2</a>
 
 <a href="/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1">Unit_2 --------------- Hadoop_Architecture_Part1</a>
+
+<a href="/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part2">Unit_2 --------------- Hadoop_Architecture_Part2</a>

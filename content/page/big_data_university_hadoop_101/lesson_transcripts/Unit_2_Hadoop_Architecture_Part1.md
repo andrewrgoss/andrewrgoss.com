@@ -69,6 +69,8 @@ node 2 still runs and has block 1's data. In this example, we are only replicati
 across two nodes, but you can set replication to be across many more nodes by changing Hadoop's
 configuration or even setting the replication factor for each individual file.
 
+![HDFS Replication](/img/page/big_data_university_hadoop_101/hdfs_replication.png "HDFS Replication")
+
 The second major component of Hadoop, described in detail in another lecture, is the MapReduce
 component. HDFS was based on a paper Google published about their Google File System,
 Hadoop's MapReduce is inspired by a paper Google published on the MapReduce technology.
@@ -94,6 +96,8 @@ information to multiple locations, such as a local disk and an NFS mount. If the
 one node in the cluster to spend money on the best enterprise hardware for maximum reliability,
 it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
 the entire filesystem metadata in memory.
+
+![Types of Nodes](/img/page/big_data_university_hadoop_101/types_of_nodes.png "Types of Nodes")
 
 A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
 from different files can be stored on the same DataNode. When a client requests a file,
