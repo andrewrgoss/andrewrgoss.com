@@ -18,4 +18,8 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
 * Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.
 * Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.
 
+The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:
+
+![HDFS Command Line](/img/page/big_data_university_hadoop_101/hdfs_command_line.png "HDFS Command Line")
+
 <a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" class="btn" target="_blank">View course</a>
