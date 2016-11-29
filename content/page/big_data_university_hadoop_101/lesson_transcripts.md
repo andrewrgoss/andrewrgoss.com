@@ -15,3 +15,7 @@ title: Big Data University- Hadoop 101
 <a href="/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part2">Unit_2 --------------- Hadoop_Architecture_Part2</a>
 
 <a href="/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_HDFS_Command_Line">Unit_2 --------------- HDFS_Command_Line</a>
+
+<p class="blocked">AdBlock is enabled.</p>
+
+<p class="notblocked">AdBlock is disabled.</p>
