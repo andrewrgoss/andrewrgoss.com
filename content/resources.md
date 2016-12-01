@@ -52,7 +52,7 @@ Collection of free, downloadable, and categorized datasets that have gone throug
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
 
 #### Data Mining in Python: A Guide
-Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools – from cleaning and data organization to applying machine learning algorithms.<br>
+Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
 
 #### Handy Python Libraries for Formatting and Cleaning Data
