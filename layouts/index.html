@@ -8,7 +8,12 @@
 
     	{{ partial "pagination.html" $paginator }}
 		</main>
-        
+<select onChange="window.location.href=this.value">
+    <option value="">Select Page</option>
+    <option value="/">Page 1</option>
+    <option value="/page/2/">Page 2</option>
+    <option value="/page/3/">Page 3</option>
+</select>		        
 <script type="application/ld+json">
 { 
     "@context": "http://schema.org",
@@ -30,4 +35,5 @@
     }
 }
 </script>
+<hr>
 {{ partial "footer.html" . }}
