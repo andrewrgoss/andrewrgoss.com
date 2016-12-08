@@ -27,6 +27,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 ## <a name="career_management"></a>Career Management
 <hr>
 
+#### 3 Data Career Paths Decoded
+Helpful article that compares and contrasts the role of a data analyst vs. data scientist vs. data engineer.<br>
+<a href="http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html" target="_blank">blog.udacity.com/data-analyst-vs-data-scientist-vs-data-engineer</a>
+
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
