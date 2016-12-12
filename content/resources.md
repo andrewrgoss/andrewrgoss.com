@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -51,10 +51,6 @@ This webpage covers the space and time Big-O complexities of common algorithms u
 Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
-#### Crowdflower: Data for Everyone
-Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
-<a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
-
 #### Data Mining in Python: A Guide
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
@@ -86,6 +82,18 @@ Open source R packages that allow access to data repositories and provide progra
 #### TechPizza
 This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.<br>
 <a href="http://techpizza.org" target="_blank">techpizza.org</a>
+
+<hr>
+## <a name="datasets"></a>Datasets
+<hr>
+
+#### Crowdflower: Data for Everyone
+Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
+<a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
+
+#### Data.World: The Social Network for Data People
+Discover and share cool data, connect with interesting people, and work together to solve problems faster. Users can find and use a vast array of high-quality open data.<br>
+<a href="https://data.world" target="_blank">data.world</a>
 
 <hr>
 ## <a name="data_storage"></a>Data Storage
