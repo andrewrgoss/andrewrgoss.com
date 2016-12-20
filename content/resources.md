@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I've found to be the most helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -150,6 +150,14 @@ Offers sandbox environments for developers to play around with and modify live s
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
+
+<hr>
+## <a name="web_app_frameworks"></a>Web Application Frameworks
+<hr>
+
+#### Python Web Frameworks
+This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used. Also provides general overview of web application frameworks and what they do.<br>
+<a href="https://www.oreilly.com/learning/python-web-frameworks" target="_blank">oreilly.com/learning/python-web-frameworks</a>
 
 <hr>
 ## <a name="web_services"></a>Web Services
