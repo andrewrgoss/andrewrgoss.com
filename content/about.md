@@ -18,6 +18,6 @@ In supporting these organizations, my cross-functional roles have included data 
 
 As a consultant/project manager, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project estimates, status, and risks. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.
 
-With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I've come across many great <a href="/resources">resources</a> and ideas that I also <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
+With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I've come across many great <a href="/resources">resources</a> and industry trends that I also <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 
 Need help on a data project or have ideas you want to discuss further? <a href="mailto:andrewrgoss@gmail.com">Shoot me a note!</a>
