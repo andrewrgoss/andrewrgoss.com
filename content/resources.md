@@ -107,6 +107,10 @@ The term NoSQL has come to be synonymous with schema-less, non-relational data s
 ## <a name="data_viz"></a>Data Visualization
 <hr>
 
+#### Google Charts
+Google Charts is a JavaScript-based tool that lets people easily create a chart from some data and embed it in a web page. It's free and has a solid library of interactive charts and data tools available for use.<br>
+<a href="https://developers.google.com/chart" target="_blank">developers.google.com/chart</a>
+
 #### Google Data Studio
 Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
