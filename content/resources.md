@@ -103,6 +103,10 @@ Discover and share cool data, connect with interesting people, and work together
 The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
 <a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
 
+#### What Is ETL?
+ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
+<a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl/</a>
+
 <hr>
 ## <a name="data_viz"></a>Data Visualization
 <hr>
