@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2016-10-18
+date: 2017-01-07
 title: Big Data University- Hadoop 101
 tags:
   - big data
@@ -10,7 +10,7 @@ tags:
 <b>Course Code</b>: BD0111EN<br>
 <a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" target="_blank">Course Link</a><br>
 <a href="https://my.imdemocloud.com" target="_blank">IBM Analytics Demo Cloud</a><br>
-<a href="/page/big_data_university_hadoop_101/lesson_transcripts">Lesson Transcripts</a>
+<a href="/page/big_data_university_hadoop_101/lesson_transcripts_labs">Lesson Transcripts/Labs</a>
 <hr>
 Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
 

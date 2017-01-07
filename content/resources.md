@@ -105,7 +105,7 @@ The term NoSQL has come to be synonymous with schema-less, non-relational data s
 
 #### What Is ETL?
 ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
-<a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl/</a>
+<a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl</a>
 
 <hr>
 ## <a name="data_viz"></a>Data Visualization
