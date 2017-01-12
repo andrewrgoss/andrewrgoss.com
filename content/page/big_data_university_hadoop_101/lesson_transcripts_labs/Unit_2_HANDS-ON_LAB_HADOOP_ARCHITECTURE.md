@@ -9,4 +9,4 @@ title: Big Data University- Hadoop 101
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/35ZKvSjAoSo" frameborder="0" allowfullscreen></iframe>
 
-<a href="/img/page/big_data_university_hadoop_101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf" class="btn" target="_blank">Lab Exercises</a>
+<a href="/img/page/big_data_university_hadoop_101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf" class="btn" target="_blank">Lab exercises</a>
