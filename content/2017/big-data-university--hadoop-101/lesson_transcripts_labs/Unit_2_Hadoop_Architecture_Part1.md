@@ -4,7 +4,7 @@ date: 2016-10-18
 title: Big Data University- Hadoop 101
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
-<a href="/2016/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> >> <a href="/page/big_data_university_hadoop_101/lesson_transcripts_labs">Lesson Transcripts/Labs</a> >> <b>Unit_2_Hadoop_Architecture_Part1</b>
+<a href="/2017/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> >> <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs">Lesson Transcripts/Labs</a> >> <b>Unit_2_Hadoop_Architecture_Part1</b>
 <hr>
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/8AtrYcqO5ho" frameborder="0" allowfullscreen></iframe>
