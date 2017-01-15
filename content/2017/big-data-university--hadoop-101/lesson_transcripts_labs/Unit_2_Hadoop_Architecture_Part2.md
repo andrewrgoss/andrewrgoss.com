@@ -21,7 +21,7 @@ still supported.
 There are two main ideas with YARN. Provide generic scheduling and resource management. This way Hadoop can support more than just
 MapReduce. The other is to try to provide a more efficient scheduling and workload management.
 
-![YARN](/img/page/big_data_university_hadoop_101/yarn.png "YARN")
+![YARN](/img/2017/big-data-university--hadoop-101/yarn.png "YARN")
 
 With MapReduce V1, the administrator had to define how many
 map slots and how many reduce slots there were on each node. Since the hardware capabilities
@@ -52,7 +52,7 @@ that has blocks on DataNode 1 and DataNode 2 might be owned by NameNode 1. NameN
 might own a file that has blocks on DataNode 2 and DataNode 3. And NameNode 3 might have
 a file with blocks on all three DataNodes.
 
-![Hadoop Federation](/img/page/big_data_university_hadoop_101/hadoop_federation.png "Hadoop Federation")
+![Hadoop Federation](/img/2017/big-data-university--hadoop-101/hadoop_federation.png "Hadoop Federation")
 
 Hadoop has awareness of the topology of the network. This allows it to optimize where
 it sends the computations to be applied to the data. Placing the work as close as possible
