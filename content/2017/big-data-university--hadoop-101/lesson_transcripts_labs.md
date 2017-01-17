@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2016-10-18
+date: 2017-01-07
 title: Big Data University- Hadoop 101
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
@@ -18,8 +18,12 @@ title: Big Data University- Hadoop 101
 
 <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line">Unit_2 --------------- HDFS_Command_Line</a>
 
-<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE">Unit_2 --------------- HANDS-ON_LAB_HADOOP_ARCHITECTURE</a>
+<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Lab">Unit_2 --------------- Hadoop_Architecture_Lab</a>
 
 <hr>
 
 <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration">Unit_3 --------------- Hadoop_Administration</a>
+
+<hr>
+
+<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce">Unit_4 --------------- MapReduce</a>

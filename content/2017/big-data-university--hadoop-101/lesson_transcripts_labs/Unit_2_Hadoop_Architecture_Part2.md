@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2016-10-18
+date: 2017-01-07
 title: Big Data University- Hadoop 101
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
