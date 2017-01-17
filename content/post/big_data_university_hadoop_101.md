@@ -12,14 +12,18 @@ tags:
 <a href="https://my.imdemocloud.com" target="_blank">IBM Analytics Demo Cloud</a><br>
 <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs">Lesson Transcripts/Labs</a>
 <hr>
-Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
+My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
 
 * Hadoop's architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).
 * Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.
 * Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.
 
-The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:
+The course provides an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:
 
 ![HDFS Command Line](/img/page/big_data_university_hadoop_101/hdfs_command_line.png "HDFS Command Line")
+
+<hr>
+##### Course Progress
+<progress max="1.0" value="0.75"></progress>
 
 <a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" class="btn" target="_blank">View course</a>
