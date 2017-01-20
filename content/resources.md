@@ -51,6 +51,10 @@ This webpage covers the space and time Big-O complexities of common algorithms u
 Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
+#### Best Practices for ML Engineering
+This guide is intended to help those with a basic knowledge of machine learning get the benefit of best practices in machine learning. If you have taken a class in machine learning, built, or worked on a machine-learned model, then you have the necessary background to read this document.<br>
+<a href="http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf" target="_blank">martin.zinkevich.org/rules_of_ml.pdf</a>
+
 #### Data Mining in Python: A Guide
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>

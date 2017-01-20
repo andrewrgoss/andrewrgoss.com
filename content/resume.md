@@ -19,6 +19,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 ![Fitbit](/img/Fitbit_logo.png "Fitbit")
 ![HP Inc.](/img/HP_logo.png "HP Inc.")
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
+![Merrill Edge](/img/Merrill_Edge_logo.png "Merrill Edge")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
 ![Sprint](/img/Sprint_logo.png "Sprint")
 ![Taco Bell](/img/TB_logo.png "Taco Bell")
@@ -26,13 +27,13 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 
 <hr>
 ### Core Competencies
-![Application Development](/img/coding.png "Application Development")
+![Data Engineering](/img/gears.png "Data Engineering")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
-![Marketing Automation](/img/gears.png "Marketing Automation")
+![Application Development](/img/coding.png "Application Development")
 ![Project Management](/img/projectmanagement.png "Project Management")
 
-<sub>Application Development, Business Intelligence, Database Architecture, Data Engineering, Project Management</sub><br>
+<sub>Data Engineering --- Business Intelligence --- Database Architecture --- Application Development --- Project Management</sub><br>
 
 <b>Other specialties:</b> marketing analytics, data analysis, ETL scripting, RESTful web services, database design, consulting, vendor management, business intelligence, marketing automation, marketing operations, data mining, data warehousing
 
@@ -43,6 +44,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 * <b>BUSINESS INTELLIGENCE:</b> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">Microsoft Excel&nbsp;<img src="/img/msexcel.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>
 * <b>CHANGE MANAGEMENT:</b> <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp; <a href="https://subversion.apache.org" target="_blank">Subversion&nbsp;<img src="/img/subversion.png"></a>
+* <b>DOCUMENTATION:</b> <a href="https://www.alfresco.com" target="_blank">Alfresco&nbsp;<img src="/img/alfresco.png"></a>&nbsp;&nbsp;<a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
 * <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio<img src="/img/talend.png"></a>
 * <b>IDES:</b> <a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
 * <b>MARKETING AUTOMATION:</b> <a href="https://www.oracle.com/marketingcloud/products/marketing-automation/index.html" target="_blank">Eloqua&nbsp;<img src="/img/eloqua.png"></a>&nbsp;&nbsp;<a href="https://www.marketo.com" target="_blank">Marketo&nbsp;<img src="/img/marketo.png"></a>
