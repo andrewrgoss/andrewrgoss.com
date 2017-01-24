@@ -11,10 +11,6 @@ title: "Resources"
 ## <a name="business_intelligence"></a>Business Intelligence
 <hr>
 
-#### Google's My Activity Page
-This portal reveals everything Google knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
-<a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
-
 #### OLAP Cubes
 A nice intro guide on what these are and why they are used.<br>
 <a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
@@ -98,6 +94,10 @@ Collection of free, downloadable, and categorized datasets that have gone throug
 #### Data.World: The Social Network for Data People
 Discover and share cool data, connect with interesting people, and work together to solve problems faster. Users can find and use a vast array of high-quality open data.<br>
 <a href="https://data.world" target="_blank">data.world</a>
+
+#### Google's My Activity Page
+This portal reveals everything Google knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
+<a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
 
 <hr>
 ## <a name="data_storage"></a>Data Storage
