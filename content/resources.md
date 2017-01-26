@@ -27,6 +27,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 Helpful article that compares and contrasts the role of a data analyst vs. data scientist vs. data engineer.<br>
 <a href="http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html" target="_blank">blog.udacity.com/data-analyst-vs-data-scientist-vs-data-engineer</a>
 
+#### Google Cloud Certification - Data Engineer
+A Google Certified Professional - Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. To earn this certification you must pass the in-person exam. This webpage offers a collection of useful training resources and reference materials aimed at achieving this certification.<br>
+<a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
+
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
