@@ -4,11 +4,11 @@ description = "Andrew Goss Background"
 +++
 > <b>TL;DR</b> -- Data engineer, technical consultant, and business intelligence developer working to solve analytic challenges at the intersection of marketing and technology.
 
-My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital and offline interactions, I work to wrangle this data and derive value from it.
+My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
 
 ## My Background
 
-I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where my team uses a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global data science teams. Using both traditional RDBMS and newer open source software frameworks like Hadoop, we handle large volumes of structured and unstructured data. 
+I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where my team uses a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global data science teams. Using both traditional RDBMS and newer open source software frameworks like Hadoop, we handle large volumes of structured and semi-structured data. 
 
 In centralizing disparate data streams, we help provide the structure necessary to enable crucial cross-platform analytics. Through the use of data science, our teams summarize the data story for each client in order to measure marketing campaign effectiveness, apply predictive modeling, and ultimately influence consumer brand affiliations and buying patterns.
 
