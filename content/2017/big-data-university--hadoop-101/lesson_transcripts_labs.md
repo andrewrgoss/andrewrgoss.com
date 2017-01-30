@@ -27,3 +27,7 @@ title: Big Data University- Hadoop 101
 <hr>
 
 <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce">Unit_4 --------------- MapReduce</a>
+
+<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive">Unit_4 --------------- Pig_Hive</a>
+
+<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie">Unit_4 --------------- Flume_Sqoop_Oozie</a>
