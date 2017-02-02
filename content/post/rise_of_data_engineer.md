@@ -5,7 +5,7 @@ date: "2017-02-03"
 tags:
   - "data engineering"
 ---
-<sub><i>written by Maxime Beauchemin</i></sub>
+<sub><i>written by <a href="https://medium.freecodecamp.com/@maximebeauchemin" target="_blank">Maxime Beauchemin</a></i></sub>
 
 ### Data Engineering?
 Data science as a discipline was going through its adolescence of self-affirming and defining itself. At the same time, data engineering was the slightly younger sibling, but it was going through something similar. The data engineering discipline took cues from its sibling, while also defining itself in opposition, and finding its own identity.
