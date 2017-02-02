@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### Summary
-Data engineer/analyst with 5+ years of experience developing innovative solutions related to data integration, data warehousing, and advanced analytics. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer with 5+ years of experience developing innovative solutions related to data integration, data warehousing, and advanced analytics. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### Clients Served
@@ -35,7 +35,7 @@ Data engineer/analyst with 5+ years of experience developing innovative solution
 
 <sub>Data Engineering --- Business Intelligence --- Database Architecture --- Application Development --- Project Management</sub><br>
 
-<b>Other specialties:</b> marketing analytics, data analysis, ETL scripting, RESTful web services, database design, consulting, vendor management, business intelligence, marketing automation, marketing operations, data mining, data warehousing
+<b>Other specialties:</b> big data, marketing analytics, data analysis, ETL scripting, RESTful web services, database design, consulting, vendor management, business intelligence, marketing automation, marketing operations, data mining, data warehousing
 
 <hr>
 ### Tools & Technologies
