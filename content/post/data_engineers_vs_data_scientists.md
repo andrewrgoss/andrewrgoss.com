@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 title: "Data Engineers vs. Data Scientists"
-date: "2017-02-01"
+date: "2016-09-29"
 tags:
   - "data engineering"
   - "data science"

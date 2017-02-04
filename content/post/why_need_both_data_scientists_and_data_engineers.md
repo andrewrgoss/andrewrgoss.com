@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 title: "We Need Both Data Scientists & Data Engineers"
-date: "2017-02-02"
+date: "2016-12-27"
 tags:
   - "data engineering"
   - "data science"
