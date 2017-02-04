@@ -4,7 +4,7 @@ date: 2016-07-18
 title: Udemy- Ultimate Python Programming Tutorial
 tags:
   - python
-  - udemy
+  - self-study
 ---
 ![Python](/img/post/python.png "Python")<br>
 <a href="https://www.udemy.com/certificate/UC-H1VZZXZV" target="_blank">COMPLETION CERTIFICATE</a>

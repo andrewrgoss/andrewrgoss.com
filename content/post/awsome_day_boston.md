@@ -5,6 +5,7 @@ title: AWSome Day Boston
 tags:
   - AWS
   - cloud computing
+  - events
 ---
 ![AWSome Day](/img/post/awsome_day.png "AWSome Day")<br>
 

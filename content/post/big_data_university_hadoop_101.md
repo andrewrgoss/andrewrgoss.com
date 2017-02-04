@@ -5,6 +5,7 @@ title: Big Data University- Hadoop 101
 tags:
   - big data
   - hadoop
+  - self-study
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
 <b>Course Code</b>: BD0111EN<br>

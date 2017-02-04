@@ -3,7 +3,8 @@ author: "Andrew Goss"
 date: 2016-05-20
 title: Open Data Science Conference East
 tags:
-  - Data Science
+  - data science
+  - events
 ---
 <a href="https://www.odsc.com/boston" target="_blank">![Open Data Science Conference](/img/post/odsc.png "Open Data Science Conference")</a><br>
 
