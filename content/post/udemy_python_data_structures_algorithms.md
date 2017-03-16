@@ -12,7 +12,7 @@ tags:
 <hr>
 Working on furthering my Python skills in the following areas:
 
-* Algorithm Analysis and Big-O Notation
+* <a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o" target="_blank">Algorithm Analysis and Big-O Notation</a>
 * Array Sequences
 * Stacks Queues and Deques
 * Linked Lists
@@ -26,8 +26,8 @@ Additionally, this course focuses on some of the 'soft skills' needed to advance
 
 <hr>
 ##### Course Progress
-<progress max="1.0" value="0.21"></progress>
+<progress max="1.0" value="0.22"></progress>
 
-21% - <font color="green">IN PROGRESS</font>.
+22% - <font color="green">IN PROGRESS</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms" class="btn" target="_blank">View my code on GitHub</a>
