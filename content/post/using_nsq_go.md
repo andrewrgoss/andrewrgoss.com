@@ -22,7 +22,7 @@ It promotes distributed and decentralized topologies without single points of fa
 
 With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.
 
-## Installing NSQ (on Linux)
+## Installing NSQ (on Linux VM)
 
 ```bash
 $ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
@@ -38,8 +38,20 @@ $ nsqd --lookupd-tcp-address=127.0.0.1:4160 &
 $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &
 ```
 
-If done successfully this will show web UI:
+If done successfully you will be able to view a web UI that looks like this:
 
 <img src="http://nsq.io/static/img/nsqadmin_screenshot.png"></img>
 
 `nsqadmin` is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.
+
+## Writing Your Go Program
+
+To import the NSQ client library, use a `go get` command:
+
+```bash
+$ go get github.com/nsqio/go-nsq
+```
+
+### Creating a Consumer
+
+I like creating the consumer first so I can see the handler in action after pushing a message with a producer (in the next section).
