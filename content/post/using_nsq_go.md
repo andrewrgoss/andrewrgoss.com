@@ -60,31 +60,18 @@ I like creating the consumer first so I can see the handler in action after push
 package main
 
 import (
-	"fmt"
 	"log"
 	"sync"
 
 	"github.com/nsqio/go-nsq"
-	"github.com/spf13/viper"
 )
-
-func init() {
-	log.SetFlags(log.LstdFlags | log.Lshortfile) // set logging config
-
-	viper.SetConfigName("config") // name of config file (without extension)
-	viper.AddConfigPath(".") // location of config file (in working directory)
-	err := viper.ReadInConfig() // find and read config file
-	if err != nil { // handle errors reading config file
-		panic(fmt.Errorf("Fatal error config file: %s \n", err))
-	}
-}
 
 func main() {
 	wg := &sync.WaitGroup{}
   	wg.Add(1)
 
 	decodeConfig := nsq.NewConfig()
-	c, err := nsq.NewConsumer(viper.GetString("nsq.topic"), viper.GetString("nsq.channel"), decodeConfig)
+	c, err := nsq.NewConsumer("My NSQ Topic", "My NSQ Channel", decodeConfig)
 	if err != nil {
         log.Panic("Could not create consumer")
     }
