@@ -28,12 +28,12 @@ Data engineer and software developer experienced in building business intelligen
 <hr>
 ### Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
+![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture") 
-![Application Development](/img/coding.png "Application Development")
 ![Project Management](/img/projectmanagement.png "Project Management")
 
-<sub>Data Engineering --- Business Intelligence --- Database Architecture --- Application Development --- Project Management</sub><br>
+<sub>Data Engineering --- Application Development --- Business Intelligence --- Database Architecture --- Project Management</sub><br>
 
 <b>Other specialties:</b> ETL, RESTful web services, big data, database design, vendor management, marketing analytics, marketing operations, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
