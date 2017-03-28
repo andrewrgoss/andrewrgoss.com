@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### Summary
-Data engineer with 5+ years of experience developing innovative solutions related to data integration, data warehousing, and advanced analytics. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer and software developer experienced in building business intelligence and programmatic media applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### Clients Served
@@ -33,9 +33,9 @@ Data engineer with 5+ years of experience developing innovative solutions relate
 ![Application Development](/img/coding.png "Application Development")
 ![Project Management](/img/projectmanagement.png "Project Management")
 
-<sub>Data Engineering --- Business Intelligence --- Database Architecture --- Backend Application Development --- Project Management</sub><br>
+<sub>Data Engineering --- Business Intelligence --- Database Architecture --- Application Development --- Project Management</sub><br>
 
-<b>Other specialties:</b> ETL scripting, CLI, RESTful web services, big data, database design, vendor management, business intelligence, marketing analytics, data analysis, marketing operations, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> ETL, RESTful web services, big data, database design, vendor management, marketing analytics, marketing operations, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### Tools & Technologies
@@ -59,7 +59,7 @@ Data engineer with 5+ years of experience developing innovative solutions relate
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
 **<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
 Manager, Media Systems & Techology
-<p><sub>Working with evolving data engineering technologies to build the systems and architectures behind business intelligence tools used extensively by data science teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics that help tell the marketing/advertising data story for each client.</sub></p>
+<p><sub>Working with evolving open source technologies to build the systems and architectures behind business intelligence and programmatic media tools used data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
 **<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>

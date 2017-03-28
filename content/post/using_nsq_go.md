@@ -3,7 +3,7 @@ author: "Andrew Goss"
 title: "Getting Started With NSQ for Go"
 date: "2017-03-23"
 tags:
-  - "go"
+  - "golang"
   - "nsq"
 ---
 <a href="http://nsq.io" target="_blank">![NSQ](/img/post/nsq.png "NSQ")</a><br>

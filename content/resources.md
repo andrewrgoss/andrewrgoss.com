@@ -3,9 +3,9 @@ author: "Andrew Goss"
 title: "Resources"
 ---
 
-> There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">shoot me a note</a>. I'm continuing to add to this over time.
+> There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="business_intelligence"></a>Business Intelligence
@@ -166,6 +166,14 @@ Offers sandbox environments for developers to play around with and modify live s
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
+
+<hr>
+## <a name="software_development"></a>Software Development
+<hr>
+
+#### Queues
+This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
+<a href="http://queues.io" target="_blank">queues.io</a>
 
 <hr>
 ## <a name="web_app_frameworks"></a>Web Application Frameworks
