@@ -83,11 +83,11 @@ func main() {
 		return nil
 	}))
 
-	err = c.ConnectToNSQD(viper.GetString("nsq.ipaddr"))
+	err = c.ConnectToNSQD("127.0.0.1:4150")
 	if err != nil {
 		log.Panic("Could not connect")
 	}
-	log.Println("Awaiting messages from NSQ topic "+viper.GetString("nsq.topic")+"...")
+	log.Println("Awaiting messages from NSQ topic \"My NSQ Topic\"...")
 	wg.Wait()
 }
 ```
