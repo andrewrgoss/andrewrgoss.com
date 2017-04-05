@@ -8,7 +8,7 @@ tags:
 ---
 <a href="http://nsq.io" target="_blank">![NSQ](/img/post/nsq.png "NSQ")</a><br>
 
-I've been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I'd like to share how I got started using NSQ for <a href="https://golang.org" target="_blank">Go</a>. 
+I've been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I'd like to share how you can get started with NSQ by sending and receiving a simple message by writing some <a href="https://golang.org" target="_blank">Go</a> code.
 
 ## What is NSQ?
 
@@ -60,42 +60,48 @@ I like creating the consumer first so I can see the handler in action after push
 package main
 
 import (
-	"log"
-	"sync"
+    "log"
+    "sync"
 
-	"github.com/nsqio/go-nsq"
+    "github.com/nsqio/go-nsq"
 )
 
 func main() {
-	wg := &sync.WaitGroup{}
-  	wg.Add(1)
+    wg := &sync.WaitGroup{}
+    wg.Add(1)
 
-	decodeConfig := nsq.NewConfig()
-	c, err := nsq.NewConsumer("My NSQ Topic", "My NSQ Channel", decodeConfig)
-	if err != nil {
+    decodeConfig := nsq.NewConfig()
+    c, err := nsq.NewConsumer("My_NSQ_Topic", "My_NSQ_Channel", decodeConfig)
+    if err != nil {
         log.Panic("Could not create consumer")
     }
-	//c.MaxInFlight defaults to 1
+    //c.MaxInFlight defaults to 1
 
-	c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
-		log.Println("NSQ message received:")
-		log.Println(string(message.Body))
-		return nil
-	}))
+    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
+        log.Println("NSQ message received:")
+        log.Println(string(message.Body))
+        return nil
+    }))
 
-	err = c.ConnectToNSQD("127.0.0.1:4150")
-	if err != nil {
-		log.Panic("Could not connect")
-	}
-	log.Println("Awaiting messages from NSQ topic \"My NSQ Topic\"...")
-	wg.Wait()
+    err = c.ConnectToNSQD("127.0.0.1:4150")
+    if err != nil {
+        log.Panic("Could not connect")
+    }
+    log.Println("Awaiting messages from NSQ topic \"My NSQ Topic\"...")
+    wg.Wait()
 }
 ```
 
 Now run this consumer program:
 
 ```bash
-$ go run main.go
+$ go run consume.go
+```
+You'll get this output:
+
+```bash
+2017/04/05 17:33:42 INF    1 [My_NSQ_Topic/My_NSQ_Channel] (127.0.0.1:4150) connecting to nsqd
+2017/04/05 17:33:42 Awaiting messages from NSQ topic "My NSQ Topic"...
 ```
 
 This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren't any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we'll push a message to it.
@@ -114,14 +120,40 @@ import (
 )
 
 func main() {
-	config := nsq.NewConfig()
-	p, err := nsq.NewProducer("127.0.0.1:4150", config)
-	if err != nil {
-		log.Panic(err)
-	}
-	err = p.Publish("My NSQ Topic", []byte("sample NSQ message"))
-	if err != nil {
-		log.Panic(err)
-	}
+    config := nsq.NewConfig()
+    p, err := nsq.NewProducer("127.0.0.1:4150", config)
+    if err != nil {
+        log.Panic(err)
+    }
+    err = p.Publish("My_NSQ_Topic", []byte("sample NSQ message"))
+    if err != nil {
+        log.Panic(err)
+    }
 }
 ```
+Now run this publisher program:
+
+```bash
+$ go run publish.go
+```
+
+In this terminal window, you'll only see this message indicating your message was published to NSQ:
+
+```bash
+go run publish.go
+2017/04/05 17:39:15 INF    1 (127.0.0.1:4150) connecting to nsqd
+```
+
+If you look at your consumer terminal window that you left running from the previous step, you'll now see this additional output:
+
+```bash
+2017/04/05 17:33:42 Awaiting messages from NSQ topic "My NSQ Topic"...
+2017/04/05 17:39:15 NSQ message received:
+2017/04/05 17:39:15 sample NSQ message
+```
+
+Congrats - you just pushed and received your first NSQ message!
+
+If you go back to your web UI console you'll see your newly-created topic. If you drill into this topic, you can also see the channel that you consumed the message to, with the message counter at 1:
+
+![NSQ Topic](/img/post/nsq_topic.png "NSQ Topic")
