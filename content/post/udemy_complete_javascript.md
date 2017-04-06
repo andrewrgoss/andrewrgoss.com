@@ -11,7 +11,7 @@ tags:
 <a href="http://codingheroes.io/resources" target="_blank">Design and Coding Resources</a><br>
 <hr>
 
-* JavaScript language basics
+* <a href="/2017/udemy--complete-javascript-course/js_language_basics">JavaScript language basics</a>
 * How JavaScript works behind the scenes
 * JavaScript in the browser: DOM manipulation and events
 * Advanced JavaScript: objections and functions
@@ -21,8 +21,8 @@ tags:
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.04"></progress>
+<progress max="1.0" value="0.08"></progress>
 
-4% - <font color="green">[IN PROGRESS]</font>.
+8% - <font color="green">[IN PROGRESS]</font>.
 
-<!--<a href="https://github.com/andrewrgoss/" class="btn" target="_blank">View my code on GitHub</a>-->
+<a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
