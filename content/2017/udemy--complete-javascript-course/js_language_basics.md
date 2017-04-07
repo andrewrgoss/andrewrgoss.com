@@ -34,6 +34,14 @@ title: Udemy- Complete JavaScript Course
 * <b>Boolean:</b> Logical data type that can only be true or false.
 * <b>Undefined:</b> Data type of a variable which does not have a value yet.
 * <b>Null:</b> Also means 'non-existent'.
+
+## Operators
+
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence" target="_blank">JavaScript Operator Precedence</a>
+
+## Boolean Logic and Switch Statements
+
+![Basic Boolean Logic](/img/2017/udemy--complete-javascript-course/basic_boolean_logic.png "Basic Boolean Logic")
 	
 <hr>
 
