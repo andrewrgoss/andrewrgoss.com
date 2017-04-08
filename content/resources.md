@@ -175,6 +175,10 @@ A huge selection of cheat sheets for almost any current programming language and
 This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
 <a href="http://queues.io" target="_blank">queues.io</a>
 
+#### StackShare
+StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
+<a href="https://stackshare.io" target="_blank">stackshare.io</a>
+
 <hr>
 ## <a name="web_app_frameworks"></a>Web Application Frameworks
 <hr>
