@@ -23,6 +23,7 @@ With the rate at which technology changes, you can never stop learning new thing
 Book list
 TV show list
 Travel list
+	Travel tips, tools (Kayak, Google Flights, TripAdvisor, TripIt, etc.)
 Sport team list
 Gaming list
 
