@@ -163,6 +163,10 @@ Comprehensive article that covers almost every OOP (object-oriented programming)
 Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
 <a href="https://fiddles.io" target="_blank">fiddles.io</a>
 
+#### Google's Go Language
+This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
+<a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
+
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
