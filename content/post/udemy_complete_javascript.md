@@ -21,8 +21,8 @@ tags:
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.12"></progress>
+<progress max="1.0" value="0.14"></progress>
 
-12% - <font color="green">[IN PROGRESS]</font>.
+14% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
