@@ -183,6 +183,10 @@ This page tries to collect the libraries for the queueing systems (job, messagin
 StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
 <a href="https://stackshare.io" target="_blank">stackshare.io</a>
 
+#### The Twelve-Factor App
+In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service (SaaS). The twelve-factor app is a methodology for building SaaS apps that can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).<br>
+<a href="https://12factor.net" target="_blank">12factor.net</a>
+
 <hr>
 ## <a name="web_app_frameworks"></a>Web Application Frameworks
 <hr>
