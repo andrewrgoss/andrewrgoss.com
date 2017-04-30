@@ -167,6 +167,10 @@ Offers sandbox environments for developers to play around with and modify live s
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
 <a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
 
+#### Understanding Go Pointers
+This post is for programmers coming to Go who are unfamiliar with the idea of pointers or a pointer type in Go. It also digs deeper into the concept of computer memory (RAM) and how memory location is accessed through your code.<br> 
+<a href="https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back" target="_blank">dave.cheney.net/understand-go-pointers</a>
+
 #### OverAPI
 A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
 <a href="http://overapi.com" target="_blank">overapi.com</a>
