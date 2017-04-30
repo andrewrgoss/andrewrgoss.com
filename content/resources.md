@@ -35,6 +35,10 @@ A Google Certified Professional - Data Engineer enables data-driven decision mak
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
 
+#### TechPizza
+This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.<br>
+<a href="http://techpizza.org" target="_blank">techpizza.org</a>
+
 <hr>
 ## <a name="computer_science"></a>Computer Science
 <hr>
@@ -82,10 +86,6 @@ Regular expressions are extremely useful in extracting information from text suc
 #### rOpenSci
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
-
-#### TechPizza
-This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.<br>
-<a href="http://techpizza.org" target="_blank">techpizza.org</a>
 
 <hr>
 ## <a name="datasets"></a>Datasets
