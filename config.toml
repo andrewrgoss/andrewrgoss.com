@@ -1,4 +1,4 @@
-baseurl = "http://andrewrgoss.com/"
+baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
 title = "Data Engineer & Software Developer in Boston"
 paginate = 6
@@ -11,7 +11,7 @@ disqusShortname = "andrewrgoss"
     twitter = "Andrewrgoss"
     description = "Andrew Goss is a data engineer and software developer working in the marketing/advertising industry in Boston, MA."
     email = "andrewrgoss@gmail.com"
-    hostname = "http://andrewrgoss.github.io"
+    hostname = "https://andrewrgoss.github.io"
 
 [permalinks]
     post = "/:year/:title/"

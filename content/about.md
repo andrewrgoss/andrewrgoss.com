@@ -6,7 +6,7 @@ description = "Andrew Goss Background"
 
 My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
 
-## Professional Background
+<hr>
 
 I am currently a manager for Media Systems and Technology at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, where my team uses a variety of evolving technologies to build the systems and architectures behind SaaS tools used by global data science, marketing, and media management teams. Using both traditional RDBMS and newer open source software frameworks like Hadoop, we integrate disparate sources of structured and semi-structured data. In centralizing data streams, we help provide the structure necessary to enable crucial cross-platform analytics and automated advertising decisioning. 
 
