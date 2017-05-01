@@ -241,7 +241,7 @@ Step-by-step tutorial to getting started with building a website hosted on Githu
 
 #### How to Host Your Static Site with HTTPS on GitHub Pages and CloudFlare
 While GitHub offers free static website hosting and custom domain support, it is currently not possible to configure HTTPS for custom domains directly through GitHub Pages. This is where CloudFlare comes in.<br>
-<a href="hhttps://developer.ubuntu.com/en/blog/2016/02/17/how-host-your-static-site-https-github-pages-and-cloudflare" target="_blank">developer.ubuntu.com/static-site-https-github-pages-and-cloudflare/</a>
+<a href="https://developer.ubuntu.com/en/blog/2016/02/17/how-host-your-static-site-https-github-pages-and-cloudflare" target="_blank">developer.ubuntu.com/static-site-https-github-pages-and-cloudflare/</a>
 
 #### Mobile Website Speed Testing Tool
 Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.<br>
