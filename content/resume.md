@@ -13,12 +13,12 @@ Data engineer and software developer experienced in building business intelligen
 <hr>
 ### Clients Served
 ![Bank of America](/img/BoA_logo.png "Bank of America")
-![Correlsense](/img/Correlsense_logo.png "Correlsense")
 ![Diversified Communications](/img/DBC_logo.png "Diversified Communications")
 ![Education Management Corporation](/img/EDMC_logo.png "Education Management Corporation")
 ![Fitbit](/img/Fitbit_logo.png "Fitbit")
 ![HP Inc.](/img/HP_logo.png "HP Inc.")
 ![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
+![Mattel](/img/Mattel_logo.png "Mattel")
 ![Merrill Edge](/img/Merrill_Edge_logo.png "Merrill Edge")
 ![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
 ![Sprint](/img/Sprint_logo.png "Sprint")
