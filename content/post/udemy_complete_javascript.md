@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2017-04-03
+date: 2017-05-04
 title: Udemy- Complete JavaScript Course
 tags:
   - javascript
@@ -21,8 +21,8 @@ tags:
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.14"></progress>
+<progress max="1.0" value="0.16"></progress>
 
-14% - <font color="green">[IN PROGRESS]</font>.
+16% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
