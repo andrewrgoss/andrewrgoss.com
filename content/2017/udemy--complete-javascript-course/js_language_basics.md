@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2017-04-06
+date: 2017-05-04
 title: Udemy- Complete JavaScript Course
 ---
 ![JavaScript](/img/post/javascript.png "JavaScript")<br>
