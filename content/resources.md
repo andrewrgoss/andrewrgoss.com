@@ -179,6 +179,10 @@ A huge selection of cheat sheets for almost any current programming language and
 ## <a name="software_development"></a>Software Development
 <hr>
 
+#### Git Branching Model
+This post outlines a development model for git branching strategy and release management.<br>
+<a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>
+
 #### Queues
 This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
 <a href="http://queues.io" target="_blank">queues.io</a>
