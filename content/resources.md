@@ -167,6 +167,14 @@ Offers sandbox environments for developers to play around with and modify live s
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
 <a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
 
+#### Python Challenge
+Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>
+<a href="http://www.pythonchallenge.com" target="_blank">pythonchallenge.com</a>
+
+#### Topcoder
+Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
+<a href="https://www.topcoder.com" target="_blank">topcoder.com</a>
+
 #### Understanding Go Pointers
 This post is for programmers coming to Go who are unfamiliar with the idea of pointers or a pointer type in Go. It also digs deeper into the concept of computer memory (RAM) and how memory location is accessed through your code.<br> 
 <a href="https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back" target="_blank">dave.cheney.net/understand-go-pointers</a>
