@@ -44,6 +44,8 @@ title: Udemy- Complete JavaScript Course
 ![Basic Boolean Logic](/img/2017/udemy--complete-javascript-course/basic_boolean_logic.png "Basic Boolean Logic")
 	
 <hr>
+For these sections, my code lives on Github:&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/andrewrgoss/udemy-complete-javascript/tree/master/2-js-basics" class="btn" target="_blank">View GitHub Repo</a>
 
 7. Introduction to JavaScript
 8. Getting Started with JavaScript
@@ -62,4 +64,9 @@ title: Udemy- Complete JavaScript Course
 21. Loops and Iteration
 22. Coding Challenge 2
 23. Coding Challenge 2: Solution
-24. Important Note: ES5, ES6 / ES2015 and ES2016
+
+<hr>
+
+Important Note: ES5, ES6 / ES2015 and ES2016
+
+![JavaScript History](/img/2017/udemy--complete-javascript-course/js_history.png "JavaScript History")

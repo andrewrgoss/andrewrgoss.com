@@ -12,7 +12,7 @@ tags:
 <hr>
 
 * <a href="/2017/udemy--complete-javascript-course/js_language_basics">JavaScript language basics</a>
-* How JavaScript works behind the scenes
+* <a href="/2017/udemy--complete-javascript-course/how_js_works_behind">How JavaScript works behind the scenes</a>
 * JavaScript in the browser: DOM manipulation and events
 * Advanced JavaScript: objections and functions
 * Putting it all together: budget app project
