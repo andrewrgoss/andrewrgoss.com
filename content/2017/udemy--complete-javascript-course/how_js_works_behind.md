@@ -8,3 +8,7 @@ title: Udemy- Complete JavaScript Course
 <hr>
 
 ![What Happens to JS Code?](/img/2017/udemy--complete-javascript-course/js_code_what_happens.png "What Happens to JS Code?")
+
+![Execution Contexts](/img/2017/udemy--complete-javascript-course/execution_contexts.png "Execution Contexts")
+
+![Execution Stack](/img/2017/udemy--complete-javascript-course/execution_stack.png "Execution Stack")
