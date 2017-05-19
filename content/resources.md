@@ -207,6 +207,10 @@ In the modern era, software is commonly delivered as a service: called web apps,
 ## <a name="web_app_frameworks"></a>Web Application Frameworks
 <hr>
 
+#### The Djanjo Book
+Free online book offers comprehensive Python Django Tutorials, easy to understand Django documentation, the Model-View-Controller (MVC) design pattern, and more.<br>
+<a href="http://djangobook.com" target="_blank">djangobook.com</a>
+
 #### Python Web Frameworks
 This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used. Also provides general overview of web application frameworks and what they do.<br>
 <a href="https://www.oreilly.com/learning/python-web-frameworks" target="_blank">oreilly.com/learning/python-web-frameworks</a>
