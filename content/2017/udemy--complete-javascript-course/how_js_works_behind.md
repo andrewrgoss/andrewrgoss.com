@@ -22,3 +22,5 @@ title: Udemy- Complete JavaScript Course
 ![Scope Chain](/img/2017/udemy--complete-javascript-course/scope_chain.png "Scope Chain")
 
 ![Execution Stack vs. Scope Chain](/img/2017/udemy--complete-javascript-course/scope_chain.png "Execution Stack vs. Scope Chain")
+
+!['This' Variable](/img/2017/udemy--complete-javascript-course/this_variable.png "'This' Variable")
