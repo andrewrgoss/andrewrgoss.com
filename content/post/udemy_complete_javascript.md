@@ -13,16 +13,21 @@ tags:
 
 * <a href="/2017/udemy--complete-javascript-course/js_language_basics">JavaScript language basics</a>
 * <a href="/2017/udemy--complete-javascript-course/how_js_works_behind">How JavaScript works behind the scenes</a>
-* JavaScript in the browser: DOM manipulation and events
+* <a href="/2017/udemy--complete-javascript-course/js_browser">JavaScript in the browser: DOM manipulation and events</a>
 * Advanced JavaScript: objections and functions
 * Putting it all together: budget app project
 * Coding challenges
 
 <hr>
+##### My Projects
+
+DOM Pig Game
+
+<hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.29"></progress>
+<progress max="1.0" value="0.36"></progress>
 
-29% - <font color="green">[IN PROGRESS]</font>.
+36% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
