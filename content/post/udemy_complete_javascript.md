@@ -26,8 +26,8 @@ DOM Pig Game
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.36"></progress>
+<progress max="1.0" value="0.39"></progress>
 
-36% - <font color="green">[IN PROGRESS]</font>.
+39% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
