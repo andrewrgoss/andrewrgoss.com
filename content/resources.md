@@ -35,6 +35,10 @@ Free portfolio site that allows developers to easily feature projects from their
 A Google Certified Professional - Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. To earn this certification you must pass the in-person exam. This webpage offers a collection of useful training resources and reference materials aimed at achieving this certification.<br>
 <a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
 
+#### Learn To Code
+Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
+<a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
+
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
@@ -190,6 +194,10 @@ A huge selection of cheat sheets for almost any current programming language and
 <hr>
 ## <a name="software_development"></a>Software Development
 <hr>
+
+#### 30 Best Practices for Software Development and Testing
+Some good suggested software engineering principles and testing best practices that might help save you time and headaches.<br>
+<a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" target="_blank">opensource.com/30-best-practices-software-development-and-testing</a>
 
 #### Git Branching Model
 This post outlines a development model for git branching strategy and release management.<br>
