@@ -21,7 +21,7 @@ tags:
 <hr>
 ##### My Projects
 
-DOM Pig Game
+<a href="https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game" target="_blank">DOM Pig Game</a>
 
 <hr>
 
