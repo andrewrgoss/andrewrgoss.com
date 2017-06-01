@@ -1,12 +1,12 @@
 ---
 author: "Andrew Goss"
-title: "Scratch - 'Wind Power'"
+title: "Scratch - Wind Power"
 date: "2015-01-02"
 tags:
-  - "self-study"
+  - self-study
 ---
 ![Scratch](/img/projects/scratch.jpg "Scratch")<br>
-<a href="/projects/">Projects</a> >> <b>Scratch - 'Wind Power'</b>
+<a href="/projects/">Projects</a> >> <b>Scratch - Wind Power</b>
 
 <hr>
 
