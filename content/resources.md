@@ -179,6 +179,10 @@ This article represents a nice primer on the differentiating features of Google'
 Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>
 <a href="http://www.pythonchallenge.com" target="_blank">pythonchallenge.com</a>
 
+#### Python Tutor
+This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
+<a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
+
 #### Topcoder
 Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
 <a href="https://www.topcoder.com" target="_blank">topcoder.com</a>
