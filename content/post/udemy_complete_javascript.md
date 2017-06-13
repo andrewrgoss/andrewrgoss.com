@@ -21,13 +21,14 @@ tags:
 <hr>
 ##### My Projects
 
-<a href="/projects/dom_pig_game">DOM Pig Game</a>
+<a href="/projects/dom_pig_game">DOM Pig Game</a><br>
+<a href="/projects/dom_pig_game_coding_challenge">DOM Pig Game - Coding Challenge</a>
 
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.42"></progress>
+<progress max="1.0" value="0.43"></progress>
 
-42% - <font color="green">[IN PROGRESS]</font>.
+43% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>

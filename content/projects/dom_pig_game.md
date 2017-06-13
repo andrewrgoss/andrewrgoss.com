@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2017-05-04
+date: 2017-05-05
 title: DOM Pig Game
 tags:
   - javascript
