@@ -11,10 +11,12 @@ tags:
 <a href="http://codingheroes.io/resources" target="_blank">Design and Coding Resources</a><br>
 <hr>
 
+This course represents my official foray into learning JavaScript. Up to this point I've used it only on occasion with no formal training. With a new goal of becoming a full-stack developer, JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:<br><br>
+
 * <a href="/2017/udemy--complete-javascript-course/js_language_basics">JavaScript language basics</a>
 * <a href="/2017/udemy--complete-javascript-course/how_js_works_behind">How JavaScript works behind the scenes</a>
 * <a href="/2017/udemy--complete-javascript-course/js_browser">JavaScript in the browser: DOM manipulation and events</a>
-* Advanced JavaScript: objections and functions
+* <a href="/2017/udemy--complete-javascript-course/advanced_js_objects_functions">Advanced JavaScript: objections and functions</a>
 * Putting it all together: budget app project
 * Coding challenges
 
@@ -27,8 +29,8 @@ tags:
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.43"></progress>
+<progress max="1.0" value="0.45"></progress>
 
-43% - <font color="green">[IN PROGRESS]</font>.
+45% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
