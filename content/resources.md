@@ -203,6 +203,10 @@ A huge selection of cheat sheets for almost any current programming language and
 Some good suggested software engineering principles and testing best practices that might help save you time and headaches.<br>
 <a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" target="_blank">opensource.com/30-best-practices-software-development-and-testing</a>
 
+#### 50 Tips for Improving Your Software Development Game
+This post compiles the most illustrative advice and recurring tips from blogs/forums around the topic of being a great programmer. These are organized into five themes that emerged. A great reference for developers looking for ideas around self-improvement.<br>
+<a href="https://techbeacon.com/50-tips-improving-your-software-development-game" target="_blank">techbeacon.com/50-tips-improving-your-software-development-game</a>
+
 #### Git Branching Model
 This post outlines a development model for git branching strategy and release management.<br>
 <a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>
