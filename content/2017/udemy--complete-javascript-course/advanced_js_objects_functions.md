@@ -23,3 +23,5 @@ title: Udemy- Complete JavaScript Course
 * The prototype property of an object is where we put methods and properties that we want <b>other objects to inherit</b>;
 * The Constructor's prototype property is <b>NOT</b> the prototype of the Constructor itself; it's the prototype of <b>ALL</b> instances that are created through it;
 * When a certain method (or property) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object's prototype. This continues until the method is found: <b>prototype chain.</b>
+
+![Functions Are Also Objects in JavaScript](/img/2017/udemy--complete-javascript-course/function_objects.png "Functions Are Also Objects in JavaScript")
