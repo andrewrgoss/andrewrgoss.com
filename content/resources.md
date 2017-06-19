@@ -35,6 +35,10 @@ Free portfolio site that allows developers to easily feature projects from their
 A Google Certified Professional - Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. To earn this certification you must pass the in-person exam. This webpage offers a collection of useful training resources and reference materials aimed at achieving this certification.<br>
 <a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
 
+#### IBM Certified Data Engineer - Big Data
+This certification is intended for big data engineers. Big data engineers focus on collecting, parsing, managing and analyzing large data sets, in order to provide the right data sets and visual tools for analysis to data scientists. They understand the complexity of data and can handle different data variety (structured, semi-structured, unstructured), volume, velocity (including stream processing), and veracity. They also address the information governance and security challenges associated with the data. They have a good background in software engineering and extensive programming and scripting experience. To attain IBM Certified Big Data Engineer status, candidates must pass one test.<br>
+<a href="http://www-03.ibm.com/certify/certs/50001501.shtml" target="_blank">ibm.com/certify/certs/50001501</a>
+
 #### Learn To Code
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
