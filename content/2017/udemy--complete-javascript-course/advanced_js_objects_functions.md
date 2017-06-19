@@ -25,3 +25,5 @@ title: Udemy- Complete JavaScript Course
 * When a certain method (or property) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object's prototype. This continues until the method is found: <b>prototype chain.</b>
 
 ![Functions Are Also Objects in JavaScript](/img/2017/udemy--complete-javascript-course/function_objects.png "Functions Are Also Objects in JavaScript")
+
+![Closures Summary](/img/2017/udemy--complete-javascript-course/closure.png "Closures Summary")
