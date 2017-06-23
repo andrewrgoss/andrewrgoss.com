@@ -27,6 +27,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 Helpful article that compares and contrasts the role of a data analyst vs. data scientist vs. data engineer.<br>
 <a href="http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html" target="_blank">blog.udacity.com/data-analyst-vs-data-scientist-vs-data-engineer</a>
 
+#### CodeFights - Practice for Technical Interviews
+Technical interviews are tough. CodeFights, which is best known as a competitive coding and skill-based recruiting platform, helps developers practice for these interviews through a free platform that offers study topics and practice questions.<br>
+<a href="https://codefights.com/interview-practice" target="_blank">codefights.com/interview-practice</a>
+
 #### Git Showcase
 Free portfolio site that allows developers to easily feature projects from their GitHub repositories.<br>
 <a href="https://www.gitshowcase.com" target="_blank">gitshowcase.com</a>
