@@ -17,7 +17,7 @@ This course represents my official foray into learning JavaScript. Up to this po
 * <a href="/2017/udemy--complete-javascript-course/how_js_works_behind">How JavaScript works behind the scenes</a>
 * <a href="/2017/udemy--complete-javascript-course/js_browser">JavaScript in the browser: DOM manipulation and events</a>
 * <a href="/2017/udemy--complete-javascript-course/advanced_js_objects_functions">Advanced JavaScript: objections and functions</a>
-* Putting it all together: budget app project
+* <a href="/2017/udemy--complete-javascript-course/budget_app">Putting it all together: budget app project</a>
 * Coding challenges
 
 <hr>
@@ -29,8 +29,8 @@ This course represents my official foray into learning JavaScript. Up to this po
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.56"></progress>
+<progress max="1.0" value="0.59"></progress>
 
-56% - <font color="green">[IN PROGRESS]</font>.
+59% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
