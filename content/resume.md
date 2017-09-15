@@ -7,11 +7,11 @@ aliases = [
 > For more on my professional background including additional details around my work history, you can visit my <a href="https://www.linkedin.com/in/andrewrgoss" target="_blank">LinkedIn</a> profile.
 
 <hr>
-### Summary
+### <a name="summary"></a>Summary
 Data engineer and software developer experienced in building business intelligence and programmatic media applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
-### Clients Served
+### <a name="clients_served"></a>Clients Served
 ![Bank of America](/img/BoA_logo.png "Bank of America")
 ![Diversified Communications](/img/DBC_logo.png "Diversified Communications")
 ![Education Management Corporation](/img/EDMC_logo.png "Education Management Corporation")
@@ -26,7 +26,7 @@ Data engineer and software developer experienced in building business intelligen
 ![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
 
 <hr>
-### Core Competencies
+### <a name="core_competencies"></a>Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
 ![Application Development](/img/coding.png "Application Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
@@ -38,7 +38,7 @@ Data engineer and software developer experienced in building business intelligen
 <b>Other specialties:</b> ETL, RESTful web services, big data, database design, vendor management, marketing analytics, marketing operations, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
-### Tools & Technologies
+### <a name="tools_technologies"></a>Tools & Technologies
 
 * <b>API DEVELOPMENT:</b> <a href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON&nbsp;<img src="/img/json.png"></a>&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful Web Services&nbsp;<img src="/img/rest-api.png"></a>
 * <b>BUSINESS INTELLIGENCE:</b> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">Microsoft Excel&nbsp;<img src="/img/msexcel.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
@@ -55,10 +55,10 @@ Data engineer and software developer experienced in building business intelligen
 * <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://slack.com" target="_blank">Slack&nbsp;<img src="/img/slack.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
 
 <hr>
-### Work Experience
+### <a name="work_experience"></a>Work Experience
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
 **<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
-Manager, Media Systems & Techology
+Senior Software Engineer, Technology | Manager, Media Systems & Techology
 <p><sub>Working with evolving open source technologies to build the systems and architectures behind business intelligence and programmatic media tools used data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>

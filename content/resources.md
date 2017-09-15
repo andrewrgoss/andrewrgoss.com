@@ -67,6 +67,10 @@ For developers, this site offers public technical tests and practice interview q
 This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.<br>
 <a href="http://bigocheatsheet.com" target="_blank">bigocheatsheet.com</a>
 
+#### ComputerScience.org
+Great collection of resources for exploring different careers in tech.<br>
+<a href="http://www.computerscience.org" target="_blank">computerscience.org</a>
+
 <hr>
 ## <a name="data_science"></a>Data Science
 <hr>
