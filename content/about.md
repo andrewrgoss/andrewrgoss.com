@@ -31,19 +31,8 @@ Outside of work, I am a world traveler.
 
 I also like to read.
 
-* <a href="/books">Here</a> are some of the books I am reading or have read in the past.
+* Here are some of the <a href="/books">books</a> I am reading or have read in the past.
 
 And I'm an investor, gamer, and a fantasy sports nerd.
 
 * Also a real-life sports fan. <a href="http://www.patriots.com">New England Patriots</a> season ticket holder since 2012.
-
-<!--## Personal
-
-Book list
-TV show list
-Travel list
-	Travel tips, tools (Kayak, Google Flights, TripAdvisor, TripIt, etc.)
-Sport team list
-Gaming list
-
--->
