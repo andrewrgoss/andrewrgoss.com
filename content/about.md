@@ -33,6 +33,4 @@ I also like to read.
 
 * Here are some of the <a href="/books">books</a> I am reading or have read in the past.
 
-And I'm an investor, gamer, and a fantasy sports nerd.
-
-* Also a real-life sports fan. <a href="http://www.patriots.com">New England Patriots</a> season ticket holder since 2012.
+And I'm an investor, gamer, and sports fan.
