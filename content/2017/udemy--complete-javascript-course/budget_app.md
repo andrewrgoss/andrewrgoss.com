@@ -11,3 +11,8 @@ title: Udemy- Complete JavaScript Course
 ![Structuring Code With Modules](/img/2017/udemy--complete-javascript-course/modules_structuring.png "Structuring Code With Modules")
 
 ![Budget App Modules](/img/2017/udemy--complete-javascript-course/budget_app_modules.png "Budget App Modules")
+
+![Event Bubbling, Target Element, and Event Delegation](/img/2017/udemy--complete-javascript-course/event_bubbling.png "Event Bubbling, Target Element, and Event Delegation")
+
+
+![When to Use Event Delegation](/img/2017/udemy--complete-javascript-course/event_delegation.png "When to Use Event Delegation")

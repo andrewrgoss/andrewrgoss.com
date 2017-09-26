@@ -29,8 +29,8 @@ This course represents my official foray into learning JavaScript. Up to this po
 <hr>
 
 ##### Course Progress
-<progress max="1.0" value="0.67"></progress>
+<progress max="1.0" value="0.70"></progress>
 
-67% - <font color="green">[IN PROGRESS]</font>.
+70% - <font color="green">[IN PROGRESS]</font>.
 
 <a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
