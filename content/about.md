@@ -25,7 +25,7 @@ With the rate at which technology changes, you can never stop learning new thing
 
 <hr>
 
-Outside of work, I am a world traveler.
+Outside of work, I am a <a href="/travel">world traveler</a>.
 
 * To date, I have traveled to over 20 countries. In the summer of 2017, my wife and I took a 7-week sabbatical to travel throughout Japan and Southeast Asia.
 
