@@ -2,15 +2,15 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer and software developer building business intelligence and programmatic media applications in the marketing/advertising industry.
+> <b>TL;DR</b> -- Senior software/data engineer building business intelligence and programmatic media applications in the marketing/advertising industry.
 
 My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
 
 <hr>
 
-I am currently a senior software engineer at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>.
+I am currently a senior software/data engineer at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>.
 
-* My team uses a variety of evolving technologies to build the systems and architectures behind SaaS tools used by global data science, marketing, and media management teams.
+* My team uses a variety of evolving technologies to build the backend systems and data pipelines behind SaaS tools used by global data science, marketing, and media management teams.
 * Using both traditional RDBMS and newer open source software frameworks like Hadoop, we integrate disparate sources of structured and semi-structured data. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning. 
 
 Over the past 6+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology.

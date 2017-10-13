@@ -1,6 +1,6 @@
 baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
-title = "Data Engineer & Software Developer in Boston"
+title = "Senior Software / Data Engineer in Boston"
 paginate = 6
 theme = "crisp"
 pluralizelisttitles = false
@@ -9,7 +9,7 @@ disqusShortname = "andrewrgoss"
 
 [params]
     twitter = "Andrewrgoss"
-    description = "Andrew Goss is a data engineer and software developer working in the marketing/advertising industry in Boston, MA."
+    description = "Andrew Goss is a senior software/data engineer working in the marketing/advertising industry in Boston, MA."
     email = "andrewrgoss@gmail.com"
     hostname = "https://andrewrgoss.github.io"
 
