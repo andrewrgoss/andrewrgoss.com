@@ -47,6 +47,10 @@ This certification is intended for big data engineers. Big data engineers focus 
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
+#### Interview Cake
+Free practice programming interview questions. Interview Cake helps you prep for interviews to land offers from your dream companies.<br>
+<a href="https://www.interviewcake.com" target="_blank">interviewcake.com</a>
+
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
@@ -183,6 +187,10 @@ Free site lets you share your code with others in CodeEnv online environments. G
 Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.<br>
 <a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/Diving-in-OOP</a>
 
+#### Codility
+Offers programming problems and lessons for challenging yourself to get to become a better coder.<br> 
+<a href="https://codility.com/programmers" target="_blank">codility.com/programmers</a>
+
 #### Fiddles.io
 Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
 <a href="https://fiddles.io" target="_blank">fiddles.io</a>
@@ -190,6 +198,10 @@ Offers sandbox environments for developers to play around with and modify live s
 #### Google's Go Language
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
 <a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
+
+#### Project Euler
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.<br>
+<a href="https://projecteuler.net" target="_blank">projecteuler.net</a>
 
 #### Python Challenge
 Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>

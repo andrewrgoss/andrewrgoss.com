@@ -76,4 +76,6 @@ title: "Books"
 
 * <a href="http://www.crackingthecodinginterview.com" target="_blank">Cracking the Coding Interview</a><span class="separator"> &middot; </span> <i>by Gayle Laakmann McDowell</i>
 
+* <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>
+
 * <a href="https://www.amazon.com/dp/B06XP3GJ7F" target="_blank">The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</a><span class="separator"> &middot; </span> <i>by Camille Fournier</i>

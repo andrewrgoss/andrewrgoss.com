@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineer and software developer experienced in building business intelligence and programmatic media applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Senior software/data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -33,7 +33,7 @@ Data engineer and software developer experienced in building business intelligen
 ![Database Architecture](/img/database.png "Database Architecture") 
 ![Project Management](/img/projectmanagement.png "Project Management")
 
-<sub>Data Engineering --- Application Development --- Business Intelligence --- Database Architecture --- Project Management</sub><br>
+<sub>Data Engineering --- Backend Development --- Business Intelligence --- Database Architecture --- Project Management</sub><br>
 
 <b>Other specialties:</b> ETL, RESTful web services, big data, database design, vendor management, marketing analytics, marketing operations, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
@@ -46,7 +46,6 @@ Data engineer and software developer experienced in building business intelligen
 * <b>DOCUMENTATION:</b> <a href="https://www.alfresco.com" target="_blank">Alfresco&nbsp;<img src="/img/alfresco.png"></a>&nbsp;&nbsp;<a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
 * <b>ETL TOOLS:</b> <a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.talend.com/products/talend-open-studio" target="_blank">Talend Open Studio<img src="/img/talend.png"></a>
 * <b>IDES:</b> <a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
-* <b>MARKETING AUTOMATION:</b> <a href="https://www.oracle.com/marketingcloud/products/marketing-automation/index.html" target="_blank">Eloqua&nbsp;<img src="/img/eloqua.png"></a>&nbsp;&nbsp;<a href="https://www.marketo.com" target="_blank">Marketo&nbsp;<img src="/img/marketo.png"></a>
 * <b>OPERATING SYSTEMS:</b> <a href="http://www.microsoft.com/en-us/windows" target="_blank">Windows&nbsp;<img src="/img/windows.png"></a>&nbsp;&nbsp;<a href="https://www.linux.com" target="_blank">Linux&nbsp;<img src="/img/linux.png"></a>
 * <b>PROGRAMMING LANGUAGES:</b> <a href="https://msdn.microsoft.com/en-us/library/z1zx9t92.aspx" target="_blank">C#&nbsp;<img src="/img/csharp.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript&nbsp;<img src="/img/javascript.png"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank">Python&nbsp;<img src="/img/python.png"></a>&nbsp;&nbsp;<a href="https://golang.org" target="_blank">Go&nbsp;<img src="/img/golang.png"></a>
 * <b>RDBMS:</b> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL&nbsp;<img src="/img/sql.png"></a>&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/mt590198.aspx" target="_blank">Microsoft SQL Server&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank">PostgreSQL&nbsp;<img src="/img/postgresql.png"></a>
@@ -58,8 +57,8 @@ Data engineer and software developer experienced in building business intelligen
 ### <a name="work_experience"></a>Work Experience
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
 **<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
-Senior Software Engineer, Technology | Manager, Media Systems & Techology
-<p><sub>Working with evolving open source technologies to build the systems and architectures behind business intelligence and programmatic media tools used data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
+Senior Software/Data Engineer | Manager, Media Systems & Techology
+<p><sub>Working with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
 **<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>
