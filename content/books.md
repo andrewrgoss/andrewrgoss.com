@@ -79,3 +79,5 @@ title: "Books"
 * <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>
 
 * <a href="https://www.amazon.com/dp/B06XP3GJ7F" target="_blank">The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</a><span class="separator"> &middot; </span> <i>by Camille Fournier</i>
+
+* <a href="https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871" target="_blank">Structure and Interpretation of Computer Programs</a><span class="separator"> &middot; </span> <i>by Harold Abelson, Gerald Jay Sussman, Julie Sussman</i>
