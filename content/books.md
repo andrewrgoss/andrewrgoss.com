@@ -72,6 +72,8 @@ title: "Books"
 
 #### Reading Queue
 
+* <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship</a><span class="separator"> &middot; </span> <i>by Robert C. Martin</i>
+
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
 
 * <a href="http://www.crackingthecodinginterview.com" target="_blank">Cracking the Coding Interview</a><span class="separator"> &middot; </span> <i>by Gayle Laakmann McDowell</i>
