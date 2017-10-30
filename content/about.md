@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Senior software/data engineer building business intelligence and programmatic media applications in the marketing/advertising industry.
+> <b>TL;DR</b> -- Senior software/data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
 
 My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
 
@@ -31,6 +31,6 @@ Outside of work, I am a <a href="/travel">world traveler</a>.
 
 I also like to read.
 
-* Here are some of the <a href="/books">books</a> I am reading or have read in the past.
+* Here are some of the <a href="/books">books</a> I am reading, want to read, or have read in the past.
 
 And I'm an investor, gamer, and sports fan.
