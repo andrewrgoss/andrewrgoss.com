@@ -203,6 +203,10 @@ Offers sandbox environments for developers to play around with and modify live s
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
 <a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
 
+#### Rosetta Code Programming Tasks
+Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
+<a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
+
 #### Project Euler
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.<br>
 <a href="https://projecteuler.net" target="_blank">projecteuler.net</a>
@@ -314,6 +318,10 @@ Step-by-step tutorial to getting started with building a website hosted on Githu
 #### How to Host Your Static Site with HTTPS on GitHub Pages and CloudFlare
 While GitHub offers free static website hosting and custom domain support, it is currently not possible to configure HTTPS for custom domains directly through GitHub Pages. This is where CloudFlare comes in.<br>
 <a href="https://developer.ubuntu.com/en/blog/2016/02/17/how-host-your-static-site-https-github-pages-and-cloudflare" target="_blank">developer.ubuntu.com/static-site-https-github-pages-and-cloudflare/</a>
+
+#### Lighthouse
+Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.<br>
+<a href="https://developers.google.com/web/tools/lighthouse" target="_blank">developers.google.com/web/tools/lighthouse</a>
 
 #### Mobile Website Speed Testing Tool
 Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.<br>
