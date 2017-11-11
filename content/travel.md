@@ -9,7 +9,7 @@ Outside of work, I'm passionate about traveling the world, having new experience
 
 The places I've listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I only mark a country or state as having been visited when I actually set foot in it and do something.
 
-In putting together trip itineraries over the years, I've used all kind of travel tools. This <a href="https://www.kiplinger.com/article/spending/T059-C000-S001-23-best-travel-sites-to-save-you-money.html" target="_blank">article</a> nicely groups these together along with summarizing the primary value proposition of each.
+In putting together trip itineraries over the years, I've used all kind of travel tools. This <a href="https://www.kiplinger.com/article/spending/T059-C000-S001-23-best-travel-sites-to-save-you-money.html" target="_blank">article</a> nicely groups these together while also summarizing the primary value proposition of each.
 
 ## World Stats
 
@@ -104,8 +104,8 @@ Percent of World: ~11.79%
 
 ## US Stats
 
-States Visited: 35<br>
-Percent of US: 70%
+States Visited: 34<br>
+Percent of US: 68%
 
 ![My US Map](/img/matador_network_my_us_map.png "My US Map")
 
