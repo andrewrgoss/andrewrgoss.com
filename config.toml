@@ -1,7 +1,7 @@
 baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
 title = "Senior Software / Data Engineer in Boston"
-paginate = 6
+paginate = 7
 theme = "crisp"
 pluralizelisttitles = false
 googleAnalytics = "UA-58296426-1"

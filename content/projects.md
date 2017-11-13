@@ -21,6 +21,7 @@ title: "Projects"
 		<a href="/projects/dom_pig_game">DOM Pig Game</a>
 		<span class="separator"> &middot; </span>
 		<time datetime="2017-09-29T00:00:00Z">Sep 2017</time>
+		<span class="separator"> &middot; </span>
 		<span class="taglist">
             <a href="/tags/javascript/">javascript</a>
 			<a href="/tags/self-study/">self-study</a>
