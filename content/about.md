@@ -11,7 +11,7 @@ My career has been tied closely to the convergence of marketing and technology (
 I am currently a senior software/data engineer at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>.
 
 * My team uses a variety of evolving technologies to build the backend systems and data pipelines behind SaaS tools used by global data science, marketing, and media management teams.
-* Using both traditional RDBMS and newer open source software frameworks like Hadoop, we integrate disparate sources of structured and semi-structured data. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning. 
+* Using both traditional RDBMS and newer open source software frameworks like Hadoop, we integrate disparate sources of structured and semi-structured data. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning.
 
 Over the past 6+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology.
 

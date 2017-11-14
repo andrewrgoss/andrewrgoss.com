@@ -5,19 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.
 
-[Business Intelligence](#business_intelligence) | [Career Management](#career_management) | [Computer Science](#computer_science) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Storage](#data_storage) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
-
-<hr>
-## <a name="business_intelligence"></a>Business Intelligence
-<hr>
-
-#### OLAP Cubes
-A nice intro guide on what these are and why they are used.<br>
-<a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
-
-#### Transactional vs. Analytical Processing
-Good cross-comparison between OLTP and OLAP systems.<br>
-<a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
+[Career Management](#career_management) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="career_management"></a>Career Management
@@ -40,8 +28,8 @@ A Google Certified Professional - Data Engineer enables data-driven decision mak
 <a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
 
 #### IBM Certified Data Engineer - Big Data
-This certification is intended for big data engineers. Big data engineers focus on collecting, parsing, managing and analyzing large data sets, in order to provide the right data sets and visual tools for analysis to data scientists. They understand the complexity of data and can handle different data variety (structured, semi-structured, unstructured), volume, velocity (including stream processing), and veracity. They also address the information governance and security challenges associated with the data. They have a good background in software engineering and extensive programming and scripting experience. To attain IBM Certified Big Data Engineer status, candidates must pass one test.<br>
-<a href="http://www-03.ibm.com/certify/certs/50001501.shtml" target="_blank">ibm.com/certify/certs/50001501</a>
+This certification is intended for big data engineers. To attain IBM Certified Big Data Engineer status, candidates must pass one test.<br>
+<a href="http://www-03.ibm.com/certify/cert.html?id=50001501" target="_blank">ibm.com/certify/certs/50001501</a>
 
 #### Learn To Code
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
@@ -68,7 +56,7 @@ For developers, this site offers public technical tests and practice interview q
 <a href="https://www.testdome.com" target="_blank">testdome.com</a>
 
 <hr>
-## <a name="computer_science"></a>Computer Science
+<h2 class="resources"><a name="computer_science"></a>Computer Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Big-O Notation Cheat Sheet
@@ -80,12 +68,40 @@ Great collection of resources for exploring different careers in tech.<br>
 <a href="http://www.computerscience.org" target="_blank">computerscience.org</a>
 
 <hr>
-## <a name="data_science"></a>Data Science
+<h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### 7 Steps to Understanding NoSQL Databases
+The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
+<a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
+
 #### Beginner's Guide to Big Data Terminology
-Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.<br>
+Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
+
+#### OLAP Cubes
+A nice intro guide on what these are and why they are used.<br>
+<a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
+
+#### Self-Study List for Data Engineers and Aspiring Data Architects
+With the explosion of “Big Data” over the last few years, the need for people who know how to build and manage data-pipelines has grown. This article takes a look at the sought after job skills for these areas and how you can go about learning these.<br>
+<a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
+
+#### Transactional vs. Analytical Processing
+Good cross-comparison between OLTP and OLAP systems.<br>
+<a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
+
+#### What Does a Data Engineer / Data Architect Do?
+This post explores the path of becoming a data engineer / big data architect.<br>
+<a href="https://www.edvancer.in/engineering-fresher-get-into-analyticspart-2" target="_blank">edvancer.in/engineering-fresher-get-into-analyticspart-2</a>
+
+#### What Is ETL?
+ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
+<a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl</a>
+
+<hr>
+<h2 class="resources"><a name="data_science"></a>Data Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<hr>
 
 #### Best Practices for ML Engineering
 This guide is intended to help those with a basic knowledge of machine learning get the benefit of best practices in machine learning. If you have taken a class in machine learning, built, or worked on a machine-learned model, then you have the necessary background to read this document.<br>
@@ -120,7 +136,7 @@ Open source R packages that allow access to data repositories and provide progra
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
 
 <hr>
-## <a name="datasets"></a>Datasets
+<h2 class="resources"><a name="datasets"></a>Datasets</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Crowdflower: Data for Everyone
@@ -136,19 +152,7 @@ This portal reveals everything Google knows about you - every search you've made
 <a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
 
 <hr>
-## <a name="data_storage"></a>Data Storage
-<hr>
-
-#### 7 Steps to Understanding NoSQL Databases
-The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
-<a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
-
-#### What Is ETL?
-ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
-<a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl</a>
-
-<hr>
-## <a name="data_viz"></a>Data Visualization
+<h2 class="resources"><a name="data_viz"></a>Data Visualization</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Google Charts
@@ -160,7 +164,7 @@ Free product lets you connect to all your marketing data and turn that data into
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
 
 <hr>
-## <a name="martech"></a>MarTech
+<h2 class="resources"><a name="martech"></a>MarTech</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Google Analytics Demo Account
@@ -176,7 +180,7 @@ This firm specializes in evaluating vendors in the MarTech space to help you fin
 <a href="https://www.realstorygroup.com/Vendors-Evaluated" target="_blank">realstorygroup.com</a>
 
 <hr>
-## <a name="programming"></a>Programming
+<h2 class="resources"><a name="programming"></a>Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Bento
@@ -232,7 +236,7 @@ A huge selection of cheat sheets for almost any current programming language and
 <a href="http://overapi.com" target="_blank">overapi.com</a>
 
 <hr>
-## <a name="software_development"></a>Software Development
+<h2 class="resources"><a name="software_development"></a>Software Development</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### 30 Best Practices for Software Development and Testing
@@ -264,7 +268,7 @@ In the modern era, software is commonly delivered as a service: called web apps,
 <a href="https://12factor.net" target="_blank">12factor.net</a>
 
 <hr>
-## <a name="web_app_frameworks"></a>Web Application Frameworks
+<h2 class="resources"><a name="web_app_frameworks"></a>Web Application Frameworks</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### The Djanjo Book
@@ -276,7 +280,7 @@ This report surveys 30 Python web frameworks that have more than 1,000 monthly d
 <a href="https://www.oreilly.com/learning/python-web-frameworks" target="_blank">oreilly.com/learning/python-web-frameworks</a>
 
 <hr>
-## <a name="web_services"></a>Web Services
+<h2 class="resources"><a name="web_services"></a>Web Services</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Google Analytics Query Explorer
@@ -300,7 +304,7 @@ Thorough overview on what REST APIs are and how to use them.<br>
 <a href="http://idratherbewriting.com/docapis_what-is-a-rest-api" target="_blank">idratherbewriting.com/docapis_what-is-a-rest-api</a>
 
 <hr>
-## <a name="website_tools"></a>Website Tools
+<h2 class="resources"><a name="website_tools"></a>Website Tools</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### BuiltWith
@@ -327,7 +331,7 @@ Lighthouse is an open-source, automated tool for improving the quality of web pa
 Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.<br>
 <a href="https://testmysite.thinkwithgoogle.com" target="_blank">testmysite.thinkwithgoogle.com</a>
 
-### Static Site Generators
+#### Static Site Generators
 A leaderboard of the top open-source static site generators based on Github stars.<br>
 <a href="https://www.staticgen.com" target="_blank">staticgen.com</a>
 
