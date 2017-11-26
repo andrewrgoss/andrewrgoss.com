@@ -67,6 +67,10 @@ This webpage covers the space and time Big-O complexities of common algorithms u
 Great collection of resources for exploring different careers in tech.<br>
 <a href="http://www.computerscience.org" target="_blank">computerscience.org</a>
 
+#### CS Playground React
+A simple in-browser JavaScript sandbox for learning and practicing algorithms and data structures.<br>
+<a href="http://cs-playground-react.surge.sh" target="_blank">cs-playground-react.surge.sh</a>
+
 <hr>
 <h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
