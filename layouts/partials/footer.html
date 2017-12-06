@@ -66,20 +66,6 @@
 	  ga('create', 'UA-58296426-1', 'auto');
 	  ga('send', 'pageview');
 	  
-	  (function(){
-		var test = document.createElement('div');
-		test.innerHTML = '&nbsp;';
-		test.className = 'adsbox';
-		document.body.appendChild(test);
-		window.setTimeout(function() {
-		if (test.offsetHeight === 0) {
-			window.location="https://andrewrgoss.github.io/adblock-landing-page";
-			test.remove();
-		}
-		test.remove();
-		}, 1000);
-	   })();
-  
     </script>
     
 	</body>
