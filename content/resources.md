@@ -19,6 +19,10 @@ Helpful article that compares and contrasts the role of a data analyst vs. data 
 Technical interviews are tough. CodeFights, which is best known as a competitive coding and skill-based recruiting platform, helps developers practice for these interviews through a free platform that offers study topics and practice questions.<br>
 <a href="https://codefights.com/interview-practice" target="_blank">codefights.com/interview-practice</a>
 
+#### GeeksforGeeks
+A Computer Science portal for geeks. It contains computer science and programming articles, quizzes, and practice/competitive programming questions. It also has a large database of company-specific interview questions.<br> 
+<a href="http://www.geeksforgeeks.org" target="_blank">www.geeksforgeeks.org</a>
+
 #### Git Showcase
 Free portfolio site that allows developers to easily feature projects from their GitHub repositories.<br>
 <a href="https://www.gitshowcase.com" target="_blank">gitshowcase.com</a>
@@ -31,9 +35,9 @@ A Google Certified Professional - Data Engineer enables data-driven decision mak
 This certification is intended for big data engineers. To attain IBM Certified Big Data Engineer status, candidates must pass one test.<br>
 <a href="http://www-03.ibm.com/certify/cert.html?id=50001501" target="_blank">ibm.com/certify/certs/50001501</a>
 
-#### Learn To Code
-Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
-<a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
+#### InterviewBit
+Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies.<br>
+<a href="https://www.interviewbit.com" target="_blank">www.interviewbit.com</a>
 
 #### Interview Cake
 Free practice programming interview questions. Interview Cake helps you prep for interviews to land offers from your dream companies.<br>
@@ -42,6 +46,10 @@ Free practice programming interview questions. Interview Cake helps you prep for
 #### Interviewing.io
 Interviewing.io is a platform where people can practice technical interviewing anonymously with engineers from top companies.<br>
 <a href="https://interviewing.io" target="_blank">interviewing.io</a>
+
+#### Learn To Code
+Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
+<a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
@@ -210,6 +218,18 @@ Offers sandbox environments for developers to play around with and modify live s
 #### Google's Go Language
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
 <a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
+
+#### HackerEarth
+HackerEarth is a network of top developers across the world. Developers participate in online coding challenges and hackathons, solve problems and discover the best jobs.<br>
+<a href="https://www.hackerearth.com" target="_blank">www.hackerearth.com</a>
+
+#### HackerRank
+Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.<br>
+<a href="https://www.hackerrank.com" target="_blank">www.hackerrank.com</a>
+
+#### LeetCode
+Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
+<a href="https://leetcode.com" target="_blank">leetcode.com</a>
 
 #### Rosetta Code Programming Tasks
 Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>

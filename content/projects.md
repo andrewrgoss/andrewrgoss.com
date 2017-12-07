@@ -40,5 +40,3 @@ title: "Projects"
 		</span>
 	</h3>
 </section>
-
-*More coming soon...*
