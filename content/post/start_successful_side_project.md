@@ -6,7 +6,7 @@ tags:
   - career-management
   - side-projects
 ---
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Side-Project-1024x576.png"><br>
+<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Side-Project-1024x576.png" width="420"<br>
 <hr>
 
 <sub>This post originally appeared on <a href="https://simpleprogrammer.com" target=_>Simple Programmer.</a></sub><br>
@@ -20,7 +20,7 @@ Do you ever feel like you are confident in only <em>one</em> particular field? L
 
 … then somebody else has to do everything except the little corner of your comfort zone? I know many of us have felt this way, especially junior developers who join a huge, complex project with a codebase that has been developed for years. The lack of experience</a> you may feel is massive. And experience is a delicate problem with job offers. It feels like everybody exaggerates the number of years they<em> require</em> from candidates for a given language or framework. It's sometimes unrealistic! Take a look at this:
 
-<img class="aligncenter size-full wp-image-26235" src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/11/experience-min.png" alt="side project" width="555" height="451" srcset="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/11/experience-min.png 555w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/11/experience-min-300x244.png 300w" sizes="(max-width: 555px) 100vw, 555px" />
+<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/11/experience-min.png" width="420">
 
 Though I doubt such a job opening actually exists, one thing is for sure: If you are experienced, job offers will keep coming for you. If you are not, options are limited. And the competition is staggering.
 
@@ -55,7 +55,7 @@ You can find on-the-spot job openings within your niche by doing a simple search
 Gather a list of all the libraries, frameworks, tools, and pieces of software mentioned within the job requirements for your niche. This is a quick and reliable way to guarantee you will spend time working on something you will probably do professionally later on. Once you know the set of libraries and tools you will work with, you are ready to choose a topic for your project.
 
 <h2>Choosing an Interesting Topic</h2>
-<img class="aligncenter wp-image-26243" src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic.png" alt="" width="823" height="463" srcset="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic.png 1280w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic-300x169.png 300w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic-768x432.png 768w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic-1024x576.png 1024w" sizes="(max-width: 823px) 100vw, 823px" />
+<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic.png" width="420">
 
 First, you need to know what your programming niche is capable of doing. For example, if you want to focus on HTML and CSS only, you won't be able to create a dynamic web application. You should focus on a static website. Or, if you are a C++ developer, you may want to stay away from web development and focus on desktop applications.
 
@@ -89,7 +89,7 @@ Starting small is a good idea for three reasons:
 <li style="font-weight: 400;"><strong>People typically underestimate when planning.</strong> If you plan to finish in a month, chances are you will be <em>almost </em>finished at the end of the second month. It's just usually how it goes with programming. Unexpected difficulties happen early and often; there are occasional bugs, configuration can be cumbersome, or sometimes code needs refactoring. Also, you need to <a href="https://www.myfirstitjob.com/beating-procrastination" target=_>cope with procrastination</a>. Keep in mind that while you're planning your project idea is usually when you're <em>the most excited</em> about it. Excitement and that &#8220;I can't wait to get started!&#8221; feeling is a common reason for underestimating.</li></ol>
 
 <h2>Complexity of the Project</h2>
-<img class="aligncenter wp-image-26244" src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles.png" alt="" width="759" height="427" srcset="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles.png 1280w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles-300x169.png 300w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles-768x432.png 768w, https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles-1024x576.png 1024w" sizes="(max-width: 759px) 100vw, 759px" />
+<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles.png" width="420">
 
 Judging by most developers' experience (as well as my own), my recommendation is that you base the project on skills you already have, but leave at least as much of an &#8220;unknown&#8221; part.
 
