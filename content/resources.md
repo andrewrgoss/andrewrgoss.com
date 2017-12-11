@@ -79,6 +79,10 @@ Great collection of resources for exploring different careers in tech.<br>
 A simple in-browser JavaScript sandbox for learning and practicing algorithms and data structures.<br>
 <a href="http://cs-playground-react.surge.sh" target="_blank">cs-playground-react.surge.sh</a>
 
+#### Intro to Computer Science Terminology
+A complex definition: Computer Science is the study of information technology, processes, and their interactions with the world.<br>
+<a href="https://codeburst.io/intro-to-computer-science-terminology-f9ae64e75d27" target="_blank">codeburst.io/intro-to-computer-science-terminology</a>
+
 <hr>
 <h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>

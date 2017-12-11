@@ -18,8 +18,8 @@ tags:
 <a href="http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html" target="_blank">Java Operator Precedence Table</a>
 
 ##### Course Progress
-<progress max="1.0" value="0.13"></progress>
+<progress max="1.0" value="0.14"></progress>
 
-13% - <green>IN PROGRESS</green>
+14% - <green>IN PROGRESS</green>
 
 <a href="https://github.com/andrewrgoss/complete-java-masterclass" class="btn" target="_blank">View my code on GitHub</a>
