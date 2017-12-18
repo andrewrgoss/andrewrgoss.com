@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2017-11-15
+date: 2017-12-18
 title: Udemy- Complete Java Masterclass
 tags:
   - java
@@ -18,8 +18,8 @@ tags:
 <a href="http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html" target="_blank">Java Operator Precedence Table</a>
 
 ##### Course Progress
-<progress max="1.0" value="0.14"></progress>
+<progress max="1.0" value="0.17"></progress>
 
-14% - <green>IN PROGRESS</green>
+17% - <green>IN PROGRESS</green>
 
 <a href="https://github.com/andrewrgoss/complete-java-masterclass" class="btn" target="_blank">View my code on GitHub</a>

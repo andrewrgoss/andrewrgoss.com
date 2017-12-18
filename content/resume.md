@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Senior software/data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Senior data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -65,7 +65,7 @@ Senior software/data engineer experienced in building data pipelines and backend
 ### <a name="work_experience"></a>Work Experience
 <a href="http://www.digitaslbi.com/us" target="_blank"><img src="/img/digitaslbi_logo.png"></a><br>
 **<a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>** | Oct 2015 - present<br>
-Senior Software/Data Engineer | Manager, Media Systems & Techology
+Senior Data Engineer, Techology
 <p><sub>Working with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>

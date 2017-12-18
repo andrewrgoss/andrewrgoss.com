@@ -2,13 +2,13 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Senior software/data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
+> <b>TL;DR</b> -- Senior data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
 
 My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
 
 <hr>
 
-I am currently a senior software/data engineer at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>.
+I am currently a senior data engineer at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>.
 
 * My team uses a variety of evolving technologies to build the backend systems and data pipelines behind SaaS tools used by global data science, marketing, and media management teams.
 * Using both traditional RDBMS and newer open source software frameworks like Hadoop, we integrate disparate sources of structured and semi-structured data. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning.
