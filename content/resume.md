@@ -45,6 +45,8 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
 
+* <b>CLOUD COMPUTING:</b> <a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>&nbsp;&nbsp;<a href="https://www.rackspace.com/en-us/cloud" target="_blank">Rackspace&nbsp;<img src="/img/rackspace.png"></a>
+
 * <b>DOCUMENTATION:</b> <a href="https://www.alfresco.com" target="_blank">Alfresco&nbsp;<img src="/img/alfresco.png"></a>&nbsp;&nbsp;<a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
 
 * <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>

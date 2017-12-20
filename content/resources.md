@@ -75,6 +75,10 @@ This webpage covers the space and time Big-O complexities of common algorithms u
 Great collection of resources for exploring different careers in tech.<br>
 <a href="http://www.computerscience.org" target="_blank">computerscience.org</a>
 
+#### CS Algorithm Notes
+Set of CS lecture notes, which you can use to teach yourself algorithms.<br>
+<a href="http://web.stanford.edu/class/archive/cs/cs161/cs161.1168" target="_blank">web.stanford.edu/class/archive/cs/cs161</a>
+
 #### CS Playground React
 A simple in-browser JavaScript sandbox for learning and practicing algorithms and data structures.<br>
 <a href="http://cs-playground-react.surge.sh" target="_blank">cs-playground-react.surge.sh</a>
