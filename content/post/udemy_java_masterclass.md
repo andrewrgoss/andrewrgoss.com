@@ -14,12 +14,13 @@ tags:
 <a href="https://docs.oracle.com/javase/tutorial/java/index.html" target="_blank">Oracle Java™ Tutorials -- Trail: Learning the Java Language</a>
 
 ##### Cheat Sheets
+<a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html" target="_blank">Java Classes</a><br>
 <a href="https://en.wikipedia.org/wiki/List_of_Java_keywords" target="_blank">Java Keywords</a><br>
 <a href="http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html" target="_blank">Java Operator Precedence Table</a>
 
 ##### Course Progress
-<progress max="1.0" value="0.17"></progress>
+<progress max="1.0" value="0.19"></progress>
 
-17% - <green>IN PROGRESS</green>
+19% - <green>IN PROGRESS</green>
 
 <a href="https://github.com/andrewrgoss/complete-java-masterclass" class="btn" target="_blank">View my code on GitHub</a>
