@@ -17,7 +17,7 @@ Countries/Territories Visited: 23<br>
 Continents Visited: 4<br>
 Percent of World: ~11.79%
 
-![My World Map](/img/matador_network_my_world_map.png "My World Map")
+<div id="world_div" style="max-width: 95%;"></div>
 
 ##### North America
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Bahamas&ensp;&ensp;
@@ -31,8 +31,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Aruba&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Belize&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Costa Rica&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Greenland&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Turks and Caicos Islands&ensp;&ensp;
 
 ##### South America
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Peru&ensp;&ensp;
@@ -65,7 +63,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Norway&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Poland&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Portugal&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Romania&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Sweden&ensp;&ensp;
 
 ##### Africa
@@ -89,11 +86,9 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Vietnam&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;China&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Indonesia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Sri Lanka&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Turkey&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;United Arab Emirates&ensp;&ensp;
 
@@ -107,7 +102,7 @@ Percent of World: ~11.79%
 States Visited: 34<br>
 Percent of US: 68%
 
-![My US Map](/img/matador_network_my_us_map.png "My US Map")
+<div id="us_div" style="max-width: 90%;"></div>
 
 <input type="checkbox" onclick="return false">&ensp;Alabama&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Alaska&ensp;&ensp;
