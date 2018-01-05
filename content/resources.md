@@ -291,6 +291,10 @@ This post outlines a development model for git branching strategy and release ma
 This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
 <a href="http://queues.io" target="_blank">queues.io</a>
 
+#### Libraries.io
+Helping you make more informed decisions about the software you use. Libraries.io indexes data from a growing number of projects from numerous package managers. The 'dependency tree' that emerges is the core of the services that are provided.<br>
+<a href="https://libraries.io" target="_blank">libraries.io</a>
+
 #### StackShare
 StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
 <a href="https://stackshare.io" target="_blank">stackshare.io</a>
@@ -326,6 +330,10 @@ API for accessing current weather data for any location including over 200,000 c
 #### Postman
 This free Chrome extension allows developers to explore, test, and build APIs using a powerful collaborative testing and development suite.<br>
 <a href="https://www.getpostman.com" target="_blank">getpostman.com</a>
+
+#### Public APIs
+Categorizes different APIs scoured from the web which make their resources available for public consumption.<br>
+<a href="https://github.com/abhishekbanthia/Public-APIs" target="_blank">github.com/abhishekbanthia/Public-APIs</a>
 
 #### RESTful Architecture
 Technical documentation for RESTful web services with references and language-specific examples.<br>
