@@ -323,6 +323,10 @@ This report surveys 30 Python web frameworks that have more than 1,000 monthly d
 This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
 <a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
 
+#### How to design a RESTful API architecture from a human-language spec
+A three-post series that teaches RESTful API design to solve users’ needs with simplicity, reliability, and performance.<br>
+<a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec" target="_blank">oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec</a>
+
 #### OpenWeatherMap
 API for accessing current weather data for any location including over 200,000 cities.<br>
 <a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>

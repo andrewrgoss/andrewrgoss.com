@@ -78,6 +78,8 @@ title: "Books"
 
 * <a href="http://www.crackingthecodinginterview.com" target="_blank">Cracking the Coding Interview</a><span class="separator"> &middot; </span> <i>by Gayle Laakmann McDowell</i>
 
+* <a href="https://www.amazon.com/dp/B002WE46UW" target="_blank">The 4-Hour Workweek</a><span class="separator"> &middot; </span> <i>by Timothy Ferriss</i>
+
 * <a href="https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783" target="_blank">Lean Software Development: An Agile Toolkit</a><span class="separator"> &middot; </span> <i>by Mary Poppendieck</i>
 
 * <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>

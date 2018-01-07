@@ -49,7 +49,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 * <b>DOCUMENTATION:</b> <a href="https://www.alfresco.com" target="_blank">Alfresco&nbsp;<img src="/img/alfresco.png"></a>&nbsp;&nbsp;<a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
 
-* <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
+* <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
 
 * <b>OPERATING SYSTEMS:</b> <a href="https://www.linux.com" target="_blank">Linux&nbsp;<img src="/img/linux.png"></a>&nbsp;&nbsp;<a href="https://www.apple.com/macos" target="_blank">macOS&nbsp;<img src="/img/macos.png"></a>&nbsp;&nbsp;<a href="http://www.microsoft.com/en-us/windows" target="_blank">Windows&nbsp;<img src="/img/windows.png"></a>
 
