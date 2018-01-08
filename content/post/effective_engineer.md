@@ -9,7 +9,7 @@ tags:
 > Some great reference notes from a highly recommended &#x1F44D; book for engineers looking to reach the next level in their careers.
 
 <i>By Edmond Lau</i><br>
-http://www.theeffectiveengineer.com
+<a href="http://www.theeffectiveengineer.com" target=_>theeffectiveengineer.com</a>
 
 ### What's an Effective Engineer?
 - They are the people who get things done. Effective Engineers produce results.
