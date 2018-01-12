@@ -34,7 +34,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 <sub>Data Engineering --- Backend Development --- Business Intelligence --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, database design, dimensional modeling, vendor management, marketing analytics, data mining, data warehousing, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, cloud computing, database design, dimensional modeling, vendor management, marketing analytics, data warehousing, data lakes, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
