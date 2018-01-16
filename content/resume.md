@@ -32,9 +32,9 @@ Senior data engineer experienced in building data pipelines and backend applicat
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture")
 
-<sub>Data Engineering --- Backend Development --- Business Intelligence --- Database Architecture</sub><br>
+<sub>&emsp;Data Engineering &nbsp; --- &nbsp; Backend Development &nbsp; --- &nbsp; Business Intelligence &nbsp; --- &nbsp; Database Architecture</sub><br>
 
-<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, cloud computing, database design, dimensional modeling, vendor management, marketing analytics, data warehousing, data lakes, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, cloud computing, database design, dimensional modeling, data warehousing, data lakes, process automation, marketing/advertising analytics, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
@@ -45,7 +45,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
 
-* <b>CLOUD COMPUTING:</b> <a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>&nbsp;&nbsp;<a href="https://www.rackspace.com/en-us/cloud" target="_blank">Rackspace&nbsp;<img src="/img/rackspace.png"></a>
+* <b>CLOUD COMPUTING:</b> <a href="https://aws.amazon.com" target="_blank">AWS&nbsp;<img src="/img/aws.png"></a>&nbsp;&nbsp;<a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>
 
 * <b>DOCUMENTATION:</b> <a href="https://www.alfresco.com" target="_blank">Alfresco&nbsp;<img src="/img/alfresco.png"></a>&nbsp;&nbsp;<a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
 

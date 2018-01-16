@@ -31,6 +31,18 @@ title: "Projects"
 
 <section class="post">
 	<h3 class="post-title">
+		<a href="/projects/gologger">Gologger</a>
+		<span class="separator"> &middot; </span>
+		<time datetime="2016-01-19T00:00:00Z">Jan 2016</time>
+		<span class="separator"> &middot; </span>
+		<span class="taglist">
+            <a href="/tags/golang/">golang</a>
+		</span>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="post-title">
 		<a href="/projects/scratch">Scratch - Wind Power</a>
 		<span class="separator"> &middot; </span>
 		<time datetime="2014-02-18T00:00:00Z">Feb 2014</time>
