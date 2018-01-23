@@ -34,4 +34,4 @@ The following command line flags should be included in your main program:
     	The output path and file name for error log (used for prod environment only). Required. (default "./error.log")
 </pre><br>
 
-<a href="https://github.com/andrewrgoss/gologger" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/gologger" class="btn" target="_blank">View my code on GitHub</a><br><br>

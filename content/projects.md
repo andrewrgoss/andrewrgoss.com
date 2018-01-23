@@ -5,6 +5,19 @@ title: "Projects"
 
 <section class="post">
 	<h3 class="post-title">
+		<a href="/projects/web_scraping_py">Web Scraping With Python</a>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-01-23T00:00:00Z">Jan 2018</time>
+		<span class="separator"> &middot; </span>
+		<span class="taglist">
+            	<a href="/tags/python/">python</a>
+			<a href="/tags/web-scraping/">web-scraping</a>
+		</span>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="post-title">
 		<a href="/projects/budget_app">Budget App</a>
 		<span class="separator"> &middot; </span>
 		<time datetime="2017-09-29T00:00:00Z">Sep 2017</time>

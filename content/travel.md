@@ -154,3 +154,114 @@ Percent of US: 68%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;West Virginia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Wisconsin&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Wyoming&ensp;&ensp;
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {
+        'packages':['geochart'],
+        // Note: you will need to get a mapsApiKey for your project.
+        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+        'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+      });
+      google.charts.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+          ['Country'],
+          ['Bahamas'],
+          ['Cambodia'],
+          ['Canada'],
+          ['Cayman Islands'],
+          ['France'],
+          ['Haiti'],
+          ['Holy See'],
+          ['Hong Kong'],
+          ['Ireland'],
+          ['Italy'],
+          ['Israel'],
+          ['Jamaica'],
+          ['Japan'],
+          ['Malaysia'],
+          ['Mexico'],
+          ['Monaco'],
+          ['Palestine, State of'],
+          ['Peru'],
+          ['Spain'],
+          ['Thailand'],
+          ['United Kingdom'],
+          ['United States'],
+          ['Vietnam']
+        ]);
+
+        var options = {
+            displayMode: 'regions',
+            defaultColor: '#1abc9c',
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
+
+        chart.draw(data, options);
+      }
+</script>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {
+        'packages':['geochart'],
+        // Note: you will need to get a mapsApiKey for your project.
+        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+        'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+      });
+      google.charts.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+        ['State'],
+    ['US-AZ'],
+    ['US-CA'],
+    ['US-CT'],
+    ['US-DE'],
+    ['US-FL'],
+    ['US-GA'],
+    ['US-HI'],
+    ['US-ID'],
+    ['US-IL'],
+    ['US-IN'],
+    ['US-LA'],
+    ['US-ME'],
+    ['US-MD'],
+    ['US-MA'],
+    ['US-MT'],
+    ['US-NV'],
+    ['US-NH'],
+    ['US-NJ'],
+    ['US-NY'],
+    ['US-NC'],
+    ['US-OH'],
+    ['US-OR'],
+    ['US-PA'],
+    ['US-RI'],
+    ['US-SC'],
+    ['US-SD'],
+    ['US-TN'],
+    ['US-TX'],
+    ['US-UT'],
+    ['US-VT'],
+    ['US-VA'],
+    ['US-WA'],
+    ['US-WV'],
+    ['US-WY'],
+    ['US-DC']
+        ]);
+
+        var options = {
+        region: 'US',
+        resolution: 'provinces',
+        defaultColor: '#1abc9c',
+    };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('us_div'));
+
+        chart.draw(data, options);
+      }
+</script>
