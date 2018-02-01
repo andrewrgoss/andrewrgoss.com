@@ -87,6 +87,10 @@ A simple in-browser JavaScript sandbox for learning and practicing algorithms an
 A complex definition: Computer Science is the study of information technology, processes, and their interactions with the world.<br>
 <a href="https://codeburst.io/intro-to-computer-science-terminology-f9ae64e75d27" target="_blank">codeburst.io/intro-to-computer-science-terminology</a>
 
+#### Teach Yourself Computer Science
+If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
+<a href="https://teachyourselfcs.com" target="_blank">teachyourselfcs.com</a>
+
 <hr>
 <h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
@@ -114,6 +118,10 @@ Good cross-comparison between OLTP and OLAP systems.<br>
 #### What Does a Data Engineer / Data Architect Do?
 This post explores the path of becoming a data engineer / big data architect.<br>
 <a href="https://www.edvancer.in/engineering-fresher-get-into-analyticspart-2" target="_blank">edvancer.in/engineering-fresher-get-into-analyticspart-2</a>
+
+#### What Is Big Data?
+Analyzing lots of data is only part of what makes big data analytics different from previous data analytics. This article delves into what those other aspects are.<br>
+<a href="https://www.infoworld.com/article/3220044/big-data/what-is-big-data-everything-you-need-to-know.html" target="_blank">infoworld.com/article/what-is-big-data-everything-you-need-to-know.html</a>
 
 #### What Is ETL?
 ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
