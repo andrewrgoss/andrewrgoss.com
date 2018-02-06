@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-01-27
+date: 2018-02-02
 title: Udemy- Apache Spark 2.0 With Scala
 tags:
   - spark
@@ -38,8 +38,8 @@ tags:
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
 #### Course Progress
-<progress max="1.0" value="0.10"></progress>
+<progress max="1.0" value="0.16"></progress>
 
-10% - <font color="green">IN PROGRESS</font>
+16% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
