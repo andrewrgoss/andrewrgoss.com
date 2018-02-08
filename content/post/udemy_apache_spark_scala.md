@@ -34,12 +34,28 @@ tags:
 ### Target Audience
 * Software engineers who want to expand their skills into the world of big data processing on a cluster
 
+### What is Spark?
+* A fast and general engine for large-scale data processing
+* Runs programs up to 100x faster than Hadoop MapReduce in memory, or 10x faster on disk
+* Built around one main concept: the Resilient Distributed Dataset (RDD) -- basically an abstraction over a giant set of data
+  * Spark context - created by your driver program
+  * Creates RDDs - responsible for making RDDs resilient and distributed!
+  * Spark shell creates a "sc" object for you
+  * Nothing actually happens in a RDD until you call an action on it -- lazy evaluation
+
+### Why Scala for Spark?
+* Spark itself is written in Scala
+* Scala's functional programming model is a good fit for distributed processing
+* Gives you fast performance (Scala compiles to Java bytecode)
+* Less code & boilerplate stuff than Java
+* Python is slow in comparison
+
 ### Datasets
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
 #### Course Progress
-<progress max="1.0" value="0.16"></progress>
+<progress max="1.0" value="0.19"></progress>
 
-16% - <font color="green">IN PROGRESS</font>
+19% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
