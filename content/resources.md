@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.
 
-[Career Management](#career_management) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Application Frameworks](#web_app_frameworks) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Career Management](#career_management) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="career_management"></a>Career Management
@@ -312,12 +312,16 @@ In the modern era, software is commonly delivered as a service: called web apps,
 <a href="https://12factor.net" target="_blank">12factor.net</a>
 
 <hr>
-<h2 class="resources"><a name="web_app_frameworks"></a>Web Application Frameworks</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<h2 class="resources"><a name="web_apps"></a>Web Applications</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### The Djanjo Book
 Free online book offers comprehensive Python Django Tutorials, easy to understand Django documentation, the Model-View-Controller (MVC) design pattern, and more.<br>
 <a href="http://djangobook.com" target="_blank">djangobook.com</a>
+
+#### PythonAnywhere
+PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session from any modern web browser. There's storage space on our servers, and you can preserve your session state and access it from anywhere, with no need to pay for, or configure, your own server.<br>
+<a href="https://www.pythonanywhere.com" target="_blank">www.pythonanywhere.com</a>
 
 #### Python Web Frameworks
 This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used. Also provides general overview of web application frameworks and what they do.<br>
