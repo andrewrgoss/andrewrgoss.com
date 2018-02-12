@@ -42,6 +42,8 @@ tags:
   * Creates RDDs - responsible for making RDDs resilient and distributed!
   * Spark shell creates a "sc" object for you
   * Nothing actually happens in a RDD until you call an action on it -- lazy evaluation
+  * Spark can do special stuff with key/value data (reduceByKey(), groupByKey(), sortByKey(), keys(), values())
+  * You can do SQL-style joins on two key/value RDDs
 
 ### Why Scala for Spark?
 * Spark itself is written in Scala
@@ -54,8 +56,8 @@ tags:
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
 #### Course Progress
-<progress max="1.0" value="0.23"></progress>
+<progress max="1.0" value="0.36"></progress>
 
-23% - <font color="green">IN PROGRESS</font>
+36% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
