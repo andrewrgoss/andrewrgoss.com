@@ -56,8 +56,8 @@ tags:
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
 #### Course Progress
-<progress max="1.0" value="0.36"></progress>
+<progress max="1.0" value="0.48"></progress>
 
-36% - <font color="green">IN PROGRESS</font>
+48% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
