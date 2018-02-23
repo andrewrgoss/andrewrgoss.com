@@ -55,6 +55,9 @@ tags:
 ### Datasets
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
+### Learning Resource Links
+<a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial" target="_blank">Breadth First Search (BFS)</a><br>
+
 #### Course Progress
 <progress max="1.0" value="0.48"></progress>
 
