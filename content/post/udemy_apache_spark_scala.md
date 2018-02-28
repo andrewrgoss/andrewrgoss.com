@@ -55,12 +55,18 @@ tags:
 ### Datasets
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
-### Learning Resource Links
+### Key Concepts
 <a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial" target="_blank">Breadth First Search (BFS)</a><br>
 
-#### Course Progress
-<progress max="1.0" value="0.48"></progress>
+* Similarity metric algorithms:
+  * Item-based collaborative filtering - used for recommending similar items by finding relationships based on user behavior
+  * Pearson correlation coefficient
+  * Jaccard coefficient
+  * Conditional probability
 
-48% - <font color="green">IN PROGRESS</font>
+#### Course Progress
+<progress max="1.0" value="0.65"></progress>
+
+65% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>

@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Senior data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Senior data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data story initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -28,7 +28,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 <hr>
 ### <a name="core_competencies"></a>Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
-![Application Development](/img/coding.png "Application Development")
+![Backend Development](/img/coding.png "Backend Development")
 ![Business Intelligence](/img/analysis.png "Business Intelligence")
 ![Database Architecture](/img/database.png "Database Architecture")
 
