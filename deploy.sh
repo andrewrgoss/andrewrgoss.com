@@ -22,7 +22,7 @@ hugo
 if [ "$HOSTNAME" = usbosrad3116.global.publicisgroupe.net ]; then
     cp -R $GOPATH/hugo/sites/andrewrgoss.com/public/* $GOPATH/hugo/sites/andrewrgoss.github.io/
 else
-    cp -R C://Users/ARG/GoLangCode/hugo/sites/andrewrgoss.com/public/* C://Users/ARG/GoLangCode/hugo/sites/andrewrgoss.github.io/
+    cp -R C://Users/Andrew/GoLangCode/hugo/sites/andrewrgoss.com/public/* C://Users/Andrew/GoLangCode/hugo/sites/andrewrgoss.github.io/
 fi
 
 # Get rid of public directory.

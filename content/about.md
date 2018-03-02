@@ -4,7 +4,7 @@ description = "Andrew Goss Background"
 +++
 > <b>TL;DR</b> -- Senior data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
 
-My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
+My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With huge amounts of data being generated daily through digital interactions, I work to wrangle this data and derive value from it.
 
 <hr>
 
@@ -17,7 +17,7 @@ I am currently a senior data engineer at <a href="http://www.digitaslbi.com/us" 
 
 Over the past 6+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology.
 
-* I've held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
+* I've held both client-facing and technical roles while addressing a wide range of business data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
 * During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter, real-time optimization of marketing/advertising dollars through technical expertise combined with marketing savviness and business acumen. 
 
