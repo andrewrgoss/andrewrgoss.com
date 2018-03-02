@@ -27,6 +27,8 @@ I used this <a href="https://hackernoon.com/web-scraping-tutorial-with-python-ti
 
 Along with this I used the popular <a href="http://docs.python-requests.org/en/master" target=_>Requests</a> library to fetch the content of the urls.
 
+There are other Python libraries designed to scrape different kinds of web pages. This excellent <a href="https://likegeeks.com/python-web-scraping" target=_>tutorial</a> explains how to use <a href="https://pypi.python.org/pypi/selenium" target=_>Selenium</a> and <a href="http://phantomjs.org" target=_>PhantomJS</a> to scrape dynamic pages (Ajax loaded content), iframes, get specific HTML elements, how to handle cookies, and much more stuff.
+
 ## Improving Speed with Parallelization
 The initial runtime of my program to scrape regatta scores from each event dating back to 2010 was 0:06:19.282466. Per the guide I referenced, I wanted to try and see if I could cut this down by sending requests in parallel using a <a href="https://docs.python.org/2/library/multiprocessing.html" target=_>multiprocessing</a> package.
 
