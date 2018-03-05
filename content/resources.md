@@ -31,6 +31,10 @@ Free portfolio site that allows developers to easily feature projects from their
 A Google Certified Professional - Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. To earn this certification you must pass the in-person exam. This webpage offers a collection of useful training resources and reference materials aimed at achieving this certification.<br>
 <a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
 
+#### Hackterms
+At some point in your professional coding career, you’re going to feel stupid when you forgot some simple term. Hackterms is a crowdsourced dictionary of coding terms and serves as a sort of wiki for coding language. Programming is full of jargon and self-inflicted nomenclature wounds. Hackterms helps by returning plain-speak explanations for these.<br>
+<a href="https://www.hackterms.com" target="_blank">www.hackterms.com</a>
+
 #### IBM Certified Data Engineer - Big Data
 This certification is intended for big data engineers. To attain IBM Certified Big Data Engineer status, candidates must pass one test.<br>
 <a href="http://www-03.ibm.com/certify/cert.html?id=50001501" target="_blank">ibm.com/certify/certs/50001501</a>
