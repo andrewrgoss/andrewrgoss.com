@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-02-02
+date: 2018-03-08
 title: Udemy- Apache Spark 2.0 With Scala
 tags:
   - spark
@@ -55,6 +55,9 @@ tags:
 ### Datasets
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
+### Hands-On Exercises
+<a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a>
+
 ### Key Concepts
 <a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial" target="_blank">Breadth First Search (BFS)</a><br>
 
@@ -65,8 +68,8 @@ tags:
   * Conditional probability
 
 #### Course Progress
-<progress max="1.0" value="0.65"></progress>
+<progress max="1.0" value="0.67"></progress>
 
-65% - <font color="green">IN PROGRESS</font>
+67% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
