@@ -7,7 +7,7 @@ title: Udemy- Apache Spark 2.0 With Scala
 <a href="/2018/udemy--apache-spark-2.0-with-scala/">Udemy- Apache Spark 2.0 With Scala</a> >> <b>Creating Similar Movies from One Million Ratings on EMR</b><br>
 <hr>
 
-I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploaidng this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs. 
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs. 
 
 ### Create S3 Bucket
 
@@ -17,7 +17,7 @@ Set up a S3 bucket to store log files from my EMR cluster, the .jar executable, 
 
 ### Create EMR Cluster
 
-I created a new EMR cluster with the following configurations initially, but I ended up actually having to tweak the instance type setting from m3.xlarge to m1.medium for the particular availablity zone I used. Still created 1 master and 2 slaves nodes in the cluster (3 total instances).
+I created a new EMR cluster with the following configurations initially, but I ended up actually having to tweak the instance type setting from m3.xlarge to m1.medium for the particular availability zone I used. Still created 1 master and 2 slaves nodes in the cluster (3 total instances).
 
 ![Creating EMR Cluster](/img/2018/udemy--apache-spark-2.0-with-scala/create_emr_cluster.png "Creating EMR Cluster")
 
@@ -36,7 +36,7 @@ To address this, I navigated to the security group for the master node of my EMR
 
 ![Open SSH Port](/img/2018/udemy--apache-spark-2.0-with-scala/open_ssh_port_master_node.png "Open SSH Port")
 
-Here is the terminal output from successfully running this Spark job across my (temporary) EMR cluster. I removed the repititive warnings to make this more readable. Once this finished running I terminated this cluster through the AWS console. 
+Here is the terminal output from successfully running this Spark job across my (temporary) EMR cluster. I removed the repetitive warnings to make this more readable. Once this finished running I terminated this cluster through the AWS console. 
 
 ```
 usbosrad3116:~ andgoss$ ssh -i ~/.credentials/ag-spark.pem hadoop@ec2-34-236-254-148.compute-1.amazonaws.com
@@ -228,7 +228,7 @@ Caused by: java.util.NoSuchElementException: None.get
 [Stage 2:=============================>                            (8 + 8) / 16]18/03/08 17:14:46
 
 [Stage 7:========================================>               (72 + 8) / 100]18/03/08 17:28:55
-                                                                                
+                                                                             
 Top 50 similar movies for Star Wars: Episode IV - A New Hope (1977)
 Star Wars: Episode V - The Empire Strikes Back (1980)	score: 0.9897917106566659	strength: 2355
 Raiders of the Lost Ark (1981)	score: 0.9855548278565054	strength: 1972
@@ -238,7 +238,7 @@ Shawshank Redemption, The (1994)	score: 0.9768332708746131	strength: 1412
 Usual Suspects, The (1995)	score: 0.9766875136831684	strength: 1194
 Godfather, The (1972)	score: 0.9759284503618028	strength: 1583
 Sixth Sense, The (1999)	score: 0.974688767430798	strength: 1480
-Schindler's List (1993)	score: 0.9746820121947888	strength: 1422
+Schindlers List (1993)	score: 0.9746820121947888	strength: 1422
 Terminator, The (1984)	score: 0.9745821991816754	strength: 1746
 Back to the Future (1985)	score: 0.9743476892310179	strength: 1845
 Fugitive, The (1993)	score: 0.9740503810950097	strength: 1429
@@ -258,8 +258,8 @@ Monty Python and the Holy Grail (1974)	score: 0.9717238750026624	strength: 1248
 Silence of the Lambs, The (1991)	score: 0.9714472073187363	strength: 1587
 Wizard of Oz, The (1939)	score: 0.9713633100564869	strength: 1346
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	score: 0.9713269232938938	strength: 1149
-One Flew Over the Cuckoo's Nest (1975)	score: 0.9708527915400245	strength: 1125
-Ferris Bueller's Day Off (1986)	score: 0.9705811698208009	strength: 1073
+One Flew Over the Cuckoos Nest (1975)	score: 0.9708527915400245	strength: 1125
+Ferris Buellers Day Off (1986)	score: 0.9705811698208009	strength: 1073
 Godfather: Part II, The (1974)	score: 0.9704073574007531	strength: 1246
 Terminator 2: Judgment Day (1991)	score: 0.9703674024729073	strength: 1889
 E.T. the Extra-Terrestrial (1982)	score: 0.9702456868065551	strength: 1714
@@ -267,5 +267,3 @@ E.T. the Extra-Terrestrial (1982)	score: 0.9702456868065551	strength: 1714
 logout
 Connection to ec2-34-236-254-148.compute-1.amazonaws.com closed.
 ```
-
-<hr>

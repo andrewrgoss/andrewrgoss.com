@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 title: "Becoming a Data Engineer"
-date: "2018-02-20"
+date: "2017-12-01"
 tags:
   - "data engineering"
 ---

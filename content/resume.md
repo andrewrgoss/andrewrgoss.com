@@ -28,13 +28,14 @@ Senior data engineer experienced in building data pipelines and backend applicat
 <hr>
 ### <a name="core_competencies"></a>Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
+![Cloud Computing](/img/cloud.png "Cloud Computing")
 ![Backend Development](/img/coding.png "Backend Development")
-![Business Intelligence](/img/analysis.png "Business Intelligence")
+![Data Analytics](/img/analysis.png "Data Analytics")
 ![Database Architecture](/img/database.png "Database Architecture")
 
-<sub>Data Engineering &nbsp; --- &nbsp; Backend Development &nbsp; --- &nbsp; Business Intelligence &nbsp; --- &nbsp; Database Architecture</sub><br>
+<sub>Data Engineering --- Cloud Computing --- Backend Development --- Data Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, cloud computing, database design, dimensional modeling, data lakes/warehousing, process automation, continuous integration, marketing/advertising analytics, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, database design, dimensional modeling, data lakes/warehousing, process automation, continuous integration, marketing/advertising analytics, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
@@ -61,7 +62,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 * <b>TEXT EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;<a href="https://notepad-plus-plus.org" target="_blank">Notepad++&nbsp;<img src="/img/notepad++.png"></a>&nbsp;&nbsp;<a href="http://www.ultraedit.com" target="_blank">UltraEdit&nbsp;<img src="/img/ultraedit.png"></a>&nbsp;&nbsp;<a href="http://www.vim.org" target="_blank">Vim&nbsp;<img src="/img/vim.png"></a>
 
-* <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://slack.com" target="_blank">Slack&nbsp;<img src="/img/slack.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
+* <b>WORKFLOW MANAGEMENT:</b> <a href="https://jenkins.io" target="_blank">Jenkins&nbsp;<img src="/img/jenkins.png"></a>&nbsp;&nbsp;<a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://slack.com" target="_blank">Slack&nbsp;<img src="/img/slack.png"></a>
 
 <hr>
 ### <a name="work_experience"></a>Work Experience
