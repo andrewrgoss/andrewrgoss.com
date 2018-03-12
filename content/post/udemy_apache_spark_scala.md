@@ -67,9 +67,11 @@ tags:
   * Jaccard coefficient
   * Conditional probability
 
-#### Course Progress
-<progress max="1.0" value="0.67"></progress>
+<a href="https://stackoverflow.com/questions/25836316/how-dag-works-under-the-covers-in-rdd" target=_>How Directed Acyclic Graph (DAG) works</a> underneath the hood on Resilient Distributed Datasets (RDDs)
 
-67% - <font color="green">IN PROGRESS</font>
+#### Course Progress
+<progress max="1.0" value="0.72"></progress>
+
+72% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
