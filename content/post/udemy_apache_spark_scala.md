@@ -21,7 +21,7 @@ tags:
 * Understand how Hadoop YARN distributes Spark across computing clusters
 * Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX
 
-<b>What am I going to get from this course?</b>
+<b>What am I got from this course</b>
 
 * Frame big data analysis problems as Apache Spark scripts
 * Develop distributed code using the Scala programming language
@@ -32,7 +32,7 @@ tags:
 * Traverse and analyze graph structures using GraphX
 
 ### Target Audience
-* Software engineers who want to expand their skills into the world of big data processing on a cluster
+* Data engineers who want to expand their skills into the world of big data processing on a cluster
 
 ### What is Spark?
 * A fast and general engine for large-scale data processing
@@ -52,12 +52,6 @@ tags:
 * Less code & boilerplate stuff than Java
 * Python is slow in comparison
 
-### Datasets
-<a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
-
-### Hands-On Exercises
-<a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a>
-
 ### Key Concepts
 <a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial" target="_blank">Breadth First Search (BFS)</a><br>
 
@@ -69,9 +63,31 @@ tags:
 
 <a href="https://stackoverflow.com/questions/25836316/how-dag-works-under-the-covers-in-rdd" target=_>How Directed Acyclic Graph (DAG) works</a> underneath the hood on Resilient Distributed Datasets (RDDs)
 
-#### Course Progress
-<progress max="1.0" value="0.72"></progress>
+* RDD dataframes (for working with structured data): 
+  * Contains row objects
+  * Can run SQL queries
+  * Has a schema (leading to more efficient storage)
+  * Read and write to JSON, Hive, parquet
+  * Communicates with JDBC/ODBC, Tableau
 
-72% - <font color="green">IN PROGRESS</font>
+* <b>The trend in Spark is to use RDD's less, and DataSets more.</b>
+* DataSets are more efficient
+    * They can be serialized very efficiently - even better than Kryo
+    * Optimal execution plans can be determined at compile time
+* DataSets allow for better interoperability
+    * MLLib and Spark Streaming are moving towards using DataSets instead of RDDs for their primary API
+* DataSets simplify development
+    * You can perform most SQL operations on a dataset with one line
+
+### Datasets
+<a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
+
+### Hands-On Exercises
+<a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a>    
+
+#### Course Progress
+<progress max="1.0" value="0.74"></progress>
+
+74% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
