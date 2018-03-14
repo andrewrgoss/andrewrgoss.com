@@ -35,7 +35,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 <sub>Data Engineering --- Cloud Computing --- Backend Development --- Data Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, database design, dimensional modeling, data lakes/warehousing, process automation, continuous integration, marketing/advertising analytics, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, database design, dimensional modeling, data lakes/warehousing, process automation, continuous integration, marketing/advertising intelligence, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
@@ -58,7 +58,7 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 * <b>RDBMS:</b> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL&nbsp;<img src="/img/sql.png"></a>&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/mt590198.aspx" target="_blank">Microsoft SQL Server&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms141026.aspx" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank">PostgreSQL&nbsp;<img src="/img/postgresql.png"></a>
 
-* <b>SOURCE CONTROL:</b> <a href="https://www.atlassian.com/software/bitbucket" target="_blank">Bitbucket&nbsp;<img src="/img/bitbucket.png"></a>&nbsp;&nbsp;<a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>
+* <b>SOURCE CONTROL:</b> <a href="https://www.atlassian.com/software/bitbucket" target="_blank">Bitbucket&nbsp;<img src="/img/bitbucket.png"></a>&nbsp;&nbsp;<a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp;<a href="https://www.sourcetreeapp.com" target="_blank">Sourcetree&nbsp;<img src="/img/sourcetree.png"></a>
 
 * <b>TEXT EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;<a href="https://notepad-plus-plus.org" target="_blank">Notepad++&nbsp;<img src="/img/notepad++.png"></a>&nbsp;&nbsp;<a href="http://www.ultraedit.com" target="_blank">UltraEdit&nbsp;<img src="/img/ultraedit.png"></a>&nbsp;&nbsp;<a href="http://www.vim.org" target="_blank">Vim&nbsp;<img src="/img/vim.png"></a>
 
