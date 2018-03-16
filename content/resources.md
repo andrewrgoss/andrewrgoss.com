@@ -103,6 +103,10 @@ If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to l
 The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
 <a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
 
+#### Awesome Data Engineering
+A curated list of data engineering tools for software developers.<br>
+<a href="https://github.com/igorbarinov/awesome-data-engineering" target="_blank">github.com/igorbarinov/awesome-data-engineering</a>
+
 #### Beginner's Guide to Big Data Terminology
 Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>

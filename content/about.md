@@ -11,11 +11,11 @@ My career has been tied closely to the convergence of marketing and technology (
 I am currently a senior data engineer at <a href="http://www.digitas.com/us" target="_blank">Digitas</a>.
 
 * My team uses a variety of evolving technologies to build the backend systems and data pipelines behind SaaS tools/predictive models used by global data science, marketing, and media management teams.
-* Using both traditional RDBMS and modern big data frameworks like Hadoop and Spark, we integrate disparate data sources. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning.
+* Using both traditional RDBMS and modern big data frameworks like Hadoop and Spark, we manage varying volumes of disparate data sources. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning.
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
-Over the past 6+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology.
+Over the course of my career, I have gained a unique perspective as both a developer and a marketer in leveraging people, process, and technology.
 
 * I've held both client-facing and technical roles while addressing a wide range of business data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
 * During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell.
