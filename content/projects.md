@@ -94,17 +94,10 @@ title: "Projects"
 	</h3>
 </section>
 
-<section class="post">
-	<h3 class="post-title">
-		<a href="/projects/scratch">Scratch - Wind Power</a>
-		<span class="separator"> &middot; </span>
-		<time datetime="2014-02-18T00:00:00Z">Feb 2014</time>
-		<span class="separator"> &middot; </span>
-		<span class="taglist">
-            <a href="/tags/self-study/">self-study</a>
-		</span>
-	</h3>
-</section>
+<nav class="pagination">
+<br><span class="page-number">Page 1 of 2</span>
+<a class="older-posts" rel="prev" href="/projects/page/2/">Older &rarr;</a>
+</nav>
 
 <!--
 > <sub>Due to client confidentiality agreements, my work-specific projects cannot be listed here. Please reach out for more details if interested.</sub>
