@@ -5,6 +5,20 @@ title: "Projects"
 
 <section class="post">
 	<h3 class="post-title">
+		<a href="/projects/twitter_streaming">Twitter Streaming with Spark and Scala</a>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-03-22T00:00:00Z">Mar 2018</time>
+		<span class="separator"> &middot; </span>
+		<span class="taglist">
+            <a href="/tags/spark/">spark</a>
+			<a href="/tags/scala/">scala</a>
+			<a href="/tags/data-streaming/">data-streaming</a>
+		</span>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="post-title">
 		<a href="/projects/web_scraping_py">Web Scraping With Python</a>
 		<span class="separator"> &middot; </span>
 		<time datetime="2018-01-23T00:00:00Z">Jan 2018</time>
@@ -65,3 +79,5 @@ title: "Projects"
 		</span>
 	</h3>
 </section>
+
+> <sub>Due to client confidentiality agreements, my work-specific projects cannot be listed here. Please reach out for more details if interested.</sub>

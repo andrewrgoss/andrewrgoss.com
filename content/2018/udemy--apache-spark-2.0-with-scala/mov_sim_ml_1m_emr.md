@@ -40,7 +40,7 @@ Here is the terminal output from successfully running this Spark job across my (
 
 ```
 usbosrad3116:~ andgoss$ ssh -i ~/.credentials/ag-spark.pem hadoop@ec2-34-236-254-148.compute-1.amazonaws.com
-The authenticity of host 'ec2-34-236-254-148.compute-1.amazonaws.com (34.236.254.148)' can't be established.
+The authenticity of host 'ec2-34-236-254-148.compute-1.amazonaws.com (34.236.254.148)' cannot be established.
 ECDSA key fingerprint is SHA256:XP2ivgx0zDR1PEwr+fyY9YhiBnK3M0/HVZjwqBSzSgI.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'ec2-34-236-254-148.compute-1.amazonaws.com,34.236.254.148' (ECDSA) to the list of known hosts.

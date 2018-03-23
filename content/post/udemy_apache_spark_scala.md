@@ -83,11 +83,12 @@ tags:
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
 
 ### Hands-On Exercises
-<a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a>    
+<a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a><br>
+<a href="/projects/twitter_streaming">Twitter Streaming with Spark and Scala</a>
 
 #### Course Progress
-<progress max="1.0" value="0.80"></progress>
+<progress max="1.0" value="0.87"></progress>
 
-80% - <font color="green">IN PROGRESS</font>
+87% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
