@@ -72,7 +72,7 @@ title: "Projects"
 
 <section class="post">
     <h3 class="post-title">
-        <a href="/projects/dcm-dfa-reporting-api">Google DCM/DFA Reporting and Trafficking API for PostgreSQL</a>
+        <a href="/projects/dcm-dfa-reporting-api">Google DCM/DFA Reporting/Trafficking API for PostgreSQL</a>
         <span class="separator"> &middot; </span>
         <time datetime="2016-09-18T00:00:00Z">Sep 2016</time>
         <span class="separator"> &middot; </span>

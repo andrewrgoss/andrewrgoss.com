@@ -1,12 +1,12 @@
 ---
 author: "Andrew Goss"
 date: 2016-09-18
-title: Google DCM/DFA Reporting and Trafficking API for PostgreSQL
+title: Google DCM/DFA Reporting/Trafficking API for PostgreSQL
 tags:
   - python
 ---
 ![Python](/img/post/python.png "Python")<br>
-<a href="/projects/">Projects</a> >> <b>Google DCM/DFA Reporting and Trafficking API for PostgreSQL</b>
+<a href="/projects/">Projects</a> >> <b>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</b>
 <hr>
 
 This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
