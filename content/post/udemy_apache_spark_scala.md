@@ -87,8 +87,8 @@ tags:
 <a href="/projects/twitter_streaming">Twitter Streaming with Spark and Scala</a>
 
 #### Course Progress
-<progress max="1.0" value="0.87"></progress>
+<progress max="1.0" value="0.91"></progress>
 
-87% - <font color="green">IN PROGRESS</font>
+91% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
