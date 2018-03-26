@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-03-08
+date: 2018-03-26
 title: Udemy- Apache Spark 2.0 With Scala
 tags:
   - spark
@@ -8,7 +8,7 @@ tags:
   - self-study
 ---
 ![Spark_Scala](/img/post/spark_scala.png "Spark_Scala")<br>
-<a href="https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data" target="_blank">COURSE LINK</a><br>
+<a href="https://www.udemy.com/certificate/UC-AI0N9YZG" target="_blank">COMPLETION CERTIFICATE</a><br>
 <a href="http://sundog-education.com/spark-scala" target="_blank">COURSE MATERIALS</a><br>
 <hr>
 
@@ -78,6 +78,7 @@ tags:
     * MLLib and Spark Streaming are moving towards using DataSets instead of RDDs for their primary API
 * DataSets simplify development
     * You can perform most SQL operations on a dataset with one line
+* Structured streaming - uses DataSets as its primary API. Imagine a DataSet that keeps getting appended to forever and you can query it whenever you want.
 
 ### Datasets
 <a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a>
@@ -87,8 +88,8 @@ tags:
 <a href="/projects/twitter_streaming">Twitter Streaming with Spark and Scala</a>
 
 #### Course Progress
-<progress max="1.0" value="0.91"></progress>
+<progress max="1.0" value="1.0"></progress>
 
-91% - <font color="green">IN PROGRESS</font>
+100% - completed 3/26/18.
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
