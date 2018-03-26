@@ -56,41 +56,7 @@ $ go get github.com/nsqio/go-nsq
 
 I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next [section](#producer)).
 
-```go
-package main
-
-import (
-    "log"
-    "sync"
-
-    "github.com/nsqio/go-nsq"
-)
-
-func main() {
-    wg := &sync.WaitGroup{}
-    wg.Add(1)
-
-    decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer("My_NSQ_Topic", "My_NSQ_Channel", decodeConfig)
-    if err != nil {
-        log.Panic("Could not create consumer")
-    }
-    //c.MaxInFlight defaults to 1
-
-    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
-        log.Println("NSQ message received:")
-        log.Println(string(message.Body))
-        return nil
-    }))
-
-    err = c.ConnectToNSQD("127.0.0.1:4150")
-    if err != nil {
-        log.Panic("Could not connect")
-    }
-    log.Println("Awaiting messages from NSQ topic \"My NSQ Topic\"...")
-    wg.Wait()
-}
-```
+{{< gist andrewrgoss eba98ce6334d98a9f2f0b99cab62fd1f >}}
 
 Now run this consumer program:
 
@@ -110,27 +76,8 @@ This should hang there waiting to receive a NSQ message from a topic you specify
 
 You can publish a message with a producer with some simple code like this:
 
-```go
-package main
+{{< gist andrewrgoss f0b2f20690730c0d8b0d65c23d5b7906 >}}
 
-import (
-  "log"
-
-  "github.com/nsqio/go-nsq"
-)
-
-func main() {
-    config := nsq.NewConfig()
-    p, err := nsq.NewProducer("127.0.0.1:4150", config)
-    if err != nil {
-        log.Panic(err)
-    }
-    err = p.Publish("My_NSQ_Topic", []byte("sample NSQ message"))
-    if err != nil {
-        log.Panic(err)
-    }
-}
-```
 Now run this publisher program:
 
 ```bash

@@ -55,6 +55,10 @@ Interviewing.io is a platform where people can practice technical interviewing a
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
+#### Pramp
+Practice mock interviews and coding questions online, with peers, for free. Great practice for preparing for interviews and ultimately landing your dream tech job. <br>
+<a href="https://www.pramp.com" target="_blank">www.pramp.com</a>
+
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
@@ -74,6 +78,10 @@ For developers, this site offers public technical tests and practice interview q
 #### Big-O Notation Cheat Sheet
 This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.<br>
 <a href="http://bigocheatsheet.com" target="_blank">bigocheatsheet.com</a>
+
+#### Coding Interview University
+At a time where technology is outpacing the ability of many universities to update their course curriculum, many aspiring software engineers are seeking alternative forms of the education required to get a job. This is a popular complete computer science multi-month study plan to become a software engineer.<br>
+<a href="https://github.com/jwasham/coding-interview-university" target="_blank">github.com/jwasham/coding-interview-university</a>
 
 #### ComputerScience.org
 Great collection of resources for exploring different careers in tech.<br>
