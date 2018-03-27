@@ -33,7 +33,7 @@ title: "Projects"
 
 <section class="post">
     <h3 class="post-title">
-        <a href="/projects/web_scraping_py">Web Scraping With Python</a>
+        <a href="/projects/web_scraping_py">Web Scraping with Python</a>
         <span class="separator"> &middot; </span>
         <time datetime="2018-01-23T00:00:00Z">Jan 2018</time>
         <span class="separator"> &middot; </span>

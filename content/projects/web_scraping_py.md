@@ -1,12 +1,12 @@
 ---
 author: "Andrew Goss"
-title: "Web Scraping With Python"
+title: "Web Scraping with Python"
 date: "2018-01-23"
 tags:
   - python
   - web-scraping
 ---
-<a href="/projects/">Projects</a> >> <b>Web Scraping With Python</b><br><br>
+<a href="/projects/">Projects</a> >> <b>Web Scraping with Python</b><br><br>
 ![Web Scraping Python](/img/projects/web_scraping_py.png "Web Scraping Python")
 <hr>
 
