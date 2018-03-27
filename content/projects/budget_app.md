@@ -4,7 +4,6 @@ date: 2017-09-29
 title: Budget App
 tags:
   - javascript
-  - self-study
 ---
 <a href="https://andrewrgoss.com/udemy-complete-javascript/budget-app" target="_blank"><img src="/img/projects/budget_app.png" alt="Budget App"></a><br>
 <a href="/2017/udemy--complete-javascript-course/">Udemy- Complete JavaScript Course</a> &gt;&gt; <b>My projects</b><br>

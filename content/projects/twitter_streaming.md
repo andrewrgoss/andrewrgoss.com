@@ -12,7 +12,7 @@ tags:
 <hr>
 
 Go to:
-[DataChatter](#data_chatter)
+[DataChatter](#data_chatter) | [TweetLength](#tweet_length)
 
 ## PopularHashtags.scala
 
@@ -48,5 +48,15 @@ This time instead of measuring the popularity of hashtags, I wanted to see the m
 * At the time I streamed these tweets, there was a hot story in the news about a political data mining company called <a href="https://en.wikipedia.org/wiki/Cambridge_Analytica" target=_>Cambridge Analytica</a> and how they used personal information acquired from Facebook without users' permission. In response, Facebook banned Cambridge Analytica from advertising on its platform but the company was slow to respond and its stock valuation took a huge hit. 
 * The top four words in tweets relating to data all pertained to this scandal and an additional two words 'mark' and 'obama' also can be tied to it. 
 * The 'weather' word also makes sense since there was an expected nor'easter storm to hit on the day I streamed these tweets, with forecasts calling for 8-10 inches of snow in the Boston area where I live. The forecast models ended up being completely wrong and there was basically a dusting with about an inch of snow which likely caused people to question the data behind these weather models.
+
+## <a name="tweet_length"></a> TweetLength.scala
+
+Another self-challenge I completed was creating a new script to see what the most common length of live tweets is. I again used a 5-minute window that slides every one second. These were the most common number of characters per tweet at runtime:
+
+{{< gist andrewrgoss 3853ac19211ec5d02f14054f6436cbcd >}}
+
+#### Takeaways
+
+* People on Twitter have a lot to say. Most people hit exactly the maximum 140-character limit, or push right up against it.
 
 <a href="https://github.com/andrewrgoss/udemy-spark-scala/tree/master/twitter_streaming" class="btn" target="_blank">View my code on GitHub</a><br><br>
