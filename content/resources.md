@@ -19,6 +19,10 @@ Helpful article that compares and contrasts the role of a data analyst vs. data 
 Technical interviews are tough. CodeFights, which is best known as a competitive coding and skill-based recruiting platform, helps developers practice for these interviews through a free platform that offers study topics and practice questions.<br>
 <a href="https://codefights.com/interview-practice" target="_blank">codefights.com/interview-practice</a>
 
+#### Data Flair Interview Questions
+Frequently asked interview questions, by category. Each question is accompanied by answers shared by industry experts.<br> 
+<a href="https://data-flair.training/blogs/category/interview-questions" target="_blank">data-flair.training/interview-questions</a>
+
 #### GeeksforGeeks
 A Computer Science portal for geeks. It contains computer science and programming articles, quizzes, and practice/competitive programming questions. It also has a large database of company-specific interview questions.<br> 
 <a href="http://www.geeksforgeeks.org" target="_blank">www.geeksforgeeks.org</a>
