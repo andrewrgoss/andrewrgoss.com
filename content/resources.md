@@ -5,7 +5,7 @@ title: "Resources"
 
 > There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.
 
-[Career Management](#career_management) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Web Services](#web_services) | [Website Tools](#website_tools)
+[Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Web Services](#web_services) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="career_management"></a>Career Management
@@ -74,6 +74,14 @@ This site aggregates information around upcoming data-related Meetups and also g
 #### TestDome
 For developers, this site offers public technical tests and practice interview questions. If you score well you can get free certificates to display on your online profiles.<br>
 <a href="https://www.testdome.com" target="_blank">testdome.com</a>
+
+<hr>
+<h2 class="resources"><a name="cloud_computing"></a>Cloud Computing</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<hr>
+
+#### AWS Explained: The Basics
+A nice introductory primer for getting started in AWS and cloud computing in general.<br>
+<a href="https://www.inqdo.com/aws-explained-the-basics" target="_blank">inqdo.com/aws-explained-the-basics</a>
 
 <hr>
 <h2 class="resources"><a name="computer_science"></a>Computer Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
