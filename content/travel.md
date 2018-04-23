@@ -109,7 +109,7 @@ Percent of US: 68%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Arizona&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Arkansas&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;California&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Colorado&ensp;&ensp;
+<input type="checkbox" onclick="return false" checked="checked">&ensp;Colorado&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Connecticut&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Delaware&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Florida&ensp;&ensp;
@@ -138,7 +138,7 @@ Percent of US: 68%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;New York&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;North Carolina&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;North Dakota&ensp;&ensp;
-<input type="checkbox" onclick="return false" checked="checked">&ensp;Ohio&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Ohio&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Oklahoma&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Oregon&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Pennsylvania&ensp;&ensp;
@@ -218,6 +218,7 @@ Percent of US: 68%
         ['State'],
     ['US-AZ'],
     ['US-CA'],
+    ['US-CO'],
     ['US-CT'],
     ['US-DE'],
     ['US-FL'],
@@ -236,7 +237,6 @@ Percent of US: 68%
     ['US-NJ'],
     ['US-NY'],
     ['US-NC'],
-    ['US-OH'],
     ['US-OR'],
     ['US-PA'],
     ['US-RI'],

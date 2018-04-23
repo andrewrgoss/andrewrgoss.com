@@ -4,69 +4,86 @@ title: "Books"
 ---
 
 <section class="post">
-	<h3 class="post-title">
+	<h3 class="book">
+		<a href="https://www.davecullen.com/columbine" target=_>Columbine</a>
+		<span class="separator"> &middot; </span>
+		<author>by Dave Cullen</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-04-22T00:00:00Z">CURRENT</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="/books/complete_software_dev_career_guide">The Complete Software Developer's Career Guide</a>
+		<span class="separator"> &middot; </span>
+		<author>by John Sonmez</author>
 		<span class="separator"> &middot; </span>
 		<time datetime="2018-02-11T00:00:00Z">Feb 2018</time>
 		<span class="separator"> &middot; </span>
 		<span class="taglist">
             <a href="/tags/career-management/">career management</a>
 		</span>
-		<div style="color:#cccccc"><sub><i>by John Sonmez</i></sub></div>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
+	<h3 class="book">
 		<a href="http://www.redrisingbook.com" target="_blank">Red Rising Trilogy</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2017-08-29T00:00:00Z">Aug 2017</time><br>
-		<div style="color:#cccccc"><sub><i>by Pierce Brown</i></sub></div>
+		<author>by Pierce Brown</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2017-08-29T00:00:00Z">Aug 2017</time>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
+	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B013CATZIC" target="_blank">Disrupted: My Misadventure in the Start-Up Bubble</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2017-04-12T00:00:00Z">Apr 2017</time><br>
-		<div style="color:#cccccc"><sub><i>by Dan Lyons</i></sub></div>
+		<author>by Dan Lyons</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2017-04-12T00:00:00Z">Apr 2017</time>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
+	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B00AXIZ4TQ" target="_blank">Inferno: A Novel</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2016-12-29T00:00:00Z">Dec 2016</time><br>
-		<div style="color:#cccccc"><sub><i>by Dan Brown</i></sub></div>
+		<author>by Dan Brown</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2016-12-29T00:00:00Z">Dec 2016</time>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
+	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B009RWC3Y8" target="_blank">The Career Break Traveler's Handbook</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2015-12-19T00:00:00Z">Dec 2015</time><br>
-		<div style="color:#cccccc"><sub><i>by Jeffrey Jung</i></sub></div>
+		<author>by Jeffrey Jung</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2015-12-19T00:00:00Z">Dec 2015</time>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
-		<a href="https://www.amazon.com/gp/product/B003WUYPPG" target="_blank">Unbroken: A World War II Story of Survival, Resilience, and Redemption</a>
+	<h3 class="book">
+		<a href="https://www.amazon.com/gp/product/B003WUYPPG" target="_blank">Unbroken: A World War II Story</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2015-07-01T00:00:00Z">Jul 2015</time><br>
-		<div style="color:#cccccc"><sub><i>by Laura Hillenbrand</i></sub></div>
+		<author>by Laura Hillenbrand</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2015-07-01T00:00:00Z">Jul 2015</time>
 	</h3>
 </section>
 
 <section class="post">
-	<h3 class="post-title">
-		<a href="https://en.wikipedia.org/wiki/Race_Against_the_Machine" target="_blank">Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy</a>
+	<h3 class="book">
+		<a href="https://en.wikipedia.org/wiki/Race_Against_the_Machine" target="_blank">Race Against The Machine</a>
 		<span class="separator"> &middot; </span>
-		<time datetime="2016-02-14T00:00:00Z">Feb 2014</time><br>
-		<div style="color:#cccccc"><sub><i>by Erik Brynjolfsson, Andrew McAfee</i></sub></div>
+		<author>by Erik Brynjolfsson, Andrew McAfee</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2016-02-14T00:00:00Z">Feb 2014</time>
 	</h3>
 </section>
 

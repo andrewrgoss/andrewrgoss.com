@@ -1,7 +1,7 @@
 ---
 author: "Andrew Goss"
 title: "The Complete Software Developer's Career Guide"
-date: "2017-09-15"
+date: "2018-02-11"
 tags:
   - career-management
 ---
