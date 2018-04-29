@@ -17,4 +17,4 @@ I took this course to get some experience using <a href="http://jupyter.org" tar
 
 Additionally, this course offers video content on the 'soft skills' needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview. With lifetime access it is always helpful to be able to go back and reference these sections.
 
-<a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

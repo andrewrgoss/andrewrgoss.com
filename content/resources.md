@@ -3,7 +3,7 @@ author: "Andrew Goss"
 title: "Resources"
 ---
 
-> There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.
+<blockquote><p class="custom_blockquote"><sub>There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.</sub></p></blockquote>
 
 [API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
 

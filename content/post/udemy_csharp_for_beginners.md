@@ -18,4 +18,4 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
 
 100% - completed 11/28/15.
 
-<a href="https://github.com/andrewrgoss/udemy-beginning-csharp" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-beginning-csharp" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

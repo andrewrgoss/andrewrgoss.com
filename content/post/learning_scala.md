@@ -34,4 +34,4 @@ This article has a great compiled list of Scala resources to kickstart your lear
 Scalastyle examines your Scala code and indicates potential problems with it.<br>
 <a href="http://www.scalastyle.org" target="_blank">www.scalastyle.org</a>
 
-<a href="https://github.com/andrewrgoss/learning-scala" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/learning-scala" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

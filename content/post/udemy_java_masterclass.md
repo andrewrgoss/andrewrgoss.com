@@ -20,5 +20,4 @@ I have completed numerous sections of this course to improve my core knowledge o
 <a href="https://en.wikipedia.org/wiki/List_of_Java_keywords" target="_blank">Java Keywords</a><br>
 <a href="http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html" target="_blank">Java Operator Precedence Table</a>
 
-<a href="https://github.com/andrewrgoss/complete-java-masterclass" class="btn" target="_blank">View my code on GitHub</a>
-<hr>
+<a href="https://github.com/andrewrgoss/complete-java-masterclass" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

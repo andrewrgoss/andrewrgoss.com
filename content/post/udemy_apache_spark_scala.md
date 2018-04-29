@@ -92,4 +92,4 @@ tags:
 
 100% - completed 3/26/18.
 
-<a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

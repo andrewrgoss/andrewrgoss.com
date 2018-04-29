@@ -32,4 +32,4 @@ This course represented my official foray into learning JavaScript. Up to this p
 
 100% - completed 9/29/17.
 
-<a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-complete-javascript" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

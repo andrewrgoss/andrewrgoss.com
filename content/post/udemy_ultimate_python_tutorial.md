@@ -16,4 +16,4 @@ I've started using Python more for work and took this course to strengthen my kn
 
 100% - completed 7/18/16.
 
-<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-ultimate-python" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

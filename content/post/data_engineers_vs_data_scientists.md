@@ -10,7 +10,7 @@ tags:
 
 <sub><i>written by <a href="https://www.oreilly.com/people/17084-jesse-anderson" target="_blank">Jesse Anderson</a></i></sub>
 
-<a href="https://www.oreilly.com/ideas/data-engineers-vs-data-scientists" class="btn" target="_blank">View original article</a><br><br><hr>
+<a href="https://www.oreilly.com/ideas/data-engineers-vs-data-scientists" class="btn" target="_blank">View original article</a><br><br class="custom"><hr>
 
 It’s important to understand the differences between a data engineer and a data scientist. Misunderstanding or not knowing these differences are making teams fail or underperform with big data.
 
@@ -91,7 +91,7 @@ The general issue with data scientists is that they’re not engineers who put t
 To deal with the disparity between an academic mindset and the need to put something in production, we’re seeing a new type of engineer. Right now, this engineer is mostly seen in the U.S. Their title is machine learning engineer.<br><br>
 
 <img src="/img/post/de_v_ds_fig3.png" "Figure 3" width="75%"><br>
-<sub>Figure 3. Diagram showing where a machine learning engineer fits with a data scientist and data engineer. Illustration by <a href="https://www.oreilly.com/people/17084-jesse-anderson" target=_>Jesse Anderson</a> and the Big Data Institute.</sub><br><br>
+<sub>Figure 3. Diagram showing where a machine learning engineer fits with a data scientist and data engineer. Illustration by <a href="https://www.oreilly.com/people/17084-jesse-anderson" target=_>Jesse Anderson</a> and the Big Data Institute.</sub><br><br class="custom">
 
 Machine learning engineers primarily come from data engineering backgrounds. They’re cross-trained enough to become proficient at both data engineering and data science. A less common route is for a data scientist to cross-train on the data engineering side.
 

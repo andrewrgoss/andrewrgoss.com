@@ -30,4 +30,4 @@ The course provides video lectures, diagrams, and an IBM cloud sandbox environme
 
 100% - completed 01/30/17.
 
-<a href="https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8" class="btn" target="_blank">View completion certificate</a>
+<a href="https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8" class="btn" target="_blank">View completion certificate</a><br class="custom">
