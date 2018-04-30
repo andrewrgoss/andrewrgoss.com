@@ -13,4 +13,4 @@ This is a Python script I developed for programmatically generating Google DCM/D
 
 DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed reference of the API can be accessed <a href="https://developers.google.com/doubleclick-advertisers/v2.8" target=_>here</a>.
 
-<br><a href="https://github.com/andrewrgoss/dcm-dfa-reporting-api" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<br class="custom"><a href="https://github.com/andrewrgoss/dcm-dfa-reporting-api" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

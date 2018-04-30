@@ -24,4 +24,4 @@ This project put all kinds of different JavaScript concepts from the <a href="/2
 
 <a href="https://andrewrgoss.com/udemy-complete-javascript/budget-app" class="btn" target="_blank">View my project</a>
 
-<a href="https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/budget-app" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/budget-app" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

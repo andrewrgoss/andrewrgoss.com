@@ -30,12 +30,12 @@ Senior data engineer experienced in building data pipelines and backend applicat
 ![Data Engineering](/img/gears.png "Data Engineering")
 ![Cloud Computing](/img/cloud.png "Cloud Computing")
 ![Backend Development](/img/coding.png "Backend Development")
-![Data Analytics](/img/analysis.png "Data Analytics")
+![Business Analytics](/img/analysis.png "Business Analytics")
 ![Database Architecture](/img/database.png "Database Architecture")
 
-<sub>Data Engineering --- Cloud Computing --- Backend Development --- Data Analytics --- Database Architecture</sub><br>
+<sub>Data Engineering --- Cloud Computing --- Backend Development --- Business Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> ETL, RESTful web services, big data infrastructure, database design, dimensional modeling, data lakes/warehousing, process automation, continuous integration, marketing/advertising intelligence, vendor management, cross-functional team relationships, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> Big data infrastructure, database design, dimensional modeling, data lakes/warehousing, ETL, RESTful APIs, process automation, marketing/advertising intelligence, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies

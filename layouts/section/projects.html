@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <main id="content">
     <h1 class="post-title">Projects</h1>
-	<blockquote><p class="custom_blockquote"><sub>Client confidentiality agreements prevent me from showcasing most of my work here. Please reach out for more details if interested.</sub></p></blockquote>
+	<blockquote><p class="custom_blockquote"><sub>Confidentiality agreements prevent me from showcasing most of my work here. Please reach out for more details if interested.</sub></p></blockquote>
     <br class="custom">
 	{{ $paginator := .Paginate (where .Data.Pages "Section" "projects") }} {{ range $index, $page := .Paginator.Pages }} 
     {{ .Render "li" }} {{ end }} {{ partial "pagination.html" $paginator }}

@@ -28,4 +28,4 @@ Change the game to follow these rules:
 
 <a href="https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game" class="btn" target="_blank">View my project</a>
 
-<a href="https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game" class="btn" target="_blank">View my code on GitHub</a>
+<a href="https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

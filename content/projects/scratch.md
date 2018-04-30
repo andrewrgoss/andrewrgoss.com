@@ -20,4 +20,4 @@ Scratch is a 'language' wherein you create programs by dragging together and con
 
 Please note that Scratch requires Flash to run and thus you won't be able to view it live from your mobile device or tablet.
 
-<a href="https://scratch.mit.edu/projects/16817421" class="btn" target="_blank">View my project</a>
+<a href="https://scratch.mit.edu/projects/16817421" class="btn" target="_blank">View my project</a><br class="custom">

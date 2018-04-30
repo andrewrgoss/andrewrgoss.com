@@ -59,4 +59,4 @@ Another self-challenge I completed was creating a new script to see what the mos
 
 * People on Twitter have a lot to say. Most people hit exactly the maximum 140-character limit, or push right up against it.
 
-<a href="https://github.com/andrewrgoss/udemy-spark-scala/tree/master/twitter_streaming" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<a href="https://github.com/andrewrgoss/udemy-spark-scala/tree/master/twitter_streaming" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

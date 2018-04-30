@@ -32,6 +32,6 @@ The following command line flags should be included in your main program:
     	Specify your environment as dev, stage, or prod. Dev writes to console at debug_level, stage writes to console at info_level, prod writes to rolling error file (warning_level or above). Required. (default "dev")
   -errorlog string
     	The output path and file name for error log (used for prod environment only). Required. (default "./error.log")
-</pre><br>
+</pre>
 
-<a href="https://github.com/andrewrgoss/gologger" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<br class="custom"><a href="https://github.com/andrewrgoss/gologger" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

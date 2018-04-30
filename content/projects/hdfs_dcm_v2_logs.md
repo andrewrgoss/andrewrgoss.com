@@ -26,4 +26,4 @@ Other helpful docs:
 * [A mapping of old v1 data fields to the new v2 data fields.](https://developers.google.com/doubleclick-advertisers/udt/migrating)
 * [gsutil](https://cloud.google.com/storage/docs/gsutil), a Python tool that facilitates command line access to GCS
 
-<br><a href="https://github.com/andrewrgoss/hdfs-dcm-matchtables_v2" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<br class="custom"><a href="https://github.com/andrewrgoss/hdfs-dcm-matchtables_v2" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

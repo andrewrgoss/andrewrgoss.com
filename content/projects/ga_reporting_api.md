@@ -56,4 +56,4 @@ In this example, a GA summary report is generated (using the JSON below) and ins
 	"Segment": []
 }
 ```
-<br><a href="https://github.com/andrewrgoss/ga-reporting-api" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<br class="custom"><a href="https://github.com/andrewrgoss/ga-reporting-api" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

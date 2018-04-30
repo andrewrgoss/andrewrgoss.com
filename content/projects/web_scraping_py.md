@@ -37,4 +37,4 @@ By sending requests in parallel I was able to reduce the runtime of my program t
 ## Next Steps
 No API is available for this site, so I would like to create one using the data that I scraped.
 
-<br><a href="https://github.com/andrewrgoss/web-scraping-py" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<br class="custom"><a href="https://github.com/andrewrgoss/web-scraping-py" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
