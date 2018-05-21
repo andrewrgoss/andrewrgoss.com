@@ -11,6 +11,8 @@ The places I've listed out below are grouped by geographical belonging, not cult
 
 In putting together trip itineraries over the years, I've used all kind of travel tools. This <a href="https://www.kiplinger.com/article/spending/T059-C000-S001-23-best-travel-sites-to-save-you-money.html" target="_blank">article</a> nicely groups these together while also summarizing the primary value proposition of each.
 
+The time of year matters when planning travel. This <a href="https://theculturetrip.com/europe/articles/this-map-shows-you-exactly-when-to-travel-to-each-country" target=_>article</a> offers heat maps indicating high, low, and shoulder seasons for every country in the world.  
+
 ## World Stats
 
 Countries/Territories Visited: 23<br>

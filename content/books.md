@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Dave Cullen</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2018-04-22T00:00:00Z">CURRENT</time>
+		<time datetime="2018-05-20T00:00:00Z">May 2018</time>
 	</h3>
 </section>
 
