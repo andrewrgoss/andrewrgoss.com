@@ -21,7 +21,7 @@ tags:
 * Understand how Hadoop YARN distributes Spark across computing clusters
 * Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX
 
-<b>What am I got from this course</b>
+<b>What I got from this course</b>
 
 * Frame big data analysis problems as Apache Spark scripts
 * Develop distributed code using the Scala programming language
