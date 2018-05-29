@@ -60,7 +60,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Gibraltar&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Greece&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Iceland&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Luxembourg&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Netherlands&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Norway&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Poland&ensp;&ensp;
@@ -72,7 +71,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Kenya&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Morocco&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;South Africa&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Tanzania&ensp;&ensp;
 
 ##### Antarctica
 <input type="checkbox" onclick="return false">&ensp;Antarctica&ensp;&ensp;
