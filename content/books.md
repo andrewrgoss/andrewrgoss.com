@@ -97,8 +97,6 @@ title: "Books"
 
 * <a href="https://www.amazon.com/gp/product/B06XPJML5D" target="_blank">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><span class="separator"> &middot; </span> <i>by Martin Kleppmann</i>
 
-* <a href="https://www.amazon.com/dp/B002WE46UW" target="_blank">The 4-Hour Workweek</a><span class="separator"> &middot; </span> <i>by Timothy Ferriss</i>
-
 * <a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How to Fail at Almost Everything and Still Win Big</a><span class="separator"> &middot; </span> <i>by Scott Adams</i>
 
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
