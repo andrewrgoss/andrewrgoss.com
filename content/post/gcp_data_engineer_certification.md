@@ -25,6 +25,13 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 ### Big Data and ML Platform
 <img src="/img/post/gcp_big_data_ml_platform.png" "Big Data and ML Platform" width="90%">
 
+### Data Processing in the Cloud
+<img src="/img/post/gcp_data_processing.png" "Data Processing in the Cloud" width="80%">
+
+### Cloud Storage Data Handling
+<img src="/img/post/gcp_storage_data_handling.png" "Cloud Storage Data Handling" width="80%">
+<a href="https://cloud.google.com/storage/transfer" target=_>cloud.google.com/storage/transfer</a>
+
 ### Resources
 * <a href="https://cloud.google.com" target=_>Google Cloud Platform</a>
 * <a href="https://www.google.com/about/datacenters" target=_>Datacenters</a>
