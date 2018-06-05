@@ -89,6 +89,8 @@ title: "Books"
 
 #### Reading Queue
 
+* <a href="https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM" target="_blank">Bullshit Jobs: A Theory</a><span class="separator"> &middot; </span> <i>by David Graeber</i>
+
 * <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship</a><span class="separator"> &middot; </span> <i>by Robert C. Martin</i>
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
