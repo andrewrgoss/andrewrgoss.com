@@ -30,13 +30,13 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 
 ### Cloud Storage Data Handling
 <img src="/img/post/gcp_storage_data_handling.png" "Cloud Storage Data Handling" width="80%">
-<a href="https://cloud.google.com/storage/transfer" target=_>cloud.google.com/storage/transfer</a>
 
 ### Resources
 * <a href="https://cloud.google.com" target=_>Google Cloud Platform</a>
+* <a href="https://cloud.google.com/why-google" target=_>Why Google Cloud Platform?</a>
 * <a href="https://www.google.com/about/datacenters" target=_>Datacenters</a>
 * <a href="https://cloud.google.com/files/Google-CommonSecurity-WhitePaper-v1.4.pdf" target=_>Google IT Security</a>
-* <a href="https://cloud.google.com/why-google" target=_>Why Google Cloud Platform?</a>
+* <a href="https://cloud.google.com/storage/transfer" target=_>Storage Transfer Services</a>
 * <a href="https://cloud.google.com/custom-machine-types" target=_>Custom Machine Types</a>
 * <a href="https://cloud.google.com/compute/pricing" target=_>Machine Pricing</a>
 * <a href="https://cloud.google.com/pricing/philosophy" target=_>Pricing Philosophy</a>

@@ -13,7 +13,7 @@ tags:
 <hr>
 <sub><i>written by <a href="https://www.linkedin.com/in/andypalmer" target="_blank">Andy Palmer</a></i></sub>
 
-<a href="https://www.linkedin.com/pulse/dataops-building-next-generation-data-engineering-andy-palmer" class="btn" target="_blank">View original article</a><br><br><hr>
+<a href="https://www.linkedin.com/pulse/dataops-building-next-generation-data-engineering-andy-palmer" class="btn" target="_blank">View original article</a><br><br class="custom"><hr>
 
 The challenges of using data at scale, however, is rooted in the "data debt" accumulated over time by enterprises struggling to manage the extreme volume and variety of their data. Paying down this data debt is the proverbial long pole in the tent for competing on analytics.  
 
