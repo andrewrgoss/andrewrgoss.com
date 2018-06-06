@@ -19,7 +19,7 @@ git push origin master
 hugo
 
 # Recursively copy public directory contents to the github.io repo.
-if [ "$HOSTNAME" = C:\Users\Andrew\GoLangCode ]; then
+if [ "$GOPATH" = C:\Users\Andrew\GoLangCode ]; then
     cp -R C://Users/Andrew/GoLangCode/hugo/sites/andrewrgoss.com/public/* C://Users/Andrew/GoLangCode/hugo/sites/andrewrgoss.github.io/
 else
 	cp -R $GOPATH/hugo/sites/andrewrgoss.com/public/* $GOPATH/hugo/sites/andrewrgoss.github.io/
