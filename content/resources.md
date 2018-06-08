@@ -271,6 +271,10 @@ HackerEarth is a network of top developers across the world. Developers particip
 Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.<br>
 <a href="https://www.hackerrank.com" target="_blank">www.hackerrank.com</a>
 
+#### Java Beginner’s Guide: Part 1 of 3
+Great series of posts that will help you either learn or brush up on Java programming concepts in a simple and effective way.<br>
+<a href="https://medium.com/@madhupathy/a-beginners-guide-to-java-part-1-of-3-33edf47e47b4" target="_blank">medium.com/@madhupathy/guide-to-java</a>
+
 #### LeetCode
 Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
 <a href="https://leetcode.com" target="_blank">leetcode.com</a>
