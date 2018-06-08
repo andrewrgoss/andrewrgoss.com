@@ -39,5 +39,6 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 * <a href="https://cloud.google.com/storage/transfer" target=_>Storage Transfer Services</a>
 * <a href="https://cloud.google.com/custom-machine-types" target=_>Custom Machine Types</a>
 * <a href="https://cloud.google.com/compute/pricing" target=_>Machine Pricing</a>
+* <a href="https://cloud.google.com/products/calculator" target=_>Pricing Calculator</a>
 * <a href="https://cloud.google.com/pricing/philosophy" target=_>Pricing Philosophy</a>
 <br class="custom">
