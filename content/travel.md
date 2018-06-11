@@ -38,7 +38,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Peru&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;Argentina&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Bolivia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Brazil&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Chile&ensp;&ensp;
 
@@ -68,7 +67,6 @@ Percent of World: ~11.79%
 
 ##### Africa
 <input type="checkbox" onclick="return false">&ensp;Egypt&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Kenya&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Morocco&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;South Africa&ensp;&ensp;
 
@@ -99,8 +97,8 @@ Percent of World: ~11.79%
 
 ## US Stats
 
-States Visited: 34<br>
-Percent of US: 68%
+States Visited: 35<br>
+Percent of US: 70%
 
 <div id="us_div" style="max-width: 90%;"></div>
 
@@ -126,7 +124,7 @@ Percent of US: 68%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Maryland&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Massachusetts&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Michigan&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Minnesota&ensp;&ensp;
+<input type="checkbox" onclick="return false" checked="checked">&ensp;Minnesota&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Mississippi&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Missouri&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Montana&ensp;&ensp;
@@ -231,6 +229,7 @@ Percent of US: 68%
     ['US-ME'],
     ['US-MD'],
     ['US-MA'],
+    ['US-MN'],
     ['US-MT'],
     ['US-NV'],
     ['US-NH'],

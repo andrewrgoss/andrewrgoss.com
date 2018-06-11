@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="http://amothersreckoning.com" target=_>A Mother's Reckoning</a>
+		<span class="separator"> &middot; </span>
+		<author>by Sue Klebold</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-06-25T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.davecullen.com/columbine" target=_>Columbine</a>
 		<span class="separator"> &middot; </span>
 		<author>by Dave Cullen</author>
