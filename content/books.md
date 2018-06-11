@@ -33,7 +33,10 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<span class="taglist">
             <a href="/tags/career-management/">career management</a>
-		</span>
+		</span><br>
+		<a style="font-size:.7em;" href="https://simpleprogrammer.com/products/careerguide/links" target="_blank">Book resources and links</a>
+		<span class="separator"> &middot; </span>
+		<a style="font-size:.7em;" href="https://membership.simpleprogrammer.com/courses/toolkit" target="_blank">Digital toolkit</a>
 	</h3>
 </section>
 
