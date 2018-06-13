@@ -34,6 +34,7 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 ### Resources
 * <a href="https://cloud.google.com" target=_>Google Cloud Platform</a>
 * <a href="https://cloud.google.com/why-google" target=_>Why Google Cloud Platform?</a>
+* <a href="https://cloud.google.com/solutions" target=_>Google Cloud Solutions</a>
 * <a href="https://www.google.com/about/datacenters" target=_>Datacenters</a>
 * <a href="https://cloud.google.com/files/Google-CommonSecurity-WhitePaper-v1.4.pdf" target=_>Google IT Security</a>
 * <a href="https://cloud.google.com/storage/transfer" target=_>Storage Transfer Services</a>
