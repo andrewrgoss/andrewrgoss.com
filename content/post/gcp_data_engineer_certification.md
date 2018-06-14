@@ -31,6 +31,9 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 ### Cloud Storage Data Handling
 <img src="/img/post/gcp_storage_data_handling.png" "Cloud Storage Data Handling" width="80%">
 
+### Fast Random Access
+<img src="/img/post/gcp_fast_random_access.png" "Fast Random Access" width="80%">
+
 ### Resources
 * <a href="https://cloud.google.com" target=_>Google Cloud Platform</a>
 * <a href="https://cloud.google.com/why-google" target=_>Why Google Cloud Platform?</a>
