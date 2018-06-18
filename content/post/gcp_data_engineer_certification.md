@@ -31,6 +31,9 @@ I am starting the process of becoming a <a href="https://cloud.google.com/certif
 ### Cloud Storage Data Handling
 <img src="/img/post/gcp_storage_data_handling.png" "Cloud Storage Data Handling" width="80%">
 
+### Loading Data into BigQuery
+<img src="/img/post/gcp_loading_data_bigquery.png" "Loading Data into BigQuery" width="90%">
+
 ### Fast Random Access
 <img src="/img/post/gcp_fast_random_access.png" "Fast Random Access" width="80%">
 
