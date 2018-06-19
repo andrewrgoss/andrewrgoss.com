@@ -191,6 +191,10 @@ Regular expressions are extremely useful in extracting information from text suc
 Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.<br>
 <a href="http://ropensci.org" target="_blank">ropensci.org</a>
 
+#### TensorFlow Playground
+TensorFlow is a machine learning library that underlies many of Google's products. With this playground site, you can tinker with a neural network right in your browser.<br>
+<a href="http://playground.tensorflow.org" target="_blank">playground.tensorflow.org</a>
+
 <hr>
 <h2 class="resources"><a name="datasets"></a>Datasets</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
