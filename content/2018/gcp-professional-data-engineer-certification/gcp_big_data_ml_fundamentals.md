@@ -49,3 +49,34 @@ tags:
 
 ### Fast Random Access
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_fast_random_access.png" "Fast Random Access" width="80%">
+
+### Pub/Sub Real-Time Messaging
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_pub_sub_messaging.png" "Pub/Sub Real-Time Messaging" width="85%">
+
+### Dataflow NoOps Data Pipelines
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataflow_pipeline.png" "Dataflow NoOps Data Pipelines" width="95%">
+
+### Dataflow Real-Time and Batch
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_realtime_batch.png" "Dataflow Real-Time and Batch" width="90%">
+
+### Module Review Notes
+* The way to decouple producers and consumers of data in complex systems in larger organizations is Pub/Sub.
+* The way to create scalable, fault-tolerant multi-step processing of data is Cloud Dataflow.
+
+### Resources
+* <a href="https://cloud.google.com/datastore" target=_>Cloud Datastore</a>
+* <a href="https://cloud.google.com/bigtable" target=_>Cloud Bigtable</a>
+* <a href="https://cloud.google.com/bigquery" target=_>Google BigQuery</a>
+* <a href="https://cloud.google.com/datalab" target=_>Cloud Datalab</a>
+* <a href="https://www.tensorflow.org" target=_>TensorFlow</a>
+* <a href="https://cloud.google.com/ml" target=_>Cloud Machine Learning</a>
+* <a href="https://cloud.google.com/vision" target=_>Vision API</a>
+* <a href="https://cloud.google.com/translate" target=_>Translate API</a>
+* <a href="https://cloud.google.com/speech" target=_>Speech API</a>
+<hr>
+* <a href="https://cloud.google.com/pubsub" target=_>Cloud Pub/Sub</a>
+* <a href="https://cloud.google.com/dataflow" target=_>Cloud Dataflow</a>
+* <a href="https://cloud.google.com/solutions/reliable-task-scheduling-compute-engine" target=_>Reliable task scheduling on Google Compute Engine</a>
+* <a href="https://cloud.google.com/solutions/real-time/kubernetes-pubsub-bigquery" target=_>Real-time data analysis with Kubernetes, Cloud Pub/Sub, and BigQuery</a>
+* <a href="https://cloud.google.com/solutions/processing-logs-at-scale-using-dataflow" target=_>Processing logs at scale using Cloud Dataflow</a>
+<br class="custom">
