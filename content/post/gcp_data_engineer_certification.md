@@ -7,7 +7,7 @@ tags:
   - data engineering
   - gcp
 ---
-<a href="https://cloud.google.com/certification/data-engineer" target=_><img src="/img/post/gcp_data_engineer_badge.png" alt="GCP Data Engineer Badge"></a><br>
+<a href="https://cloud.google.com/certification/data-engineer" target=_><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_data_engineer_badge.png" alt="GCP Data Engineer Badge"></a><br>
 <hr>
 
 I am starting the process of becoming a <a href="https://cloud.google.com/certification/data-engineer" target=_>Google Cloud Certified Professional Data Engineer</a>. For exam prep, there are five recommended training courses to complete, which I am doing online through <a href="https://www.coursera.org/specializations/gcp-data-machine-learning" target=_>Coursera</a>.
