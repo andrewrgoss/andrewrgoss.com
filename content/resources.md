@@ -75,6 +75,10 @@ This site aggregates information around upcoming data-related Meetups and also g
 For developers, this site offers public technical tests and practice interview questions. If you score well you can get free certificates to display on your online profiles.<br>
 <a href="https://www.testdome.com" target="_blank">testdome.com</a>
 
+#### Things You Need to Know in a Programming Interview
+This article cover general tips on how you, the interviewee, can impress your interviewer during a coding session and land your dream job.<br>
+<a href="https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b" target="_blank">medium.freecodecamp.org/most-important-things-to-know-programming-interview</a>
+
 <hr>
 <h2 class="resources"><a name="cloud_computing"></a>Cloud Computing</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
