@@ -12,7 +12,7 @@ tags:
 <hr>
 
 ## Lab Exercises
-<a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br>
+<a href="https://github.com/andrewrgoss/gcp-data-engineer" class="btn" target="_blank">View my code on GitHub</a><br><br>
 
 ### GCP Functional View
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_functional_view.png" "GCP Functional View" width="70%">
