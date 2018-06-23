@@ -12,7 +12,10 @@ tags:
 <hr>
 
 ## Lab Exercises
-<a href="https://github.com/andrewrgoss/gcp-data-engineer" class="btn" target="_blank">View my code on GitHub</a><br><br>
+* Carry out machine learning with TensorFlow
+* Invoke machine learning APIs
+
+<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br><br>
 
 ### GCP Functional View
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_functional_view.png" "GCP Functional View" width="70%">
