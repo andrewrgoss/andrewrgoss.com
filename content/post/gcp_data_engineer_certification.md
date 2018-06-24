@@ -10,11 +10,11 @@ tags:
 <a href="https://cloud.google.com/certification/data-engineer" target=_><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_data_engineer_badge.png" alt="GCP Data Engineer Badge"></a><br>
 <hr>
 
-I am starting the process of becoming a <a href="https://cloud.google.com/certification/data-engineer" target=_>Google Cloud Certified Professional Data Engineer</a>. For exam prep, there are five recommended training courses to complete, which I am doing online through <a href="https://www.coursera.org/specializations/gcp-data-machine-learning" target=_>Coursera</a>.
+I am in the process of obtaining certification as a <a href="https://cloud.google.com/certification/data-engineer" target=_>Google Cloud Professional Data Engineer</a>. For exam prep, there are five recommended training courses to complete, which I am doing online through <a href="https://www.coursera.org/specializations/gcp-data-machine-learning" target=_>Coursera</a>.
 
 ### Training Courses
-* <a href="/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a><span class="separator"> &middot; </span><font color="green">[COMPLETE]</font>
-* <a href="https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp" target=_>Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform</a>
+* <a href="/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a><span class="separator"> &middot; </span><span class="taglist"><a href="https://www.coursera.org/account/accomplishments/certificate/H3TBJEJFNPKG" target=_>Course Certificate</a></span>
+* <a href="https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp" target=_>Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform</a><span class="separator"> &middot; </span><font color="green">[IN PROGRESS]</font>
 * <a href="https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp" target=_>Serverless Data Analysis with Google BigQuery and Cloud Dataflow</a>
 * <a href="https://www.coursera.org/learn/serverless-machine-learning-gcp" target=_>Serverless Machine Learning with Tensorflow on Google Cloud Platform</a>
 * <a href="https://www.coursera.org/learn/building-resilient-streaming-systems-gcp" target=_>Building Resilient Streaming Systems on Google Cloud Platform</a>

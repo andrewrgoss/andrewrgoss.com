@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Sue Klebold</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2018-06-25T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2018-06-24T00:00:00Z">Jun 2018</time>
 	</h3>
 </section>
 
@@ -29,11 +29,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by John Sonmez</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2018-02-11T00:00:00Z">Feb 2018</time>
-		<span class="separator"> &middot; </span>
-		<span class="taglist">
-            <a href="/tags/career-management/">career management</a>
-		</span><br>
+		<time datetime="2018-02-11T00:00:00Z">Feb 2018</time><br>
 		<a style="font-size:.7em;" href="https://simpleprogrammer.com/products/careerguide/links" target="_blank">Book resources and links</a>
 		<span class="separator"> &middot; </span>
 		<a style="font-size:.7em;" href="https://membership.simpleprogrammer.com/courses/toolkit" target="_blank">Digital toolkit</a>
