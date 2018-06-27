@@ -7,7 +7,7 @@ tags:
   - gcp
   - machine learning
 ---
-<a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals" target=_><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals.png" "Big Data and Machine Learning Fundamentals"></a><br>
+<a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals" target=_><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals.jpg" "Big Data and Machine Learning Fundamentals"></a><br>
 <a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals" target="_blank">COURSE LINK</a><br>
 <a href="https://www.coursera.org/account/accomplishments/certificate/H3TBJEJFNPKG" target="_blank">COURSE CERTIFICATE</a><br>
 <a href="/2018/gcp-professional-data-engineer-certification/">GCP Professional Data Engineer Certification</a> >> <b>Big Data and Machine Learning Fundamentals</b>

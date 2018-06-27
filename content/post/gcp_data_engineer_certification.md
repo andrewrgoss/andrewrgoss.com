@@ -16,8 +16,8 @@ I am in the process of obtaining certification as a <a href="https://cloud.googl
 * <a href="/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a><span class="separator"> &middot; </span><span class="taglist"><a href="https://www.coursera.org/account/accomplishments/certificate/H3TBJEJFNPKG" target=_>Course Certificate</a></span>
 * <a href="/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc">Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform</a><span class="separator"> &middot; </span><font color="green">[IN PROGRESS]</font>
 * <a href="/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis">Serverless Data Analysis with Google BigQuery and Cloud Dataflow</a>
-* <a href="https://www.coursera.org/learn/serverless-machine-learning-gcp" target=_>Serverless Machine Learning with Tensorflow on Google Cloud Platform</a>
-* <a href="https://www.coursera.org/learn/building-resilient-streaming-systems-gcp" target=_>Building Resilient Streaming Systems on Google Cloud Platform</a>
+* <a href="/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml">Serverless Machine Learning with Tensorflow on Google Cloud Platform</a>
+* <a href="/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems">Building Resilient Streaming Systems on Google Cloud Platform</a>
 
 ### Training + Experience -> Certification
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_training_experience_certification.png" "Training Experience Certification" width="80%">

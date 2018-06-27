@@ -104,6 +104,8 @@ title: "Books"
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
 
+* <a href="https://www.amazon.com/dp/B00BAXFCU4" target="_blank">Countdown: Our Last, Best Hope for a Future on Earth?</a><span class="separator"> &middot; </span> <i>by Alan Weisman</i>
+
 * <a href="http://www.crackingthecodinginterview.com" target="_blank">Cracking the Coding Interview</a><span class="separator"> &middot; </span> <i>by Gayle Laakmann McDowell</i>
 
 * <a href="https://www.amazon.com/gp/product/B06XPJML5D" target="_blank">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><span class="separator"> &middot; </span> <i>by Martin Kleppmann</i>
@@ -111,6 +113,8 @@ title: "Books"
 * <a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How to Fail at Almost Everything and Still Win Big</a><span class="separator"> &middot; </span> <i>by Scott Adams</i>
 
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
+
+* <a href="https://www.amazon.com/dp/B07B2T6R8Q" target="_blank">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a><span class="separator"> &middot; </span> <i>by Dan Lyons</i>
 
 * <a href="https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783" target="_blank">Lean Software Development: An Agile Toolkit</a><span class="separator"> &middot; </span> <i>by Mary Poppendieck</i>
 
