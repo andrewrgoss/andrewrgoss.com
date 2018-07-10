@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="http://piercebrownbooks.com/books#irongold" target=_>Iron Gold: Book 4 of the Red Rising Saga (Red Rising Series)</a>
+		<span class="separator"> &middot; </span>
+		<author>by Pierce Brown</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-07-10T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="http://amothersreckoning.com" target=_>A Mother's Reckoning</a>
 		<span class="separator"> &middot; </span>
 		<author>by Sue Klebold</author>
@@ -125,5 +135,7 @@ title: "Books"
 * <a href="https://martinfowler.com/books/refactoring.html" target="_blank">Refactoring: Improving the Design of Existing Code</a><span class="separator"> &middot; </span> <i>by Martin Fowler</i>
 
 * <a href="https://www.amazon.com/gp/product/1533667926" target="_blank">The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life</a><span class="separator"> &middot; </span> <i>by J L Collins</i>
+
+* <a href="https://www.amazon.com/dp/B072F14KX8" target="_blank">Squeezed: Why Our Families Can't Afford America</a><span class="separator"> &middot; </span> <i>by Alissa Quart</i>
 
 * <a href="https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871" target="_blank">Structure and Interpretation of Computer Programs</a><span class="separator"> &middot; </span> <i>by Harold Abelson, Gerald Jay Sussman, Julie Sussman</i>
