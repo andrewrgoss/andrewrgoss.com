@@ -19,6 +19,23 @@ I am in the process of obtaining certification as a <a href="https://cloud.googl
 * <a href="/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml">Serverless Machine Learning with Tensorflow on Google Cloud Platform</a>
 * <a href="/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems">Building Resilient Streaming Systems on Google Cloud Platform</a>
 
+### About the Specialization
+This series of courses (created by <a href="https://cloud.google.com" target=_>Google Cloud</a>) provides participants a hands-on introduction to designing and building data processing systems on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn how to design data processing systems, build end-to-end data pipelines, analyze data and carry out machine learning. The specialization covers structured, unstructured, and streaming data. The following skill areas are also covered:
+
+* Design and build data processing systems on Google Cloud Platform
+* Leverage unstructured data using Spark and ML APIs on Cloud Dataproc
+* Process batch and streaming data by implementing autoscaling data pipelines on Cloud Dataflow
+* Derive business insights from extremely large datasets using Google BigQuery
+* Train, evaluate and predict using machine learning models using Tensorflow and Cloud ML
+* Enable instant insights from streaming data
+
+This specialization is intended for experienced developers who are responsible for managing big data transformations including:
+
+* Extracting-loading-transforming (ETL), cleaning, and validating data
+* Designing pipelines and architectures for data processing
+* Creating and maintaining machine learning and statistical models
+* Querying datasets, visualizing query results and creating reports
+
 ### Training + Experience -> Certification
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_training_experience_certification.png" "Training Experience Certification" width="80%">
 

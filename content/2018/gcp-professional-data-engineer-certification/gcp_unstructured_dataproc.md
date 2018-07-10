@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-25
+date: 2018-06-22
 title: Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP
 tags:
   - cloud computing
@@ -13,6 +13,9 @@ tags:
 <hr>
 
 ## Module Lab Exercises
+
+### What Qualifies as Unstructured Data?
+<img src="/img/2018/gcp-professional-data-engineer-certification/unstructured_data.png" "Unstructured Data" width="75%">
 
 ### Module Review Notes
 
