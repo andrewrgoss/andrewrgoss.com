@@ -17,6 +17,9 @@ tags:
 ### What Qualifies as Unstructured Data?
 <img src="/img/2018/gcp-professional-data-engineer-certification/unstructured_data.png" "Unstructured Data" width="75%">
 
+### Dataproc Eases Hadoop Management
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_hadoop_mgmt.png" "Cloud Dataproc Versus Hadoop Alternatives" width="80%">
+
 ### Module Review Notes
 
 ### Resources
