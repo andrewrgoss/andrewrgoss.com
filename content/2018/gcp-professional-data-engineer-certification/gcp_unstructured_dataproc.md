@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-22
+date: 2018-07-22
 title: Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP
 tags:
   - cloud computing
@@ -14,11 +14,35 @@ tags:
 
 ## Module Lab Exercises
 
+#### Module 1: Introduction to Cloud Dataproc
+* Create a Dataproc Cluster
+  * Prepare a bucket and a cluster initialization script
+  * Create a Dataproc Hadoop Cluster customized to use Google Cloud API
+  * Enable secure access to Dataproc cluster
+  * Explore Hadoop operations
+
+<img src="/img/2018/gcp-professional-data-engineer-certification/hadoop_operations.png" "Hadoop Operations" width="85%">
+<img src="/img/2018/gcp-professional-data-engineer-certification/hadoop_datanode_info.png" "Hadoop Datanode Information" width="80%">
+
+#### Module 2: Running Dataproc jobs
+* Work with structured and semi-structured data
+* Submit Dataproc jobs for unstructured data
+
+#### Module 3: Leveraging GCP
+* Leverage GCP
+* Cluster automation using CLI commands
+
+#### Module 4: Analyzing Unstructured Data
+* Add Machine Learning
+
 ### What Qualifies as Unstructured Data?
 <img src="/img/2018/gcp-professional-data-engineer-certification/unstructured_data.png" "Unstructured Data" width="75%">
 
 ### Dataproc Eases Hadoop Management
 <img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_hadoop_mgmt.png" "Cloud Dataproc Versus Hadoop Alternatives" width="80%">
+
+### Cloud Dataproc Architecture
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_architecture.png" "Cloud Dataproc Architecture" width="95%">
 
 ### Module Review Notes
 
