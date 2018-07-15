@@ -26,6 +26,9 @@ tags:
 
 #### Module 2: Running Dataproc jobs
 * Work with structured and semi-structured data
+  * Use the Hive CLI and run a Pig job
+  * Hive is used for structured data, similar to SQL
+  * Pig is used for semi-structured data, similar to SQL + scripting
 * Submit Dataproc jobs for unstructured data
 
 #### Module 3: Leveraging GCP
@@ -49,5 +52,7 @@ tags:
 
 ### Module Review Notes
 * Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.
+* Hive is designed for batch jobs and not for transactions. It ingests data into a data warehouse format requiring a schema. It does not support real-time queries, row-level updates, or unstructured data. Some queries may run much slower than others due to the underlying transformations Hive has to implement to simulate SQL.
+* Pig provides SQL primitives similar to Hive, but in a more flexible scripting language format. Pig can also deal with semi-structured data, such as data having partial schemas, or for which the schema is not yet known. For this reason it is sometimes used for Extract Transform Load (ETL). It generates Java MapReduce jobs. Pig is not designed to deal with unstructured data.
 
 ### Resources

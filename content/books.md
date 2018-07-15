@@ -5,11 +5,11 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
-		<a href="http://piercebrownbooks.com/books#irongold" target=_>Iron Gold: Book 4 of the Red Rising Saga (Red Rising Series)</a>
+		<a href="https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM" target=_>Bullshit Jobs: A Theory</a>
 		<span class="separator"> &middot; </span>
-		<author>by Pierce Brown</author>
+		<author>by David Graeber</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2018-07-10T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2018-07-15T00:00:00Z">IN PROGRESS</time>
 	</h3>
 </section>
 
@@ -108,8 +108,6 @@ title: "Books"
 
 #### Reading Queue
 
-* <a href="https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM" target="_blank">Bullshit Jobs: A Theory</a><span class="separator"> &middot; </span> <i>by David Graeber</i>
-
 * <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship</a><span class="separator"> &middot; </span> <i>by Robert C. Martin</i>
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
@@ -123,6 +121,8 @@ title: "Books"
 * <a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How to Fail at Almost Everything and Still Win Big</a><span class="separator"> &middot; </span> <i>by Scott Adams</i>
 
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
+
+* <a href="http://piercebrownbooks.com/books#irongold" target="_blank">Iron Gold: Book 4 of the Red Rising Saga</a><span class="separator"> &middot; </span> <i>by Pierce Brown</i>
 
 * <a href="https://www.amazon.com/dp/B07B2T6R8Q" target="_blank">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a><span class="separator"> &middot; </span> <i>by Dan Lyons</i>
 
