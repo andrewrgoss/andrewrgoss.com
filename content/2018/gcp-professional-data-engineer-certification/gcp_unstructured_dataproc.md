@@ -38,6 +38,9 @@ tags:
 #### Module 4: Analyzing Unstructured Data
 * Add Machine Learning
 
+<font style="font-size:.8em;" color="#7f8c8d">Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.</font>
+<hr>
+
 ### What Qualifies as Unstructured Data?
 <img src="/img/2018/gcp-professional-data-engineer-certification/unstructured_data.png" "Unstructured Data" width="75%">
 

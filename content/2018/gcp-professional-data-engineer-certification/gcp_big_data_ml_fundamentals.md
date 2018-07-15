@@ -30,7 +30,7 @@ tags:
 
 <a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br>
 
-<font style="font-size:.8em;" color="#7f8c8d">Note: These exercises were spun up in temporary cloud projects and thus most are no longer available for viewing.</font>
+<font style="font-size:.8em;" color="#7f8c8d">Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.</font>
 <hr>
 
 ### GCP Functional View
