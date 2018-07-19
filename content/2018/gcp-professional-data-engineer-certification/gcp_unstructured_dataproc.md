@@ -121,6 +121,7 @@ You can make the cluster stateless by keeping all the persistent data off-cluste
 <img src="/img/2018/gcp-professional-data-engineer-certification/dataproc_oss.png" "Dataproc OSS on GCP">
 
 #### Lab 5: Cluster automation using CLI commands
+* Create a customized Dataproc cluster using Cloud Shell
 
 ### Module 4: Analyzing Unstructured Data
 
