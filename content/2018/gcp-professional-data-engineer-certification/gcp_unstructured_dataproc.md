@@ -102,8 +102,33 @@ This shows that the file fits into a single HDFS block. Notice from the Block In
 * Learn more about Spark DataFrames: <a href="http://spark.apache.org" target=_>spark.apache.org</a>
 
 #### Lab 4: Leverage GCP
+* Explore Spark using PySpark jobs
+* Using Cloud Storage instead of HDFS
+* Run a PySpark application from Cloud Storage
+* Using Python Pandas to add BigQuery to a Spark application
+
+<b>Why would you want to use Cloud Storage instead of HDFS?</b>
+
+You can shut down the cluster when you are not running jobs. The storage persists even when the cluster is shut down, so you don't have to pay for the cluster just to maintain data in HDFS.
+In some cases Cloud Storage provides better performance than HDFS.
+Cloud Storage does not require the administration overhead of a local file system.
+
+You can make the cluster stateless by keeping all the persistent data off-cluster. And this means (a) the cluster can be shut down when not in use, solving the Hadoop utilization problem, and (b) a cluster can be created and dedicated to a single job, solving the Hadoop configuration and tuning problem.
+
+<img src="/img/2018/gcp-professional-data-engineer-certification/dataproc_pyspark_job.png" "Dataproc PySpark Job" width="65%">
+
+#### Dataproc OSS on GCP
+<img src="/img/2018/gcp-professional-data-engineer-certification/dataproc_oss.png" "Dataproc OSS on GCP">
 
 #### Lab 5: Cluster automation using CLI commands
 
 ### Module 4: Analyzing Unstructured Data
-* Add Machine Learning
+
+#### Lab 6: Add Machine Learning
+
+<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
+
+## Resources
+* <a href="https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scheduled-deletion" target=_>Cluster Scheduled Deletion</a>
+* <a href="https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/auto-zone" target=_>Cloud Dataproc Auto Zone Placement</a>
+* <a href="https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/network" target=_>Cloud Dataproc Cluster Network Configuration</a>

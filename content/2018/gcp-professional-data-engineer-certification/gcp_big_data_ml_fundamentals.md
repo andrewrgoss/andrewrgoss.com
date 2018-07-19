@@ -64,7 +64,7 @@ tags:
 * The way to decouple producers and consumers of data in complex systems in larger organizations is Pub/Sub.
 * The way to create scalable, fault-tolerant multi-step processing of data is Cloud Dataflow.
 
-### Resources
+## Resources
 * <a href="https://cloud.google.com/datastore" target=_>Cloud Datastore</a>
 * <a href="https://cloud.google.com/bigtable" target=_>Cloud Bigtable</a>
 * <a href="https://cloud.google.com/bigquery" target=_>Google BigQuery</a>
