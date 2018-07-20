@@ -9,6 +9,7 @@ tags:
 ---
 <a href="https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp" target=_><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc.jpg" "Leveraging Unstructured Data with Cloud Dataproc"></a><br>
 <a href="https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp" target="_blank">COURSE LINK</a><br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/NJYSJACUJAJT" target="_blank">COURSE CERTIFICATE</a><br>
 <a href="/2018/gcp-professional-data-engineer-certification/">GCP Professional Data Engineer Certification</a> >> <b>Leveraging Unstructured Data with Cloud Dataproc</b>
 <hr>
 
@@ -125,9 +126,15 @@ You can make the cluster stateless by keeping all the persistent data off-cluste
 
 ### Module 4: Analyzing Unstructured Data
 
-#### Lab 6: Add Machine Learning
+#### Pretrained Models
+<img src="/img/2018/gcp-professional-data-engineer-certification/pretrained_models.png" "Pretrained Models" width="85%">
 
-<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
+* TensorFlow is a multidimensional matrix solution service. It uses an exhaustion method to generate attempted solutions, and then it uses the error to refine its guess until it converges on a practical solution. It essentially assumes that a solution equation exists and then uses an exhaustion trial method to iteratively search for that solution. The result is called a machine learning model. 
+
+#### Lab 6: Add Machine Learning
+* Add Machine Learning (ML) to a Spark application
+
+<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/2-leveraging-unstructured-data" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
 
 ## Resources
 * <a href="https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scheduled-deletion" target=_>Cluster Scheduled Deletion</a>

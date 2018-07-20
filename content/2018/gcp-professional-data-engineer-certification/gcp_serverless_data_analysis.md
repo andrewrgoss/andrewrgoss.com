@@ -12,8 +12,6 @@ tags:
 <a href="/2018/gcp-professional-data-engineer-certification/">GCP Professional Data Engineer Certification</a> >> <b>Serverless Data Analysis with Google BigQuery and Cloud Dataflow</b>
 <hr>
 
-## Module Lab Exercises
+## Modules & Lab Exercises
 
-### Module Review Notes
-
-### Resources
+## Resources
