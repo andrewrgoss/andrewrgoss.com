@@ -12,8 +12,8 @@ tags:
 <hr>
 I took this course to get some experience using <a href="http://jupyter.org" target="_blank">Jupyter Notebooks</a> and furthered my Python skills in a couple of areas:
 
-* <a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o" target="_blank">Algorithm Analysis and Big-O Notation</a>
-* <a href="https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/array_sequences" target="_blank">Array Sequences</a>
+* <a href="http://nbviewer.jupyter.org/github/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o" target="_blank">Algorithm Analysis and Big-O Notation</a>
+* <a href="http://nbviewer.jupyter.org/github/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/array_sequences" target="_blank">Array Sequences</a>
 
 Additionally, this course offers video content on the 'soft skills' needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview. With lifetime access it is always helpful to be able to go back and reference these sections.
 
