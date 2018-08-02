@@ -415,6 +415,10 @@ Thorough overview on what REST APIs are and how to use them.<br>
 Enter the URL of a website and quickly find a list of the technologies used to support that site including email services, nameserver providers, JavaScript libraries, widgets, server information, and more.<br>
 <a href="http://builtwith.com" target="_blank">builtwith.com</a>
 
+#### Font Awesome
+Font Awesome makes it easy to add vector icons and social logos to your website.<br>
+<a href="https://fontawesome.com" target="_blank">fontawesome.com</a>
+
 #### Google Design: Resizer
 An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.<br>
 <a href="http://design.google.com/resizer" target="_blank">design.google.com/resizer</a>
