@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-25
+date: 2018-07-20
 title: Coursera- Building Resilient Streaming Systems on GCP
 tags:
   - cloud computing

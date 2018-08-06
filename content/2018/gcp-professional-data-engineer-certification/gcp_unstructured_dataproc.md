@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-22
+date: 2018-07-20
 title: Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP
 tags:
   - cloud computing

@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-22
+date: 2018-07-20
 title: GCP Professional Data Engineer Certification
 tags:
   - cloud computing

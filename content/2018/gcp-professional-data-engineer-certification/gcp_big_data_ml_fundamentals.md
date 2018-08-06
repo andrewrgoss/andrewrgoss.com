@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2018-06-22
+date: 2018-07-20
 title: Coursera- GCP Big Data and Machine Learning Fundamentals
 tags:
   - cloud computing
