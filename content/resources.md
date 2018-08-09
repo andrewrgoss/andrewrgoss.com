@@ -247,6 +247,10 @@ This firm specializes in evaluating vendors in the MarTech space to help you fin
 <h2 class="resources"><a name="programming"></a>Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### Beginner’s Resources to Learn Programming Languages
+This blog post details some important programming languages and offers numerous links for learning more about each one.<br> 
+<a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
+
 #### Bento
 A curated collection of tutorials and free learning resources for learning to code in new languages.<br> 
 <a href="https://bento.io" target="_blank">bento.io</a>
@@ -257,7 +261,7 @@ Free site lets you share your code with others in CodeEnv online environments. G
 
 #### CodeProject: Diving in OOP
 Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.<br>
-<a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/Diving-in-OOP</a>
+<a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/diving-in-oop</a>
 
 #### Codility
 Offers programming problems and lessons for challenging yourself to get to become a better coder.<br> 
