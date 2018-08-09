@@ -248,7 +248,7 @@ This firm specializes in evaluating vendors in the MarTech space to help you fin
 <hr>
 
 #### Beginner’s Resources to Learn Programming Languages
-This blog post details some important programming languages and offers numerous links for learning more about each one.<br> 
+This blog post details some important programming languages and offers numerous links for learning more about each.<br> 
 <a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
 
 #### Bento
