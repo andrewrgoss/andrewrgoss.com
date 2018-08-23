@@ -371,6 +371,10 @@ PythonAnywhere makes it easy to create and run Python programs in the cloud. You
 This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used. Also provides general overview of web application frameworks and what they do.<br>
 <a href="https://www.oreilly.com/learning/python-web-frameworks" target="_blank">oreilly.com/learning/python-web-frameworks</a>
 
+#### What is Microservices Architecture?
+Microservice architecture, or simply microservices, is a distinctive method of developing software systems that tries to focus on building single-function modules with well-defined interfaces and operations. The trend has grown popular in recent years as Enterprises look to become more Agile and move towards a DevOps and continuous testing. Microservices can help create scalable, testable software that can be delivered weekly, not yearly.<br>
+<a href="https://smartbear.com/learn/api-design/what-are-microservices" target="_blank">smartbear.com/what-are-microservices</a>
+
 <hr>
 <h2 class="resources"><a name="api_services"></a>API Services</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
