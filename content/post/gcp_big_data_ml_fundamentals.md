@@ -27,7 +27,7 @@ tags:
 * <a href="http://nbviewer.jupyter.org/github/andrewrgoss/gcp-data-engineer/blob/db1e6239eee7f6482e207c6e51a7f1a999fdcc33/1-gcp-big-data-ml-fundamentals/demandforecast.ipynb" target=_>Carry out ML with TensorFLow</a>
 * <a href="http://nbviewer.jupyter.org/github/andrewrgoss/gcp-data-engineer/blob/db1e6239eee7f6482e207c6e51a7f1a999fdcc33/1-gcp-big-data-ml-fundamentals/mlapis.ipynb" target=_>Invoke Machine Learning APIs</a>
 
-<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br>
+<a href="https://github.com/andrewrgoss/coursera-gcp-de/tree/master/1-gcp-big-data-ml-fundamentals" class="btn" target="_blank">View my code on GitHub</a><br>
 
 <font style="font-size:.8em;" color="#7f8c8d">Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.</font>
 <hr>

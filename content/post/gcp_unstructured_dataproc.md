@@ -133,7 +133,7 @@ You can make the cluster stateless by keeping all the persistent data off-cluste
 #### Lab 6: Add Machine Learning
 * Add Machine Learning (ML) to a Spark application
 
-<a href="https://github.com/andrewrgoss/gcp-data-engineer/tree/master/2-leveraging-unstructured-data" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
+<a href="https://github.com/andrewrgoss/coursera-gcp-de/tree/master/2-leveraging-unstructured-data" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
 
 ## Resources
 * <a href="https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scheduled-deletion" target=_>Cluster Scheduled Deletion</a>
