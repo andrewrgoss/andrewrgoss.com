@@ -75,8 +75,3 @@ Senior Data Engineer
 **<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>
 Technical Consultant | Account Manager | Marketing Specialist
 <p><sub>Held multiple roles ranging from marketing automation specialist to database developer. Gained important experience in leading client-facing calls and meeting with senior management around RFPs, SOWs, and general account strategy. In most recent role, had oversight of global response management (GRM) system, a key ETL engine for Hewlett Packard Enterprise (HPE) and HP Inc. (HPI). Maintained system uptime as part of 24-hr support team in monitoring over one hundred continuous third-party vendor data integrations and RESTful API data transfer to Eloqua platform.</sub></p>
-
-<a href="http://www.geminiunderwriters.com" target="_blank"><img src="/img/gtu_logo.png"></a><br>
-**<a href="http://www.geminiunderwriters.com" target="_blank">Gemini Transportation Underwriters</a>** | Jul 2011 - Apr 2012<br>
-Marketing Specialist
-<p><sub>Market research and competitive analysis for excess liability insurance provider in the transportation industry, with a specialization in policies for commercial trucking and railroad companies.</sub></p>

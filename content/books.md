@@ -122,6 +122,8 @@ title: "Books"
 
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
 
+* <a href="https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8" target="_blank">The Intelligent Investor</a><span class="separator"> &middot; </span> <i>by Benjamin Graham</i>
+
 * <a href="http://piercebrownbooks.com/books#irongold" target="_blank">Iron Gold: Book 4 of the Red Rising Saga</a><span class="separator"> &middot; </span> <i>by Pierce Brown</i>
 
 * <a href="https://www.amazon.com/dp/B07B2T6R8Q" target="_blank">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a><span class="separator"> &middot; </span> <i>by Dan Lyons</i>
