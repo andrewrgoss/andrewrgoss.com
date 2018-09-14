@@ -2,16 +2,14 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Senior data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
-
-My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With huge amounts of data being generated daily through digital interactions, I work to wrangle this data and derive value from it.
+> <b>TL;DR</b> -- Data engineer building backend systems that empower data-driven organizations through self-service analytics. Also a world traveler.
 
 <hr>
 
-I am currently a senior data engineer at <a href="http://www.digitas.com/us" target="_blank">Digitas</a>.
+I am currently a data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
-* My team uses a variety of evolving technologies to build the backend systems and data pipelines behind SaaS tools/predictive models used by global data science, marketing, and media management teams.
-* Using both traditional RDBMS and modern big data frameworks like Hadoop and Spark, we manage varying volumes of disparate data sources. In centralizing data streams, we help provide the structure and visualization necessary to enable crucial cross-platform analytics and automated advertising decisioning.
+* Interfolio is an enterprise SaaS collaboration platform serving the global higher education market.
+* I'm working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story.
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
@@ -19,7 +17,7 @@ Over the course of my career, I have gained a unique perspective as both a devel
 
 * I've held both client-facing and technical roles while addressing a wide range of business data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
 * During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell.
-* My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter, real-time optimization of marketing/advertising dollars through technical expertise combined with marketing savviness and business acumen. 
+* My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
 ![ETL](/img/etl.png "ETL")
 

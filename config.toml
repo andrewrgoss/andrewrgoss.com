@@ -1,6 +1,6 @@
 baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
-title = "Andrew Goss · Senior Data Engineer in Boston"
+title = "Andrew Goss · Data Engineer in Boston"
 paginate = 7
 theme = "crisp"
 pluralizelisttitles = false
@@ -9,7 +9,7 @@ disqusShortname = "andrewrgoss"
 
 [params]
     twitter = "Andrewrgoss"
-    description = "Andrew Goss is a senior data engineer out of Boston, MA. He builds powerful backend systems that ingest and organize disparate data sources to help industry-leading brands make smarter, data-driven decisions towards reaching their target audiences through media."
+    description = "Andrew Goss is a data engineer out of Boston, MA. He builds powerful backend systems that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story."
     email = "andrewrgoss@gmail.com"
     hostname = "https://andrewrgoss.github.io"
 

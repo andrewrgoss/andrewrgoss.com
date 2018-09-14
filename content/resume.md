@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Senior data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data story initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data story initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -66,8 +66,13 @@ Senior data engineer experienced in building data pipelines and backend applicat
 
 <hr>
 ### <a name="work_experience"></a>Work Experience
+<a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
+**<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - present<br>
+Data Engineer
+<p><sub>Interfolio is an enterprise SaaS collaboration platform serving the global higher education market. I'm working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story.</sub></p>
+
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
-**<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - present<br>
+**<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
 Senior Data Engineer
 <p><sub>Working with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used by data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 

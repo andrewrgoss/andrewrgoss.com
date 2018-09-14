@@ -6,8 +6,8 @@
 {{ $titleBase := (print " · " .Site.Title) }}
 {{ if $isHomepage }}
     {{ $.Scratch.Set "title" .Site.Title }}
-{{ else if eq .Title "Andrew Goss · Senior Data Engineer in Boston" }}
-    {{ $.Scratch.Set "title" (print "Andrew Goss · Senior Data Engineer in Boston") }}
+{{ else if eq .Title "Andrew Goss · Data Engineer in Boston" }}
+    {{ $.Scratch.Set "title" (print "Andrew Goss · Data Engineer in Boston") }}
 {{else}}
     {{ $.Scratch.Set "title" (print .Title $titleBase) }}
 {{end}}
@@ -134,7 +134,7 @@
         <header id="header">
             <a id="logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}avatar.jpg" alt="{{ .Site.Title }}" /></a>
             <h1><a href="{{.Site.BaseURL}}">Andrew Goss</a></h1>
-			<span>Senior Data Engineer in Boston</span><br><br>
+			<span>Data Engineer in Boston</span><br><br>
             {{ partial "follow.html" . }}
             {{ partial "navigation.html" . }}
             {{ partial "search.html" . }}
