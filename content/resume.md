@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineer working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data story initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a marketer in leveraging people, process, and technology to tell data stories across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -35,14 +35,14 @@ Data engineer working to advance a data-driven culture by integrating disparate 
 
 <sub>Data Engineering --- Cloud Computing --- Backend Development --- Business Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> Big data infrastructure, database design, dimensional modeling, data lakes/warehousing, ETL, RESTful APIs, process automation, marketing/advertising intelligence, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> Database design, dimensional modeling, data lakes/warehousing, big data infrastructure, ETL, RESTful APIs, process automation, business intelligence, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
 
 * <b>API DEVELOPMENT:</b> <a href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON&nbsp;<img src="/img/json.png"></a>&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful Web Services&nbsp;<img src="/img/rest-api.png"></a>
 
-* <b>BUSINESS INTELLIGENCE:</b> <a href="https://www.alteryx.com" target="_blank">Alteryx&nbsp;<img src="/img/alteryx.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
+* <b>BUSINESS INTELLIGENCE:</b> <a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
 
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
 
@@ -69,12 +69,12 @@ Data engineer working to advance a data-driven culture by integrating disparate 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - present<br>
 Data Engineer
-<p><sub>Interfolio is an enterprise SaaS collaboration platform serving the global higher education market. I'm working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story.</sub></p>
+<p><sub>Interfolio is an enterprise SaaS collaboration platform serving the global higher education market. I'm working to build an enterprise data warehouse in a way that allows others within different business units to answer important questions using data. Design, documentation, and performance are all crucial to making the data easily explorable.</sub></p>
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
 **<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
 Senior Data Engineer
-<p><sub>Working with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used by data science, marketing, and media management teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
+<p><sub>Worked with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used by data science, marketing, and media management teams. In centralizing disparate data streams, developed the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
 **<a href="http://www.quickpivot.com" target="_blank">QuickPivot</a>** | Apr 2012 - Oct 2015<br>

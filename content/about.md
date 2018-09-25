@@ -9,7 +9,7 @@ description = "Andrew Goss Background"
 I am currently a data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
 * Interfolio is an enterprise SaaS collaboration platform serving the global higher education market.
-* I'm working to advance a data-driven culture by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story.
+* I'm working to build an enterprise data warehouse in a way that allows others within different business units to answer important questions using data. Design, documentation, and performance are all crucial to making the data easily explorable.
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
