@@ -35,9 +35,6 @@ else
 	cd $GITHUB_AG/hugo/sites/andrewrgoss.github.io/
 fi
 
-
-cd $GITHUB_AG/hugo/sites/andrewrgoss.github.io/
-
 echo -e "\033[0;36mDeploying andrewrgoss.github.io updates to GitHub...\033[0m"
 
 # Add changes for this repo to git.
