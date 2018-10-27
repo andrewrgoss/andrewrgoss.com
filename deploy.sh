@@ -29,6 +29,13 @@ fi
 rm -R public/
 
 # Change directory to github.io repo for final git commit here.
+if [ "$GOPATH" = "C:\Users\Andrew\GoLangCode" ]; then
+    cd $GOPATH/hugo/sites/andrewrgoss.github.io/
+else
+	cd $GITHUB_AG/hugo/sites/andrewrgoss.github.io/
+fi
+
+
 cd $GITHUB_AG/hugo/sites/andrewrgoss.github.io/
 
 echo -e "\033[0;36mDeploying andrewrgoss.github.io updates to GitHub...\033[0m"
