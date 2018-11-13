@@ -31,7 +31,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;United States&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;Aruba&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Belize&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Costa Rica&ensp;&ensp;
 
 ##### South America
