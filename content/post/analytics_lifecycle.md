@@ -18,8 +18,8 @@ Across industries, the applied use of data to inform business decisions has beco
 <sub>*Source: Burtch Works</sub>
 
 ## Big Data Analytics Lifecycle
-Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis. 
+Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis.
 
-<img src="http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg">
+![Analytics Lifecycle](/img/post/analytics_lifecycle.jpg "Analytics Lifecycle")
 
 <sub>*Source: <a href="http://www.informit.com/articles/article.aspx?p=2473128&seqNum=11" target="_blank">InformIT</a></sub>
