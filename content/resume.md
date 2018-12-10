@@ -29,24 +29,26 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 ### <a name="core_competencies"></a>Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
 ![Cloud Computing](/img/cloud.png "Cloud Computing")
-![Backend Development](/img/coding.png "Backend Development")
+![ETL Development](/img/coding.png "ETL Development")
 ![Business Analytics](/img/analysis.png "Business Analytics")
 ![Database Architecture](/img/database.png "Database Architecture")
 
-<sub>Data Engineering --- Cloud Computing --- Backend Development --- Business Analytics --- Database Architecture</sub><br>
+<sub>Data Engineering --- Cloud Computing --- ETL Development --- Business Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> Database design, dimensional modeling, data lakes/warehousing, big data infrastructure, ETL, RESTful APIs, process automation, business intelligence, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> Data modeling, data lakes/warehousing, big data infrastructure, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
 
-* <b>API DEVELOPMENT:</b> <a href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON&nbsp;<img src="/img/json.png"></a>&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful Web Services&nbsp;<img src="/img/rest-api.png"></a>
+* <b>API DEVELOPMENT:</b> <a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>
 
 * <b>BUSINESS INTELLIGENCE:</b> <a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
 
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
 
 * <b>CLOUD COMPUTING:</b> <a href="https://aws.amazon.com" target="_blank">AWS&nbsp;<img src="/img/aws.png"></a>&nbsp;&nbsp;<a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>
+
+* <b>CONTAINERS:</b> <a href="https://www.docker.com" target="_blank">Docker&nbsp;<img src="/img/docker.png"></a>
 
 * <b>DATA WAREHOUSES:</b> <a href="https://cloud.google.com/solutions/bigquery-data-warehouse" target="_blank">BigQuery&nbsp;<img src="/img/bigquery.png"></a>&nbsp;&nbsp;<a href="https://www.snowflake.com" target="_blank">Snowflake&nbsp;<img src="/img/snowflake.png"></a>
 
@@ -65,7 +67,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 
 * <b>SOURCE CONTROL:</b> <a href="https://www.atlassian.com/software/bitbucket" target="_blank">Bitbucket&nbsp;<img src="/img/bitbucket.png"></a>&nbsp;&nbsp;<a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp;<a href="https://www.sourcetreeapp.com" target="_blank">Sourcetree&nbsp;<img src="/img/sourcetree.png"></a>
 
-* <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://slack.com" target="_blank">Slack&nbsp;<img src="/img/slack.png"></a>
+* <b>WORKFLOW MANAGEMENT:</b> <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA&nbsp;<img src="/img/jira.png"></a>&nbsp;&nbsp;<a href="https://slack.com" target="_blank">Slack&nbsp;<img src="/img/slack.png"></a>&nbsp;&nbsp;<a href="https://trello.com" target="_blank">Trello&nbsp;<img src="/img/trello.png"></a>
 
 <hr>
 ### <a name="work_experience"></a>Work Experience
