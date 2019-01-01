@@ -335,6 +335,10 @@ This post compiles the most illustrative advice and recurring tips from blogs/fo
 Draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.<br>
 <a href="https://www.draw.io" target="_blank">draw.io</a>
 
+#### ExtendsClass
+ExtendsClass provides developer tools directly usable in a browser, such as disposal syntax validators, code formatters, testers, HTTP clients, mock servers, and SQLite browsers.<br>
+<a href="https://extendsclass.com" target="_blank">extendsclass.com</a>
+
 #### Git Branching Model
 This post outlines a development model for git branching strategy and release management.<br>
 <a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>

@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer building backend systems that empower data-driven organizations through self-service analytics. Also a world traveler.
+> <b>TL;DR</b> -- Data engineer building backend systems that empower data-driven organizations through self-service analytics. Currently based in the Boston, MA, USA area.
 
 <hr>
 

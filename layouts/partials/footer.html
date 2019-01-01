@@ -1,5 +1,5 @@
 		<footer id="footer">
-			<p id="footer-message">&copy; 2018 Andrew Goss. Source code available on <a href="https://github.com/andrewrgoss/andrewrgoss.github.io" target="_blank">GitHub</a>.</p>
+			<p id="footer-message">&copy; 2019 Andrew Goss. Source code available on <a href="https://github.com/andrewrgoss/andrewrgoss.github.io" target="_blank">GitHub</a>.</p>
 		</footer>
 
     <script>
@@ -26,7 +26,7 @@
                     $("#mailerror").attr("href", "mailto:{{ .Site.Params.email }}?subject=404%20on%20website&body=This%20page%20on%20your%20website%20seems%20to%20be%20missing%3A%20" + encodeURIComponent(window.location.href));
                 });
               {{ end }}
-              {{ if (ne .Title "Andrew Goss · Senior Data Engineer in Boston") }}
+              {{ if (ne .Title "Andrew Goss · Data Engineer") }}
                 var isMobile = window.matchMedia("only screen and (max-width: 800px)");
                 if(isMobile.matches) {
                     $("html, body").animate({scrollTop: $('#content').offset().top }, 500);
