@@ -1,7 +1,7 @@
 ---
 author: "Simon Späti"
 date: 2018-12-17
-title: Data Engineering, Future of Data Warehousing?
+title: Future of Data Warehousing
 tags:
   - business intelligence
   - data engineering
