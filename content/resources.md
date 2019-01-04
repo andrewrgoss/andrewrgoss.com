@@ -139,6 +139,10 @@ Walkthrough on some of the common lingo of big data, such as DaaS and Neural Net
 A nice intro guide on what these are and why they are used.<br>
 <a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>
 
+#### Parserator
+Working with some messy address or name data? It helps to split each one into separate components. Parserator is a framework for making parsers using natural language processing (NLP) methods.<br>
+<a href="https://parserator.datamade.us" target="_blank">parserator.datamade.us</a>
+
 #### Self-Study List for Data Engineers and Aspiring Data Architects
 With the explosion of “Big Data” over the last few years, the need for people who know how to build and manage data-pipelines has grown. This article takes a look at the sought after job skills for these areas and how you can go about learning these.<br>
 <a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
