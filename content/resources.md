@@ -291,6 +291,10 @@ Join over 2 million developers in solving code challenges on HackerRank, one of 
 Great series of posts that will help you either learn or brush up on Java programming concepts in a simple and effective way.<br>
 <a href="https://medium.com/@madhupathy/a-beginners-guide-to-java-part-1-of-3-33edf47e47b4" target="_blank">medium.com/@madhupathy/guide-to-java</a>
 
+#### Learn Code The Hard Way
+Learn Code The Hard Way courses are an effective system for learning the basics of computer programming, designed specifically for complete beginners.<br>
+<a href="https://learncodethehardway.org" target="_blank">learncodethehardway.org</a>
+
 #### LeetCode
 Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
 <a href="https://leetcode.com" target="_blank">leetcode.com</a>
@@ -355,6 +359,10 @@ This page tries to collect the libraries for the queueing systems (job, messagin
 Helping you make more informed decisions about the software you use. Libraries.io indexes data from a growing number of projects from numerous package managers. The 'dependency tree' that emerges is the core of the services that are provided.<br>
 <a href="https://libraries.io" target="_blank">libraries.io</a>
 
+#### Read the Docs
+Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.<br>
+<a href="https://readthedocs.org" target="_blank">readthedocs.org</a>
+
 #### StackShare
 StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
 <a href="https://stackshare.io" target="_blank">stackshare.io</a>
@@ -390,6 +398,10 @@ Microservice architecture, or simply microservices, is a distinctive method of d
 #### Google Analytics Query Explorer
 This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
 <a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
+
+#### GraphQL Introduction
+GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. Learn about GraphQL, how it works, and how to use it in this series of articles.<br>
+<a href="https://graphql.org/learn" target="_blank">graphql.org/learn</a>
 
 #### How to design a RESTful API architecture from a human-language spec
 A three-post series that teaches RESTful API design to solve users’ needs with simplicity, reliability, and performance.<br>
