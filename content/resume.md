@@ -40,7 +40,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
 
-* <b>API DEVELOPMENT:</b> <a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>
+* <b>API DEVELOPMENT:</b> <a href="https://graphql.org" target="_blank">GraphQL&nbsp;<img src="/img/graphql.png">&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>
 
 * <b>BUSINESS INTELLIGENCE:</b> <a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
 
@@ -48,22 +48,22 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 
 * <b>CLOUD COMPUTING:</b> <a href="https://aws.amazon.com" target="_blank">AWS&nbsp;<img src="/img/aws.png"></a>&nbsp;&nbsp;<a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>
 
-* <b>CONTAINERS:</b> <a href="https://www.docker.com" target="_blank">Docker&nbsp;<img src="/img/docker.png"></a>
+* <b>CODE EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;<a href="https://notepad-plus-plus.org" target="_blank">Notepad++&nbsp;<img src="/img/notepad++.png"></a>&nbsp;&nbsp;<a href="http://www.vim.org" target="_blank">Vim&nbsp;<img src="/img/vim.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
 
 * <b>DATA WAREHOUSES:</b> <a href="https://cloud.google.com/solutions/bigquery-data-warehouse" target="_blank">BigQuery&nbsp;<img src="/img/bigquery.png"></a>&nbsp;&nbsp;<a href="https://www.snowflake.com" target="_blank">Snowflake&nbsp;<img src="/img/snowflake.png"></a>
 
-* <b>DOCUMENTATION:</b> <a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://www.lucidchart.com" target="_blank">Lucidchart&nbsp;<img src="/img/lucidchart.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Microsoft Visio&nbsp;<img src="/img/msvisio.png"></a>
+* <b>DOCUMENTATION:</b> <a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://www.lucidchart.com" target="_blank">Lucidchart&nbsp;<img src="/img/lucidchart.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Visio&nbsp;<img src="/img/msvisio.png"></a>
 
 * <b>ETL TOOLS:</b>
 <a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
 
-* <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
+* <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>
 
 * <b>OPERATING SYSTEMS:</b> <a href="https://www.linux.com" target="_blank">Linux&nbsp;<img src="/img/linux.png"></a>&nbsp;&nbsp;<a href="https://www.apple.com/macos" target="_blank">macOS&nbsp;<img src="/img/macos.png"></a>&nbsp;&nbsp;<a href="http://www.microsoft.com/en-us/windows" target="_blank">Windows&nbsp;<img src="/img/windows.png"></a>
 
 * <b>PROGRAMMING LANGUAGES:</b> <a href="https://msdn.microsoft.com/en-us/library/z1zx9t92.aspx" target="_blank">C#&nbsp;<img src="/img/csharp.png"></a>&nbsp;&nbsp;<a href="https://golang.org" target="_blank">Go&nbsp;<img src="/img/golang.png"></a>&nbsp;&nbsp;<a href="https://java.com" target="_blank">Java&nbsp;<img src="/img/java.png"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank">Python&nbsp;<img src="/img/python.png"></a>&nbsp;&nbsp;<a href="http://www.scala-lang.org" target="_blank">Scala&nbsp;<img src="/img/scala.png"></a>
 
-* <b>RDBMS:</b> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">Microsoft SQL Server&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.mysql.com" target="_blank">mySQL&nbsp;<img src="/img/mysql.png"></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank">PostgreSQL&nbsp;<img src="/img/postgresql.png"></a>
+* <b>RDBMS:</b> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">SQL Server&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="https://www.mysql.com" target="_blank">mySQL&nbsp;<img src="/img/mysql.png"></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank">PostgreSQL&nbsp;<img src="/img/postgresql.png"></a>
 
 * <b>SOURCE CONTROL:</b> <a href="https://www.atlassian.com/software/bitbucket" target="_blank">Bitbucket&nbsp;<img src="/img/bitbucket.png"></a>&nbsp;&nbsp;<a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png">&nbsp;&nbsp;<a href="https://git-scm.com" target="_blank">Git&nbsp;<img src="/img/git.png"></a>&nbsp;&nbsp;<a href="https://www.sourcetreeapp.com" target="_blank">Sourcetree&nbsp;<img src="/img/sourcetree.png"></a>
 
