@@ -13,10 +13,10 @@ I am currently a data engineer at <a href="https://www.interfolio.com" target="_
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
-Over the course of my career, I have gained a unique perspective as both a developer and a marketer in leveraging people, process, and technology.
+Over the course of my career, I have gained a unique perspective as both a developer and an account manager in leveraging people, process, and technology.
 
 * I've held both client-facing and technical roles while addressing a wide range of business data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
-* During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell.
+* During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and systems.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
 ![ETL](/img/etl.png "ETL")
@@ -33,6 +33,8 @@ Outside of work, I am a <a href="/travel">world traveler</a>.
 
 I also like to read.
 
-* Here are some of the <a href="/books">books</a> I am reading, want to read, or have read in the past.
+* These are some of the <a href="/books">books</a> I am reading, want to read, or have read in the past.
 
 And I'm an investor, gamer, and sports fan.
+
+* Mostly self-taught in financial portfolio management, and an active season ticket holder for the <a href="https://www.patriots.com" target=_>New England Patriots</a>.

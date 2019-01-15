@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a marketer in leveraging people, process, and technology to tell data stories across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and an account manager in leveraging people, process, and technology to tell data stories across industries such as finance, food services, higher education, retail, technology, and telecommunications.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -78,7 +78,7 @@ Data Engineer
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
 **<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
-Senior Data Engineer
+Data Engineer
 <p><sub>Worked with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used by data science, marketing, and media management teams. In centralizing disparate data streams, developed the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
