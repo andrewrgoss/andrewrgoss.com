@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo -e "\033[0;36mDeploying andrewrgoss.com updates to GitHub...\033[0m"
 
