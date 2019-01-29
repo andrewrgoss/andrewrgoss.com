@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by David Graeber</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2018-07-15T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2019-01-28T00:00:00Z">Jan 2019</time>
 	</h3>
 </section>
 
