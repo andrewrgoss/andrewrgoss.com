@@ -251,6 +251,10 @@ This firm specializes in evaluating vendors in the MarTech space to help you fin
 <h2 class="resources"><a name="programming"></a>Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### awesome-vscode
+A curated list of delightful VS Code packages and resources.<br> 
+<a href="https://viatsko.github.io/awesome-vscode" target="_blank">viatsko.github.io/awesome-vscode</a>
+
 #### Beginner’s Resources to Learn Programming Languages
 This blog post details some important programming languages and offers numerous links for learning more about each.<br> 
 <a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
