@@ -32,8 +32,8 @@ Many backend application engineers at my current employer use <a href="https://w
 * <a href="https://rvm.io" target=_>Ruby Version Manager (RVM)</a>
 
 #### Course Progress
-<progress max="1.0" value="0.02"></progress>
+<progress max="1.0" value="0.06"></progress>
 
-2% - <font color="green">IN PROGRESS</font>
+6% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-learn-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
