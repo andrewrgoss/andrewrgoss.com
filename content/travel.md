@@ -86,7 +86,6 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Turkey&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;United Arab Emirates&ensp;&ensp;
 
 
