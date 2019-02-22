@@ -15,7 +15,7 @@ I am currently a data engineer at <a href="https://www.interfolio.com" target="_
 
 Over the course of my career, I've gained a unique perspective as both a developer and a technical consultant in leveraging people, process, and technology.
 
-* I've had the opportunity to solve numerous data challenges across a variety of industries in using a curated assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
+* I've had the opportunity to solve numerous data challenges across a variety of industries using a curated assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
 * During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and programs.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, backend application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
@@ -37,4 +37,4 @@ I also like to read.
 
 And I'm an investor, gamer, and sports fan.
 
-* Mostly self-taught in financial portfolio management, and an active season ticket holder for the <a href="https://www.patriots.com" target=_>New England Patriots</a>.
+* Mostly self-taught in financial portfolio management (subscriber to <a href="https://www.kiplinger.com" target=_>Kiplinger</a>), and an active season ticket holder for the <a href="https://www.patriots.com" target=_>New England Patriots</a>.
