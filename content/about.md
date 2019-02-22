@@ -2,7 +2,7 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Data engineer building backend systems that empower data-driven organizations through self-service analytics. Currently based in the Boston, MA, USA area.
+> <b>TL;DR</b> -- Data engineer building performant backend systems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
 
 <hr>
 
@@ -13,15 +13,15 @@ I am currently a data engineer at <a href="https://www.interfolio.com" target="_
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
-Over the course of my career, I have gained a unique perspective as both a developer and an account manager in leveraging people, process, and technology.
+Over the course of my career, I've gained a unique perspective as both a developer and a technical consultant in leveraging people, process, and technology.
 
-* I've held both client-facing and technical roles while addressing a wide range of business data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications. 
-* During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and systems.
-* My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
+* I've had the opportunity to solve numerous data challenges across a variety of industries in using a curated assortment of best in class technologies and engineering well-designed, secure data ecosystems.
+* During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and programs.
+* My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, backend application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
 ![ETL](/img/etl.png "ETL")
 
-With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development that I write about in this blog. I've found it not only to be a nice way to document my work, but also a great way to share knowledge with others. I've also come across many useful <a href="/resources">resources</a> and emerging ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
+With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development that I write about in this blog. I've found it not only to be a nice way to document my own learning, but also a great way to share knowledge with others. I've also come across many useful <a href="/resources">resources</a> and emerging ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 
 > Check out my <a href="/resume">resume</a> for more details on my professional experiences.
 

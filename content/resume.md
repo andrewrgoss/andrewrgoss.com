@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and an account manager in leveraging people, process, and technology to tell data stories across industries such as finance, food services, higher education, retail, technology, and telecommunications.
+Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and programs.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
@@ -35,7 +35,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 
 <sub>Data Engineering --- Cloud Computing --- ETL Development --- Business Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> Data modeling, data lakes/warehousing, big data infrastructure, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> Data lakes/warehousing, data modeling, big data infrastructure, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
