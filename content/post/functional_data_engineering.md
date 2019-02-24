@@ -7,7 +7,7 @@ tags:
   - data warehousing
   - functional programming
 ---
-![Data Pipe](/img/post/pipeline.png "Pipeline")<br>
+<img src="/img/post/pipeline.png" "Pipeline" width="60%">
 
 <sub><i>written by <a href="https://medium.com/@maximebeauchemin" target="_blank">Maxime Beauchemin</a></i></sub>
 <hr>

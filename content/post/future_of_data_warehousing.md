@@ -1,6 +1,6 @@
 ---
 author: "Simon Späti"
-date: 2018-12-17
+date: 2019-01-17
 title: Future of Data Warehousing
 tags:
   - business intelligence
