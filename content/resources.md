@@ -135,6 +135,10 @@ A curated list of data engineering tools for software developers.<br>
 Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
+#### Introduction to Apache Airflow
+Apache Airflow is hot right now and if you're interested in learning about it from a high-level, this a nice 'intro' guide.<br>
+<a href="https://www.astronomer.io/guides/intro-to-airflow" target="_blank">astronomer.io/guides/intro-to-airflow</a>
+
 #### OLAP Cubes
 A nice intro guide on what these are and why they are used.<br>
 <a href="http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube" target="_blank">olap.com/learn-bi-olap/olap-bi-definitions/olap-cube</a>

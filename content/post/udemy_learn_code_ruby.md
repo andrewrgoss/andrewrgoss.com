@@ -11,8 +11,6 @@ tags:
 <a href="https://www.udemy.com/learn-to-code-with-ruby-lang" target="_blank">COURSE LINK</a><br>
 <hr>
 
-Many backend application engineers at my current employer use <a href="https://www.ruby-lang.org" target=_>Ruby</a> so I signed up for this course to practice and learn more about the nuances of the language. 
-
 ### What is Ruby?
 * An object-oriented programming language
 * A popular language across the world
@@ -38,8 +36,8 @@ Many backend application engineers at my current employer use <a href="https://w
 * <a href="https://rvm.io" target=_>Ruby Version Manager (RVM)</a>
 
 #### Course Progress
-<progress max="1.0" value="0.16"></progress>
+<progress max="1.0" value="0.17"></progress>
 
-16% - <font color="green">IN PROGRESS</font>
+17% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-learn-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
