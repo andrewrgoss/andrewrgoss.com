@@ -25,6 +25,7 @@ tags:
 * The program that runs the Ruby code is called the <b>interpreter</b>.
 * Everything in Ruby is an object.
 * Ruby is <b>dynamically typed</b>. Variable types do not have to be declared. The same variable can be reassigned to an object of another data type.
+* Strings are mutable objects.
 
 ### Syntax Best Practices
 * Variable names should start with a lowercase letter or underscore
@@ -36,8 +37,8 @@ tags:
 * <a href="https://rvm.io" target=_>Ruby Version Manager (RVM)</a>
 
 #### Course Progress
-<progress max="1.0" value="0.17"></progress>
+<progress max="1.0" value="0.21"></progress>
 
-17% - <font color="green">IN PROGRESS</font>
+21% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-learn-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
