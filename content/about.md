@@ -6,7 +6,7 @@ description = "Andrew Goss Background"
 
 <hr>
 
-I am currently a data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
+I'm currently a data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
 * Interfolio is a consumer/enterprise SaaS collaboration platform serving the global higher education market.
 * I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics. Design, documentation, and performance are all crucial to making the data easily explorable.
@@ -27,7 +27,7 @@ With the rate at which technology changes, you can never stop learning new thing
 
 <hr>
 
-Outside of work, I am a <a href="/travel">world traveler</a>.
+Outside of work, I'm a <a href="/travel">world traveler</a>.
 
 * To date, I have traveled to over 20 countries. In the summer of 2017, my wife and I took a 7-week sabbatical to travel throughout Japan and Southeast Asia.
 

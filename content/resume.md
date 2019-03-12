@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I have worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and programs.
+Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I've worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and programs.
 
 <hr>
 ### <a name="clients_served"></a>Clients Served
