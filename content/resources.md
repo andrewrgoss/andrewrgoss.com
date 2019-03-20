@@ -8,7 +8,47 @@ title: "Resources"
 [API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
 
 <hr>
-## <a name="career_management"></a>Career Management
+## <a name="api_services"></a>API Services
+<hr>
+
+#### Google Analytics Query Explorer
+This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
+<a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
+
+#### GraphQL Introduction
+GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. Learn about GraphQL, how it works, and how to use it in this series of articles.<br>
+<a href="https://graphql.org/learn" target="_blank">graphql.org/learn</a>
+
+#### How to design a RESTful API architecture from a human-language spec
+A three-post series that teaches RESTful API design to solve users’ needs with simplicity, reliability, and performance.<br>
+<a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec" target="_blank">oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec</a>
+
+#### OpenWeatherMap
+API for accessing current weather data for any location including over 200,000 cities.<br>
+<a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>
+
+#### Postman
+This free Chrome extension allows developers to explore, test, and build APIs using a powerful collaborative testing and development suite.<br>
+<a href="https://www.getpostman.com" target="_blank">getpostman.com</a>
+
+#### Public APIs
+Categorizes different APIs scoured from the web which make their resources available for public consumption.<br>
+<a href="https://github.com/abhishekbanthia/Public-APIs" target="_blank">github.com/abhishekbanthia/Public-APIs</a>
+
+#### RapidAPI
+Enables developers to find, test, and manage API integrations from one place and provides real-time performance metrics.<br>
+<a href="https://rapidapi.com" target="_blank">rapidapi.com</a>
+
+#### RESTful Architecture
+Technical documentation for RESTful web services with references and language-specific examples.<br>
+<a href="https://smartsheet-platform.github.io/api-docs" target="_blank">smartsheet-platform.github.io/api-docs</a>
+
+#### What is a REST API?
+Thorough overview on what REST APIs are and how to use them.<br>
+<a href="http://idratherbewriting.com/docapis_what-is-a-rest-api" target="_blank">idratherbewriting.com/docapis_what-is-a-rest-api</a>
+
+<hr>
+<h2 class="resources"><a name="career_management"></a>Career Management</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### 3 Data Career Paths Decoded
@@ -402,50 +442,6 @@ This report surveys 30 Python web frameworks that have more than 1,000 monthly d
 #### What is Microservices Architecture?
 Microservice architecture, or simply microservices, is a distinctive method of developing software systems that tries to focus on building single-function modules with well-defined interfaces and operations. The trend has grown popular in recent years as Enterprises look to become more Agile and move towards a DevOps and continuous testing. Microservices can help create scalable, testable software that can be delivered weekly, not yearly.<br>
 <a href="https://smartbear.com/learn/api-design/what-are-microservices" target="_blank">smartbear.com/what-are-microservices</a>
-
-<hr>
-<h2 class="resources"><a name="api_services"></a>API Services</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### Google Analytics Query Explorer
-This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
-<a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
-
-#### GraphQL Introduction
-GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. Learn about GraphQL, how it works, and how to use it in this series of articles.<br>
-<a href="https://graphql.org/learn" target="_blank">graphql.org/learn</a>
-
-#### How to design a RESTful API architecture from a human-language spec
-A three-post series that teaches RESTful API design to solve users’ needs with simplicity, reliability, and performance.<br>
-<a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec" target="_blank">oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec</a>
-
-#### OpenWeatherMap
-API for accessing current weather data for any location including over 200,000 cities.<br>
-<a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>
-
-#### OpenWeatherMap
-API for accessing current weather data for any location including over 200,000 cities.<br>
-<a href="http://openweathermap.org/api" target="_blank">openweathermap.org/api</a>
-
-#### Postman
-This free Chrome extension allows developers to explore, test, and build APIs using a powerful collaborative testing and development suite.<br>
-<a href="https://www.getpostman.com" target="_blank">getpostman.com</a>
-
-#### Public APIs
-Categorizes different APIs scoured from the web which make their resources available for public consumption.<br>
-<a href="https://github.com/abhishekbanthia/Public-APIs" target="_blank">github.com/abhishekbanthia/Public-APIs</a>
-
-#### RapidAPI
-Enables developers to find, test, and manage API integrations from one place and provides real-time performance metrics.<br>
-<a href="https://rapidapi.com" target="_blank">rapidapi.com</a>
-
-#### RESTful Architecture
-Technical documentation for RESTful web services with references and language-specific examples.<br>
-<a href="https://smartsheet-platform.github.io/api-docs" target="_blank">smartsheet-platform.github.io/api-docs</a>
-
-#### What is a REST API?
-Thorough overview on what REST APIs are and how to use them.<br>
-<a href="http://idratherbewriting.com/docapis_what-is-a-rest-api" target="_blank">idratherbewriting.com/docapis_what-is-a-rest-api</a>
 
 <hr>
 <h2 class="resources"><a name="website_tools"></a>Website Tools</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
