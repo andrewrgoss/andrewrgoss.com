@@ -255,6 +255,10 @@ TensorFlow is a machine learning library that underlies many of Google's product
 <h2 class="resources"><a name="datasets"></a>Datasets</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### awesome-public-datasets
+This GitHub repo contains a list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.<br>
+<a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">github.com/awesomedata/awesome-public-datasets</a>
+
 #### Crowdflower: Data for Everyone
 Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>

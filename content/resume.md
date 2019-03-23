@@ -74,7 +74,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - present<br>
 Data Engineer
-<p><sub>Interfolio is a consumer/enterprise SaaS collaboration platform serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics. Design, documentation, and performance are all crucial to making the data easily explorable.</sub></p>
+<p><sub>Interfolio is a consumer/enterprise SaaS faculty information platform serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics. Design, documentation, and performance are all crucial to making the data easily explorable.</sub></p>
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
 **<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
