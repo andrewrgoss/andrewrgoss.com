@@ -3,7 +3,7 @@ author: "Andrew Goss"
 date: 2018-01-23
 title: Learning How to Learn
 tags:
-  - career-management
+  - career management
   - self-study
 ---
 ![Learning](/img/post/learning.png "Learning")<br>

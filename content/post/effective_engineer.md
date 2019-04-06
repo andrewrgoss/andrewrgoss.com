@@ -3,7 +3,8 @@ author: "Andrew Goss"
 title: "Effective Engineer Notes"
 date: "2018-01-06"
 tags:
-  - "career-management"
+  - "career management"
+  - "technical leadership"
 ---
 
 > Some great reference notes from a highly recommended &#x1F44D; book for engineers looking to reach the next level in their careers.

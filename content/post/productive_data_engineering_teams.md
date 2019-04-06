@@ -4,6 +4,7 @@ title: "What is a Productive Data Engineering Team?"
 date: "2017-04-20"
 tags:
   - "data engineering"
+  - "technical leadership"
 ---
 <sub><i>written by <a href="https://www.oreilly.com/people/17084-jesse-anderson" target="_blank">Jesse Anderson</a></i></sub>
 

@@ -3,6 +3,7 @@ author: "Andrew Goss"
 title: "25 Potential Pitfalls In Mastering Programming"
 date: "2017-11-11"
 tags:
+  - "career management"
   - "programming"
 ---
 <sub><i>written by <a href="http://programmingzen.com/author/antonio-cangiano" target="_blank">Antonio Cangiano</a></i></sub>

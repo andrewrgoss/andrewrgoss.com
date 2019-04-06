@@ -3,6 +3,7 @@ author: "Andrew Goss"
 title: "Becoming a Data Engineer"
 date: "2017-12-01"
 tags:
+  - "career management"
   - "data engineering"
 ---
 <sub><i>written by <a href="https://medium.com/@ssola" target="_blank">Sergio Sola </a>(with some grammatical edits by me)</i></sub>

@@ -5,6 +5,7 @@ date: "2017-03-23"
 tags:
   - "golang"
   - "nsq"
+  - "pub sub messaging"
 ---
 <a href="http://nsq.io" target="_blank">![NSQ](/img/post/nsq.png "NSQ")</a><br>
 

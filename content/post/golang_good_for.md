@@ -4,6 +4,7 @@ title: "What's the Go Language Really Good For?"
 date: "2017-06-01"
 tags:
   - "golang"
+  - "programming"
 ---
 <sub><i>written by <a href="http://www.infoworld.com/author/Serdar-Yegulalp" target="_blank">Serdar Yegulalp</a></i></sub>
 

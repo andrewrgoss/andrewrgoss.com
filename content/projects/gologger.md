@@ -4,6 +4,7 @@ title: "Gologger"
 date: "2016-01-19"
 tags:
   - golang
+  - programming
 ---
 <a href="/projects/">Projects</a> >> <b>Gologger</b>
 

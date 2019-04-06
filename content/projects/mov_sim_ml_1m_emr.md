@@ -3,9 +3,11 @@ author: "Andrew Goss"
 date: 2018-03-08
 title: Creating Similar Movies from One Million Ratings on EMR
 tags:
-  - spark
-  - scala
   - aws
+  - big data
+  - scala
+  - spark
+
 ---
 ![Spark_Scala](/img/post/spark_scala.png "Spark_Scala")<br>
 <a href="/2018/udemy--apache-spark-2.0-with-scala/">Udemy- Apache Spark 2.0 With Scala</a> >> <b>Creating Similar Movies from One Million Ratings on EMR</b><br>

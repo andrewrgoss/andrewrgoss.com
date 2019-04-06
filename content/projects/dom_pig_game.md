@@ -4,6 +4,7 @@ date: 2017-09-29
 title: DOM Pig Game
 tags:
   - javascript
+  - programming
 ---
 <a href="https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game" target="_blank"><img src="/img/projects/dom_pig_game.png" alt="DOM Pig Game"></a><br>
 <a href="/2017/udemy--complete-javascript-course/">Udemy- Complete JavaScript Course</a> &gt;&gt; <b>My projects</b><br>

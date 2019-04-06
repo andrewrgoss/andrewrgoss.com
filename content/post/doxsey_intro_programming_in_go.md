@@ -5,6 +5,7 @@ title: Caleb Doxsey- An Introduction to Programming in Go
 description: "Book on fundamentals of Go (Golang). Completed 01/27/16."
 tags:
   - golang
+  - programming
   - self-study
 ---
 ![Golang Gopher](/img/post/golang_gopher.png "Golang Gopher")<br>

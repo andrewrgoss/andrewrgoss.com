@@ -5,7 +5,7 @@ title: Twitter Streaming with Spark and Scala
 tags:
   - spark
   - scala
-  - data-streaming
+  - data streaming
 ---
 ![Spark_Scala](/img/post/spark_scala.png "Spark_Scala")<br>
 <a href="/2018/udemy--apache-spark-2.0-with-scala/">Udemy- Apache Spark 2.0 With Scala</a> &gt;&gt; <b>Twitter Streaming</b><br>

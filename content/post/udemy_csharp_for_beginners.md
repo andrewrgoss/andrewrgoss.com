@@ -4,6 +4,7 @@ date: 2015-11-28
 title: Udemy- Programming for Beginners in C#
 tags:
   - csharp
+  - programming
   - self-study
 ---
 ![C#](/img/post/csharp.png "C#")<br>

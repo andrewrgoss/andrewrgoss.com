@@ -8,14 +8,14 @@ description = "Andrew Goss Background"
 
 I'm currently a data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
-* Interfolio is a consumer/enterprise SaaS faculty information platform serving the global higher education market.
+* Interfolio offers consumer/enterprise faculty information SaaS products in serving the global higher education market.
 * I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics. Design, documentation, and performance are all crucial to making the data easily explorable.
 
 ![Analytic Data Pipeline](/img/data_pipeline.png "Analytic Data Pipeline")
 
-Over the course of my career, I've gained a unique perspective as both a developer and a technical consultant in leveraging people, process, and technology.
+Over the course of my career, I’ve gained well-rounded experience as both a developer and a technical consultant in working with people, process, and technology.
 
-* I've had the opportunity to solve numerous data challenges across a variety of industries using a curated assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
+* I've had the opportunity to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
 * During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and programs.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, backend application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 

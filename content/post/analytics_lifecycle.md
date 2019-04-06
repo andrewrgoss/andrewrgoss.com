@@ -4,6 +4,7 @@ title: "Stages of the Analytics Life Cycle"
 date: "2016-10-09"
 tags:
   - "analytics"
+  - "business intelligence"
   - "data science"
 ---
 

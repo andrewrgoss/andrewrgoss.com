@@ -4,6 +4,7 @@ date: 2016-09-17
 title: Google Analytics Reporting API for PostgreSQL
 tags:
   - python
+  - programming
 ---
 ![Python](/img/post/python.png "Python")<br>
 <a href="/projects/">Projects</a> >> <b>Google Analytics Reporting API for PostgreSQL</b>

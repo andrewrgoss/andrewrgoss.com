@@ -4,6 +4,7 @@ date: 2016-09-18
 title: Google DCM/DFA Reporting/Trafficking API for PostgreSQL
 tags:
   - python
+  - programming
 ---
 ![Python](/img/post/python.png "Python")<br>
 <a href="/projects/">Projects</a> >> <b>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</b>

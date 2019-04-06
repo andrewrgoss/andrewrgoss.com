@@ -3,6 +3,7 @@ author: "Richard Taylor"
 title: "Getting Started with Data Engineering"
 date: "2018-05-20"
 tags:
+  - "career management"
   - "data engineering"
 ---
 <sub><i>written by <a href="https://medium.com/@richard534" target="_blank">Richard Taylor</a></i></sub>

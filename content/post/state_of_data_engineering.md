@@ -3,6 +3,7 @@ author: "Andrew Goss"
 title: "Report- The State of Data Engineering"
 date: "2016-09-28"
 tags:
+  - "career management"
   - "data engineering"
 ---
 I recently came across an excellent report by <a href="https://www.stitchdata.com" target=_>Stitch</a> on the state of data engineering.

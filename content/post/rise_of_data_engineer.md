@@ -3,6 +3,7 @@ author: "Maxime Beauchemin"
 title: "The Rise of the Data Engineer"
 date: "2017-01-20"
 tags:
+  - "career management"
   - "data engineering"
 ---
 <sub><i>written by <a href="https://medium.freecodecamp.com/@maximebeauchemin" target="_blank">Maxime Beauchemin</a></i></sub>

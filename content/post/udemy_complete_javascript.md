@@ -4,6 +4,7 @@ date: 2017-09-29
 title: Udemy- Complete JavaScript Course
 tags:
   - javascript
+  - programming
   - self-study
 ---
 ![JavaScript](/img/post/javascript.png "JavaScript")<br>

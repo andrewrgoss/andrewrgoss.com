@@ -3,8 +3,9 @@ author: "Andrew Goss"
 date: 2018-03-26
 title: Udemy- Apache Spark 2.0 With Scala
 tags:
-  - spark
+  - big data
   - scala
+  - spark
   - self-study
 ---
 ![Spark_Scala](/img/post/spark_scala.png "Spark_Scala")<br>

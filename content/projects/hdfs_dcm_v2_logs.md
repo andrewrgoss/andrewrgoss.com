@@ -5,6 +5,7 @@ title: HDFS DCM Matchtables V2
 tags:
   - hadoop
   - python
+  - programming
 ---
 ![Hadoop](/img/post/hadoop.png "Hadoop")<br>
 <a href="/projects/">Projects</a> >> <b>HDFS DCM Matchtables V2</b>

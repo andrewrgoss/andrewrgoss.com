@@ -4,6 +4,7 @@ date: 2016-10-19
 title: Udemy- Python for Data Structures & Algorithms
 tags:
   - python
+  - programming
   - self-study
 ---
 ![Python](/img/post/python.png "Python")<br>

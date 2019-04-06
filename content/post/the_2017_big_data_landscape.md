@@ -3,8 +3,9 @@ author: "Andrew Goss"
 title: "The 2017 Big Data Landscape"
 date: "2017-04-05"
 tags:
-  - "big data"
   - "ai"
+  - "big data"
+  - "career management"
 ---
 ![2017 Big Data Landscape](/img/post/big_data_landscape_2017.png "2017 Big Data Landscape")<br>
 

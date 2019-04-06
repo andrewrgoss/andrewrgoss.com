@@ -3,6 +3,7 @@ author: "Andrew Goss"
 date: 2017-10-23
 title: My Path to Learning Scala
 tags:
+  - programming
   - scala
   - self-study
 ---

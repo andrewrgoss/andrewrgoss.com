@@ -5,6 +5,7 @@ title: DataOps- Next Gen Data Engineering Organization
 tags:
   - dataops
   - data engineering
+  - technical leadership
 ---
 ![DataOps](/img/post/dataops.png "DataOps")<br>
 

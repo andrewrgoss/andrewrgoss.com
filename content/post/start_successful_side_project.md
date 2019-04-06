@@ -3,8 +3,8 @@ author: "Andrew Goss"
 date: 2017-12-07
 title: How to Start a Successful Side Project
 tags:
-  - career-management
-  - side-projects
+  - career management
+  - side projects
 ---
 <img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Side-Project-1024x576.png" width="420"<br>
 <hr>

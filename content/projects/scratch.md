@@ -3,6 +3,7 @@ author: "Andrew Goss"
 title: "Scratch - Wind Power"
 date: "2014-02-18"
 tags:
+  - programming
   - self-study
 ---
 ![Scratch](/img/projects/scratch.jpg "Scratch")<br>

@@ -3,6 +3,7 @@ author: "Alex Woodie"
 date: 2018-02-05
 title: Why 2018 Will Be The Year Of The Data Engineer
 tags:
+  - career management
   - data engineering
 ---
 ![Data Pipe](/img/post/data_pipe.jpg "Data Pipe")<br>

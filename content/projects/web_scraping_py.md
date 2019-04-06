@@ -4,6 +4,7 @@ title: "Web Scraping with Python"
 date: "2018-01-23"
 tags:
   - python
+  - programming
   - web-scraping
 ---
 <a href="/projects/">Projects</a> >> <b>Web Scraping with Python</b><br><br>
