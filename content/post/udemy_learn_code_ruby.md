@@ -37,8 +37,8 @@ tags:
 * <a href="https://rvm.io" target=_>Ruby Version Manager (RVM)</a>
 
 #### Course Progress
-<progress max="1.0" value="0.67"></progress>
+<progress max="1.0" value="0.71"></progress>
 
-67% - <font color="green">IN PROGRESS</font>
+71% - <font color="green">IN PROGRESS</font>
 
 <a href="https://github.com/andrewrgoss/udemy-learn-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
