@@ -63,6 +63,10 @@ Technical interviews are tough. CodeFights, which is best known as a competitive
 Frequently asked interview questions, by category. Each question is accompanied by answers shared by industry experts.<br> 
 <a href="https://data-flair.training/blogs/category/interview-questions" target="_blank">data-flair.training/interview-questions</a>
 
+#### DataOps Manifesto
+Through firsthand experience working with data across organizations, tools, and industries a group of professionals have uncovered a better way to develop and deliver analytics through an emerging practice called DataOps.<br> 
+<a href="https://www.dataopsmanifesto.org/dataops-manifesto.html" target="_blank">dataopsmanifesto.org/dataops-manifesto.html</a>
+
 #### GeeksforGeeks
 A Computer Science portal for geeks. It contains computer science and programming articles, quizzes, and practice/competitive programming questions. It also has a large database of company-specific interview questions.<br> 
 <a href="http://www.geeksforgeeks.org" target="_blank">www.geeksforgeeks.org</a>
