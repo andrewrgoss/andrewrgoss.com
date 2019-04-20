@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://stevenpinker.com/publications/enlightenment-now-case-reason-science-humanism-and-progress" target=_>Enlightenment Now</a>
+		<span class="separator"> &middot; </span>
+		<author>by Steven Pinker</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2019-04-20T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber-ebook/dp/B075RWG7YM" target=_>Bullshit Jobs: A Theory</a>
 		<span class="separator"> &middot; </span>
 		<author>by David Graeber</author>
