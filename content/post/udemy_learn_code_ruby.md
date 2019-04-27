@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2019-04-06
+date: 2019-04-27
 title: Udemy- Learn to Code with Ruby
 tags:
   - programming
@@ -8,6 +8,7 @@ tags:
   - self-study
 ---
 ![Ruby](/img/post/ruby.png "Ruby")<br>
+<a href="https://www.udemy.com/certificate/UC-LGB8RC4R" target="_blank">COMPLETION CERTIFICATE</a><br>
 <a href="https://www.udemy.com/learn-to-code-with-ruby-lang" target="_blank">COURSE LINK</a><br>
 <hr>
 
@@ -37,8 +38,8 @@ tags:
 * <a href="https://rvm.io" target=_>Ruby Version Manager (RVM)</a>
 
 #### Course Progress
-<progress max="1.0" value="0.85"></progress>
+<progress max="1.0" value="1.0"></progress>
 
-85% - <font color="green">IN PROGRESS</font>
+100% - completed 4/27/19.
 
 <a href="https://github.com/andrewrgoss/udemy-learn-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
