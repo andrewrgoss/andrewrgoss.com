@@ -199,6 +199,10 @@ Working with some messy address or name data? It helps to split each one into se
 With the explosion of “Big Data” over the last few years, the need for people who know how to build and manage data-pipelines has grown. This article takes a look at the sought after job skills for these areas and how you can go about learning these.<br>
 <a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
 
+#### SqlDBM - SQL Database Modeler
+SqlDBM offers you an easy, convenient way to design your database absolutely anywhere on any browser, working away without need for any extra database engine or database modelling tools or apps.<br>
+<a href="https://sqldbm.com" target="_blank">sqldbm.com</a>
+
 #### Transactional vs. Analytical Processing
 Good cross-comparison between OLTP and OLAP systems.<br>
 <a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
