@@ -9,7 +9,7 @@ tags:
 ---
 <a href="http://nsq.io" target="_blank">![NSQ](/img/post/nsq.png "NSQ")</a><br>
 
-I've been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I'd like to share how you can get started with NSQ by sending and receiving a simple message by writing some <a href="https://golang.org" target="_blank">Go</a> code.
+I've been recently working on software application project at <a href="https://www.digitas.com" target="_blank">Digitas</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I'd like to share how you can get started with NSQ by sending and receiving a simple message by writing some <a href="https://golang.org" target="_blank">Go</a> code.
 
 ## What is NSQ?
 
