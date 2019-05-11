@@ -57,7 +57,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 * <b>ETL TOOLS:</b>
 <a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
 
-* <b>IDES:</b> <a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>
+* <b>IDES:</b> <a href="https://www.jetbrains.com/datagrip" target="_blank">DataGrip&nbsp;<img src="/img/datagrip.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>
 
 * <b>OPERATING SYSTEMS:</b> <a href="https://www.linux.com" target="_blank">Linux&nbsp;<img src="/img/linux.png"></a>&nbsp;&nbsp;<a href="https://www.apple.com/macos" target="_blank">macOS&nbsp;<img src="/img/macos.png"></a>&nbsp;&nbsp;<a href="http://www.microsoft.com/en-us/windows" target="_blank">Windows&nbsp;<img src="/img/windows.png"></a>
 
