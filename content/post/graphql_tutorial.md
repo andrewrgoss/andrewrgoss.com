@@ -1,13 +1,13 @@
 ---
 author: "Andrew Goss"
 date: 2019-05-04
-title: GraphQL Tutorial with Ruby
+title: GraphQL Fundamentals
 tags:
   - api development
   - graphql
-  - ruby
+  - self-study
 ---
-![RGraphQL with Ruby](/img/post/graphql_ruby.png "GraphQL with Ruby")<br>
+![GraphQL](/img/post/graphql.png "GraphQL")<br>
 <a href="https://www.howtographql.com" target="_blank">TUTORIAL LINK</a><br>
 <hr>
 
@@ -68,9 +68,38 @@ When a client <i>subscribes</i> to an event, it will initiate and hold a steady 
 
 Subscriptions are written using the same syntax as queries and mutations.
 
+## Big Picture (Architecture)
+There are <a href="https://www.howtographql.com/basics/3-big-picture" target=_>3 different kinds of architectures</a> that include a GraphQL server.
+
+* GraphQL server with <i>a connected database</i>
+* GraphQL server that is a <i>thin layer in front of a number of third party or legacy systems</i> and integrates them through a single GraphQL API
+* <i>A hybrid approach of a connected database and third party or legacy systems</i> that can all be accessed through the same GraphQL API
+
+All three architectures represent major use cases of GraphQL and demonstrate the flexibility in terms of the context where it can be used.
+
+### Resolver Functions
+The payload of a GraphQL query (or mutation) consists of a set of <i>fields</i>. In the GraphQL server implementation, each of these fields actually corresponds to exactly one function that’s called a <i><a href="http://graphql.org/learn/execution/#root-fields-resolvers" target=_>resolver</a></i>. The sole purpose of a resolver function is to fetch the data for its field.
+
+### GraphQL Client Libraries
+GraphQL is particularly great for frontend developers since it completely eliminates many of the inconveniences and shortcomings that are experienced with REST APIs, such as over- and underfetching. Complexity is pushed to the server-side where powerful machines can take care of the heavy computation work. The client doesn’t have to know where the data that it fetches is actually coming from and can use a single, coherent and flexible API.
+
+Let’s consider the major change that’s introduced with GraphQL in going from a rather imperative data fetching approach to a purely declarative one. When fetching data from a REST API, most applications will have to go through the following steps:
+
+1. construct and send HTTP request (e.g. with `fetch` in Javascript)
+2. receive and parse server response
+3. store data locally (either simply in memory or persistent)
+4. display data in the UI
+
+With the ideal <i>declarative data fetching</i> approach, a client shouldn’t be doing more than the following two steps:
+
+1. describe data requirements
+2. display data in UI
+
+All the lower-level networking tasks as well as storing the data should be abstracted away and the declaration of data dependencies should be the dominant part.
+
+This is precisely what GraphQL client libraries like Relay or Apollo will enable you to do. They provide the abstraction that you need to be able to focus on the important parts of your application rather than having to deal with the repetitive implementation of infrastructure.
+
 ## Other Resources
 * <a href="https://blog.graph.cool/graphql-server-basics-the-schema-ac5e2950214e" target=_>GraphQL Server Basics (Part I): GraphQL Schemas, TypeDefs & Resolvers Explained</a>
 * <a href="https://blog.graph.cool/graphql-server-basics-the-network-layer-51d97d21861" target=_>GraphQL Server Basics (Part II): The Network Layer</a>
 * <a href="https://blog.graph.cool/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a" target=_>GraphQL Server Basics (Part III): Demystifying the `info` argument in GraphQL resolvers</a>
-
-<a href="#" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
