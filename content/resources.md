@@ -179,6 +179,10 @@ A curated list of data engineering tools for software developers.<br>
 Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
+#### Conduktor
+Conduktor is the ultimate Apache Kafka desktop client for performing regular Kafka administration and development tasks.<br>
+<a href="https://www.conduktor.io" target="_blank">conduktor.io</a>
+
 #### DBeaver
 Free multi-platform database tool for developers, SQL programmers, database administrators, and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.<br>
 <a href="https://dbeaver.io" target="_blank">dbeaver.io</a>
