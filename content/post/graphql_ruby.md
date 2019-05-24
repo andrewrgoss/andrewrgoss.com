@@ -23,4 +23,4 @@ Working to build my own GraphQL server using the following technologies:
 * <a href="https://facebook.github.io/graphql" target=_>Official Specification</a>
 * <a href="https://www.graph.cool" target=_>Graphcool (Self-Hosted GraphQL BaaS)</a>
 
-<a href="#" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
+<a href="https://github.com/andrewrgoss/graphql-tutorial-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">
