@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2019-05-12
+date: 2019-06-07
 title: Build GraphQL Server with Ruby
 tags:
   - api development
