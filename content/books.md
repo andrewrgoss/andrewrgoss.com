@@ -58,6 +58,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/27161156-hillbilly-elegy" target="_blank">Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</a>
+		<span class="separator"> &middot; </span>
+		<author>by J.D. Vance</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2018-11-23T00:00:00Z">Nov 2017</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="http://www.redrisingbook.com" target="_blank">Red Rising Trilogy</a>
 		<span class="separator"> &middot; </span>
 		<author>by Pierce Brown</author>
@@ -78,11 +88,41 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/17937491-secrets-of-the-big-data-revolution" target="_blank">Secrets of the Big Data Revolution</a>
+		<span class="separator"> &middot; </span>
+		<author>by Jason Kolb, Jeremy Kolb</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2017-02-26T00:00:00Z">Feb 2017</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B00AXIZ4TQ" target="_blank">Inferno: A Novel</a>
 		<span class="separator"> &middot; </span>
 		<author>by Dan Brown</author>
 		<span class="separator"> &middot; </span>
 		<time datetime="2016-12-29T00:00:00Z">Dec 2016</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/9969571-ready-player-one" target="_blank">Ready Player One</a>
+		<span class="separator"> &middot; </span>
+		<author>by Ernest Cline</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2016-10-08T00:00:00Z">Oct 2016</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/375802.Ender_s_Game" target="_blank">Ender's Game</a>
+		<span class="separator"> &middot; </span>
+		<author>by Orson Scott Card</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2016-05-22T00:00:00Z">May 2016</time>
 	</h3>
 </section>
 
@@ -103,6 +143,16 @@ title: "Books"
 		<author>by Laura Hillenbrand</author>
 		<span class="separator"> &middot; </span>
 		<time datetime="2015-07-01T00:00:00Z">Jul 2015</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/1301.Moneyball" target="_blank">Moneyball: The Art of Winning an Unfair Game</a>
+		<span class="separator"> &middot; </span>
+		<author>by Michael Lewis</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2014-09-07T00:00:00Z">Sep 2014</time>
 	</h3>
 </section>
 
@@ -134,11 +184,7 @@ title: "Books"
 
 * <a href="https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8" target="_blank">The Intelligent Investor</a><span class="separator"> &middot; </span> <i>by Benjamin Graham</i>
 
-* <a href="http://piercebrownbooks.com/books#irongold" target="_blank">Iron Gold: Book 4 of the Red Rising Saga</a><span class="separator"> &middot; </span> <i>by Pierce Brown</i>
-
 * <a href="https://www.amazon.com/dp/B07B2T6R8Q" target="_blank">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a><span class="separator"> &middot; </span> <i>by Dan Lyons</i>
-
-* <a href="https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783" target="_blank">Lean Software Development: An Agile Toolkit</a><span class="separator"> &middot; </span> <i>by Mary Poppendieck</i>
 
 * <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>
 
