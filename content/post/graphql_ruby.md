@@ -23,7 +23,9 @@ Working to build my own GraphQL server using the following technologies:
 * <a href="https://facebook.github.io/graphql" target=_>Official Specification</a>
 * <a href="https://www.graph.cool" target=_>Graphcool (Self-Hosted GraphQL BaaS)</a>
 
+<img src="/img/post/graphql_ruby_tutorial_graphiql.png" "GraphiQL" width="98%">
+
 ### Bookmark
-https://www.howtographql.com/graphql-ruby/6-error-handling
+https://www.howtographql.com/graphql-ruby/7-filtering
 
 <a href="https://github.com/andrewrgoss/graphql-tutorial-ruby" class="btn" target="_blank">View my code on GitHub</a><br class="custom">

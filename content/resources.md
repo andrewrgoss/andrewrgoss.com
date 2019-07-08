@@ -207,6 +207,10 @@ With the explosion of “Big Data” over the last few years, the need for peopl
 SqlDBM offers you an easy, convenient way to design your database absolutely anywhere on any browser, working away without need for any extra database engine or database modelling tools or apps.<br>
 <a href="https://sqldbm.com" target="_blank">sqldbm.com</a>
 
+#### Three Questions to Help You Prepare for a Data Engineering Interview
+Data engineering requires a combination of knowledge, from data warehousing to programming, in order to ensure the data systems are designed well and are as automated as possible. The question is: How do you prepare for an interview for a data engineering position?<br>
+<a href="https://medium.com/better-programming/3-questions-you-should-be-able-to-answer-in-a-data-engineering-interview-8dc845785be6" target="_blank">medium.com</a>
+
 #### Transactional vs. Analytical Processing
 Good cross-comparison between OLTP and OLAP systems.<br>
 <a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank">datawarehouse4u.info/OLTP-vs-OLAP</a>
