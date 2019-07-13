@@ -190,6 +190,8 @@ title: "Books"
 
 * <a href="https://www.amazon.com/dp/B06XP3GJ7F" target="_blank">The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</a><span class="separator"> &middot; </span> <i>by Camille Fournier</i>
 
+* <a href="https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474" target="_blank">The Millionaire Next Door: The Surprising Secrets of America's Wealthy</a><span class="separator"> &middot; </span> <i>by Thomas J. Stanley, William D. Danko</i>
+
 * <a href="https://martinfowler.com/books/refactoring.html" target="_blank">Refactoring: Improving the Design of Existing Code</a><span class="separator"> &middot; </span> <i>by Martin Fowler</i>
 
 * <a href="https://www.amazon.com/gp/product/1533667926" target="_blank">The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life</a><span class="separator"> &middot; </span> <i>by J L Collins</i>
