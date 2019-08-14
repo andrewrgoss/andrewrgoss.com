@@ -15,9 +15,9 @@ The time of year matters when planning travel. This <a href="https://theculturet
 
 ## World Stats
 
-Countries/Territories Visited: 23<br>
-Continents Visited: 4<br>
-Percent of World: ~11.79%
+Countries/Territories Visited: 25<br>
+Continents Visited: 5<br>
+Percent of World: ~12.82%
 
 <div id="world_div" style="max-width: 95%;"></div>
 
@@ -65,9 +65,11 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false">&ensp;Sweden&ensp;&ensp;
 
 ##### Africa
+<input type="checkbox" onclick="return false" checked="checked">&ensp;South Africa&ensp;&ensp;
+
+<input type="checkbox" onclick="return false">&ensp;Botswana&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Egypt&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Morocco&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;South Africa&ensp;&ensp;
 
 ##### Antarctica
 <input type="checkbox" onclick="return false">&ensp;Antarctica&ensp;&ensp;
@@ -80,14 +82,13 @@ Percent of World: ~11.79%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Malaysia&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Palestine&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Thailand&ensp;&ensp;
+<input type="checkbox" onclick="return false" checked="checked">&ensp;United Arab Emirates&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Vietnam&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;China&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;United Arab Emirates&ensp;&ensp;
-
 
 ##### Oceania
 <input type="checkbox" onclick="return false">&ensp;Australia&ensp;&ensp;
@@ -182,8 +183,10 @@ Percent of US: 70%
           ['Monaco'],
           ['Palestine, State of'],
           ['Peru'],
+          ['South Africa'],
           ['Spain'],
           ['Thailand'],
+          ['United Arab Emirates'],                              
           ['United Kingdom'],
           ['United States'],
           ['Vietnam']
