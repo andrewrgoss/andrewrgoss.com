@@ -13,7 +13,7 @@ tags:
 
 <sub>*Source: <a href="https://www.howtographql.com" target=_>How To GraphQL</a></sub>
 
-Working to build my own GraphQL server using the following technologies:
+Built my own GraphQL server using the following technologies:
 
 * <a href="http://rubyonrails.org" target=_>Ruby on Rails</a>: the most popular library for building applications in <a href="https://www.ruby-lang.org/en" target=_>Ruby</a>
 * <a href="http://graphql-ruby.org" target=_>GraphQL Gem</a>: the most popular library for building <a href="http://graphql.org" target=_>GraphQL</a> applications
