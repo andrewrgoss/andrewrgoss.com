@@ -215,6 +215,10 @@ Important considerations when choosing a relational (SQL) or non-relational (NoS
 SqlDBM offers you an easy, convenient way to design your database absolutely anywhere on any browser, working away without need for any extra database engine or database modelling tools or apps.<br>
 <a href="https://sqldbm.com" target="_blank">sqldbm.com</a>
 
+#### Stream Processing 101: From SQL to Streaming SQL in 10 Minutes
+We have entered an era where competitive advantage comes from analyzing, understanding, and responding to an organization’s data. When doing this, time is of the essence, and speed will decide the winners and losers. This blog post introduces technologies we can use for stream processing. <br>
+<a href="https://wso2.com/library/articles/2018/02/stream-processing-101-from-sql-to-streaming-sql-in-ten-minutes" target="_blank">wso2.com</a>
+
 #### Three Questions to Help You Prepare for a Data Engineering Interview
 Data engineering requires a combination of knowledge, from data warehousing to programming, in order to ensure the data systems are designed well and are as automated as possible. The question is: How do you prepare for an interview for a data engineering position?<br>
 <a href="https://medium.com/better-programming/3-questions-you-should-be-able-to-answer-in-a-data-engineering-interview-8dc845785be6" target="_blank">medium.com</a>
