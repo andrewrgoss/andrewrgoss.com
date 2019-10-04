@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Steven Pinker</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2019-04-20T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2019-06-20T00:00:00Z">Jun 2019</time>
 	</h3>
 </section>
 
