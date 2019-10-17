@@ -131,6 +131,10 @@ This article cover general tips on how you, the interviewee, can impress your in
 A nice introductory primer for getting started in AWS and cloud computing in general.<br>
 <a href="https://www.inqdo.com/aws-explained-the-basics" target="_blank">inqdo.com/aws-explained-the-basics</a>
 
+#### AWS Tutorial for Beginners
+AWS (Amazon Web Service) is a cloud computing platform that enables users to access on demand computing services like database storage, virtual cloud server, etc. This online course will give an in-depth knowledge on EC2 instance as well as useful strategy on how to build and modify instance for your own applications.<br>
+<a href="https://www.guru99.com/aws-tutorial.html" target="_blank">www.guru99.com/aws-tutorial.html</a>
+
 <hr>
 <h2 class="resources"><a name="computer_science"></a>Computer Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
