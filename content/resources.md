@@ -175,6 +175,10 @@ If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to l
 The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
 <a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
 
+#### Airflow for Beginners
+Introduced by Airbnb, Airflow is a platform to schedule and monitor data pipelines. This article overviews the basic setup to run Airflow including an example use-case.<br>
+<a href="https://medium.com/@mehranmsh_29721/airflow-for-beginners-f167789b91c4" target="_blank">medium.com/airflow-for-beginners</a>
+
 #### Awesome Data Engineering
 A curated list of data engineering tools for software developers.<br>
 <a href="https://github.com/igorbarinov/awesome-data-engineering" target="_blank">github.com/igorbarinov/awesome-data-engineering</a>
@@ -198,6 +202,10 @@ Free multi-platform database tool for developers, SQL programmers, database admi
 #### Introduction to Apache Airflow
 Apache Airflow is hot right now and if you're interested in learning about it from a high-level, this a nice 'intro' guide.<br>
 <a href="https://www.astronomer.io/guides/intro-to-airflow" target="_blank">astronomer.io/guides/intro-to-airflow</a>
+
+#### Kafka for Beginners
+Apache Kafka is used for enabling communication between producers and consumers using message-based topics. Apache Kafka is a fast, scalable, fault-tolerant, publish-subscribe messaging system.<br>
+<a href="https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d" target="_blank">medium.com/kafka-for-beginners</a>
 
 #### OLAP Cubes
 A nice intro guide on what these are and why they are used.<br>
