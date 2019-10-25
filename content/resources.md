@@ -388,7 +388,7 @@ Great series of posts that will help you either learn or brush up on Java progra
 <a href="https://medium.com/@madhupathy/a-beginners-guide-to-java-part-1-of-3-33edf47e47b4" target="_blank">medium.com/@madhupathy/guide-to-java</a>
 
 #### Kite
-Code faster in Python with intelligent snippets - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python.
+Code faster in Python with intelligent snippets - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python.<br>
 <a href="https://kite.com" target="_blank">kite.com</a>
 
 #### Learn Code The Hard Way
