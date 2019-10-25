@@ -387,6 +387,10 @@ Join over 2 million developers in solving code challenges on HackerRank, one of 
 Great series of posts that will help you either learn or brush up on Java programming concepts in a simple and effective way.<br>
 <a href="https://medium.com/@madhupathy/a-beginners-guide-to-java-part-1-of-3-33edf47e47b4" target="_blank">medium.com/@madhupathy/guide-to-java</a>
 
+#### Kite
+Code faster in Python with intelligent snippets - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python.
+<a href="https://kite.com" target="_blank">kite.com</a>
+
 #### Learn Code The Hard Way
 Learn Code The Hard Way courses are an effective system for learning the basics of computer programming, designed specifically for complete beginners.<br>
 <a href="https://learncodethehardway.org" target="_blank">learncodethehardway.org</a>
