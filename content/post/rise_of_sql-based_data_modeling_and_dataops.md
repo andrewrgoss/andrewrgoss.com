@@ -7,7 +7,7 @@ tags:
   - dataops
   - data warehousing
 ---
-![Macbook Code](/img/post/macbook_code.png "Macbook Code")<br>
+<img src="/img/post/macbook_code.png" "Macbook Code" width="60%"><br>
 
 <sub><i>written by <a href="https://www.holistics.io/blog/author/thanh" target="_blank">Thanh Dinh</a></i></sub>
 <hr>
