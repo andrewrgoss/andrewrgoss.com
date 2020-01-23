@@ -5,7 +5,7 @@ title: "Resources"
 
 <blockquote><p class="custom_blockquote"><sub>There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.</sub></p></blockquote>
 
-[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [Game Development](#game_dev) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
+[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="api_services"></a>API Services
@@ -263,6 +263,10 @@ This guide is intended to help those with a basic knowledge of machine learning 
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
 
+#### Foundations of Machine Learning
+This training course offered through Bloomberg covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. It is designed to make valuable machine learning skills more accessible to individuals with a strong math background, including software developers, experimental scientists, engineers, and financial professionals.<br>
+<a href="https://bloomberg.github.io/foml" target="_blank">bloomberg.github.io/foml</a>
+
 #### Handy Python Libraries for Formatting and Cleaning Data
 Data scientists spend a lot of time cleaning messy data. This is a list of Python libraries that help make data more orderly and legible - from styling DataFrames to anonymizing datasets.<br>
 <a href="https://blog.modeanalytics.com/python-data-cleaning-libraries" target="_blank">blog.modeanalytics.com/python-data-cleaning-libraries</a>
@@ -322,14 +326,6 @@ Google Charts is a JavaScript-based tool that lets people easily create a chart 
 #### Google Data Studio
 Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
-
-<hr>
-<h2 class="resources"><a name="game_dev"></a>Game Development</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### Programming Guide For Video Gamers
-Video and computer games make up a massive part of modern entertainment. This site provides many helpful links for beginners figuring out on where to get started with a potential career in game design and development.<br>
-<a href="http://ithare.com/programming-guide-for-video-gamers" target="_blank">ithare.com/programming-guide-for-video-gamers</a>
 
 <hr>
 <h2 class="resources"><a name="martech"></a>MarTech</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
