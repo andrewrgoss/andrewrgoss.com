@@ -45,7 +45,7 @@ Technical documentation for RESTful web services with references and language-sp
 
 #### What is a REST API?
 Thorough overview on what REST APIs are and how to use them.<br>
-<a href="http://idratherbewriting.com/docapis_what-is-a-rest-api" target="_blank">idratherbewriting.com/docapis_what-is-a-rest-api</a>
+<a href="https://idratherbewriting.com/2015/08/28/all-about-rest-apis" target="_blank">idratherbewriting.com/all-about-rest-apis</a>
 
 <hr>
 <h2 class="resources"><a name="career_management"></a>Career Management</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
