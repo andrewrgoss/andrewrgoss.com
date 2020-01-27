@@ -89,14 +89,14 @@ Here is an image from official documentation that presents the data flow very cl
 
 <img src="https://miro.medium.com/max/2249/1*mgdbadQNEDZWOHGjGN-o6Q.png">
 
-<p class="custom_blockquote"><sub>Image courtesy: https://docs.snowflake.net/manuals/user-guide/streams.html</sub></p>
+<p class="custom_blockquote"><sub>Image courtesy: <a href="https://docs.snowflake.net/manuals/user-guide/streams.html" target=_>https://docs.snowflake.net/manuals/user-guide/streams.html</a></sub></p>
 
 ## Snowflake Tasks
 A Snowflake Task is such an object that can schedule an SQL statement to be automatically executed as a recurring event.
 
 Yes, I use “an” SQL statement for each task. Currently, this is an limitation of Snowflake Tasks. Hopefully in the future updates it will support a transaction will proper `BEGIN` and `COMMIT` keywords so that we can execute a series of SQL statements in a transaction, and utilizing a task to schedule this transaction.
 
-Despite there is such an limitation, Snowflake does provide approaches for multiple SQL statement scheduling, which is called <b>Task Tree</b>. As its name, we can define multiple tasks in a tree structure. Several tips:
+Despite the fact that there is such an limitation, Snowflake does provide approaches for multiple SQL statement scheduling, which is called <b>Task Tree</b>. As its name, we can define multiple tasks in a tree structure. Several tips:
 
 * A task can have multiple tasks as its offsprings, so the offsprings tasks will be executed when the parent task is finished.
 
@@ -108,7 +108,7 @@ Here is a graph to indicate a simple task tree.
 
 <img src="https://miro.medium.com/max/1363/1*TPV-E6j-rFPi34rJft9oYQ.png">
 
-<p class="custom_blockquote"><sub>Image courtesy: https://docs.snowflake.net/manuals/user-guide/tasks-intro.html</sub></p>
+<p class="custom_blockquote"><sub>Image courtesy: <a href="https://docs.snowflake.net/manuals/user-guide/tasks-intro.html" target=_>https://docs.snowflake.net/manuals/user-guide/tasks-intro.html</a></sub></p>
 
 ### Trigger a Task
 There are two ways for triggering a task, one is by defining a schedule and the other one is triggering by another task.
@@ -128,7 +128,7 @@ For specific syntax of CRON expression, please visit this free website for detai
 <p class="custom_blockquote"><sub><b>Free Online Cron Expression Generator and Describer - FreeFormatter.com</b><br>
 Generate a quartz cron expression with an easy to use online interface. Convert a cron expression into a readable text…
 <br><br>
-www.freeformatter.com
+<a href="https://www.freeformatter.com" target=_>www.freeformatter.com</a>
 </sub></p>
 
 The other approach of scheduling defining is much more straightforward, which is just simple define the time interval. For example, if I want the task to be triggered every 5 minutes, then just define it like this:
@@ -198,13 +198,13 @@ In this article, the Snowflake Stream and Task are introduced theoretically. The
 #### Resources
 <br class="custom">
 
-* Official documentation of Snowflake Streams: https://docs.snowflake.net/manuals/user-guide/streams.html
+* Official documentation of Snowflake Streams: <a href="https://docs.snowflake.net/manuals/user-guide/streams.html" target=_>docs.snowflake.net/manuals/user-guide/streams</a>
 
 * Official documentation of Snowflake Tasks:
-https://docs.snowflake.net/manuals/user-guide/tasks-intro.html
+<a href="https://docs.snowflake.net/manuals/user-guide/tasks-intro.html" target=_>docs.snowflake.net/manuals/user-guide/tasks-intro</a>
 
 * Free online CRON expression generator:
-https://www.freeformatter.com/cron-expression-generator-quartz.html
+<a href="https://www.freeformatter.com/cron-expression-generator-quartz.html" target=_>www.freeformatter.comcron-expression-generator-quartz</a>
 
 <a href="https://medium.com/@qiuyujx/elt-data-pipelining-in-snowflake-data-warehouse-using-streams-and-tasks-ae6eb7c083de" class="btn" target="_blank">View original article</a><br>
 
