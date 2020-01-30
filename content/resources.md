@@ -303,6 +303,10 @@ TensorFlow is a machine learning library that underlies many of Google's product
 This GitHub repo contains a list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.<br>
 <a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">github.com/awesomedata/awesome-public-datasets</a>
 
+#### AWS Registry of Open Data
+This registry exists to help people discover and share datasets that are publicly available via AWS resources.<br>
+<a href="https://registry.opendata.aws" target="_blank">registry.opendata.aws</a>
+
 #### Crowdflower: Data for Everyone
 Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
 <a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
@@ -310,6 +314,10 @@ Collection of free, downloadable, and categorized datasets that have gone throug
 #### Data.World: The Social Network for Data People
 Discover and share cool data, connect with interesting people, and work together to solve problems faster. Users can find and use a vast array of high-quality open data.<br>
 <a href="https://data.world" target="_blank">data.world</a>
+
+#### Google Dataset Search
+Free tool for searching over 25 million publicly available datasets. The search tool includes filters to limit results based on their license (free or paid), format (csv, images, etc), and update time. The results also include descriptions of the dataset’s contents as well as author citations.<br>
+<a href="https://datasetsearch.research.google.com" target="_blank">datasetsearch.research.google.com</a>
 
 #### Google's My Activity Page
 This portal reveals everything Google knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
