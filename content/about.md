@@ -24,17 +24,3 @@ Over the course of my career, I’ve gained well-rounded experience as both a de
 With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development that I write about in this blog. I've found it not only to be a nice way to document my own learning, but also a great way to share knowledge with others. I've also come across many useful <a href="/resources">resources</a> and emerging ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 
 > Check out my <a href="/resume">resume</a> for more details on my professional experiences.
-
-<hr>
-
-Outside of work, I'm a <a href="/travel">world traveler</a>.
-
-* To date, I have traveled to over 20 countries. In the summer of 2017, my wife and I took a 7-week sabbatical to travel throughout Japan and Southeast Asia.
-
-I also like to read.
-
-* These are some of the <a href="/books">books</a> I am reading, want to read, or have read in the past.
-
-And I'm an investor, gamer, and sports fan.
-
-* Mostly self-taught in financial portfolio management (subscriber to <a href="https://www.kiplinger.com" target=_>Kiplinger</a>), and an active season ticket holder for the <a href="https://www.patriots.com" target=_>New England Patriots</a>.
