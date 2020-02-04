@@ -16,7 +16,7 @@ I'm currently a data engineer at <a href="https://www.interfolio.com" target="_b
 Over the course of my career, I’ve gained well-rounded experience as both a developer and a technical consultant in working with people, process, and technology.
 
 * I've had the opportunity to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
-* During this time I've worked with numerous high-profile <a href="/resume/#clients_served">clients</a> including Bank of America, Fitbit, Hewlett Packard Enterprise, Sprint, and Taco Bell. I've also built numerous in-house tools and programs.
+* During this time I've worked with high-profile clients and built complex in-house tools and programs.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, backend application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
 ![ETL](/img/etl.png "ETL")

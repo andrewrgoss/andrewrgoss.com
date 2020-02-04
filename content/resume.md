@@ -11,21 +11,6 @@ aliases = [
 Data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I've worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and programs.
 
 <hr>
-### <a name="clients_served"></a>Clients Served
-![Bank of America](/img/BoA_logo.png "Bank of America")
-![Diversified Communications](/img/DBC_logo.png "Diversified Communications")
-![Education Management Corporation](/img/EDMC_logo.png "Education Management Corporation")
-![Fitbit](/img/Fitbit_logo.png "Fitbit")
-![HP Inc.](/img/HP_logo.png "HP Inc.")
-![Hewlett Packard Enterprise](/img/HPE_logo.png "Hewlett Packard Enterprise")
-![Mattel](/img/Mattel_logo.png "Mattel")
-![Merrill Edge](/img/Merrill_Edge_logo.png "Merrill Edge")
-![Reed Elsevier](/img/Reed_Elsevier_logo.png "Reed Elsevier")
-![Sprint](/img/Sprint_logo.png "Sprint")
-![Taco Bell](/img/TB_logo.png "Taco Bell")
-![Universal Technical Institute](/img/UTI_logo.jpg "Universal Technical Institute")
-
-<hr>
 ### <a name="core_competencies"></a>Core Competencies
 ![Data Engineering](/img/gears.png "Data Engineering")
 ![Cloud Computing](/img/cloud.png "Cloud Computing")
@@ -55,7 +40,7 @@ Data engineer working to advance data-driven cultures by integrating disparate d
 * <b>DOCUMENTATION:</b> <a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://www.lucidchart.com" target="_blank">Lucidchart&nbsp;<img src="/img/lucidchart.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Visio&nbsp;<img src="/img/msvisio.png"></a>
 
 * <b>ETL TOOLS:</b>
-<a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
+<a href="https://airflow.apache.org" target="_blank">Apache Airflow&nbsp;<img src="/img/airflow.png"></a>&nbsp;&nbsp;<a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
 
 * <b>IDES:</b> <a href="https://www.jetbrains.com/datagrip" target="_blank">DataGrip&nbsp;<img src="/img/datagrip.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>
 
