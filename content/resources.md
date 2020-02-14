@@ -199,6 +199,10 @@ The Data Engineering Cookbook (124 pages) - Mastering The Plumbing Of Data Scien
 Free multi-platform database tool for developers, SQL programmers, database administrators, and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.<br>
 <a href="https://dbeaver.io" target="_blank">dbeaver.io</a>
 
+#### How to Become a Data Engineer
+This article outlines helpful considerations if you’re interested in pursuing a career as a data engineer such as required skills, typical responsibilities, and career outlook.<br>
+<a href="https://www.mastersindatascience.org/careers/data-engineer" target="_blank">mastersindatascience.org/careers/data-engineer</a>
+
 #### Introduction to Apache Airflow
 Apache Airflow is hot right now and if you're interested in learning about it from a high-level, this a nice 'intro' guide.<br>
 <a href="https://www.astronomer.io/guides/intro-to-airflow" target="_blank">astronomer.io/guides/intro-to-airflow</a>
