@@ -47,6 +47,8 @@ Copy the generated public key in PuttyGen and paste it in the Nano editor:
 
 <img src="http://www.servermom.org/wp-content/uploads/2014/06/copy-pub-key.jpg">
 
+http://www.servermom.org/wp-content/uploads/2014/06/public-key-save.jpg
+
 Save and exit Nano by hitting `ctrl+O`, enter, then `ctrl+X` on your keyboard. Then change its permission to 644 with this command:
 
 ```bash
