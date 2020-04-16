@@ -33,7 +33,7 @@ This free Chrome extension allows developers to explore, test, and build APIs us
 
 #### Public APIs
 Categorizes different APIs scoured from the web which make their resources available for public consumption.<br>
-<a href="https://github.com/abhishekbanthia/Public-APIs" target="_blank">github.com/abhishekbanthia/Public-APIs</a>
+<a href="https://github.com/public-apis/public-apis" target=_>https://github.com/public-apis/public-apis</a> | or | <a href="https://github.com/abhishekbanthia/Public-APIs" target="_blank">github.com/abhishekbanthia/Public-APIs</a>
 
 #### RapidAPI
 Enables developers to find, test, and manage API integrations from one place and provides real-time performance metrics.<br>
@@ -66,6 +66,10 @@ Frequently asked interview questions, by category. Each question is accompanied 
 #### DataOps Manifesto
 Through firsthand experience working with data across organizations, tools, and industries a group of professionals have uncovered a better way to develop and deliver analytics through an emerging practice called DataOps.<br> 
 <a href="https://www.dataopsmanifesto.org/dataops-manifesto.html" target="_blank">dataopsmanifesto.org/dataops-manifesto.html</a>
+
+#### Developer Roadmap
+This repository contains a set of charts demonstrating different paths to take and technologies to adopt in order to become a front-end, back-end, or dev-ops engineer. While it seems a bit overwhelming in the beginning, it is a useful guide for what’s possible and needed in this fast-changing industry. The repo gets updated every year to reflect changes in the ecosystem.<br> 
+<a href="https://roadmap.sh" target="_blank">roadmap.sh</a>
 
 #### GeeksforGeeks
 A Computer Science portal for geeks. It contains computer science and programming articles, quizzes, and practice/competitive programming questions. It also has a large database of company-specific interview questions.<br> 
@@ -386,6 +390,10 @@ Offers programming problems and lessons for challenging yourself to get to becom
 #### Fiddles.io
 Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
 <a href="https://fiddles.io" target="_blank">fiddles.io</a>
+
+#### Gitignore: A Collection of .gitignore Templates
+This repository is exactly what the name suggests: a collection of useful .gitignore templates. For every new project you set up as a GitHub repository, it becomes mandatory to have a .gitignore file to filter what gets uploaded. The repo contains templates for almost any language or framework.<br> 
+<a href="https://github.com/github/gitignore" target="_blank">github.com/github/gitignore</a>
 
 #### Google's Go Language
 This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
