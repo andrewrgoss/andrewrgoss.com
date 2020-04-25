@@ -20,7 +20,7 @@ Senior data engineer working to advance data-driven cultures by integrating disp
 
 <sub>Data Engineering --- Cloud Computing --- ETL Development --- Business Analytics --- Database Architecture</sub><br>
 
-<b>Other specialties:</b> Data lakes/warehousing, data modeling, big data infrastructure, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, client-facing communication, requirements gathering, technical documentation
+<b>Other specialties:</b> Data lakes/warehousing, data modeling, big data infrastructure, data streaming, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
