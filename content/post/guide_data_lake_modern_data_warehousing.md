@@ -1,7 +1,7 @@
 ---
 author: "Daniel Mateus Pires"
 date: 2020-04-25
-title: A Guide Data Lakes — Modern Batch Data Warehousing
+title: A Data Lakes Guide — Modern Batch Data Warehousing
 tags:
   - big data
   - data engineering
