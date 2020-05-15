@@ -439,6 +439,10 @@ Python Challenge is a game in which each level can be solved by a bit of (Python
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
 <a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
 
+#### Software Literacy: Programming Learning Guide
+Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
+<a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
+
 #### Topcoder
 Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
 <a href="https://www.topcoder.com" target="_blank">topcoder.com</a>
