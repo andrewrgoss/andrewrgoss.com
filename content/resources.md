@@ -107,6 +107,10 @@ Interviewing.io is a platform where people can practice technical interviewing a
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
+#### Mastering SQL Queries
+Practice easy, medium, and hard SQL interview questions.<br>
+<a href="https://medium.com/analytics-vidhya/mastering-sql-queries-166e278d9582" target="_blank">analytics-vidhya/mastering-sql-queries</a>
+
 #### Pramp
 Practice mock interviews and coding questions online, with peers, for free. Great practice for preparing for interviews and ultimately landing your dream tech job. <br>
 <a href="https://www.pramp.com" target="_blank">www.pramp.com</a>
@@ -191,6 +195,10 @@ A curated list of data engineering tools for software developers.<br>
 Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
+#### Complete Data Engineer’s Vocabulary
+Comprehensive A-Z list of different data engineering concepts and technologies with brief summaries and embedded links to learn more information.<br>
+<a href="https://towardsdatascience.com/complete-data-engineers-vocabulary-87967e374fad" target="_blank">towardsdatascience.com/complete-data-engineers-vocabulary</a>
+
 #### Conduktor
 Conduktor is the ultimate Apache Kafka desktop client for performing regular Kafka administration and development tasks.<br>
 <a href="https://www.conduktor.io" target="_blank">conduktor.io</a>
@@ -270,6 +278,10 @@ This guide is intended to help those with a basic knowledge of machine learning 
 #### Data Mining in Python: A Guide
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
+
+#### Dolt for Data Version Control
+Dolt is the true Git for data experience in a SQL database, providing version control for schema and cell-wise for data, all optimized for collaboration. With Dolt, you can view a human-readable diff of the data you received last time versus the data you received this time. You can easily see updates you did not expect and fix the problem before you deploy the new data.<br>
+<a href="https://towardsdatascience.com/are-you-still-not-using-version-control-for-data-d79a8b004c18" target="_blank">towardsdatascience.com</a>
 
 #### Foundations of Machine Learning
 This training course offered through Bloomberg covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. It is designed to make valuable machine learning skills more accessible to individuals with a strong math background, including software developers, experimental scientists, engineers, and financial professionals.<br>
@@ -442,6 +454,10 @@ This is a free tool that helps people overcome a fundamental barrier to learning
 #### Software Literacy: Programming Learning Guide
 Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
 <a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
+
+#### SQL Cheat Sheet
+In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
+<a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
 
 #### Topcoder
 Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
