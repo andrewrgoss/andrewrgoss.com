@@ -5,6 +5,26 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.amazon.com/dp/B07B2T6R8Q" target=_>Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a>
+		<span class="separator"> &middot; </span>
+		<author>by Dan Lyons</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2020-07-16T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
+		<a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target=_>How to Fail at Almost Everything and Still Win Big</a>
+		<span class="separator"> &middot; </span>
+		<author>by Scott Adams</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2020-05-20T00:00:00Z">May 2020</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://stevenpinker.com/publications/enlightenment-now-case-reason-science-humanism-and-progress" target=_>Enlightenment Now</a>
 		<span class="separator"> &middot; </span>
 		<author>by Steven Pinker</author>
@@ -178,13 +198,9 @@ title: "Books"
 
 * <a href="https://www.amazon.com/gp/product/B06XPJML5D" target="_blank">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><span class="separator"> &middot; </span> <i>by Martin Kleppmann</i>
 
-* <a href="https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4" target="_blank">How to Fail at Almost Everything and Still Win Big</a><span class="separator"> &middot; </span> <i>by Scott Adams</i>
-
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
 
 * <a href="https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8" target="_blank">The Intelligent Investor</a><span class="separator"> &middot; </span> <i>by Benjamin Graham</i>
-
-* <a href="https://www.amazon.com/dp/B07B2T6R8Q" target="_blank">Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a><span class="separator"> &middot; </span> <i>by Dan Lyons</i>
 
 * <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>
 
