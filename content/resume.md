@@ -63,7 +63,7 @@ Data Engineer >> Senior Data Engineer
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
 **<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
-Data Engineer
+Manager, Media Systems & Technology >> Data Engineer
 <p><sub>Worked with evolving open source technologies to build the backend systems and architectures behind business intelligence and programmatic media tools used by data science, marketing, and media management teams. In centralizing disparate data streams, developed the necessary structure to enable crucial cross-platform analytics and automated advertising decisioning.</sub></p>
 
 <a href="http://www.quickpivot.com" target="_blank"><img src="/img/quickpivot_logo.png"></a><br>
