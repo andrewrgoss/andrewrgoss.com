@@ -319,13 +319,13 @@ TensorFlow is a machine learning library that underlies many of Google's product
 <h2 class="resources"><a name="datasets"></a>Datasets</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
-#### awesome-public-datasets
-This GitHub repo contains a list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.<br>
-<a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">github.com/awesomedata/awesome-public-datasets</a>
-
 #### Appen AI Resource Center
 Collection of free, downloadable, and categorized datasets that have been created and curated for teams working on world-class AI applications.<br>
 <a href="https://appen.com/resources/datasets" target="_blank">appen.com/resources/datasets</a>
+
+#### awesome-public-datasets
+This GitHub repo contains a list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses.<br>
+<a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">github.com/awesomedata/awesome-public-datasets</a>
 
 #### AWS Registry of Open Data
 This registry exists to help people discover and share datasets that are publicly available via AWS resources.<br>
