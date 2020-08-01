@@ -327,9 +327,9 @@ This GitHub repo contains a list of a topic-centric public data sources in high 
 This registry exists to help people discover and share datasets that are publicly available via AWS resources.<br>
 <a href="https://registry.opendata.aws" target="_blank">registry.opendata.aws</a>
 
-#### Crowdflower: Data for Everyone
-Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.<br>
-<a href="https://www.crowdflower.com/data-for-everyone" target="_blank">crowdflower.com/data-for-everyone</a>
+#### Appen AI Resource Center
+Collection of free, downloadable, and categorized datasets that have been created and curated for teams working on world-class AI applications.<br>
+<a href="https://appen.com/resources/datasets" target="_blank">appen.com/resources/datasets</a>
 
 #### Data.World: The Social Network for Data People
 Discover and share cool data, connect with interesting people, and work together to solve problems faster. Users can find and use a vast array of high-quality open data.<br>

@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Dan Lyons</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2020-07-16T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2020-07-25T00:00:00Z">Jul 2020</time>
 	</h3>
 </section>
 
