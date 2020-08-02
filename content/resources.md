@@ -5,7 +5,7 @@ title: "Resources"
 
 <blockquote><p class="custom_blockquote"><sub>There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:andrewrgoss@gmail.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.</sub></p></blockquote>
 
-[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [MarTech](#martech) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
+[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="api_services"></a>API Services
@@ -354,22 +354,6 @@ Google Charts is a JavaScript-based tool that lets people easily create a chart 
 #### Google Data Studio
 Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
-
-<hr>
-<h2 class="resources"><a name="martech"></a>MarTech</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### Google Analytics Demo Account
-If you're like me, you learn by doing. This fully functional Google Analytics account is a great way to look at real business data and experiment with Google Analytics features. The data is from the Google Merchandise Store, a real ecommerce store, and it's typical of what you would see for an ecommerce website.<br> 
-<a href="https://support.google.com/analytics/answer/6367342" target="_blank">support.google.com/analytics</a>
-
-#### The Definitive Glossary of Programmatic Advertising
-Programmatic advertising is about using automated systems (technology) and data to make media buying decisions without humans. This is a helpful glossary of terms associated with this concept.<br>
-<a href="http://blog.hubspot.com/agency/programmatic-advertising-glossary" target="_blank">blog.hubspot.com/agency/programmatic-advertising-glossary</a>
-
-#### Real Story Group
-This firm specializes in evaluating vendors in the MarTech space to help you find the right provider among a glut of offerings.<br> 
-<a href="https://www.realstorygroup.com/Vendors-Evaluated" target="_blank">realstorygroup.com</a>
 
 <hr>
 <h2 class="resources"><a name="programming"></a>Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
