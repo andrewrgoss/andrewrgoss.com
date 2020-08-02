@@ -8,7 +8,7 @@ tags:
   - technical leadership
 ---
 
-I've put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Enjoy!
+I've put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Note that many of these are hosted by <a href="https://medium.com" target=_>Medium.com</a>, which sets a limit on the number of free stories you can view. To get around this, tweet out the link and then click it from <a href="https://twitter.com" target=_>Twitter</a> or search the title to see if someone else has already tweeted the link. Enjoy!
 
 ### API Development
 
