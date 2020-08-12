@@ -5,6 +5,17 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.amazon.com/gp/product/1533667926" target=_>The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life</a>
+		<span class="separator"> &middot; </span>
+		<author>by J L Collins</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2020-08-12T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B07B2T6R8Q" target=_>Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a>
 		<span class="separator"> &middot; </span>
 		<author>by Dan Lyons</author>
@@ -200,17 +211,11 @@ title: "Books"
 
 * <a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E" target="_blank">How to Win Friends & Influence People</a><span class="separator"> &middot; </span> <i>by Dale Carnegie</i>
 
-* <a href="https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8" target="_blank">The Intelligent Investor</a><span class="separator"> &middot; </span> <i>by Benjamin Graham</i>
-
 * <a href="https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880" target="_blank">Programming Pearls</a><span class="separator"> &middot; </span> <i>by Jon Bentley</i>
 
 * <a href="https://www.amazon.com/dp/B06XP3GJ7F" target="_blank">The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</a><span class="separator"> &middot; </span> <i>by Camille Fournier</i>
 
-* <a href="https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474" target="_blank">The Millionaire Next Door: The Surprising Secrets of America's Wealthy</a><span class="separator"> &middot; </span> <i>by Thomas J. Stanley, William D. Danko</i>
-
 * <a href="https://martinfowler.com/books/refactoring.html" target="_blank">Refactoring: Improving the Design of Existing Code</a><span class="separator"> &middot; </span> <i>by Martin Fowler</i>
-
-* <a href="https://www.amazon.com/gp/product/1533667926" target="_blank">The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life</a><span class="separator"> &middot; </span> <i>by J L Collins</i>
 
 * <a href="https://www.amazon.com/dp/B072F14KX8" target="_blank">Squeezed: Why Our Families Can't Afford America</a><span class="separator"> &middot; </span> <i>by Alissa Quart</i>
 
