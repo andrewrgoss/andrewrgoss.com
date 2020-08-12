@@ -13,7 +13,6 @@ title: "Books"
 	</h3>
 </section>
 
-
 <section class="post">
 	<h3 class="book">
 		<a href="https://www.amazon.com/dp/B07B2T6R8Q" target=_>Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us</a>
