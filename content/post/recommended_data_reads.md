@@ -4,7 +4,6 @@ date: 2020-07-25
 title: Recommended Reads to Level Up Your Data Career
 tags:
   - career management
-  - data engineering
   - technical leadership
 ---
 
