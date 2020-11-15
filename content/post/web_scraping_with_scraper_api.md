@@ -32,4 +32,4 @@ Beyond this proxy solution allowing you to bypass the most complex anti-bots, if
 * `Custom Headers → “&keep_headers=true"`
 * `Premium Proxies → “&premium=true"`
 
-<a href="https://www.scraperapi.com?fpr=andrewrgoss" target=_>Scraper API</a> is a powerful, extremely easy to use tool in your scraping tool box. If the free tier does not meet your needs, this promo code - `ANDREW10` - will get you a 10% discount towards any of the paid subscription plans when scaling up for more API calls, additional concurrency, and more features.
+<a href="https://www.scraperapi.com?fpr=andrewrgoss" target=_>Scraper API</a> is a powerful, extremely easy-to-use service for your scraping toolbox. If the free tier does not meet your needs, this promo code - `ANDREW10` - will get you a 10% discount towards any of the paid subscription plans when scaling up for more API calls, additional concurrency, and more features.
