@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/26082916-ready-player-two" target="_blank">Ready Player Two</a>
+		<span class="separator"> &middot; </span>
+		<author>by Ernest Cline</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2020-12-09T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.amazon.com/gp/product/1533667926" target=_>The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life</a>
 		<span class="separator"> &middot; </span>
 		<author>by J L Collins</author>
