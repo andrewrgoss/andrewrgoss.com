@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Ernest Cline</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2020-12-09T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2021-01-18T00:00:00Z">Jan 2021</time>
 	</h3>
 </section>
 
