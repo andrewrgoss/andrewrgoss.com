@@ -10,7 +10,7 @@ disqusShortname = "andrewrgoss"
 [params]
     twitter = "Andrewrgoss"
     description = "Andrew Goss is a senior data engineer based in the Boston, MA area. He builds performant backend systems that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story."
-    email = "andrewrgoss@gmail.com"
+    email = "admin@andrewrgoss.com"
     hostname = "https://andrewrgoss.github.io"
 
 [permalinks]
@@ -20,7 +20,7 @@ disqusShortname = "andrewrgoss"
 [author]
     name = "Andrew Goss"
     twitter = "Andrewrgoss"
-    email = "andrewrgoss@gmail.com"
+    email = "admin@andrewrgoss.com"
 
 [taxonomies]
     tag = "tags"
