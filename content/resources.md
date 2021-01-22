@@ -415,6 +415,10 @@ Code faster in Python with intelligent snippets - Kite is a plugin for your IDE 
 Learn Code The Hard Way courses are an effective system for learning the basics of computer programming, designed specifically for complete beginners.<br>
 <a href="https://learncodethehardway.org" target="_blank">learncodethehardway.org</a>
 
+#### Learn to Code From Home
+Learning to code can be daunting, but you can do it at your own pace from the comfort of your own home. Thanks to dedicated programmers who have put time and energy into creating free online walkthroughs and guides to various programming languages, there are plenty of free resources right at your fingertips that offer hands-on activities and general overviews for beginner coding projects and advanced tasks.<br>
+<a href="https://couponfollow.com/research/learn-to-code-from-home" target="_blank">couponfollow.com/research/learn-to-code-from-home</a>
+
 #### LeetCode
 Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
 <a href="https://leetcode.com" target="_blank">leetcode.com</a>
