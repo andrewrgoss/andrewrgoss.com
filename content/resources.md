@@ -119,10 +119,6 @@ Practice mock interviews and coding questions online, with peers, for free. Grea
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
 
-#### TechPizza
-This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.<br>
-<a href="http://techpizza.org" target="_blank">techpizza.org</a>
-
 #### TestDome
 For developers, this site offers public technical tests and practice interview questions. If you score well you can get free certificates to display on your online profiles.<br>
 <a href="https://www.testdome.com" target="_blank">testdome.com</a>
