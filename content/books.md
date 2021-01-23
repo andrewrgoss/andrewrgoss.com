@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/50196744-know-my-name" target="_blank">Know My Name</a>
+		<span class="separator"> &middot; </span>
+		<author>by Chanel Miller</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2021-01-23T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.goodreads.com/book/show/26082916-ready-player-two" target="_blank">Ready Player Two</a>
 		<span class="separator"> &middot; </span>
 		<author>by Ernest Cline</author>
