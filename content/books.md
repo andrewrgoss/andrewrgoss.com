@@ -9,7 +9,7 @@ title: "Books"
 		<span class="separator"> &middot; </span>
 		<author>by Chanel Miller</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2021-01-23T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2021-03-02T00:00:00Z">Mar 2021</time>
 	</h3>
 </section>
 

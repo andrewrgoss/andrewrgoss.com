@@ -5,7 +5,7 @@ title: "Resources"
 
 <blockquote><p class="custom_blockquote"><sub>There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:admin@andrewrgoss.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.</sub></p></blockquote>
 
-[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
+[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [DataOps](#data_ops) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
 
 <hr>
 ## <a name="api_services"></a>API Services
@@ -183,6 +183,10 @@ The term NoSQL has come to be synonymous with schema-less, non-relational data s
 Introduced by Airbnb, Airflow is a platform to schedule and monitor data pipelines. This article overviews the basic setup to run Airflow including an example use-case.<br>
 <a href="https://medium.com/@mehranmsh_29721/airflow-for-beginners-f167789b91c4" target="_blank">medium.com/airflow-for-beginners</a>
 
+#### Around Data Engineering
+This actively-maintained GitHub repository details the never-ending journey of learning around data engineering and machine learning.<br>
+<a href="https://github.com/abhishek-ch/around-dataengineering" target="_blank">github.com/abhishek-ch/around-dataengineering</a>
+
 #### Awesome Data Engineering
 A curated list of data engineering tools for software developers.<br>
 <a href="https://github.com/igorbarinov/awesome-data-engineering" target="_blank">github.com/igorbarinov/awesome-data-engineering</a>
@@ -262,6 +266,14 @@ Analyzing lots of data is only part of what makes big data analytics different f
 #### What Is ETL?
 ETL is shorthand for the extraction, transformation, and loading process used in most data movement operations. This article provides a nice overview for those wanting to understand the basics around these phases.<br>
 <a href="https://www.timmitchell.net/post/2017/01/06/what-is-etl" target="_blank">timmitchell.net/what-is-etl</a>
+
+<hr>
+<h2 class="resources"><a name="data_ops"></a>DataOps</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<hr>
+
+#### Dataframe - The GitHub for Data
+Dataframe is a collaborative knowledge-base for data workers. It's a single source of truth for data context, automatically mapped from your favorite data tools. And it serves as the productivity layer that enables true data democratization in an organizational setting.<br>
+<a href="hhttps://dataframe.ai" target="_blank">dataframe.ai</a>
 
 <hr>
 <h2 class="resources"><a name="data_science"></a>Data Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
