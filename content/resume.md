@@ -27,20 +27,20 @@ Senior data engineer working to advance data-driven cultures by integrating disp
 
 * <b>API DEVELOPMENT:</b> <a href="https://graphql.org" target="_blank">GraphQL&nbsp;<img src="/img/graphql.png">&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>
 
-* <b>BUSINESS INTELLIGENCE:</b> <a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
-
 * <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
 
 * <b>CLOUD COMPUTING:</b> <a href="https://aws.amazon.com" target="_blank">AWS&nbsp;<img src="/img/aws.png"></a>&nbsp;&nbsp;<a href="https://www.cloudera.com/products/open-source/apache-hadoop/key-cdh-components.html" target="_blank">Cloudera CDH&nbsp;<img src="/img/cloudera.png"></a>&nbsp;&nbsp;<a href="https://cloud.google.com" target="_blank">Google Cloud Platform&nbsp;<img src="/img/gcp.png"></a>
 
 * <b>CODE EDITORS:</b> <a href="https://atom.io" target="_blank">Atom&nbsp;<img src="/img/atom.png"></a>&nbsp;&nbsp;<a href="https://notepad-plus-plus.org" target="_blank">Notepad++&nbsp;<img src="/img/notepad++.png"></a>&nbsp;&nbsp;<a href="http://www.vim.org" target="_blank">Vim&nbsp;<img src="/img/vim.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio Code&nbsp;<img src="/img/visual_studio_code.png"></a>
 
+* <b>DATA VISUALIZATION:</b> <a href="https://superset.apache.org" target="_blank">Apache Superset&nbsp;<img src="/img/apache_superset.png">&nbsp;&nbsp;<a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
+
 * <b>DATA WAREHOUSES:</b> <a href="https://cloud.google.com/solutions/bigquery-data-warehouse" target="_blank">BigQuery&nbsp;<img src="/img/bigquery.png"></a>&nbsp;&nbsp;<a href="https://www.snowflake.com" target="_blank">Snowflake&nbsp;<img src="/img/snowflake.png"></a>
 
 * <b>DOCUMENTATION:</b> <a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://www.lucidchart.com" target="_blank">Lucidchart&nbsp;<img src="/img/lucidchart.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Visio&nbsp;<img src="/img/msvisio.png"></a>
 
 * <b>ETL TOOLS:</b>
-<a href="https://airflow.apache.org" target="_blank">Apache Airflow&nbsp;<img src="/img/airflow.png"></a>&nbsp;&nbsp;<a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
+<a href="https://airbyte.io" target="_blank">Airbyte&nbsp;<img src="/img/airbyte.png"></a>&nbsp;<a href="https://airflow.apache.org" target="_blank">Apache Airflow&nbsp;<img src="/img/airflow.png"></a>&nbsp;&nbsp;<a href="https://www.matillion.com" target="_blank">Matillion&nbsp;<img src="/img/matillion.png"></a>&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank">SSIS&nbsp;<img src="/img/mssqlserver.png"></a>
 
 * <b>IDES:</b> <a href="https://www.jetbrains.com/datagrip" target="_blank">DataGrip&nbsp;<img src="/img/datagrip.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/idea" target="_blank">IntelliJ IDEA&nbsp;<img src="/img/intellij_idea.png"></a>&nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm" target="_blank">PyCharm&nbsp;<img src="/img/pycharm.png"></a>&nbsp;&nbsp;<a href="https://www.visualstudio.com" target="_blank">Visual Studio&nbsp;<img src="/img/visual_studio.png"></a>
 
