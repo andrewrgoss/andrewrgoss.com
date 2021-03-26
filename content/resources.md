@@ -431,6 +431,10 @@ Learning to code can be daunting, but you can do it at your own pace from the co
 Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
 <a href="https://leetcode.com" target="_blank">leetcode.com</a>
 
+#### Real Python: Python Tutorials
+Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.<br>
+<a href="https://realpython.com" target="_blank">realpython.com</a>
+
 #### Rosetta Code Programming Tasks
 Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
 <a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
