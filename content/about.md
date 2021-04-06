@@ -19,8 +19,6 @@ Over the course of my career, I’ve gained well-rounded experience as both a de
 * During this time I've worked with high-profile clients and built complex in-house tools and programs.
 * My cross-functional <a href="/resume/#work_experience">roles</a> have included data engineering, backend application development, business analysis, database marketing, and marketing automation. I've helped translate large amounts of fragmented data into smarter decision making.
 
-![ETL](/img/etl.png "ETL")
-
 With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development that I write about in this blog. I've found it not only to be a nice way to document my own learning, but also a great way to share knowledge with others. I've also come across many useful <a href="/resources">resources</a> and emerging ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 
 > Check out my <a href="/resume">resume</a> for more details on my professional experiences.
