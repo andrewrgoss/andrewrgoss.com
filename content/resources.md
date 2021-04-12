@@ -495,6 +495,10 @@ ExtendsClass provides developer tools directly usable in a browser, such as disp
 This post outlines a development model for git branching strategy and release management.<br>
 <a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>
 
+#### Git Cheat Sheet
+Handy visual reference for commonly used git version control commands.<br>
+<a href="https://jan-krueger.net/git-cheat-sheet-extended-edition" target="_blank">jan-krueger.net/git-cheat-sheet-extended-edition</a>
+
 #### Queues
 This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
 <a href="http://queues.io" target="_blank">queues.io</a>
