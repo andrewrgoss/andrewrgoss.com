@@ -351,6 +351,10 @@ Free tool for searching over 25 million publicly available datasets. The search 
 This portal reveals everything Google knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
 <a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
 
+#### VisiData
+VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.<br>
+<a href="https://www.visidata.org" target="_blank">www.visidata.org</a>
+
 <hr>
 <h2 class="resources"><a name="data_viz"></a>Data Visualization</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
