@@ -7,7 +7,7 @@ tags:
   - "data engineering"
 ---
 
-Recently came across this cool cross-sectional LUMAscape visual that depicts the larger ecosystem of data engineering tools and technologies adjacent and complementary to the problems we are solving. Check out the article by following the link below.
+Recently came across this cool cross-sectional LUMAscape visual that depicts the larger ecosystem of data engineering tools and technologies adjacent and complementary to the problems we are solving. Check out the accompanying report by following the link below.
 
 <a href="https://lakefs.io/the-state-of-data-engineering-in-2021" target="_"><img src="/img/post/data_engineering_ecosystem_2021.png" "Data Engineering Ecosystem 2021" width="95%"></a>
 
