@@ -11,6 +11,10 @@ title: "Resources"
 ## <a name="api_services"></a>API Services
 <hr>
 
+#### ConvertAPI
+Add high performance files and documents conversion to your website, web, or desktop application.<br>
+<a href="https://www.convertapi.com" target="_blank">convertapi.com</a>
+
 #### Google Analytics Query Explorer
 This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.<br>
 <a href="https://ga-dev-tools.appspot.com/query-explorer" target="_blank">ga-dev-tools.appspot.com/query-explorer</a>
