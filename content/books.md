@@ -5,6 +5,16 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/17332183-countdown" target="_blank">Countdown: Our Last, Best Hope for a Future on Earth?</a>
+		<span class="separator"> &middot; </span>
+		<author>by Alan Weisman</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2021-06-23T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.goodreads.com/book/show/50196744-know-my-name" target="_blank">Know My Name</a>
 		<span class="separator"> &middot; </span>
 		<author>by Chanel Miller</author>
@@ -221,8 +231,6 @@ title: "Books"
 * <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship</a><span class="separator"> &middot; </span> <i>by Robert C. Martin</i>
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
-
-* <a href="https://www.amazon.com/dp/B00BAXFCU4" target="_blank">Countdown: Our Last, Best Hope for a Future on Earth?</a><span class="separator"> &middot; </span> <i>by Alan Weisman</i>
 
 * <a href="http://www.crackingthecodinginterview.com" target="_blank">Cracking the Coding Interview</a><span class="separator"> &middot; </span> <i>by Gayle Laakmann McDowell</i>
 
