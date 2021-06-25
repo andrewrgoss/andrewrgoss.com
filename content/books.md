@@ -228,7 +228,7 @@ title: "Books"
 
 #### Reading Queue
 
-* <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship</a><span class="separator"> &middot; </span> <i>by Robert C. Martin</i>
+* <a href="https://www.oreilly.com/library/view/97-things-every/9781492062400" target="_blank">97 Things Every Data Engineer Should Know</a><span class="separator"> &middot; </span> <i>by Tobias Macey</i>
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
 
@@ -245,5 +245,3 @@ title: "Books"
 * <a href="https://martinfowler.com/books/refactoring.html" target="_blank">Refactoring: Improving the Design of Existing Code</a><span class="separator"> &middot; </span> <i>by Martin Fowler</i>
 
 * <a href="https://www.amazon.com/dp/B072F14KX8" target="_blank">Squeezed: Why Our Families Can't Afford America</a><span class="separator"> &middot; </span> <i>by Alissa Quart</i>
-
-* <a href="https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871" target="_blank">Structure and Interpretation of Computer Programs</a><span class="separator"> &middot; </span> <i>by Harold Abelson, Gerald Jay Sussman, Julie Sussman</i>
