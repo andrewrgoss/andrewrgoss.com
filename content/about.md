@@ -12,7 +12,7 @@ I'm currently a senior data engineer at <a href="https://www.interfolio.com" tar
 * I’m building a modern business intelligence stack from the ground up in a way that allows both internal and external end users to answer important questions through supported self-service analytics. Architecture, documentation, and performance are all crucial to democratizing data that is easily explorable.
 
 ![Modern Data Pipelines](/img/modern_data_pipelines.png "Modern Data Pipelines")
-<sub>Image by Louise de Leyritz</sub>
+<sub><i>Image by Louise de Leyritz</i></sub>
 
 Over the course of my career, I’ve gained well-rounded experience as both a developer and a technical consultant in working with people, process, and technology.
 
