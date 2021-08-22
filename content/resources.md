@@ -5,10 +5,35 @@ title: "Resources"
 
 <blockquote><p class="custom_blockquote"><sub>There are tons of great resources all over the internet. I've bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I've found to be helpful. If you're reading this and have something to add or find a dead link please <a href="mailto:admin@andrewrgoss.com" target="_blank">send me a note</a>. I'm continuing to add to this over time.</sub></p></blockquote>
 
-[API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science](#computer_science) | [Data Engineering](#data_engineering) | [DataOps](#data_ops) | [Data Science](#data_science) | [Datasets](#datasets) | [Data Visualization](#data_viz) | [Programming](#programming) | [Software Development](#software_development) | [Web Applications](#web_apps) | [Website Tools](#website_tools)
+[Analytics/Data Visualization](#analytics_data_viz) | [API Services](#api_services) | [Career Management](#career_management) | [Cloud Computing](#cloud_computing) | [Computer Science/Programming](#computer_science_programming) | [Data Engineering](#data_engineering) | [DataOps](#data_ops) | [Data Science/Machine Learning](#data_science_ml) | [Datasets](#datasets) | [Website Tools](#website_tools)
 
 <hr>
-## <a name="api_services"></a>API Services
+## <a name="analytics_data_viz"></a>Analytics/Data Visualization
+<hr>
+
+#### Apache Superset
+Apache Superset is a modern data exploration and visualization platform that is fast, lightweight, intuitive, and loaded with options.<br>
+<a href="https://superset.apache.org" target="_blank">superset.apache.org</a>
+
+#### Google Charts
+Google Charts is a JavaScript-based tool that lets people easily create a chart from some data and embed it in a web page. It's free and has a solid library of interactive charts and data tools available for use.<br>
+<a href="https://developers.google.com/chart" target="_blank">developers.google.com/chart</a>
+
+#### Google Data Studio
+Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
+<a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
+
+#### HyperQuery
+Hyperquery is a collaborative workspace for analytics. Yuo can write SQL queries and consolidate your data context, automatically mapped from your favorite data tools such as Snowflake, Looker, Fivetran, Segment, and dbt. With Hyperquery, you can keep your documentation and business metadata in one place, so you can do your best work in analytics.<br>
+<a href="https://dataframe.ai" target="_blank">dataframe.ai</a>
+
+#### VisiData
+VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.<br>
+<a href="https://www.visidata.org" target="_blank">www.visidata.org</a>
+
+
+<hr>
+<h2 class="resources"><a name="api_services"></a>API Services</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### ConvertAPI
@@ -63,13 +88,13 @@ Helpful article that compares and contrasts the role of a data analyst vs. data 
 Technical interviews are tough. CodeFights, which is best known as a competitive coding and skill-based recruiting platform, helps developers practice for these interviews through a free platform that offers study topics and practice questions.<br>
 <a href="https://codefights.com/interview-practice" target="_blank">codefights.com/interview-practice</a>
 
+#### Coding Interview University
+At a time where technology is outpacing the ability of many universities to update their course curriculum, many aspiring software engineers are seeking alternative forms of the education required to get a job. This is a popular complete computer science multi-month study plan to become a software engineer.<br>
+<a href="https://github.com/jwasham/coding-interview-university" target="_blank">github.com/jwasham/coding-interview-university</a>
+
 #### Data Flair Interview Questions
 Frequently asked interview questions, by category. Each question is accompanied by answers shared by industry experts.<br> 
 <a href="https://data-flair.training/blogs/category/interview-questions" target="_blank">data-flair.training/interview-questions</a>
-
-#### DataOps Manifesto
-Through firsthand experience working with data across organizations, tools, and industries a group of professionals have uncovered a better way to develop and deliver analytics through an emerging practice called DataOps.<br> 
-<a href="https://www.dataopsmanifesto.org/dataops-manifesto.html" target="_blank">dataopsmanifesto.org/dataops-manifesto.html</a>
 
 #### Developer Roadmap
 This repository contains a set of charts demonstrating different paths to take and technologies to adopt in order to become a front-end, back-end, or dev-ops engineer. While it seems a bit overwhelming in the beginning, it is a useful guide for what’s possible and needed in this fast-changing industry. The repo gets updated every year to reflect changes in the ecosystem.<br> 
@@ -86,6 +111,14 @@ Free portfolio site that allows developers to easily feature projects from their
 #### Google Cloud Certification - Data Engineer
 A Google Certified Professional - Data Engineer enables data-driven decision making by collecting, transforming, and visualizing data. To earn this certification you must pass the in-person exam. This webpage offers a collection of useful training resources and reference materials aimed at achieving this certification.<br>
 <a href="https://cloud.google.com/certification/data-engineer" target="_blank">cloud.google.com/certification/data-engineer</a>
+
+#### HackerEarth
+HackerEarth is a network of top developers across the world. Developers participate in online coding challenges and hackathons, solve problems and discover the best jobs.<br>
+<a href="https://www.hackerearth.com" target="_blank">www.hackerearth.com</a>
+
+#### HackerRank
+Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.<br>
+<a href="https://www.hackerrank.com" target="_blank">www.hackerrank.com</a>
 
 #### Hackterms
 At some point in your professional coding career, you’re going to feel stupid when you forgot some simple term. Hackterms is a crowdsourced dictionary of coding terms and serves as a sort of wiki for coding language. Programming is full of jargon and self-inflicted nomenclature wounds. Hackterms helps by returning plain-speak explanations for these.<br>
@@ -111,6 +144,10 @@ Interviewing.io is a platform where people can practice technical interviewing a
 Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
+#### LeetCode
+Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
+<a href="https://leetcode.com" target="_blank">leetcode.com</a>
+
 #### Mastering SQL Queries
 Practice easy, medium, and hard SQL interview questions.<br>
 <a href="https://medium.com/analytics-vidhya/mastering-sql-queries-166e278d9582" target="_blank">analytics-vidhya/mastering-sql-queries</a>
@@ -122,6 +159,10 @@ Practice mock interviews and coding questions online, with peers, for free. Grea
 #### Skills Index
 Undoubtedly you've heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work's proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.<br>
 <a href="http://www.skillsindex.com" target="_blank">skillsindex.com</a>
+
+#### StackShare
+StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
+<a href="https://stackshare.io" target="_blank">stackshare.io</a>
 
 #### TestDome
 For developers, this site offers public technical tests and practice interview questions. If you score well you can get free certificates to display on your online profiles.<br>
@@ -144,16 +185,32 @@ AWS (Amazon Web Service) is a cloud computing platform that enables users to acc
 <a href="https://www.guru99.com/aws-tutorial.html" target="_blank">www.guru99.com/aws-tutorial.html</a>
 
 <hr>
-<h2 class="resources"><a name="computer_science"></a>Computer Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<h2 class="resources"><a name="computer_science_programming"></a>Computer Science/Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
+
+#### awesome-vscode
+A curated list of delightful VS Code packages and resources.<br> 
+<a href="https://viatsko.github.io/awesome-vscode" target="_blank">viatsko.github.io/awesome-vscode</a>
+
+#### Beginner’s Resources to Learn Programming Languages
+This blog post details some important programming languages and offers numerous links for learning more about each.<br> 
+<a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
+
+#### Bento
+A curated collection of tutorials and free learning resources for learning to code in new languages.<br> 
+<a href="https://bento.io" target="_blank">bento.io</a>
 
 #### Big-O Notation Cheat Sheet
 This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.<br>
 <a href="http://bigocheatsheet.com" target="_blank">bigocheatsheet.com</a>
 
-#### Coding Interview University
-At a time where technology is outpacing the ability of many universities to update their course curriculum, many aspiring software engineers are seeking alternative forms of the education required to get a job. This is a popular complete computer science multi-month study plan to become a software engineer.<br>
-<a href="https://github.com/jwasham/coding-interview-university" target="_blank">github.com/jwasham/coding-interview-university</a>
+#### CodeEnv
+Free site lets you share your code with others in CodeEnv online environments. Good for teaching, prototyping, and sharing fiddles.<br> 
+<a href="https://codeenv.com" target="_blank">codeenv.com</a>
+
+#### Codility
+Offers programming problems and lessons for challenging yourself to get to become a better coder.<br> 
+<a href="https://codility.com/programmers" target="_blank">codility.com/programmers</a>
 
 #### ComputerScience.org
 Great collection of resources for exploring different careers in tech.<br>
@@ -167,13 +224,81 @@ Set of CS lecture notes, which you can use to teach yourself algorithms.<br>
 A simple in-browser JavaScript sandbox for learning and practicing algorithms and data structures.<br>
 <a href="http://cs-playground-react.surge.sh" target="_blank">cs-playground-react.surge.sh</a>
 
+#### Fiddles.io
+Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
+<a href="https://fiddles.io" target="_blank">fiddles.io</a>
+
+#### Git Branching Model
+This post outlines a development model for git branching strategy and release management.<br>
+<a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>
+
+#### Git Cheat Sheet
+Handy visual reference for commonly used git version control commands.<br>
+<a href="https://jan-krueger.net/git-cheat-sheet-extended-edition" target="_blank">jan-krueger.net/git-cheat-sheet-extended-edition</a>
+
+#### Gitignore: A Collection of .gitignore Templates
+This repository is exactly what the name suggests: a collection of useful .gitignore templates. For every new project you set up as a GitHub repository, it becomes mandatory to have a .gitignore file to filter what gets uploaded. The repo contains templates for almost any language or framework.<br> 
+<a href="https://github.com/github/gitignore" target="_blank">github.com/github/gitignore</a>
+
 #### Intro to Computer Science Terminology
 A complex definition: Computer Science is the study of information technology, processes, and their interactions with the world.<br>
 <a href="https://codeburst.io/intro-to-computer-science-terminology-f9ae64e75d27" target="_blank">codeburst.io/intro-to-computer-science-terminology</a>
 
+#### Kite
+Code faster in Python with intelligent snippets - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python.<br>
+<a href="https://kite.com" target="_blank">kite.com</a>
+
+#### Learn Code The Hard Way
+Learn Code The Hard Way courses are an effective system for learning the basics of computer programming, designed specifically for complete beginners.<br>
+<a href="https://learncodethehardway.org" target="_blank">learncodethehardway.org</a>
+
+#### Learn to Code From Home
+Learning to code can be daunting, but you can do it at your own pace from the comfort of your own home. Thanks to dedicated programmers who have put time and energy into creating free online walkthroughs and guides to various programming languages, there are plenty of free resources right at your fingertips that offer hands-on activities and general overviews for beginner coding projects and advanced tasks.<br>
+<a href="https://couponfollow.com/research/learn-to-code-from-home" target="_blank">couponfollow.com/research/learn-to-code-from-home</a>
+
+#### OverAPI
+A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
+<a href="http://overapi.com" target="_blank">overapi.com</a>
+
+#### Project Euler
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.<br>
+<a href="https://projecteuler.net" target="_blank">projecteuler.net</a>
+
+#### Python Challenge
+Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>
+<a href="http://www.pythonchallenge.com" target="_blank">pythonchallenge.com</a>
+
+#### Python Cheat Sheet
+A single cheatsheet for all basic Python functions.<br>
+<a href="/img/python_cheat_sheet.png" "Python Cheat Sheet" target="_">python_cheat_sheet.png</a>
+
+#### Python Tutor
+This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
+<a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
+
+#### Real Python: Python Tutorials
+Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.<br>
+<a href="https://realpython.com" target="_blank">realpython.com</a>
+
+#### Rosetta Code Programming Tasks
+Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
+<a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
+
+#### Software Literacy: Programming Learning Guide
+Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
+<a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
+
+#### SQL Cheat Sheet
+In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
+<a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
+
 #### Teach Yourself Computer Science
 If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
 <a href="https://teachyourselfcs.com" target="_blank">teachyourselfcs.com</a>
+
+#### Topcoder
+Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
+<a href="https://www.topcoder.com" target="_blank">topcoder.com</a>
 
 <hr>
 <h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
@@ -235,6 +360,10 @@ A nice intro guide on what these are and why they are used.<br>
 Working with some messy address or name data? It helps to split each one into separate components. Parserator is a framework for making parsers using natural language processing (NLP) methods.<br>
 <a href="https://parserator.datamade.us" target="_blank">parserator.datamade.us</a>
 
+#### Queues
+This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
+<a href="http://queues.io" target="_blank">queues.io</a>
+
 #### Self-Study List for Data Engineers and Aspiring Data Architects
 With the explosion of “Big Data” over the last few years, the need for people who know how to build and manage data-pipelines has grown. This article takes a look at the sought after job skills for these areas and how you can go about learning these.<br>
 <a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
@@ -275,12 +404,20 @@ ETL is shorthand for the extraction, transformation, and loading process used in
 <h2 class="resources"><a name="data_ops"></a>DataOps</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
-#### Dataframe - The GitHub for Data
-Dataframe is a collaborative knowledge-base for data workers. It's a single source of truth for data context, automatically mapped from your favorite data tools. And it serves as the productivity layer that enables true data democratization in an organizational setting.<br>
-<a href="hhttps://dataframe.ai" target="_blank">dataframe.ai</a>
+#### DataOps Manifesto
+Through firsthand experience working with data across organizations, tools, and industries a group of professionals have uncovered a better way to develop and deliver analytics through an emerging practice called DataOps.<br> 
+<a href="https://www.dataopsmanifesto.org/dataops-manifesto.html" target="_blank">dataopsmanifesto.org/dataops-manifesto.html</a>
+
+#### Dolt for Data Version Control
+Dolt is the true Git for data experience in a SQL database, providing version control for schema and cell-wise for data, all optimized for collaboration. With Dolt, you can view a human-readable diff of the data you received last time versus the data you received this time. You can easily see updates you did not expect and fix the problem before you deploy the new data.<br>
+<a href="https://towardsdatascience.com/are-you-still-not-using-version-control-for-data-d79a8b004c18" target="_blank">towardsdatascience.com</a>
+
+#### Monte Carlo for Data Observability
+Monte Carlo is on a mission to accelerate the world's adoption of data by minimizing data downtime. The platform brings full observability to data teams by monitoring, alerting, resolving, and preventing data quality issues, helping them achieve data reliability.<br>
+<a href="https://www.montecarlodata.com" target="_blank">www.montecarlodata.com</a>
 
 <hr>
-<h2 class="resources"><a name="data_science"></a>Data Science</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
+<h2 class="resources"><a name="data_science_ml"></a>Data Science/Machine Learning</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
 #### Best Practices for ML Engineering
@@ -290,10 +427,6 @@ This guide is intended to help those with a basic knowledge of machine learning 
 #### Data Mining in Python: A Guide
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
-
-#### Dolt for Data Version Control
-Dolt is the true Git for data experience in a SQL database, providing version control for schema and cell-wise for data, all optimized for collaboration. With Dolt, you can view a human-readable diff of the data you received last time versus the data you received this time. You can easily see updates you did not expect and fix the problem before you deploy the new data.<br>
-<a href="https://towardsdatascience.com/are-you-still-not-using-version-control-for-data-d79a8b004c18" target="_blank">towardsdatascience.com</a>
 
 #### Foundations of Machine Learning
 This training course offered through Bloomberg covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. It is designed to make valuable machine learning skills more accessible to individuals with a strong math background, including software developers, experimental scientists, engineers, and financial professionals.<br>
@@ -358,198 +491,6 @@ Free tool for searching over 25 million publicly available datasets. The search 
 #### Google's My Activity Page
 This portal reveals everything Google knows about you - every search you've made, the apps you've used, the videos you've watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.<br>
 <a href="https://myactivity.google.com" target="_blank">myactivity.google.com</a>
-
-#### VisiData
-VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.<br>
-<a href="https://www.visidata.org" target="_blank">www.visidata.org</a>
-
-<hr>
-<h2 class="resources"><a name="data_viz"></a>Data Visualization</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### Google Charts
-Google Charts is a JavaScript-based tool that lets people easily create a chart from some data and embed it in a web page. It's free and has a solid library of interactive charts and data tools available for use.<br>
-<a href="https://developers.google.com/chart" target="_blank">developers.google.com/chart</a>
-
-#### Google Data Studio
-Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
-<a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
-
-<hr>
-<h2 class="resources"><a name="programming"></a>Programming</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### awesome-vscode
-A curated list of delightful VS Code packages and resources.<br> 
-<a href="https://viatsko.github.io/awesome-vscode" target="_blank">viatsko.github.io/awesome-vscode</a>
-
-#### Beginner’s Resources to Learn Programming Languages
-This blog post details some important programming languages and offers numerous links for learning more about each.<br> 
-<a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
-
-#### Bento
-A curated collection of tutorials and free learning resources for learning to code in new languages.<br> 
-<a href="https://bento.io" target="_blank">bento.io</a>
-
-#### CodeEnv
-Free site lets you share your code with others in CodeEnv online environments. Good for teaching, prototyping, and sharing fiddles.<br> 
-<a href="https://codeenv.com" target="_blank">codeenv.com</a>
-
-#### CodeProject: Diving in OOP
-Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.<br>
-<a href="http://www.codeproject.com/Articles/771455/Diving-in-OOP" target="_blank">codeproject.com/diving-in-oop</a>
-
-#### Codility
-Offers programming problems and lessons for challenging yourself to get to become a better coder.<br> 
-<a href="https://codility.com/programmers" target="_blank">codility.com/programmers</a>
-
-#### Fiddles.io
-Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It's also easy to share or demonstrate solutions to problems.<br> 
-<a href="https://fiddles.io" target="_blank">fiddles.io</a>
-
-#### Gitignore: A Collection of .gitignore Templates
-This repository is exactly what the name suggests: a collection of useful .gitignore templates. For every new project you set up as a GitHub repository, it becomes mandatory to have a .gitignore file to filter what gets uploaded. The repo contains templates for almost any language or framework.<br> 
-<a href="https://github.com/github/gitignore" target="_blank">github.com/github/gitignore</a>
-
-#### Google's Go Language
-This article represents a nice primer on the differentiating features of Google's Go language (Golang) and its tools, including its extremely lightweight concurrency.<br> 
-<a href="http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html" target="_blank">infoworld.com/googles-go-language</a>
-
-#### HackerEarth
-HackerEarth is a network of top developers across the world. Developers participate in online coding challenges and hackathons, solve problems and discover the best jobs.<br>
-<a href="https://www.hackerearth.com" target="_blank">www.hackerearth.com</a>
-
-#### HackerRank
-Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.<br>
-<a href="https://www.hackerrank.com" target="_blank">www.hackerrank.com</a>
-
-#### Java Beginner’s Guide: Part 1 of 3
-Great series of posts that will help you either learn or brush up on Java programming concepts in a simple and effective way.<br>
-<a href="https://medium.com/@madhupathy/a-beginners-guide-to-java-part-1-of-3-33edf47e47b4" target="_blank">medium.com/@madhupathy/guide-to-java</a>
-
-#### Kite
-Code faster in Python with intelligent snippets - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python.<br>
-<a href="https://kite.com" target="_blank">kite.com</a>
-
-#### Learn Code The Hard Way
-Learn Code The Hard Way courses are an effective system for learning the basics of computer programming, designed specifically for complete beginners.<br>
-<a href="https://learncodethehardway.org" target="_blank">learncodethehardway.org</a>
-
-#### Learn to Code From Home
-Learning to code can be daunting, but you can do it at your own pace from the comfort of your own home. Thanks to dedicated programmers who have put time and energy into creating free online walkthroughs and guides to various programming languages, there are plenty of free resources right at your fingertips that offer hands-on activities and general overviews for beginner coding projects and advanced tasks.<br>
-<a href="https://couponfollow.com/research/learn-to-code-from-home" target="_blank">couponfollow.com/research/learn-to-code-from-home</a>
-
-#### LeetCode
-Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
-<a href="https://leetcode.com" target="_blank">leetcode.com</a>
-
-#### Real Python: Python Tutorials
-Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.<br>
-<a href="https://realpython.com" target="_blank">realpython.com</a>
-
-#### Rosetta Code Programming Tasks
-Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
-<a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
-
-#### Project Euler
-Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.<br>
-<a href="https://projecteuler.net" target="_blank">projecteuler.net</a>
-
-#### Python Challenge
-Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>
-<a href="http://www.pythonchallenge.com" target="_blank">pythonchallenge.com</a>
-
-#### Python Tutor
-This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
-<a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
-
-#### Software Literacy: Programming Learning Guide
-Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
-<a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
-
-#### SQL Cheat Sheet
-In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
-<a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
-
-#### Topcoder
-Topcoder is a company that administers contests in computer programming, through which prize money can be won. Competition aside, this site also offers regular challenges and matches through which you can learn new skills and hone skills you already have.<br>
-<a href="https://www.topcoder.com" target="_blank">topcoder.com</a>
-
-#### Understanding Go Pointers
-This post is for programmers coming to Go who are unfamiliar with the idea of pointers or a pointer type in Go. It also digs deeper into the concept of computer memory (RAM) and how memory location is accessed through your code.<br> 
-<a href="https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back" target="_blank">dave.cheney.net/understand-go-pointers</a>
-
-#### OverAPI
-A huge selection of cheat sheets for almost any current programming language and other technologies.<br>
-<a href="http://overapi.com" target="_blank">overapi.com</a>
-
-<hr>
-<h2 class="resources"><a name="software_development"></a>Software Development</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### 30 Best Practices for Software Development and Testing
-Some good suggested software engineering principles and testing best practices that might help save you time and headaches.<br>
-<a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" target="_blank">opensource.com/30-best-practices-software-development-and-testing</a>
-
-#### 50 Tips for Improving Your Software Development Game
-This post compiles the most illustrative advice and recurring tips from blogs/forums around the topic of being a great programmer. These are organized into five themes that emerged. A great reference for developers looking for ideas around self-improvement.<br>
-<a href="https://techbeacon.com/50-tips-improving-your-software-development-game" target="_blank">techbeacon.com/50-tips-improving-your-software-development-game</a>
-
-#### Draw.io
-Draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.<br>
-<a href="https://www.draw.io" target="_blank">draw.io</a>
-
-#### ExtendsClass
-ExtendsClass provides developer tools directly usable in a browser, such as disposal syntax validators, code formatters, testers, HTTP clients, mock servers, and SQLite browsers.<br>
-<a href="https://extendsclass.com" target="_blank">extendsclass.com</a>
-
-#### Git Branching Model
-This post outlines a development model for git branching strategy and release management.<br>
-<a href="http://nvie.com/posts/a-successful-git-branching-model" target="_blank">nvie.com/git-branching-model</a>
-
-#### Git Cheat Sheet
-Handy visual reference for commonly used git version control commands.<br>
-<a href="https://jan-krueger.net/git-cheat-sheet-extended-edition" target="_blank">jan-krueger.net/git-cheat-sheet-extended-edition</a>
-
-#### Queues
-This page tries to collect the libraries for the queueing systems (job, messaging, etc.) that are widely popular and have a successful record of running on (big) production systems.<br>
-<a href="http://queues.io" target="_blank">queues.io</a>
-
-#### Libraries.io
-Helping you make more informed decisions about the software you use. Libraries.io indexes data from a growing number of projects from numerous package managers. The 'dependency tree' that emerges is the core of the services that are provided.<br>
-<a href="https://libraries.io" target="_blank">libraries.io</a>
-
-#### Read the Docs
-Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.<br>
-<a href="https://readthedocs.org" target="_blank">readthedocs.org</a>
-
-#### StackShare
-StackShare provides online software for displaying and sharing your technology stack, which is made up of the software that you use. It's an online community that features comparisons, ratings, reviews, recommendations, and discussions of the best software tools and software infrastructure services.<br>
-<a href="https://stackshare.io" target="_blank">stackshare.io</a>
-
-#### The Twelve-Factor App
-In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service (SaaS). The twelve-factor app is a methodology for building SaaS apps that can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).<br>
-<a href="https://12factor.net" target="_blank">12factor.net</a>
-
-<hr>
-<h2 class="resources"><a name="web_apps"></a>Web Applications</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
-<hr>
-
-#### The Djanjo Book
-Free online book offers comprehensive Python Django Tutorials, easy to understand Django documentation, the Model-View-Controller (MVC) design pattern, and more.<br>
-<a href="http://djangobook.com" target="_blank">djangobook.com</a>
-
-#### PythonAnywhere
-PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session from any modern web browser. There's storage space on our servers, and you can preserve your session state and access it from anywhere, with no need to pay for, or configure, your own server.<br>
-<a href="https://www.pythonanywhere.com" target="_blank">www.pythonanywhere.com</a>
-
-#### Python Web Frameworks
-This report surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used. Also provides general overview of web application frameworks and what they do.<br>
-<a href="https://www.oreilly.com/learning/python-web-frameworks" target="_blank">oreilly.com/learning/python-web-frameworks</a>
-
-#### What is Microservices Architecture?
-Microservice architecture, or simply microservices, is a distinctive method of developing software systems that tries to focus on building single-function modules with well-defined interfaces and operations. The trend has grown popular in recent years as Enterprises look to become more Agile and move towards a DevOps and continuous testing. Microservices can help create scalable, testable software that can be delivered weekly, not yearly.<br>
-<a href="https://smartbear.com/learn/api-design/what-are-microservices" target="_blank">smartbear.com/what-are-microservices</a>
 
 <hr>
 <h2 class="resources"><a name="website_tools"></a>Website Tools</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
