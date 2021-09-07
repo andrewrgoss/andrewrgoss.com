@@ -272,6 +272,10 @@ Python Challenge is a game in which each level can be solved by a bit of (Python
 A single cheatsheet for all basic Python functions.<br>
 <a href="/img/python_cheat_sheet.png" "Python Cheat Sheet" target="_">python_cheat_sheet.png</a>
 
+#### Python Datetime Conversion Cheat Sheet
+Python cheat sheet for converting values using the datetime module.<br>
+<a href="/img/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">python_datetime_conversion_cheat_sheet.pdf</a>
+
 #### Python Tutor
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
 <a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
