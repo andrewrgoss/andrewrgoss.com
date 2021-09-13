@@ -9,7 +9,8 @@ tags:
 ---
 <img src="/img/post/pipeline.png" "Pipeline" width="60%">
 
-<sub><i>written by <a href="https://medium.com/@maximebeauchemin" target="_blank">Maxime Beauchemin</a></i></sub>
+<sub><i>written by <a href="https://medium.com/@maximebeauchemin" target="_blank">Maxime Beauchemin</a></i></sub><br>
+<a href="https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a" class="btn" target="_blank">View original article</a><br class = "custom">
 <hr>
 
 <b>Batch data processing</b> — historically known as ETL — <a href="https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b" target=_>is extremely challenging</a>. It's time-consuming, brittle, and often unrewarding. Not only that, it's hard to operate, evolve, and troubleshoot.
