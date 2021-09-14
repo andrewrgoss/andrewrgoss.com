@@ -338,6 +338,7 @@ Conduktor is the ultimate Apache Kafka desktop client for performing regular Kaf
 
 #### Data Engineering Cookbook
 The Data Engineering Cookbook (124 pages) - Mastering The Plumbing Of Data Science - Andreas Kretz.<br>
+<a href="https://github.com/andkret/Cookbook" target="_blank">github.com/andkret/Cookbook</a><br>
 <a href="https://github.com/prmohanty/AI-ML-DL-Resources/blob/master/The%20Data%20Engineering%20Cookbook.pdf" target="_blank">The_Data_Engineering_Cookbook.pdf</a>
 
 #### DBeaver
