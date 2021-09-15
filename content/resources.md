@@ -308,6 +308,10 @@ Topcoder is a company that administers contests in computer programming, through
 <h2 class="resources"><a name="data_engineering"></a>Data Engineering</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### 5 Data Engineering Projects To Add To Your Resume
+One of the best ways to develop and refine data engineering skills is through real-world portfolio projects. In this article, <a href="https://seattledataguy.substack.com" target=_>SeattleDataGuy</a> reviews five potential project ideas with accompanying data sources.<br>
+<a href="https://seattledataguy.substack.com/p/5-data-engineering-projects-to-add" target="_blank">seattledataguy.substack.com/p/5-data-engineering-projects-to-add</a>
+
 #### 7 Steps to Understanding NoSQL Databases
 The term NoSQL has come to be synonymous with schema-less, non-relational data storage schemes. NoSQL is an umbrella term, one which encompasses a number of different technologies. This article provides newcomers an overview of NoSQL technologies and architectures it includes.<br>
 <a href="http://www.kdnuggets.com/2016/07/seven-steps-understanding-nosql-databases.html" target="_blank">kdnuggets.com/seven-steps-understanding-nosql-databases.html</a>
