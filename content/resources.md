@@ -292,14 +292,6 @@ Offers over 800 problems that can be solved through programming in different lan
 Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
 <a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
 
-#### SQL Cheat Sheet
-In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
-<a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
-
-#### SQL Query Optimization Techniques
-Tips for writing faster and more efficient SQL queries<br>
-<a href="/pdf/sql_query_optimization_techniques.pdf" "SQL Query Optimization Techniques" target="_">sql_query_optimization_techniques.pdf</a>
-
 #### Teach Yourself Computer Science
 If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
 <a href="https://teachyourselfcs.com" target="_blank">teachyourselfcs.com</a>
@@ -380,6 +372,14 @@ This page tries to collect the libraries for the queueing systems (job, messagin
 #### Self-Study List for Data Engineers and Aspiring Data Architects
 With the explosion of “Big Data” over the last few years, the need for people who know how to build and manage data-pipelines has grown. This article takes a look at the sought after job skills for these areas and how you can go about learning these.<br>
 <a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
+
+#### SQL Cheat Sheet
+In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
+<a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
+
+#### SQL Query Optimization Techniques
+Tips for writing faster and more efficient SQL queries<br>
+<a href="/pdf/sql_query_optimization_techniques.pdf" "SQL Query Optimization Techniques" target="_">sql_query_optimization_techniques.pdf</a>
 
 #### SQL vs NoSQL — What is better for you?
 Important considerations when choosing a relational (SQL) or non-relational (NoSQL) data structure for your project architecture.<br>
