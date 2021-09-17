@@ -274,7 +274,7 @@ A single cheatsheet for all basic Python functions.<br>
 
 #### Python Datetime Conversion Cheat Sheet
 Python cheat sheet for converting values using the datetime module.<br>
-<a href="/img/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">python_datetime_conversion_cheat_sheet.pdf</a>
+<a href="/pdf/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">python_datetime_conversion_cheat_sheet.pdf</a>
 
 #### Python Tutor
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
@@ -295,6 +295,10 @@ Programmers have to know how to work within systems and networks, using differen
 #### SQL Cheat Sheet
 In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
 <a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
+
+#### SQL Query Optimization Techniques
+Tips for writing faster and more efficient SQL queries<br>
+<a href="/pdf/sql_query_optimization_techniques.pdf" "SQL Query Optimization Techniques" target="_">sql_query_optimization_techniques.pdf</a>
 
 #### Teach Yourself Computer Science
 If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
