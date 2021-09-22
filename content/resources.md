@@ -341,6 +341,11 @@ The Data Engineering Cookbook (124 pages) - Mastering The Plumbing Of Data Scien
 <a href="https://github.com/andkret/Cookbook" target="_blank">github.com/andkret/Cookbook</a><br>
 <a href="https://github.com/prmohanty/AI-ML-DL-Resources/blob/master/The%20Data%20Engineering%20Cookbook.pdf" target="_blank">The_Data_Engineering_Cookbook.pdf</a>
 
+#### Data Engineering Open Source Coursework
+UC Berkeley published its spring 2021 data engineering course slides and resources. It is excellent learning material for data engineering practitioners.<br>
+<a href="https://github.com/andkret/Cookbook" target="_blank">github.com/andkret/Cookbook</a><br>
+<a href="https://github.com/prmohanty/AI-ML-DL-Resources/blob/master/The%20Data%20Engineering%20Cookbook.pdf" target="_blank">The_Data_Engineering_Cookbook.pdf</a>
+
 #### DBeaver
 Free multi-platform database tool for developers, SQL programmers, database administrators, and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.<br>
 <a href="https://dbeaver.io" target="_blank">dbeaver.io</a>
