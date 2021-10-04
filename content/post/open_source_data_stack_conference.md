@@ -23,7 +23,7 @@ Open-source software helps you to control the end-to-end flow of customer data t
 
 Through numerous real world examples, the presenters at this conference demonstrated how teams can build a data stack that reflects their needs.
 
-The conference spanned across several days and the recorded sessions are available on YouTube:<br class = "custom">
+The conference spanned across several days and the recorded sessions are available on <a href="https://www.youtube.com/results?search_query=open+source+data+stack+conference" target=_>YouTube</a>:<br class = "custom">
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/NzPgSSjuwhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
