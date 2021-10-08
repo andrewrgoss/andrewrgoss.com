@@ -445,6 +445,10 @@ This guide is intended to help those with a basic knowledge of machine learning 
 Data mining is the process of discovering predictive information from the analysis of large databases. This guide provides an example-filled introduction to data mining using Python, one of the most widely used data mining tools - from cleaning and data organization to applying machine learning algorithms.<br>
 <a href="https://www.springboard.com/blog/data-mining-python-tutorial" target="_blank">springboard.com/blog/data-mining-python-tutorial</a>
 
+#### Efficient Python Tricks and Tools for Data Scientists
+Interactive web book written by Khuyen Tran that teaches readers efficient methods of coding in Python to solve common problems in data science.<br>
+<a href="https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html" target="_blank">khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html</a>
+
 #### Foundations of Machine Learning
 This training course offered through Bloomberg covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. It is designed to make valuable machine learning skills more accessible to individuals with a strong math background, including software developers, experimental scientists, engineers, and financial professionals.<br>
 <a href="https://bloomberg.github.io/foml" target="_blank">bloomberg.github.io/foml</a>
