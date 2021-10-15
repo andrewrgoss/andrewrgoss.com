@@ -10,6 +10,8 @@ tags:
 <a href="https://www.scraperapi.com?fpr=andrewrgoss" target="_blank" style="outline:none;border:none;"><img src="https://d2gdx5nv84sdx2.cloudfront.net/uploads/ssvxh57a/marketing_asset/banner/2667/069-ScraperAPI-B-GIF-320x50-v1.gif" alt="scraperapi" border="0"/></a><br>
 <hr>
 
+<sub>Disclosure: if you purchase a paid version of Scraper API using links in this post, I may earn an affiliate commission.</sub>
+
 In the past I've <a href="https://andrewrgoss.com/projects/web_scraping_py" target=_>tried out some different web scraping techniques</a>, experimenting with different Python libraries such as <a href="https://www.crummy.com/software/BeautifulSoup" target=_>BeautifulSoup</a>, <a href="https://scrapy.org" target=_>Scrapy</a>, and <a href="https://pypi.python.org/pypi/selenium" target=_>Selenium</a>.
 
 While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it's difficult to scrape sites that are protected by anti-bots like <a href="https://www.imperva.com/products/advanced-bot-protection-management" target=_>Distil</a>, <a href="https://www.akamai.com/us/en/products/security/bot-manager.jsp" target=_>Akamai</a>, or <a href="https://www.cloudflare.com/products/bot-management" target=_>Cloudflare</a>.
@@ -33,3 +35,5 @@ Beyond this proxy solution allowing you to bypass the most complex anti-bots, if
 * `Premium Proxies → “&premium=true"`
 
 <a href="https://www.scraperapi.com?fpr=andrewrgoss" target=_>Scraper API</a> is a powerful, extremely easy-to-use service for your scraping toolbox. If the free tier does not meet your needs, this promo code - `ANDREW10` - will get you a 10% discount towards any of the paid subscription plans when scaling up for more API calls, additional concurrency, and more features.
+
+<sub>Disclosure: if you purchase a paid version of Scraper API using links in this post, I may earn an affiliate commission.</sub>

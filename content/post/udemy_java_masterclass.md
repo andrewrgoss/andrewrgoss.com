@@ -11,7 +11,7 @@ tags:
 <a href="https://www.udemy.com/java-the-complete-java-developer-course" target="_blank">COURSE LINK</a><br>
 <hr>
 
-I have completed numerous sections of this course to improve my core knowledge of Java. One of the reasons I frequently choose <a href="https://www.udemy.com" target="_blank">Udemy</a> for my learning needs is that it offers a one-time cost (as opposed to monthly recurring charges) for lifetime access to the course content.<br><br>
+I've completed numerous sections of this course to improve my core knowledge of Java. One of the reasons I frequently choose <a href="https://www.udemy.com" target="_blank">Udemy</a> for my learning needs is that it offers a one-time cost (as opposed to monthly recurring charges) for lifetime access to the course content. You can find more analysis about this course on <a href="https://coursemarks.com/course/java-programming-masterclass-for-software-developers" target=_>CourseMarks</a>.<br><br>
 
 ##### Other Learning Resources
 <a href="https://docs.oracle.com/javase/tutorial/java/index.html" target="_blank">Oracle Java™ Tutorials -- Trail: Learning the Java Language</a>
