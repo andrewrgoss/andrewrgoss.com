@@ -7,7 +7,7 @@ tags:
   - technical leadership
 ---
 <a href="/pdf/unified_architecture_data_infrastructure.pdf" target=_><img src="/img/post/unified_architecture_data_infrastructure.png" "Unified Architecture for Modern Infrastructure" width="100%"></a>
-
+<sub>*Source: <a href="https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure" target=_>Andreessen Horowitz</a></sub>
 <hr>
 <sub><i>written by Matt Bornstein, Martin Casado, and Jennifer Li</i></sub>
 
@@ -17,6 +17,4 @@ In fact, many of today’s fastest growing infrastructure startups build product
 
 And yet, despite all of this energy and momentum, we’ve found that there is still a tremendous amount of confusion around what technologies are on the leading end of this trend and how they are used in practice. In the last two years, we talked to hundreds of founders, corporate data leaders, and other experts – including interviewing 20+ practitioners on their current data stacks – in an attempt to codify emerging best practices and draw up a common vocabulary around data infrastructure. This post will begin to share the results of that work and showcase technologists pushing the industry forward.
 
-<a href="https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure" class="btn" target="_blank">Read more</a><br>
-
-<sub>*Source: <a href="https://a16z.com" target=_>Andreessen Horowitz</a></sub>
+<a href="https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure" class="btn" target="_blank">Read more</a><br class = "custom">
