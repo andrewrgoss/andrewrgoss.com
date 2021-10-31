@@ -421,6 +421,10 @@ ETL is shorthand for the extraction, transformation, and loading process used in
 <h2 class="resources"><a name="data_ops"></a>DataOps</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
 
+#### Castor
+Find, understand, and use your data assets. With Castor, your data is well documented and discoverable by everyone in your team.<br> 
+<a href="https://www.castordoc.com" target="_blank">castordoc.com</a>
+
 #### DataOps Manifesto
 Through firsthand experience working with data across organizations, tools, and industries a group of professionals have uncovered a better way to develop and deliver analytics through an emerging practice called DataOps.<br> 
 <a href="https://www.dataopsmanifesto.org/dataops-manifesto.html" target="_blank">dataopsmanifesto.org/dataops-manifesto.html</a>
