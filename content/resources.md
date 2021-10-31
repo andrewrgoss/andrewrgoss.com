@@ -433,6 +433,10 @@ Dolt is the true Git for data experience in a SQL database, providing version co
 Monte Carlo is on a mission to accelerate the world's adoption of data by minimizing data downtime. The platform brings full observability to data teams by monitoring, alerting, resolving, and preventing data quality issues, helping them achieve data reliability.<br>
 <a href="https://www.montecarlodata.com" target="_blank">www.montecarlodata.com</a>
 
+#### Soda
+Soda’s data observability platform offers data quality monitoring & a testing framework. It allows your team to detect silent issues early, insert anomaly detection, and involve team members to ensure data quality is communicated.<br>
+<a href="https://www.soda.io" target="_blank">soda.io</a>
+
 <hr>
 <h2 class="resources"><a name="data_science_ml"></a>Data Science/Machine Learning</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
 <hr>
