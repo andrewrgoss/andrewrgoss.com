@@ -6,7 +6,6 @@ tags:
   - career management
   - side projects
 ---
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Side-Project-1024x576.png" width="420"<br>
 <hr>
 
 <sub>This post originally appeared on <a href="https://simpleprogrammer.com" target=_>Simple Programmer.</a></sub><br>
