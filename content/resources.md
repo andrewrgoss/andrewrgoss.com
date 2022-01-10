@@ -288,10 +288,6 @@ Learn Python online: Python tutorials for developers of all skill levels, Python
 Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
 <a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
 
-#### Software Literacy: Programming Learning Guide
-Programmers have to know how to work within systems and networks, using different programming languages to create and adapt software that helps their employers get things done. This post offers helpful links to online tutorials and tools for learning how to code in some of the most popular programming languages.<br>
-<a href="https://www.smartadvocate.com/News/Blog/software-literacy-programming-learning-guide" target="_blank">smartadvocate.com/blog</a>
-
 #### Teach Yourself Computer Science
 If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
 <a href="https://teachyourselfcs.com" target="_blank">teachyourselfcs.com</a>
