@@ -509,6 +509,10 @@ Discover and share cool data, connect with interesting people, and work together
 Gapminder fights devastating misconceptions and promotes a fact-based worldview everyone can understand. Many of their datasets around how the world lives have been many publicly available for download.<br>
 <a href="https://www.gapminder.org/data" target="_blank">www.gapminder.org/data</a>
 
+#### Giant Bomb
+The largest video game database online, Giant Bomb features reviews, news, videos, and forums for the latest games on all major platforms.<br>
+<a href="https://www.giantbomb.com" target="_blank">www.giantbomb.com</a>
+
 #### Google Dataset Search
 Free tool for searching over 25 million publicly available datasets. The search tool includes filters to limit results based on their license (free or paid), format (csv, images, etc), and update time. The results also include descriptions of the dataset’s contents as well as author citations.<br>
 <a href="https://datasetsearch.research.google.com" target="_blank">datasetsearch.research.google.com</a>
