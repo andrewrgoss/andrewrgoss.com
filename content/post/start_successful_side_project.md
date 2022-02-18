@@ -17,11 +17,7 @@ Do you ever feel like you are confident in only <em>one</em> particular field? L
 
 <ol><li>Initial research and machine setup (packages, installments)</li><li>Managing dependencies (libraries, build tools, automations)</li><li>The whole business logic plus high test coverage</li><li>Production deployment</li></ol>
 
-… then somebody else has to do everything except the little corner of your comfort zone? I know many of us have felt this way, especially junior developers who join a huge, complex project with a codebase that has been developed for years. The lack of experience</a> you may feel is massive. And experience is a delicate problem with job offers. It feels like everybody exaggerates the number of years they<em> require</em> from candidates for a given language or framework. It's sometimes unrealistic! Take a look at this:
-
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/11/experience-min.png" width="420">
-
-Though I doubt such a job opening actually exists, one thing is for sure: If you are experienced, job offers will keep coming for you. If you are not, options are limited. And the competition is staggering.
+… then somebody else has to do everything except the little corner of your comfort zone? I know many of us have felt this way, especially junior developers who join a huge, complex project with a codebase that has been developed for years. The lack of experience</a> you may feel is massive. And experience is a delicate problem with job offers. It feels like everybody exaggerates the number of years they<em> require</em> from candidates for a given language or framework. It's sometimes unrealistic! If you are experienced though, job offers will keep coming for you. If you are not, options are limited. And the competition is staggering.
 
 Then how are all beginners supposed to gain experience?
 
@@ -49,12 +45,9 @@ First, make sure you <a href="https://www.youtube.com/watch?v=W8AJQBvLSEw" targe
 
 Next, <strong>find associated libraries and tools common to your niche</strong>. The best way to do this is to find job openings within your niche and observe what other experience they require. For example, if you want to become a Node.js developer, perhaps you will <em>also</em> need to learn Express.js and MongoDB. If you wish to work with Ruby on Rails, you'll probably need to know some SQL, too.
 
-You can find on-the-spot job openings within your niche by doing a simple search on any of these websites:<ul><li><a href="https://www.airtasker.com/jobs" target=_>Airtasker</a></li><li><a href="https://www.authenticjobs.com" target=_>Authentic Jobs</a></li><li><a href="http://www.dice.com" target=_>Dice</a></li><li><a href="https://jobs.github.com" target=_>GitHub Jobs</a></li><li><a href="https://www.indeed.com" target=_>Indeed</a></li><li><a href="https://stackoverflow.com/jobs" target=_>StackOverflow Jobs</a></li></ul>
-
 Gather a list of all the libraries, frameworks, tools, and pieces of software mentioned within the job requirements for your niche. This is a quick and reliable way to guarantee you will spend time working on something you will probably do professionally later on. Once you know the set of libraries and tools you will work with, you are ready to choose a topic for your project.
 
 <h2>Choosing an Interesting Topic</h2>
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Interesting-Topic.png" width="420">
 
 First, you need to know what your programming niche is capable of doing. For example, if you want to focus on HTML and CSS only, you won't be able to create a dynamic web application. You should focus on a static website. Or, if you are a C++ developer, you may want to stay away from web development and focus on desktop applications.
 
@@ -88,8 +81,6 @@ Starting small is a good idea for three reasons:
 <li style="font-weight: 400;"><strong>People typically underestimate when planning.</strong> If you plan to finish in a month, chances are you will be <em>almost </em>finished at the end of the second month. It's just usually how it goes with programming. Unexpected difficulties happen early and often; there are occasional bugs, configuration can be cumbersome, or sometimes code needs refactoring. Also, you need to <a href="https://www.myfirstitjob.com/beating-procrastination" target=_>cope with procrastination</a>. Keep in mind that while you're planning your project idea is usually when you're <em>the most excited</em> about it. Excitement and that &#8220;I can't wait to get started!&#8221; feeling is a common reason for underestimating.</li></ol>
 
 <h2>Complexity of the Project</h2>
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/12/Puzzles.png" width="420">
-
 Judging by most developers' experience (as well as my own), my recommendation is that you base the project on skills you already have, but leave at least as much of an &#8220;unknown&#8221; part.
 
 Starting safe in your comfort zone is important, as it sets you on the right track and builds your confidence for the challenges ahead. But trying out new concepts, researching on your own, and going through &#8220;trial and error&#8221; is where you actually learn and grow the most. If you want to get the most out of your project, the balance between these two is key.
@@ -126,8 +117,3 @@ Which employer wouldn't want to hire someone with that profile?
 
 <h2>Stick With Your Project for Future Success</h2>
 Being smart while planning your side project is the first step toward actually finishing it. Spend the time early on, do a little research up front, and get pumped about the idea. Remember: A good portfolio project may open doors for you later!
-
-<hr>
-<h4>About the Author - Alexander Petkov</h4>
-
-Alexander is the founder of <a href="https://www.myfirstitjob.com/philosophy" target=_>MyFirstITJob</a> - a company which helps junior developers find a quality job by clever marketing and 1 on 1 advice. He started programming actively 8 years ago and currently leads a team of backend engineers. After years of mentoring colleagues and teaching at university, Alexander knows why some developers get stuck in the underpaid "junior" phase while others establish their name and actually <a href="https://www.myfirstitjob.com/career-shift" target=_>get chased by companies</a>. Each material he commits online is typically supported by specific action steps readers can apply immediately. Because, as he says, "not acting today but leaving it for tomorrow is the root of all evil".
