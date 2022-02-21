@@ -15,6 +15,10 @@ title: "Resources"
 Apache Superset is a modern data exploration and visualization platform that is fast, lightweight, intuitive, and loaded with options.<br>
 <a href="https://superset.apache.org" target="_blank">superset.apache.org</a>
 
+#### Awesome dbt
+An awesome curated list of dbt resources.<br>
+<a href="https://github.com/Hiflylabs/awesome-dbt" target="_blank">github.com/Hiflylabs/awesome-dbt</a>
+
 #### Google Charts
 Google Charts is a JavaScript-based tool that lets people easily create a chart from some data and embed it in a web page. It's free and has a solid library of interactive charts and data tools available for use.<br>
 <a href="https://developers.google.com/chart" target="_blank">developers.google.com/chart</a>
