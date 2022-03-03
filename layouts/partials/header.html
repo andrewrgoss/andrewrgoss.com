@@ -5,60 +5,60 @@
 {{ $isHomepage := (eq .Permalink (print .Site.BaseURL | safeHTML)) }}
 {{ $titleBase := (print " · " .Site.Title) }}
 {{ if $isHomepage }}
-    {{ $.Scratch.Set "title" .Site.Title }}
-{{ else if eq .Title "Andrew Goss · Senior Data Engineer" }}
-    {{ $.Scratch.Set "title" (print "Andrew Goss · Senior Data Engineer") }}
+{{ $.Scratch.Set "title" .Site.Title }}
+{{ else if eq .Title "Andrew Goss · Staff Data Engineer" }}
+{{ $.Scratch.Set "title" (print "Andrew Goss · Staff Data Engineer") }}
 {{else}}
-    {{ $.Scratch.Set "title" (print .Title $titleBase) }}
+{{ $.Scratch.Set "title" (print .Title $titleBase) }}
 {{end}}
 {{ if .IsPage }}
-    {{ if .Description }}
-        {{ $.Scratch.Set "description" .Description }}
-    {{ else }}
-        {{ $.Scratch.Set "description" .Summary }}
-    {{ end }}
+{{ if .Description }}
+{{ $.Scratch.Set "description" .Description }}
+{{ else }}
+{{ $.Scratch.Set "description" .Summary }}
+{{ end }}
 {{ end }}
 
-    <head>
+<head>
 
-        <meta charset="utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="{{ $.Scratch.Get "title" }}" />
-        <meta name="twitter:title" content="{{ $.Scratch.Get "title" }}" />
-        <title>{{ $.Scratch.Get "title" }}</title>
-        
-        <meta property="og:site_name" content="{{ .Site.Title }}" />
-        <meta property="og:locale " content="{{.Site.LanguageCode}}" />
-        
-        <meta property="og:url" content="{{ .Permalink }}" />
-        <meta name="twitter:url" content="{{ .Permalink }}" />
-        <link rel="canonical" href="{{ .Permalink }}" />
-        
-        <meta name="description" content="{{ $.Scratch.Get "description" }}" />
-        <meta name="twitter:description" content="{{ $.Scratch.Get "description" }}" />
-        <meta property="og:description" content="{{ $.Scratch.Get "description" }}" />
-        
-        <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
-        <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}" />
+    <meta property="og:title" content="{{ $.Scratch.Get "title" }}" />
+    <meta name="twitter:title" content="{{ $.Scratch.Get "title" }}" />
+    <title>{{ $.Scratch.Get "title" }}</title>
+
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:locale " content="{{.Site.LanguageCode}}" />
+
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta name="twitter:url" content="{{ .Permalink }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <meta name="description" content="{{ $.Scratch.Get "description" }}" />
+    <meta name="twitter:description" content="{{ $.Scratch.Get "description" }}" />
+    <meta property="og:description" content="{{ $.Scratch.Get "description" }}" />
+
+    <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
+    <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}" />
 
     {{ if and (.IsPage) (ne .Title "About") }}
-    
-        {{ if and (eq .Section "portfolio") (isset .Params "image" ) }}
-            <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
-            <meta property="og:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
-         {{else}}   
-            <meta name="twitter:card" content="summary" />
-        {{end}}
-        
-        <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="{{ .Date.Format "Jan 2006" | safeHTML }}" />
-        <meta property="og:article:section" content="{{ if .Section }}{{ .Section }}{{ else }}{{ .Type }}{{ end }}" />
-        <meta property="og:article:author" content="{{ .Site.BaseURL }}about/" />
-        
-        <script type="application/ld+json">
-            { 
+
+    {{ if and (eq .Section "portfolio") (isset .Params "image" ) }}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
+    <meta property="og:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
+    {{else}}
+    <meta name="twitter:card" content="summary" />
+    {{end}}
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="{{ .Date.Format "Jan 2006" | safeHTML }}" />
+    <meta property="og:article:section" content="{{ if .Section }}{{ .Section }}{{ else }}{{ .Type }}{{ end }}" />
+    <meta property="og:article:author" content="{{ .Site.BaseURL }}about/" />
+
+    <script type="application/ld+json">
+            {
                 "@context": "http://schema.org",
                 "@type": "BlogPosting",
                 "headline": "{{ .Title }}",
@@ -76,58 +76,58 @@
         </script>
 
     {{ else }}
-    
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="{{ .Site.BaseURL }}avatar.jpg" />
-        <meta property="og:image" content="{{ .Site.BaseURL }}avatar.jpg" />
-        
-        {{ if .IsPage }}
-        
-            <meta property="og:type" content="profile" />
-            <meta property="og:profile:gender" content="{{ .Site.Author.gender }}" />
-            <meta property="og:profile:first_name" content="{{ .Site.Author.givenName }}" />
-            <meta property="og:profile:last_name" content="{{ .Site.Author.familyName }}" />
-            
-        {{ else }}
-        
-            <meta property="og:type" content="website" />
-            
-        {{ end }}
-    {{ end }}
- 
-        <meta name="HandheldFriendly" content="True" />
-        <meta name="MobileOptimized" content="320" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        
-        <link rel="apple-touch-icon" sizes="57x57" href="{{ .Site.BaseURL }}icons/apple-touch-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="{{ .Site.BaseURL }}icons/apple-touch-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{ .Site.BaseURL }}icons/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="{{ .Site.BaseURL }}icons/apple-touch-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{ .Site.BaseURL }}icons/apple-touch-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="{{ .Site.BaseURL }}icons/apple-touch-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="{{ .Site.BaseURL }}icons/apple-touch-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="{{ .Site.BaseURL }}icons/apple-touch-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}icons/apple-touch-icon-180x180.png">
-        <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-32x32.png" sizes="32x32">
-        <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-194x194.png" sizes="194x194">
-        <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-96x96.png" sizes="96x96">
-        <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/android-chrome-192x192.png" sizes="192x192">
-        <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-16x16.png" sizes="16x16">
-        <link rel="manifest" href="{{ .Site.BaseURL }}icons/manifest.json">
-        <link rel="shortcut icon" href="{{ .Site.BaseURL }}icons/favicon.ico">
-        <meta name="apple-mobile-web-app-title" content="andrewrgoss.com">
-        <meta name="application-name" content="andrewrgoss.com">
-        <meta name="msapplication-TileColor" content="#2c3e50">
-        <meta name="msapplication-TileImage" content="{{ .Site.BaseURL }}icons/mstile-144x144.png">
-        <meta name="msapplication-config" content="{{ .Site.BaseURL }}icons/browserconfig.xml">
-        <meta name="theme-color" content="#2c3e50">
 
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}avatar.jpg" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}avatar.jpg" />
+
+    {{ if .IsPage }}
+
+    <meta property="og:type" content="profile" />
+    <meta property="og:profile:gender" content="{{ .Site.Author.gender }}" />
+    <meta property="og:profile:first_name" content="{{ .Site.Author.givenName }}" />
+    <meta property="og:profile:last_name" content="{{ .Site.Author.familyName }}" />
+
+    {{ else }}
+
+    <meta property="og:type" content="website" />
+
+    {{ end }}
+    {{ end }}
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ .Site.BaseURL }}icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ .Site.BaseURL }}icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ .Site.BaseURL }}icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ .Site.BaseURL }}icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ .Site.BaseURL }}icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ .Site.BaseURL }}icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ .Site.BaseURL }}icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ .Site.BaseURL }}icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}icons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="{{ .Site.BaseURL }}icons/manifest.json">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}icons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="andrewrgoss.com">
+    <meta name="application-name" content="andrewrgoss.com">
+    <meta name="msapplication-TileColor" content="#2c3e50">
+    <meta name="msapplication-TileImage" content="{{ .Site.BaseURL }}icons/mstile-144x144.png">
+    <meta name="msapplication-config" content="{{ .Site.BaseURL }}icons/browserconfig.xml">
+    <meta name="theme-color" content="#2c3e50">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
     {{ partial "criticalpath.html" . }}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58296426-1"></script>
@@ -139,14 +139,14 @@
     gtag('config', 'UA-58296426-1');
 </script>
 
-    </head>
-    <body>
-        <header id="header">
-            <a id="logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}avatar.jpg" alt="{{ .Site.Title }}" /></a>
-            <h1><a href="{{.Site.BaseURL}}">Andrew Goss</a></h1>
-			<span>Senior Data Engineer</span><br><br>
-            {{ partial "follow.html" . }}
-            {{ partial "navigation.html" . }}
-            {{ partial "search.html" . }}
-            
-        </header>
+</head>
+<body>
+<header id="header">
+    <a id="logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}avatar.jpg" alt="{{ .Site.Title }}" /></a>
+    <h1><a href="{{.Site.BaseURL}}">Andrew Goss</a></h1>
+    <span>Staff Data Engineer</span><br><br>
+    {{ partial "follow.html" . }}
+    {{ partial "navigation.html" . }}
+    {{ partial "search.html" . }}
+
+</header>
