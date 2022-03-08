@@ -6,7 +6,7 @@ description = "Andrew Goss Background"
 
 <hr>
 
-I'm currently a staff data engineer at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
+I'm currently a staff data engineer and team lead at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
 * Interfolio offers consumer/enterprise faculty information SaaS products in serving the global higher education market.
 * I’m building a modern business intelligence stack from the ground up in a way that allows both internal and external end users to answer important questions through supported self-service analytics. Architecture, documentation, and performance are all crucial to democratizing data that is easily explorable.

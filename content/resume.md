@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Staff data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I've worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and systems.
+Staff data engineer and team lead working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I've worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and systems.
 
 <hr>
 ### <a name="core_competencies"></a>Core Competencies
@@ -20,7 +20,7 @@ Staff data engineer working to advance data-driven cultures by integrating dispa
 
 <sub>Data Engineering --- Cloud Computing --- ELT Development --- Business Analytics --- Data Warehousing</sub><br>
 
-<b>Other specialties:</b> Database architecture, data modeling, big data infrastructure, data streaming, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team relationships, scrum methodology, requirements gathering, technical documentation
+<b>Other specialties:</b> Database architecture, data modeling, big data infrastructure, data streaming, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team collaboration, scrum methodology, requirements gathering, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
@@ -58,7 +58,7 @@ Staff data engineer working to advance data-driven cultures by integrating dispa
 ### <a name="work_experience"></a>Work Experience
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - present<br>
-Data Engineer >> Senior Data Engineer >> Staff Data Engineer
+Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead
 <p><sub>Interfolio offers consumer/enterprise faculty information SaaS products in serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows both internal and external end users to answer important questions through supported self-service analytics. Architecture, documentation, and performance are all crucial to democratizing data that is easily explorable.</sub></p>
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
