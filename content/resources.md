@@ -28,7 +28,7 @@ Free product lets you connect to all your marketing data and turn that data into
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
 
 #### HyperQuery
-Hyperquery is a collaborative workspace for analytics. Yuo can write SQL queries and consolidate your data context, automatically mapped from your favorite data tools such as Snowflake, Looker, Fivetran, Segment, and dbt. With Hyperquery, you can keep your documentation and business metadata in one place, so you can do your best work in analytics.<br>
+Hyperquery is a collaborative workspace for analytics. You can write SQL queries and consolidate your data context, automatically mapped from your favorite data tools such as Snowflake, Looker, Fivetran, Segment, and dbt. With Hyperquery, you can keep your documentation and business metadata in one place, so you can do your best work in analytics.<br>
 <a href="https://dataframe.ai" target="_blank">dataframe.ai</a>
 
 #### VisiData
@@ -173,7 +173,7 @@ For developers, this site offers public technical tests and practice interview q
 <a href="https://www.testdome.com" target="_blank">testdome.com</a>
 
 #### Things You Need to Know in a Programming Interview
-This article cover general tips on how you, the interviewee, can impress your interviewer during a coding session and land your dream job.<br>
+This article covers general tips on how you, the interviewee, can impress your interviewer during a coding session and land your dream job.<br>
 <a href="https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b" target="_blank">medium.freecodecamp.org/most-important-things-to-know-programming-interview</a>
 
 <hr>
