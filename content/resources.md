@@ -294,7 +294,7 @@ Learn Python online: Python tutorials for developers of all skill levels, Python
 
 #### Rosetta Code Programming Tasks
 Offers over 800 problems that can be solved through programming in different languages. Great for practice.<br>
-<a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org/wiki/Category:Programming_Tasks</a>
+<a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org</a>
 
 #### Teach Yourself Computer Science
 If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
