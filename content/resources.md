@@ -459,7 +459,7 @@ Data mining is the process of discovering predictive information from the analys
 
 #### Efficient Python Tricks and Tools for Data Scientists
 Interactive web book written by Khuyen Tran that teaches readers efficient methods of coding in Python to solve common problems in data science.<br>
-<a href="https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html" target="_blank">khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html</a>
+<a href="https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html" target="_blank">khuyentran1401.github.io</a>
 
 #### Foundations of Machine Learning
 This training course offered through Bloomberg covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep understanding of the concepts, techniques and mathematical frameworks used by experts in machine learning. It is designed to make valuable machine learning skills more accessible to individuals with a strong math background, including software developers, experimental scientists, engineers, and financial professionals.<br>
