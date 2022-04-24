@@ -282,7 +282,7 @@ A single cheatsheet for all basic Python functions.<br>
 
 #### Python Datetime Conversion Cheat Sheet
 Python cheat sheet for converting values using the datetime module.<br>
-<a href="/pdf/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">python_datetime_conversion_cheat_sheet.pdf</a>
+<a href="/pdf/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">py_dt_conversion_cheat_sheet.pdf</a>
 
 #### Python Tutor
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
@@ -555,7 +555,7 @@ While GitHub offers free static website hosting and custom domain support, it is
 
 #### Lighthouse
 Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.<br>
-<a href="https://developers.google.com/web/tools/lighthouse" target="_blank">developers.google.com/web/tools/lighthouse</a>
+<a href="https://developers.google.com/web/tools/lighthouse" target="_blank">developers.google.com/lighthouse</a>
 
 #### Mobile Website Speed Testing Tool
 Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.<br>
