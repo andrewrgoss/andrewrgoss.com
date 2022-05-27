@@ -59,7 +59,7 @@ Staff data engineer and team lead building performant pipelines and data models 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - present<br>
 Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead
-<p><sub>Interfolio offers faculty information SaaS products in serving the global higher education market. I’m building a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.</sub></p>
+<p><sub>Interfolio offers faculty information SaaS products in serving the global higher education market. I'm building a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.</sub></p>
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>
 **<a href="http://www.digitas.com/us" target="_blank">Digitas</a>** | Oct 2015 - Sep 2018<br>
