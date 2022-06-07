@@ -14,7 +14,7 @@ I'm currently a staff data engineer and team lead at <a href="https://www.interf
 ![Modern Data Pipelines](/img/modern_data_pipelines.png "Modern Data Pipelines")
 <sub><i>Image by Louise de Leyritz</i></sub>
 
-Over the course of my career, I’ve gained well-rounded experience as both a developer and a technical consultant in working with people, process, and technology. I've had the opportunity to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
+Over the course of my career, I’ve gained well-rounded experience as a data engineer in working with people, process, and technology. I've had the opportunity to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies and engineering well-designed, secure data ecosystems.
 
 With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development that I write about in this blog. I've found it not only to be a nice way to document my own learning, but also a great way to share knowledge with others. I've also come across many useful <a href="/resources">resources</a> and emerging ideas that I <a href="https://twitter.com/andrewrgoss" target="_blank">tweet</a> about regularly.
 

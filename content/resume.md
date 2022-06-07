@@ -8,7 +8,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Staff data engineer and team lead building performant pipelines and data models that power analytic platforms for smarter decision-making. I've worked as both a developer and a technical consultant to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while engineering carefully planned, secure data ecosystems.
+Staff data engineer and team lead building performant pipelines and data models that power analytic platforms for smarter decision-making. As a data engineer I've worked to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while building carefully planned, secure data ecosystems.
 
 <hr>
 ### <a name="core_competencies"></a>Core Competencies
