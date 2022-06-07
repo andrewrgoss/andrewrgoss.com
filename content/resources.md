@@ -543,7 +543,7 @@ Enter the URL of a website and quickly find a list of the technologies used to s
 
 #### Experte Bulk Page Speed Test
 This tool allows you to test hundreds of URLs automatically. All you have to do is enter a URL and the tool crawls the website and determines the page speed scores for each subpage.<br>
-<a href="http://builtwith.com" target="_blank">builtwith.com</a>
+<a href="https://www.experte.com/pagespeed" target="_blank">experte.com/pagespeed</a>
 
 #### Font Awesome
 Font Awesome makes it easy to add vector icons and social logos to your website.<br>
