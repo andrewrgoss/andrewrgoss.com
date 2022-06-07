@@ -389,10 +389,6 @@ With the explosion of “Big Data” over the last few years, the need for peopl
 In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
 <a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
 
-#### SQLFluff: The SQL Linter for Humans
-SQLFluff is a dialect-flexible and configurable SQL linter. Designed with ELT applications in mind, SQLFluff also works with Jinja templating and dbt. SQLFluff will auto-fix most linting errors, allowing you to focus your time on what matters.<br>
-<a href="https://github.com/sqlfluff/sqlfluff" target="_blank">github.com/sqlfluff</a>
-
 #### SQL Query Optimization Techniques
 Tips for writing faster and more efficient SQL queries<br>
 <a href="/pdf/sql_query_optimization_techniques.pdf" "SQL Query Optimization Techniques" target="_">sql_query_optimization_techniques.pdf</a>
@@ -543,6 +539,10 @@ This portal reveals everything Google knows about you - every search you've made
 
 #### BuiltWith
 Enter the URL of a website and quickly find a list of the technologies used to support that site including email services, nameserver providers, JavaScript libraries, widgets, server information, and more.<br>
+<a href="http://builtwith.com" target="_blank">builtwith.com</a>
+
+#### Experte Bulk Page Speed Test
+This tool allows you to test hundreds of URLs automatically. All you have to do is enter a URL and the tool crawls the website and determines the page speed scores for each subpage.<br>
 <a href="http://builtwith.com" target="_blank">builtwith.com</a>
 
 #### Font Awesome
