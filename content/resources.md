@@ -53,7 +53,7 @@ GraphQL is a query language for your API, and a server-side runtime for executin
 <a href="https://graphql.org/learn" target="_blank">graphql.org/learn</a>
 
 #### How to design a RESTful API architecture from a human-language spec
-A three-post series that teaches RESTful API design to solve users’ needs with simplicity, reliability, and performance.<br>
+A three-post series that teaches RESTful API design to solve users' needs with simplicity, reliability, and performance.<br>
 <a href="https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec" target="_blank">oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec</a>
 
 #### OpenWeatherMap
@@ -101,7 +101,7 @@ Frequently asked interview questions, by category. Each question is accompanied 
 <a href="https://data-flair.training/blogs/category/interview-questions" target="_blank">data-flair.training/interview-questions</a>
 
 #### Developer Roadmap
-This repository contains a set of charts demonstrating different paths to take and technologies to adopt in order to become a front-end, back-end, or dev-ops engineer. While it seems a bit overwhelming in the beginning, it is a useful guide for what’s possible and needed in this fast-changing industry. The repo gets updated every year to reflect changes in the ecosystem.<br> 
+This repository contains a set of charts demonstrating different paths to take and technologies to adopt in order to become a front-end, back-end, or dev-ops engineer. While it seems a bit overwhelming in the beginning, it is a useful guide for what's possible and needed in this fast-changing industry. The repo gets updated every year to reflect changes in the ecosystem.<br> 
 <a href="https://roadmap.sh" target="_blank">roadmap.sh</a>
 
 #### GeeksforGeeks
@@ -125,7 +125,7 @@ Join over 2 million developers in solving code challenges on HackerRank, one of 
 <a href="https://www.hackerrank.com" target="_blank">www.hackerrank.com</a>
 
 #### Hackterms
-At some point in your professional coding career, you’re going to feel stupid when you forgot some simple term. Hackterms is a crowdsourced dictionary of coding terms and serves as a sort of wiki for coding language. Programming is full of jargon and self-inflicted nomenclature wounds. Hackterms helps by returning plain-speak explanations for these.<br>
+At some point in your professional coding career, you're going to feel stupid when you forgot some simple term. Hackterms is a crowdsourced dictionary of coding terms and serves as a sort of wiki for coding language. Programming is full of jargon and self-inflicted nomenclature wounds. Hackterms helps by returning plain-speak explanations for these.<br>
 <a href="https://www.hackterms.com" target="_blank">www.hackterms.com</a>
 
 #### IBM Certified Data Engineer - Big Data
@@ -145,7 +145,7 @@ Interviewing.io is a platform where people can practice technical interviewing a
 <a href="https://interviewing.io" target="_blank">interviewing.io</a>
 
 #### Learn To Code
-Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it’s difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
+Programming and computer science are becoming more popular than ever. As a result, there are an increasingly huge number of resources and tutorials being produced for beginners who want to learn to code, ranging from books to online tutorials to interactive websites to massive open online courses (MOOCS). This can be overwhelming for beginners – there are almost too many resources available, and it's difficult to figure out where to start. This page offers a curated list of resources for both new developers and developers looking to advance their skills and learn a new language/framework.<br>
 <a href="http://ashleymcnamara.github.io/learn_to_code" target="_blank">ashleymcnamara.github.io/learn_to_code</a>
 
 #### LeetCode
@@ -196,7 +196,7 @@ AWS (Amazon Web Service) is a cloud computing platform that enables users to acc
 A curated list of delightful VS Code packages and resources.<br> 
 <a href="https://viatsko.github.io/awesome-vscode" target="_blank">viatsko.github.io/awesome-vscode</a>
 
-#### Beginner’s Resources to Learn Programming Languages
+#### Beginner's Resources to Learn Programming Languages
 This blog post details some important programming languages and offers numerous links for learning more about each.<br> 
 <a href="https://blog.vodien.com/beginners-resources-to-learn-programming-languages" target="_blank">blog.vodien.com/beginners-resources-to-learn-programming-languages</a>
 
@@ -297,7 +297,7 @@ Offers over 800 problems that can be solved through programming in different lan
 <a href="http://rosettacode.org/wiki/Category:Programming_Tasks" target="_blank">rosettacode.org</a>
 
 #### Teach Yourself Computer Science
-If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
+If you're a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. This guide offers the nine subjects you should learn with the best book or video lecture series for each subject. Ideally this list can be revisited throughout your career.<br>
 <a href="https://teachyourselfcs.com" target="_blank">teachyourselfcs.com</a>
 
 #### Topcoder
@@ -328,11 +328,15 @@ This actively-maintained GitHub repository details the never-ending journey of l
 A curated list of data engineering tools for software developers.<br>
 <a href="https://github.com/igorbarinov/awesome-data-engineering" target="_blank">github.com/igorbarinov/awesome-data-engineering</a>
 
+#### Awesome Pipeline
+A curated list of awesome pipeline toolkits.<br>
+<a href="https://github.com/pditommaso/awesome-pipeline#pipeline-frameworks--libraries" target="_blank">github.com/pditommaso/awesome-pipeline</a>
+
 #### Beginner's Guide to Big Data Terminology
 Walkthrough on some of the common lingo of big data, such as DaaS and Neural Networking.<br>
 <a href="http://dataconomy.com/a-beginners-guide-to-big-data-terminology" target="_blank">dataconomy.com</a>
 
-#### Complete Data Engineer’s Vocabulary
+#### Complete Data Engineer's Vocabulary
 Comprehensive A-Z list of different data engineering concepts and technologies with brief summaries and embedded links to learn more information.<br>
 <a href="https://towardsdatascience.com/complete-data-engineers-vocabulary-87967e374fad" target="_blank">towardsdatascience.com/complete-data-engineers-vocabulary</a>
 
@@ -358,7 +362,7 @@ Free multi-platform database tool for developers, SQL programmers, database admi
 <a href="https://dbeaver.io" target="_blank">dbeaver.io</a>
 
 #### How to Become a Data Engineer
-This article outlines helpful considerations if you’re interested in pursuing a career as a data engineer such as required skills, typical responsibilities, and career outlook.<br>
+This article outlines helpful considerations if you're interested in pursuing a career as a data engineer such as required skills, typical responsibilities, and career outlook.<br>
 <a href="https://www.mastersindatascience.org/careers/data-engineer" target="_blank">mastersindatascience.org/careers/data-engineer</a>
 
 #### Introduction to Apache Airflow
@@ -386,7 +390,7 @@ With the explosion of “Big Data” over the last few years, the need for peopl
 <a href="https://blog.treasuredata.com/blog/2016/03/15/self-study-list-for-data-engineers-and-aspiring-data-architects" target="_blank">blog.treasuredata.com</a>
 
 #### SQL Cheat Sheet
-In this guide, you’ll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
+In this guide, you'll find a useful cheat sheet that documents some of the more commonly used elements of SQL, and even a few of the less common.<br>
 <a href="https://websitesetup.org/sql-cheat-sheet" target="_blank">websitesetup.org/sql-cheat-sheet</a>
 
 #### SQL Query Optimization Techniques
@@ -402,7 +406,7 @@ SqlDBM offers you an easy, convenient way to design your database absolutely any
 <a href="https://sqldbm.com" target="_blank">sqldbm.com</a>
 
 #### Stream Processing 101: From SQL to Streaming SQL in 10 Minutes
-We have entered an era where competitive advantage comes from analyzing, understanding, and responding to an organization’s data. When doing this, time is of the essence, and speed will decide the winners and losers. This blog post introduces technologies we can use for stream processing. <br>
+We have entered an era where competitive advantage comes from analyzing, understanding, and responding to an organization's data. When doing this, time is of the essence, and speed will decide the winners and losers. This blog post introduces technologies we can use for stream processing. <br>
 <a href="https://wso2.com/library/articles/2018/02/stream-processing-101-from-sql-to-streaming-sql-in-ten-minutes" target="_blank">wso2.com</a>
 
 #### Three Questions to Help You Prepare for a Data Engineering Interview
@@ -446,7 +450,7 @@ Monte Carlo is on a mission to accelerate the world's adoption of data by minimi
 <a href="https://www.montecarlodata.com" target="_blank">www.montecarlodata.com</a>
 
 #### Soda
-Soda’s data observability platform offers data quality monitoring & a testing framework. It allows your team to detect silent issues early, insert anomaly detection, and involve team members to ensure data quality is communicated.<br>
+Soda's data observability platform offers data quality monitoring & a testing framework. It allows your team to detect silent issues early, insert anomaly detection, and involve team members to ensure data quality is communicated.<br>
 <a href="https://www.soda.io" target="_blank">soda.io</a>
 
 <hr>
@@ -526,7 +530,7 @@ The largest video game database online, Giant Bomb features reviews, news, video
 <a href="https://www.giantbomb.com" target="_blank">www.giantbomb.com</a>
 
 #### Google Dataset Search
-Free tool for searching over 25 million publicly available datasets. The search tool includes filters to limit results based on their license (free or paid), format (csv, images, etc), and update time. The results also include descriptions of the dataset’s contents as well as author citations.<br>
+Free tool for searching over 25 million publicly available datasets. The search tool includes filters to limit results based on their license (free or paid), format (csv, images, etc), and update time. The results also include descriptions of the dataset's contents as well as author citations.<br>
 <a href="https://datasetsearch.research.google.com" target="_blank">datasetsearch.research.google.com</a>
 
 #### Google's My Activity Page
