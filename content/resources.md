@@ -276,13 +276,9 @@ Project Euler is a series of challenging mathematical/computer programming probl
 Python Challenge is a game in which each level can be solved by a bit of (Python) programming. It's a good way to practice through solving riddles.<br>
 <a href="http://www.pythonchallenge.com" target="_blank">pythonchallenge.com</a>
 
-#### Python Cheat Sheet
-A single cheatsheet for all basic Python functions.<br>
-<a href="/img/python_cheat_sheet.png" "Python Cheat Sheet" target="_">python_cheat_sheet.png</a>
-
-#### Python Datetime Conversion Cheat Sheet
-Python cheat sheet for converting values using the datetime module.<br>
-<a href="/pdf/python_datetime_conversion_cheat_sheet.pdf" "Python Datetime Conversion Cheat Sheet" target="_">py_dt_conversion_cheat_sheet.pdf</a>
+#### Python Cheat Sheets
+A collection of popular Python cheat sheets.<br>
+<a href="https://blog.finxter.com/python-cheat-sheets" "Python Cheat Sheets" target="_">blog.finxter.com/python-cheat-sheets</a>
 
 #### Python Tutor
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
