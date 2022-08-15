@@ -96,13 +96,13 @@ Percent of World: ~12.82%
 
 ## US Stats
 
-States Visited: 35<br>
-Percent of US: 70%
+States Visited: 36<br>
+Percent of US: 72%
 
 <div id="us_div" style="max-width: 90%;"></div>
 
 <input type="checkbox" onclick="return false">&ensp;Alabama&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Alaska&ensp;&ensp;
+<input type="checkbox" onclick="return false" checked="checked">&ensp;Alaska&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Arizona&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Arkansas&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;California&ensp;&ensp;
@@ -215,6 +215,7 @@ Percent of US: 70%
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
         ['State'],
+    ['US-AK'],
     ['US-AZ'],
     ['US-CA'],
     ['US-CO'],
