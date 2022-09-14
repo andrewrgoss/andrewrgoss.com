@@ -100,6 +100,10 @@ At a time where technology is outpacing the ability of many universities to upda
 Frequently asked interview questions, by category. Each question is accompanied by answers shared by industry experts.<br> 
 <a href="https://data-flair.training/blogs/category/interview-questions" target="_blank">data-flair.training/interview-questions</a>
 
+#### Data Glossary by Airbyte
+A single place for all data knowledge. Instead of aligning all glossary terms in a single level, this site utilizes a digital garden approach that lets you go inwards. You can learn about each data term and go deeper into each of its connections. The glossary will show you each link that is related via an interactive visual graph that depicts all backlinks.
+<a href="https://glossary.airbyte.com" target="_blank">glossary.airbyte.com</a>
+
 #### Developer Roadmap
 This repository contains a set of charts demonstrating different paths to take and technologies to adopt in order to become a front-end, back-end, or dev-ops engineer. While it seems a bit overwhelming in the beginning, it is a useful guide for what's possible and needed in this fast-changing industry. The repo gets updated every year to reflect changes in the ecosystem.<br> 
 <a href="https://roadmap.sh" target="_blank">roadmap.sh</a>
