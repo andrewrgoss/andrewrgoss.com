@@ -2,14 +2,15 @@
 title = "About"
 description = "Andrew Goss Background"
 +++
-> <b>TL;DR</b> -- Staff data engineer building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
+> <b>TL;DR</b> -- Data engineering manager building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
 
 <hr>
 
-I'm currently a staff data engineer and team lead at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
+I'm currently a data engineering manager at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
 
 * Interfolio offers faculty information SaaS products in serving the global higher education market.
-* I’m building a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.
+* I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.
+* Built a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.
 
 ![Modern Data Pipelines](/img/modern_data_pipelines.png "Modern Data Pipelines")
 <sub><i>Image by Louise de Leyritz</i></sub>
