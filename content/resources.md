@@ -288,6 +288,10 @@ A collection of popular Python cheat sheets.<br>
 This is a free tool that helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of source code. With it, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code in your web browser and visualize what the computer is doing step-by-step as it runs your code.<br>
 <a href="http://pythontutor.com" target="_blank">pythontutor.com</a>
 
+#### Python Tutorial Notebook
+Comprehensive Python tutorial notebook 📒👨‍💻 to get an in-depth understanding of Python coding.<br>
+<a href="/pdf/comprehensive_python_tutorial_notebook.pdf" "Comprehensive Python Tutorial Notebook" target="_">comprehensive_python_tutorial_notebook.pdf</a>
+
 #### Real Python: Python Tutorials
 Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.<br>
 <a href="https://realpython.com" target="_blank">realpython.com</a>
