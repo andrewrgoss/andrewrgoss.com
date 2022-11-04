@@ -228,6 +228,10 @@ Offers programming problems and lessons for challenging yourself to get to becom
 Great collection of resources for exploring different careers in tech.<br>
 <a href="http://www.computerscience.org" target="_blank">computerscience.org</a>
 
+#### Conventional Commits
+A specification for adding human and machine readable meaning to commit messages.<br>
+<a href="https://www.conventionalcommits.org/en/v1.0.0" target="_blank">conventionalcommits.org</a>
+
 #### CS Algorithm Notes
 Set of CS lecture notes, which you can use to teach yourself algorithms.<br>
 <a href="http://web.stanford.edu/class/archive/cs/cs161/cs161.1168" target="_blank">web.stanford.edu/class/archive/cs/cs161</a>
