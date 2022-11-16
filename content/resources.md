@@ -252,6 +252,10 @@ This post outlines a development model for git branching strategy and release ma
 Handy visual reference for commonly used git version control commands.<br>
 <a href="https://jan-krueger.net/git-cheat-sheet-extended-edition" target="_blank">jan-krueger.net/git-cheat-sheet-extended-edition</a>
 
+#### GitHub Repository Structure Best Practices
+Best practices for organizing repositories for better team contribution and more elegant project structure.<br>
+<a href="https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405" target="_blank">medium.com/github-repository-structure-best-practices</a>
+
 #### Gitignore: A Collection of .gitignore Templates
 This repository is exactly what the name suggests: a collection of useful .gitignore templates. For every new project you set up as a GitHub repository, it becomes mandatory to have a .gitignore file to filter what gets uploaded. The repo contains templates for almost any language or framework.<br> 
 <a href="https://github.com/github/gitignore" target="_blank">github.com/github/gitignore</a>
