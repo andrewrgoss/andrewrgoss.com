@@ -573,6 +573,10 @@ An interactive viewer to see and test how digital products respond to material d
 Step-by-step tutorial to getting started with building a website hosted on Github Pages.<br>
 <a href="http://readwrite.com/2013/11/27/github-pages-explained" target="_blank">readwrite.com/github-pages</a>
 
+#### HandleFinder
+HandleFinder is a powerful tool that can be used to find usernames across many social networks. This project is a wrapper around the Sherlock Project.<br>
+<a href="https://www.handlefinder.com" target="_blank">www.handlefinder.com</a>
+
 #### How to Host Your Static Site with HTTPS on GitHub Pages and CloudFlare
 While GitHub offers free static website hosting and custom domain support, it is currently not possible to configure HTTPS for custom domains directly through GitHub Pages. This is where CloudFlare comes in.<br>
 <a href="https://developer.ubuntu.com/en/blog/2016/02/17/how-host-your-static-site-https-github-pages-and-cloudflare" target="_blank">developer.ubuntu.com/static-site-https-github-pages-and-cloudflare/</a>
