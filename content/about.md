@@ -6,9 +6,9 @@ description = "Andrew Goss Background"
 
 <hr>
 
-I'm currently a data engineering manager at <a href="https://www.interfolio.com" target="_blank">Interfolio</a>.
+I'm currently a data engineering manager at <a href="https://www.elsevier.com" target="_blank">Elsevier</a>.
 
-* Interfolio offers faculty information SaaS products in serving the global higher education market.
+* Elsevier offers faculty information SaaS products in serving the global higher education market.
 * I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.
 * Built a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.
 
