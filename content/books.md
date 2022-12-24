@@ -5,11 +5,31 @@ title: "Books"
 
 <section class="post">
 	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/55445638-data-teams" target="_blank">Data Teams: A Unified Management Model for Successful Data-Focused Teams</a>
+		<span class="separator"> &middot; </span>
+		<author>by Jesse Anderson</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2021-06-23T00:00:00Z">IN PROGRESS</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
+		<a href="https://www.goodreads.com/book/show/59364143-the-man-who-broke-capitalism" target="_blank">The Man Who Broke Capitalism</a>
+		<span class="separator"> &middot; </span>
+		<author>by David Gelles</author>
+		<span class="separator"> &middot; </span>
+		<time datetime="2022-12-11T00:00:00Z">Dec 2022</time>
+	</h3>
+</section>
+
+<section class="post">
+	<h3 class="book">
 		<a href="https://www.goodreads.com/book/show/17332183-countdown" target="_blank">Countdown: Our Last, Best Hope for a Future on Earth?</a>
 		<span class="separator"> &middot; </span>
 		<author>by Alan Weisman</author>
 		<span class="separator"> &middot; </span>
-		<time datetime="2021-06-23T00:00:00Z">IN PROGRESS</time>
+		<time datetime="2021-02-19T00:00:00Z">Feb 2022</time>
 	</h3>
 </section>
 
