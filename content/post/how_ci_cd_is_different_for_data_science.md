@@ -1,6 +1,6 @@
 ---
 author: "Bash Sarmiento"
-date: 2023-01-10
+date: 2023-01-25
 title: How CI/CD Is Different for Data Science
 tags:
   - dataops
