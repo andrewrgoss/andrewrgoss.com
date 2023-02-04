@@ -1,6 +1,6 @@
 baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
-title = "Andrew Goss · Data Engineering Manager"
+title = "Andrew Goss · Data Engineering & Analytics"
 paginate = 7
 theme = "crisp"
 pluralizelisttitles = false

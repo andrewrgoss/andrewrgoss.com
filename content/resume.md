@@ -58,12 +58,12 @@ Data engineering manager building performant pipelines and data models that powe
 ### <a name="work_experience"></a>Work Experience
 <a href="https://www.elsevier.com" target="_blank"><img src="/img/elsevier_logo.png"></a><br>
 **<a href="https://www.elsevier.com" target="_blank">Elsevier</a>** | Dec 2022 - present<br>
-Data Engineering Manager
+Manager, Data Engineering & Analytics
 <p><sub>Hard work, innovation, and commitment to customer success by our team at Interfolio led to our acquisition by Elsevier. Together, we're excited to expand the products, services, and efficiencies we offer to our customers. Telling stories through data is a key facet of our value proposition. I'm managing a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</sub></p>
 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - Dec 2022<br>
-Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead >> Data Engineering Manager
+Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead >> Manager, Data Engineering & Analytics
 <p><sub>Built a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.</sub></p>
 
 <a href="http://www.digitas.com/us" target="_blank"><img src="/img/digitas_logo.png"></a><br>

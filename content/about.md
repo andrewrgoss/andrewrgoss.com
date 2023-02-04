@@ -6,7 +6,7 @@ description = "Andrew Goss Background"
 
 <hr>
 
-I'm currently a data engineering manager at <a href="https://www.elsevier.com" target="_blank">Elsevier</a>.
+I'm currently a data engineering & analytics manager at <a href="https://www.elsevier.com" target="_blank">Elsevier</a>.
 
 * Elsevier acquired <a href="https://www.interfolio.com" target=_>Interfolio</a> in 2022. Jointly, we offer faculty information SaaS products in serving the global higher education market.
 * I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.
