@@ -3,6 +3,9 @@ author: "Andrew Goss"
 title: "Books"
 ---
 
+## <a href="https://www.goodreads.com/user/show/162392660-andrew-goss" target=_>Goodreads Account</a>
+<hr><br class = "custom">
+
 <section class="post">
 	<h3 class="book">
 		<a href="https://www.goodreads.com/book/show/55445638-data-teams" target="_blank">Data Teams: A Unified Management Model for Successful Data-Focused Teams</a>
@@ -246,9 +249,7 @@ title: "Books"
 	</h3>
 </section>
 
-#### Reading Queue
-
-* <a href="https://www.oreilly.com/library/view/97-things-every/9781492062400" target="_blank">97 Things Every Data Engineer Should Know</a><span class="separator"> &middot; </span> <i>by Tobias Macey</i>
+### Reading Queue
 
 * <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670" target="_blank">Code Complete</a><span class="separator"> &middot; </span> <i>by Steve McConnell</i>
 
