@@ -337,7 +337,7 @@ This actively-maintained GitHub repository details the never-ending journey of l
 <a href="https://github.com/abhishek-ch/around-dataengineering" target="_blank">github.com/abhishek-ch/around-dataengineering</a>
 
 #### AutoRegex
-Conver plain english to RegEx with Natural Language Processing.<br>
+Convert plain english to RegEx with Natural Language Processing.<br>
 <a href="https://www.autoregex.xyz" target=_>autoregex.xyz</a>
 
 #### Awesome Data Engineering
