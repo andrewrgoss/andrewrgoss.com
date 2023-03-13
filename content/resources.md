@@ -336,6 +336,10 @@ Introduced by Airbnb, Airflow is a platform to schedule and monitor data pipelin
 This actively-maintained GitHub repository details the never-ending journey of learning around data engineering and machine learning.<br>
 <a href="https://github.com/abhishek-ch/around-dataengineering" target="_blank">github.com/abhishek-ch/around-dataengineering</a>
 
+#### AutoRegex
+Conver plain english to RegEx with Natural Language Processing.<br>
+<a href="https://www.autoregex.xyz" target=_>autoregex.xyz</a>
+
 #### Awesome Data Engineering
 A curated list of data engineering tools for software developers.<br>
 <a href="https://github.com/igorbarinov/awesome-data-engineering" target="_blank">github.com/igorbarinov/awesome-data-engineering</a>
