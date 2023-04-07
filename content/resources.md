@@ -425,6 +425,10 @@ SqlDBM offers you an easy, convenient way to design your database absolutely any
 We have entered an era where competitive advantage comes from analyzing, understanding, and responding to an organization's data. When doing this, time is of the essence, and speed will decide the winners and losers. This blog post introduces technologies we can use for stream processing. <br>
 <a href="https://wso2.com/library/articles/2018/02/stream-processing-101-from-sql-to-streaming-sql-in-ten-minutes" target="_blank">wso2.com</a>
 
+#### TableConvert
+This converter is used to convert various flat file data formats into markdown tables or SQL insert statements.<br>
+<a href="https://tableconvert.com" target="_blank">tableconvert.com</a>
+
 #### Three Questions to Help You Prepare for a Data Engineering Interview
 Data engineering requires a combination of knowledge, from data warehousing to programming, in order to ensure the data systems are designed well and are as automated as possible. The question is: How do you prepare for an interview for a data engineering position?<br>
 <a href="https://medium.com/better-programming/3-questions-you-should-be-able-to-answer-in-a-data-engineering-interview-8dc845785be6" target="_blank">medium.com</a>
