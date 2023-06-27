@@ -39,6 +39,7 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false">&ensp;Argentina&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Brazil&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Chile&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Colombia&ensp;&ensp;
 
 ##### Europe
 <input type="checkbox" onclick="return false" checked="checked">&ensp;France&ensp;&ensp;
@@ -85,10 +86,8 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;United Arab Emirates&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Vietnam&ensp;&ensp;
 
-<input type="checkbox" onclick="return false">&ensp;China&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
 
 ##### Oceania
 <input type="checkbox" onclick="return false">&ensp;Australia&ensp;&ensp;
