@@ -27,14 +27,13 @@ Google Charts is a JavaScript-based tool that lets people easily create a chart 
 Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.<br>
 <a href="https://datastudio.google.com" target="_blank">datastudio.google.com</a>
 
-#### HyperQuery
-Hyperquery is a collaborative workspace for analytics. You can write SQL queries and consolidate your data context, automatically mapped from your favorite data tools such as Snowflake, Looker, Fivetran, Segment, and dbt. With Hyperquery, you can keep your documentation and business metadata in one place, so you can do your best work in analytics.<br>
-<a href="https://dataframe.ai" target="_blank">dataframe.ai</a>
+#### SankeyMATIC
+Sankey diagrams are used to compare values through different stages.<br>
+<a href="https://sankeymatic.com" target="_blank">sankeymatic.com</a>
 
 #### VisiData
 VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.<br>
 <a href="https://www.visidata.org" target="_blank">www.visidata.org</a>
-
 
 <hr>
 <h2 class="resources"><a name="api_services"></a>API Services</h2><sub><a href="/resources">&nbsp;[return to top]</a></sub>
@@ -155,6 +154,10 @@ Programming and computer science are becoming more popular than ever. As a resul
 #### LeetCode
 Level up your coding skills and quickly land a job. This is a good place to expand your knowledge and get prepared for your next interview.<br>
 <a href="https://leetcode.com" target="_blank">leetcode.com</a>
+
+#### Lonely Octopus
+Learn by doing - tackle the challenge of finding realistic projects by going a step further using AI.<br>
+<a href="https://www.lonelyoctopus.com" target="_blank">www.lonelyoctopus.com</a>
 
 #### Mastering SQL Queries
 Practice easy, medium, and hard SQL interview questions.<br>
