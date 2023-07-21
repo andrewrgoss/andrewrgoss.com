@@ -20,7 +20,7 @@ Data engineering manager building performant pipelines and data models that powe
 
 <sub>Data Engineering --- Cloud Computing --- ELT Development --- Business Analytics --- Data Warehousing</sub><br>
 
-<b>Other specialties:</b> Database architecture, data modeling, big data infrastructure, data streaming, RESTful APIs, process automation, business intelligence, query optimization, vendor management, cross-functional team collaboration, scrum methodology, requirements gathering, technical documentation
+<b>Other specialties:</b> Leadership, database architecture, data lakes, cloud computing, database design, query optimization, data modeling, data visualization, ELT scripting, consumption APIs, process automation, business intelligence, team building, cross-functional team collaboration, scrum methodology, technical documentation
 
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
