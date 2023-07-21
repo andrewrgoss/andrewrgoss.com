@@ -59,7 +59,7 @@ Data engineering manager building performant pipelines and data models that powe
 <a href="https://www.elsevier.com" target="_blank"><img src="/img/elsevier_logo.png"></a><br>
 **<a href="https://www.elsevier.com" target="_blank">Elsevier</a>** | Dec 2022 - present<br>
 Manager, Data Engineering & Analytics
-<p><sub>Hard work, innovation, and commitment to customer success by our team at Interfolio led to our acquisition by Elsevier. Together, we're excited to expand the products, services, and efficiencies we offer to our customers. Telling stories through data is a key facet of our value proposition. I'm managing a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</sub></p>
+<p><sub>Interfolio was acquired by Elsevier. Managing a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. Employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</sub></p>
 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - Dec 2022<br>
