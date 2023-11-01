@@ -27,6 +27,4 @@ The conference spanned across several days and the recorded sessions are availab
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/NzPgSSjuwhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/qOmFYTOXfuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aclzey29vs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -24,11 +24,11 @@ All this said, it also requires an understanding of all these tasks. This makes 
 
 For a good intro to SSIS, check out this video by WiseOwls. This is a great place to learn about all tricky to get to properties and possible features you might want to use. Here is a great video on performing basic tasks.
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/tHbjhSEiyOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/tHbjhSEiyOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Informatica provides a lot more features similar to SSIS but is usually much better at handling large data and different types of database systems. Here is a great intro to the tool.
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/yw8uJdUc42o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/yw8uJdUc42o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Airflow
 
@@ -46,7 +46,7 @@ Airflow can be a little less accessible for non-Linux/programmer types. So this 
 
 Here is a great start to your Airflow journey. This series covers what Airflow is and takes you through the steps needed for developing your first pipeline
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/AHMm1wfGuHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/AHMm1wfGuHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Those were a few examples of ETL tools. There are plenty more, usually split between GUI and purely code-based. But this is a great start.
 
@@ -67,19 +67,19 @@ Here are some great resources for you to learn more about it.
 
 A star schema is one of the simplest data models you can create as a data engineer. In the center is what we call a fact table. This table represents the actual transactions that occurred. This might be purchases of products or visits to a hospital. Each transaction has a bunch of id columns that map to the dimension tables. Dimension tables contain information that helps describe what entities were involved in the transaction. Where did this event happen, what did the person buy, etc. For a more in-depth look, please check out the video below!
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/Qq4yhhAk9fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/Qq4yhhAk9fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slowly Changing Dimensions
 
 Transactions are constantly occurring. Dimensions, for the most part, stay the same. But, there are cases where the store manager might change or maybe a person changes job roles. These might be considered slowly changing dimensions. We manage this through several methods described in the video below.
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/1FZ7et0pN4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/1FZ7et0pN4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Data Denormalization
 
 Data denormalization is attached to data modeling. We wanted to have a separate video that talked about it just to make sure the concept was clear. In fact, if you are going for an interview, a question might be asked along the lines of why do we normalize vs denormalize.
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/AiZWeSUjylU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/AiZWeSUjylU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## System Designs
 Next, let’s talk about automation and system design. Data engineers are not exactly software engineers. We don’t develop services and apps. We do however need to automate much of our work and often that all fit in a much larger system.
@@ -92,11 +92,11 @@ This is why we think it can be helpful just to look at some system design interv
 
 For instance, this YouTube video does a great job of laying out the requirements and features for the task and then digging into how he would solve each problem.
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/zKPNUMkwOJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/zKPNUMkwOJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Another great video relates to architecture design at Uber engineering:
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/Dg76cNaeB4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/Dg76cNaeB4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://eng.uber.com" target=_>Uber Engineering Blog</a>
 
@@ -109,18 +109,18 @@ Similar to SSIS, WiseOwl makes great videos that could benefit you. They have a 
 
 #### SQL Queries
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/2-1XQHAgDsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/2-1XQHAgDsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### SQL Procedures And Programming
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/fjNsRV4zLdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/fjNsRV4zLdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tableau or other Data Viz tool
 Data visualization isn’t part of every data engineer's regular day-to-day. It is not uncommon that a data engineer will have to develop reports and dashboards. There are lots of off the shelf tools that are very easy to use. Tableau, SSRS, D3.js etc. Except for D3.js, these are all mostly drag and drop tools.
 
 #### Tableau has a great set of resources
 
-<iframe width="793" height="403" src="https://www.youtube.com/embed/d22A4XVoUEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="743" height="353" src="https://www.youtube.com/embed/d22A4XVoUEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## For Fun
 Any engineer spends most of their day in meetings and staring at computers. So along with all these great resources for learning. We wanted to provide some of our favorite resources for laughs as engineers. All of these comics, videos, and websites involve technology and are great for poking fun at our profession.
