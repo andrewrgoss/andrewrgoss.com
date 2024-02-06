@@ -9,7 +9,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-Data engineering manager building performant pipelines and data models that power analytic platforms for smarter decision-making. As a data engineer I've worked to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while building carefully planned, secure data ecosystems.
+DataOps leader building performant pipelines and data models that power analytic platforms for smarter decision-making. As a data engineer I've worked to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while building carefully planned, secure data ecosystems.
 
 <hr>
 ### <a name="core_competencies"></a>Core Competencies
@@ -59,12 +59,12 @@ Data engineering manager building performant pipelines and data models that powe
 ### <a name="work_experience"></a>Work Experience
 <a href="https://www.elsevier.com" target="_blank"><img src="/img/elsevier_logo.png"></a><br>
 **<a href="https://www.elsevier.com" target="_blank">Elsevier</a>** | Dec 2022 - present<br>
-Manager, Data Engineering & Analytics
+Engineering Manager, DataOps
 <p><sub>Interfolio joined Elsevier in June 2022. Leading a centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. Employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</sub></p>
 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - Dec 2022<br>
-Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead >> Manager, Data Engineering & Analytics
+Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead >> Engineering Manager, DataOps
 
 <p><sub>Built a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.</sub></p>
 
