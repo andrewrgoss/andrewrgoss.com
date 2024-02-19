@@ -1,6 +1,6 @@
 baseurl = "https://andrewrgoss.com/"
 languageCode = "en-us"
-title = "Andrew Goss · DataOps Leader"
+title = "Andrew Goss · Data and Analytics Leader"
 paginate = 7
 theme = "crisp"
 pluralizelisttitles = false
@@ -8,7 +8,7 @@ googleAnalytics = "UA-58296426-1"
 disqusShortname = "andrewrgoss"
 
 [params]
-    description = "Andrew Goss is a data engineering leader based in the Boston, MA area. He builds performant data pipelines that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story."
+    description = "Andrew Goss is a data leader based in the Boston, MA, USA area."
     email = "admin@andrewrgoss.com"
     hostname = "https://andrewrgoss.github.io"
 

@@ -9,7 +9,7 @@ aliases = [
 
 <hr>
 ### <a name="summary"></a>Summary
-DataOps leader building performant pipelines and data models that power analytic platforms for smarter decision-making. As a data engineer I've worked to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while building carefully planned, secure data ecosystems.
+Data and analytics leader helping teams build performant pipelines and data models that power analytic platforms for smarter decision-making. As a data professional I've worked to solve numerous data challenges across a variety of industries using an assortment of best-in-class technologies while building carefully planned, secure data ecosystems.
 
 <hr>
 ### <a name="core_competencies"></a>Core Competencies

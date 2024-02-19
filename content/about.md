@@ -3,11 +3,11 @@ title = "About"
 description = "Andrew Goss Background"
 +++
 
-> <b>TL;DR</b> -- DataOps leader building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
+> <b>TL;DR</b> -- Data and analytics leader helping teams build scalable data ecosystems that deliver important insights through innovative analytics. Based in the Boston, MA, USA area.
 
 <hr>
 
-I'm currently a DataOps manager at <a href="https://www.elsevier.com" target="_blank">Elsevier</a>.
+I'm currently an engineering manager at <a href="https://www.elsevier.com" target="_blank">Elsevier</a>.
 
 - <a href="https://www.interfolio.com" target=_>Interfolio</a> joined Elsevier in 2022. Jointly, we offer faculty information SaaS products in serving the global higher education market.
 - I lead a centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We're employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.
