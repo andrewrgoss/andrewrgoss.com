@@ -3,7 +3,7 @@ title = "About"
 description = "Andrew Goss Background"
 +++
 
-> <b>TL;DR</b> -- Data and analytics leader helping teams build scalable data ecosystems that deliver important insights through innovative analytics. Based in the Boston, MA, USA area.
+> <b>TL;DR</b> -- Data engineering and analytics leader helping teams build scalable data ecosystems that deliver important insights through innovative analytics. Based in the Boston, MA, USA area.
 
 <hr>
 

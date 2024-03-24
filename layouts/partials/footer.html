@@ -22,11 +22,10 @@
           hljs.initHighlighting();
           {{ if eq .URL "404.html" }}
           $(document).ready(function() {
-            $("#tweeterror").attr("href", "https://twitter.com/intent/tweet?text=%40{{ .Site.Params.twitter }}%20This%20page%20on%20your%20website%20seems%20to%20be%20missing%3A&url=" + encodeURIComponent(window.location.href));
             $("#mailerror").attr("href", "mailto:{{ .Site.Params.email }}?subject=404%20on%20website&body=This%20page%20on%20your%20website%20seems%20to%20be%20missing%3A%20" + encodeURIComponent(window.location.href));
           });
           {{ end }}
-          {{ if (ne .Title "Andrew Goss · DataOps Leader") }}
+          {{ if (ne .Title "Andrew Goss · Data Eng and Analytics Leader") }}
           var isMobile = window.matchMedia("only screen and (max-width: 800px)");
           if(isMobile.matches) {
             $("html, body").animate({scrollTop: $('#content').offset().top }, 500);

@@ -6,8 +6,8 @@
 {{ $titleBase := (print " · " .Site.Title) }}
 {{ if $isHomepage }}
 {{ $.Scratch.Set "title" .Site.Title }}
-{{ else if eq .Title "Andrew Goss · Data and Analytics Leader" }}
-{{ $.Scratch.Set "title" (print "Andrew Goss · Data and Analytics Leader") }}
+{{ else if eq .Title "Andrew Goss · Data Eng and Analytics Leader" }}
+{{ $.Scratch.Set "title" (print "Andrew Goss · Data Eng and Analytics Leader") }}
 {{else}}
 {{ $.Scratch.Set "title" (print .Title $titleBase) }}
 {{end}}
@@ -25,31 +25,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta property="og:title" content="{{ $.Scratch.Get "title" }}" />
-    <meta name="twitter:title" content="{{ $.Scratch.Get "title" }}" />
     <title>{{ $.Scratch.Get "title" }}</title>
 
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta property="og:locale " content="{{.Site.LanguageCode}}" />
 
     <meta property="og:url" content="{{ .Permalink }}" />
-    <meta name="twitter:url" content="{{ .Permalink }}" />
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <meta name="description" content="{{ $.Scratch.Get "description" }}" />
-    <meta name="twitter:description" content="{{ $.Scratch.Get "description" }}" />
     <meta property="og:description" content="{{ $.Scratch.Get "description" }}" />
-
-    <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
-    <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}" />
 
     {{ if and (.IsPage) (ne .Title "About") }}
 
     {{ if and (eq .Section "portfolio") (isset .Params "image" ) }}
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
     <meta property="og:image" content="{{ trim (print .Site.BaseURL) "/" }}{{ .Params.image }}" />
-    {{else}}
-    <meta name="twitter:card" content="summary" />
     {{end}}
 
     <meta property="og:type" content="article" />
@@ -144,7 +134,7 @@
 <header id="header">
     <a id="logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}avatar.jpg" alt="{{ .Site.Title }}" /></a>
     <h1><a href="{{.Site.BaseURL}}">Andrew Goss</a></h1>
-    <span>Data and Analytics Leader</span><br><br>
+    <span>Data Eng and Analytics Leader</span><br><br>
     {{ partial "follow.html" . }}
     {{ partial "navigation.html" . }}
     {{ partial "search.html" . }}
