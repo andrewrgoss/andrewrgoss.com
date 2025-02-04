@@ -11,17 +11,18 @@ The places I've listed out below are grouped by geographical belonging, not cult
 
 In putting together trip itineraries over the years, I've used all kind of travel tools. This <a href="https://www.kiplinger.com/article/spending/T059-C000-S001-23-best-travel-sites-to-save-you-money.html" target="_blank">article</a> nicely groups these together while also summarizing the primary value proposition of each.
 
-The time of year matters when planning travel. This <a href="https://theculturetrip.com/europe/articles/this-map-shows-you-exactly-when-to-travel-to-each-country" target=_>article</a> offers heat maps indicating high, low, and shoulder seasons for every country in the world.  
+The time of year matters when planning travel. This <a href="https://theculturetrip.com/europe/articles/this-map-shows-you-exactly-when-to-travel-to-each-country" target=_>article</a> offers heat maps indicating high, low, and shoulder seasons for every country in the world.
 
 ## World Stats
 
-Countries/Territories Visited: 25<br>
+Countries/Territories Visited: 26/195<br>
 Continents Visited: 5<br>
-Percent of World: ~12.82%
+Percent of World: ~13.33%
 
 <div id="world_div" style="max-width: 95%;"></div>
 
 ##### North America
+
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Bahamas&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Canada&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Cayman Islands&ensp;&ensp;
@@ -32,16 +33,22 @@ Percent of World: ~12.82%
 
 <input type="checkbox" onclick="return false">&ensp;Aruba&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Costa Rica&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Greenland&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Panama&ensp;&ensp;
 
 ##### South America
+
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Peru&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;Argentina&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Brazil&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Chile&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Colombia&ensp;&ensp;
+<input type="checkbox" onclick="return false">&ensp;Ecuador&ensp;&ensp;
 
 ##### Europe
+
+<input type="checkbox" onclick="return false" checked="checked">&ensp;Denmark&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;France&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Holy See (Vatican City)&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Ireland&ensp;&ensp;
@@ -54,7 +61,6 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false">&ensp;Belgium&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Croatia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Czech Republic&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Denmark&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Germany&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Gibraltar&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Greece&ensp;&ensp;
@@ -66,6 +72,7 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false">&ensp;Sweden&ensp;&ensp;
 
 ##### Africa
+
 <input type="checkbox" onclick="return false" checked="checked">&ensp;South Africa&ensp;&ensp;
 
 <input type="checkbox" onclick="return false">&ensp;Botswana&ensp;&ensp;
@@ -73,9 +80,11 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false">&ensp;Morocco&ensp;&ensp;
 
 ##### Antarctica
+
 <input type="checkbox" onclick="return false">&ensp;Antarctica&ensp;&ensp;
 
 ##### Asia
+
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Cambodia&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Hong Kong&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Japan&ensp;&ensp;
@@ -90,6 +99,7 @@ Percent of World: ~12.82%
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 
 ##### Oceania
+
 <input type="checkbox" onclick="return false">&ensp;Australia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;New Zealand&ensp;&ensp;
 
@@ -152,7 +162,8 @@ Percent of US: 72%
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Wyoming&ensp;&ensp;
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
+
+<script type="text/javascript">
       google.charts.load('current', {
         'packages':['geochart'],
         // Note: you will need to get a mapsApiKey for your project.
@@ -161,13 +172,14 @@ Percent of US: 72%
       });
       google.charts.setOnLoadCallback(drawRegionsMap);
 
-      function drawRegionsMap() {
+function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country'],
           ['Bahamas'],
           ['Cambodia'],
           ['Canada'],
           ['Cayman Islands'],
+          ['Denmark'],
           ['France'],
           ['Haiti'],
           ['Holy See'],
@@ -182,23 +194,23 @@ Percent of US: 72%
           ['Monaco'],
           ['Palestine, State of'],
           ['Peru'],
-          ['South Africa'],
+['South Africa'],
           ['Spain'],
           ['Thailand'],
-          ['United Arab Emirates'],                              
+['United Arab Emirates'],
           ['United Kingdom'],
           ['United States'],
           ['Vietnam']
         ]);
 
-        var options = {
-            displayMode: 'regions',
-            defaultColor: '#1abc9c',
-        };
+var options = {
+displayMode: 'regions',
+defaultColor: '#1abc9c',
+};
 
-        var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
+var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
 
-        chart.draw(data, options);
+chart.draw(data, options);
       }
 </script>
 
