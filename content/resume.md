@@ -62,12 +62,12 @@ Data engineering and analytics leader helping teams build performant pipelines a
 ### <a name="work_experience"></a>Work Experience
 <a href="https://www.elsevier.com" target="_blank"><img src="/img/elsevier_logo.png"></a><br>
 **<a href="https://www.elsevier.com" target="_blank">Elsevier</a>** | Dec 2022 - present<br>
-Engineering Manager, DataOps
+Data Engineering Lead
 <p><sub>Interfolio joined Elsevier in June 2022. Leading a centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. Employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</sub></p>
 
 <a href="https://www.interfolio.com" target="_blank"><img src="/img/interfolio_logo.png"></a><br>
 **<a href="https://www.interfolio.com" target="_blank">Interfolio</a>** | Sep 2018 - Dec 2022<br>
-Data Engineer >> Senior Data Engineer >> Staff Data Engineer, Team Lead >> Engineering Manager, DataOps
+Data Engineer >> Senior Data Engineer >> Staff Data Engineer >> Data Engineering Lead
 
 <p><sub>Built a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics. Architecture, performance, documentation, and visualization are all crucial to democratizing data that is easily explorable and tells a bigger story.</sub></p>
 
