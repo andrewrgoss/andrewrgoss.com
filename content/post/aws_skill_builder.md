@@ -1,6 +1,6 @@
 ---
 author: "Andrew Goss"
-date: 2025-10-25
+date: 2025-10-24
 title: AWS Skill Builder Lab - Explore Foundation Models and Prompt Engineering
 tags:
   - artificial intelligence
