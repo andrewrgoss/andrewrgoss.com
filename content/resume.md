@@ -29,6 +29,8 @@ Data engineering and analytics leader helping teams build performant pipelines a
 <hr>
 ### <a name="tools_technologies"></a>Tools & Technologies
 
+- <b>AI TOOLS:</b> <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot&nbsp;<img src="/img/github_copilot.png">&nbsp;<a href="https://claude.ai" target="_blank">Claude&nbsp;<img src="/img/claude.png"></a>&nbsp;&nbsp;<a href="https://chatgpt.com" target="_blank">ChatGPT&nbsp;<img src="/img/chatgpt.png"></a>
+
 - <b>API DEVELOPMENT:</b> <a href="https://graphql.org" target="_blank">GraphQL&nbsp;<img src="/img/graphql.png">&nbsp;&nbsp;<a href="https://www.getpostman.com" target="_blank">Postman&nbsp;<img src="/img/postman.png"></a>
 
 - <b>BIG DATA:</b> <a href="http://hadoop.apache.org" target="_blank">Hadoop&nbsp;<img src="/img/hadoop.png"></a>&nbsp;&nbsp;<a href="https://hive.apache.org" target="_blank">Hive&nbsp;<img src="/img/hive.png"></a>&nbsp;&nbsp;<a href="http://gethue.com" target="_blank">Hue&nbsp;<img src="/img/hue.png"></a>&nbsp;&nbsp;<a href="https://spark.apache.org" target="_blank">Spark&nbsp;<img src="/img/spark.png"></a>
@@ -39,7 +41,7 @@ Data engineering and analytics leader helping teams build performant pipelines a
 
 - <b>DATA VISUALIZATION:</b> <a href="https://superset.apache.org" target="_blank">Apache Superset&nbsp;<img src="/img/apache_superset.png">&nbsp;&nbsp;<a href="https://www.sisense.com" target="_blank">Sisense&nbsp;<img src="/img/sisense.png">&nbsp;&nbsp;<a href="https://msdn.microsoft.com/en-us/library/ms159106.aspx" target="_blank">SSRS&nbsp;<img src="/img/mssqlserver.png"></a>&nbsp;&nbsp;<a href="http://www.tableau.com" target="_blank">Tableau&nbsp;<img src="/img/tableau.png"></a>
 
-- <b>DATA WAREHOUSES:</b> <a href="https://cloud.google.com/solutions/bigquery-data-warehouse" target="_blank">BigQuery&nbsp;<img src="/img/bigquery.png"></a>&nbsp;&nbsp;<a href="https://www.snowflake.com" target="_blank">Snowflake&nbsp;<img src="/img/snowflake.png"></a>
+- <b>DATA WAREHOUSES:</b> <a href="https://cloud.google.com/solutions/bigquery-data-warehouse" target="_blank">BigQuery&nbsp;<img src="/img/bigquery.png"></a>&nbsp;&nbsp;<a href="https://www.databricks.com" target="_blank">Databricks&nbsp;<img src="/img/databricks.png"></a>&nbsp;&nbsp;<a href="https://www.snowflake.com" target="_blank">Snowflake&nbsp;<img src="/img/snowflake.png"></a>
 
 - <b>DOCUMENTATION:</b> <a href="https://confluence.atlassian.com" target="_blank">Confluence&nbsp;<img src="/img/confluence.png"></a>&nbsp;&nbsp;<a href="https://www.lucidchart.com" target="_blank">Lucidchart&nbsp;<img src="/img/lucidchart.png"></a>&nbsp;&nbsp;<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Visio&nbsp;<img src="/img/msvisio.png"></a>
 
