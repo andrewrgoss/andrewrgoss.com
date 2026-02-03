@@ -21,7 +21,7 @@ Data engineering and analytics leader helping teams build performant pipelines a
 
 <sub>Data Engineering --- Cloud Computing --- ELT Development --- Business Analytics --- Data Warehousing</sub><br>
 
-<b>Other specialties:</b> Leadership, database architecture, data lakes, cloud computing, query optimization, data modeling, data visualization, ELT scripting, consumption APIs, process automation, business intelligence, team building, cross-functional team collaboration, scrum methodology, technical documentation
+<b>Other specialties:</b> Leadership, database architecture, data lakes, cloud computing, genAI, query optimization, data modeling, data visualization, ELT scripting, consumption APIs, process automation, business intelligence, team building, cross-functional team collaboration, scrum methodology, technical documentation
 
 <img src="/img/data_pipeline.gif" "Data Pipeline Overview" width="70%"><br>
 <sub><i>Image by <a href="https://bytebytego.com" target=*>ByteByteGo</a></i></sub>
